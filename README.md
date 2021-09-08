@@ -28,5 +28,8 @@ git clone https://github.com/bo-yakitarako/minecraft-server-1.12.2.git
 
 - あとはサーバー入って終わり！閉廷！
 
+## MODやconfigを変えたら
+**絶対pushしてくれよな！**
+
 ## MODやconfigが変わったら
 このリポジトリのフォルダ開いて`git pull`すればすぐ適用できるな！

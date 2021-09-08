@@ -2,6 +2,7 @@
 !.gitignore
 !/config
 !/config/*
+/config/splash.properties
 !/mods
 !/mods/*
 !README.md

@@ -1,5 +1,0 @@
-UniqueId, UnlocalizedName, LocalizedName(if exist)
--1, the_nether, the_nether
-0, overworld, overworld
-1, the_end, the_end
-#output time is 0 ms.

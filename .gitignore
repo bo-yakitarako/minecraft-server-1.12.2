@@ -1,0 +1,12 @@
+*
+!.gitignore
+!/config
+!/config/*
+!/mods
+!/mods/*
+!/NameWakander
+!/NameWakander/*
+!README.md
+
+# mac
+*.DS_Store

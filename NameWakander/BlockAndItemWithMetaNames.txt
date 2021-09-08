@@ -1,0 +1,734 @@
+UniqueName, UnlocalizedName, LocalizedName, Metadata
+minecraft:stone, tile.stone.stone.name, Stone, 0
+minecraft:stone, tile.stone.granite.name, Granite, 1
+minecraft:stone, tile.stone.graniteSmooth.name, Polished Granite, 2
+minecraft:stone, tile.stone.diorite.name, Diorite, 3
+minecraft:stone, tile.stone.dioriteSmooth.name, Polished Diorite, 4
+minecraft:stone, tile.stone.andesite.name, Andesite, 5
+minecraft:stone, tile.stone.andesiteSmooth.name, Polished Andesite, 6
+minecraft:grass, tile.grass.name, Grass Block, 0
+minecraft:dirt, tile.dirt.default.name, Dirt, 0
+minecraft:dirt, tile.dirt.coarse.name, Coarse Dirt, 1
+minecraft:dirt, tile.dirt.podzol.name, Podzol, 2
+minecraft:cobblestone, tile.stonebrick.name, Cobblestone, 0
+minecraft:planks, tile.wood.oak.name, Oak Wood Planks, 0
+minecraft:planks, tile.wood.spruce.name, Spruce Wood Planks, 1
+minecraft:planks, tile.wood.birch.name, Birch Wood Planks, 2
+minecraft:planks, tile.wood.jungle.name, Jungle Wood Planks, 3
+minecraft:planks, tile.wood.acacia.name, Acacia Wood Planks, 4
+minecraft:planks, tile.wood.big_oak.name, Dark Oak Wood Planks, 5
+minecraft:sapling, tile.sapling.oak.name, Oak Sapling, 0
+minecraft:sapling, tile.sapling.spruce.name, Spruce Sapling, 1
+minecraft:sapling, tile.sapling.birch.name, Birch Sapling, 2
+minecraft:sapling, tile.sapling.jungle.name, Jungle Sapling, 3
+minecraft:sapling, tile.sapling.acacia.name, Acacia Sapling, 4
+minecraft:sapling, tile.sapling.big_oak.name, Dark Oak Sapling, 5
+minecraft:bedrock, tile.bedrock.name, Bedrock, 0
+minecraft:sand, tile.sand.default.name, Sand, 0
+minecraft:sand, tile.sand.red.name, Red Sand, 1
+minecraft:gravel, tile.gravel.name, Gravel, 0
+minecraft:gold_ore, tile.oreGold.name, Gold Ore, 0
+minecraft:iron_ore, tile.oreIron.name, Iron Ore, 0
+minecraft:coal_ore, tile.oreCoal.name, Coal Ore, 0
+minecraft:log, tile.log.oak.name, Oak Wood, 0
+minecraft:log, tile.log.spruce.name, Spruce Wood, 1
+minecraft:log, tile.log.birch.name, Birch Wood, 2
+minecraft:log, tile.log.jungle.name, Jungle Wood, 3
+minecraft:leaves, tile.leaves.oak.name, Oak Leaves, 0
+minecraft:leaves, tile.leaves.spruce.name, Spruce Leaves, 1
+minecraft:leaves, tile.leaves.birch.name, Birch Leaves, 2
+minecraft:leaves, tile.leaves.jungle.name, Jungle Leaves, 3
+minecraft:sponge, tile.sponge.dry.name, Sponge, 0
+minecraft:sponge, tile.sponge.wet.name, Wet Sponge, 1
+minecraft:glass, tile.glass.name, Glass, 0
+minecraft:lapis_ore, tile.oreLapis.name, Lapis Lazuli Ore, 0
+minecraft:lapis_block, tile.blockLapis.name, Lapis Lazuli Block, 0
+minecraft:dispenser, tile.dispenser.name, Dispenser, 0
+minecraft:sandstone, tile.sandStone.default.name, Sandstone, 0
+minecraft:sandstone, tile.sandStone.chiseled.name, Chiseled Sandstone, 1
+minecraft:sandstone, tile.sandStone.smooth.name, Smooth Sandstone, 2
+minecraft:noteblock, tile.musicBlock.name, Note Block, 0
+minecraft:golden_rail, tile.goldenRail.name, Powered Rail, 0
+minecraft:detector_rail, tile.detectorRail.name, Detector Rail, 0
+minecraft:sticky_piston, tile.pistonStickyBase.name, Sticky Piston, 0
+minecraft:web, tile.web.name, Cobweb, 0
+minecraft:tallgrass, tile.tallgrass.grass.name, Grass, 1
+minecraft:tallgrass, tile.tallgrass.fern.name, Fern, 2
+minecraft:deadbush, tile.deadbush.name, Dead Bush, 0
+minecraft:piston, tile.pistonBase.name, Piston, 0
+minecraft:wool, tile.cloth.white.name, White Wool, 0
+minecraft:wool, tile.cloth.orange.name, Orange Wool, 1
+minecraft:wool, tile.cloth.magenta.name, Magenta Wool, 2
+minecraft:wool, tile.cloth.lightBlue.name, Light Blue Wool, 3
+minecraft:wool, tile.cloth.yellow.name, Yellow Wool, 4
+minecraft:wool, tile.cloth.lime.name, Lime Wool, 5
+minecraft:wool, tile.cloth.pink.name, Pink Wool, 6
+minecraft:wool, tile.cloth.gray.name, Gray Wool, 7
+minecraft:wool, tile.cloth.silver.name, Light Gray Wool, 8
+minecraft:wool, tile.cloth.cyan.name, Cyan Wool, 9
+minecraft:wool, tile.cloth.purple.name, Purple Wool, 10
+minecraft:wool, tile.cloth.blue.name, Blue Wool, 11
+minecraft:wool, tile.cloth.brown.name, Brown Wool, 12
+minecraft:wool, tile.cloth.green.name, Green Wool, 13
+minecraft:wool, tile.cloth.red.name, Red Wool, 14
+minecraft:wool, tile.cloth.black.name, Black Wool, 15
+minecraft:yellow_flower, tile.flower1.dandelion.name, Dandelion, 0
+minecraft:red_flower, tile.flower2.poppy.name, Poppy, 0
+minecraft:red_flower, tile.flower2.blueOrchid.name, Blue Orchid, 1
+minecraft:red_flower, tile.flower2.allium.name, Allium, 2
+minecraft:red_flower, tile.flower2.houstonia.name, Azure Bluet, 3
+minecraft:red_flower, tile.flower2.tulipRed.name, Red Tulip, 4
+minecraft:red_flower, tile.flower2.tulipOrange.name, Orange Tulip, 5
+minecraft:red_flower, tile.flower2.tulipWhite.name, White Tulip, 6
+minecraft:red_flower, tile.flower2.tulipPink.name, Pink Tulip, 7
+minecraft:red_flower, tile.flower2.oxeyeDaisy.name, Oxeye Daisy, 8
+minecraft:brown_mushroom, tile.mushroom.name, Mushroom, 0
+minecraft:red_mushroom, tile.mushroom.name, Mushroom, 0
+minecraft:gold_block, tile.blockGold.name, Block of Gold, 0
+minecraft:iron_block, tile.blockIron.name, Block of Iron, 0
+minecraft:stone_slab, tile.stoneSlab.stone.name, Stone Slab, 0
+minecraft:stone_slab, tile.stoneSlab.sand.name, Sandstone Slab, 1
+minecraft:stone_slab, tile.stoneSlab.cobble.name, Cobblestone Slab, 3
+minecraft:stone_slab, tile.stoneSlab.brick.name, Bricks Slab, 4
+minecraft:stone_slab, tile.stoneSlab.smoothStoneBrick.name, Stone Bricks Slab, 5
+minecraft:stone_slab, tile.stoneSlab.netherBrick.name, Nether Brick Slab, 6
+minecraft:stone_slab, tile.stoneSlab.quartz.name, Quartz Slab, 7
+minecraft:brick_block, tile.brick.name, Bricks, 0
+minecraft:tnt, tile.tnt.name, TNT, 0
+minecraft:bookshelf, tile.bookshelf.name, Bookshelf, 0
+minecraft:mossy_cobblestone, tile.stoneMoss.name, Moss Stone, 0
+minecraft:obsidian, tile.obsidian.name, Obsidian, 0
+minecraft:torch, tile.torch.name, Torch, 0
+minecraft:oak_stairs, tile.stairsWood.name, Oak Wood Stairs, 0
+minecraft:chest, tile.chest.name, Chest, 0
+minecraft:diamond_ore, tile.oreDiamond.name, Diamond Ore, 0
+minecraft:diamond_block, tile.blockDiamond.name, Block of Diamond, 0
+minecraft:crafting_table, tile.workbench.name, Crafting Table, 0
+minecraft:furnace, tile.furnace.name, Furnace, 0
+minecraft:ladder, tile.ladder.name, Ladder, 0
+minecraft:rail, tile.rail.name, Rail, 0
+minecraft:stone_stairs, tile.stairsStone.name, Cobblestone Stairs, 0
+minecraft:lever, tile.lever.name, Lever, 0
+minecraft:stone_pressure_plate, tile.pressurePlateStone.name, Stone Pressure Plate, 0
+minecraft:wooden_pressure_plate, tile.pressurePlateWood.name, Wooden Pressure Plate, 0
+minecraft:redstone_ore, tile.oreRedstone.name, Redstone Ore, 0
+minecraft:redstone_torch, tile.notGate.name, Redstone Torch, 0
+minecraft:stone_button, tile.button.name, Button, 0
+minecraft:snow_layer, tile.snow.name, Snow, 0
+minecraft:ice, tile.ice.name, Ice, 0
+minecraft:snow, tile.snow.name, Snow, 0
+minecraft:cactus, tile.cactus.name, Cactus, 0
+minecraft:clay, tile.clay.name, Clay, 0
+minecraft:jukebox, tile.jukebox.name, Jukebox, 0
+minecraft:fence, tile.fence.name, Oak Fence, 0
+minecraft:pumpkin, tile.pumpkin.name, Pumpkin, 0
+minecraft:netherrack, tile.hellrock.name, Netherrack, 0
+minecraft:soul_sand, tile.hellsand.name, Soul Sand, 0
+minecraft:glowstone, tile.lightgem.name, Glowstone, 0
+minecraft:lit_pumpkin, tile.litpumpkin.name, Jack o'Lantern, 0
+minecraft:stained_glass, tile.stainedGlass.white.name, White Stained Glass, 0
+minecraft:stained_glass, tile.stainedGlass.orange.name, Orange Stained Glass, 1
+minecraft:stained_glass, tile.stainedGlass.magenta.name, Magenta Stained Glass, 2
+minecraft:stained_glass, tile.stainedGlass.lightBlue.name, Light Blue Stained Glass, 3
+minecraft:stained_glass, tile.stainedGlass.yellow.name, Yellow Stained Glass, 4
+minecraft:stained_glass, tile.stainedGlass.lime.name, Lime Stained Glass, 5
+minecraft:stained_glass, tile.stainedGlass.pink.name, Pink Stained Glass, 6
+minecraft:stained_glass, tile.stainedGlass.gray.name, Gray Stained Glass, 7
+minecraft:stained_glass, tile.stainedGlass.silver.name, Light Gray Stained Glass, 8
+minecraft:stained_glass, tile.stainedGlass.cyan.name, Cyan Stained Glass, 9
+minecraft:stained_glass, tile.stainedGlass.purple.name, Purple Stained Glass, 10
+minecraft:stained_glass, tile.stainedGlass.blue.name, Blue Stained Glass, 11
+minecraft:stained_glass, tile.stainedGlass.brown.name, Brown Stained Glass, 12
+minecraft:stained_glass, tile.stainedGlass.green.name, Green Stained Glass, 13
+minecraft:stained_glass, tile.stainedGlass.red.name, Red Stained Glass, 14
+minecraft:stained_glass, tile.stainedGlass.black.name, Black Stained Glass, 15
+minecraft:trapdoor, tile.trapdoor.name, Wooden Trapdoor, 0
+minecraft:monster_egg, tile.monsterStoneEgg.stone.name, Stone Monster Egg, 0
+minecraft:monster_egg, tile.monsterStoneEgg.cobble.name, Cobblestone Monster Egg, 1
+minecraft:monster_egg, tile.monsterStoneEgg.brick.name, Stone Brick Monster Egg, 2
+minecraft:monster_egg, tile.monsterStoneEgg.mossybrick.name, Mossy Stone Brick Monster Egg, 3
+minecraft:monster_egg, tile.monsterStoneEgg.crackedbrick.name, Cracked Stone Brick Monster Egg, 4
+minecraft:monster_egg, tile.monsterStoneEgg.chiseledbrick.name, Chiseled Stone Brick Monster Egg, 5
+minecraft:stonebrick, tile.stonebricksmooth.default.name, Stone Bricks, 0
+minecraft:stonebrick, tile.stonebricksmooth.mossy.name, Mossy Stone Bricks, 1
+minecraft:stonebrick, tile.stonebricksmooth.cracked.name, Cracked Stone Bricks, 2
+minecraft:stonebrick, tile.stonebricksmooth.chiseled.name, Chiseled Stone Bricks, 3
+minecraft:iron_bars, tile.fenceIron.name, Iron Bars, 0
+minecraft:glass_pane, tile.thinGlass.name, Glass Pane, 0
+minecraft:melon_block, tile.melon.name, Melon, 0
+minecraft:vine, tile.vine.name, Vines, 0
+minecraft:fence_gate, tile.fenceGate.name, Oak Fence Gate, 0
+minecraft:brick_stairs, tile.stairsBrick.name, Brick Stairs, 0
+minecraft:stone_brick_stairs, tile.stairsStoneBrickSmooth.name, Stone Brick Stairs, 0
+minecraft:mycelium, tile.mycel.name, Mycelium, 0
+minecraft:waterlily, tile.waterlily.name, Lily Pad, 0
+minecraft:nether_brick, tile.netherBrick.name, Nether Brick, 0
+minecraft:nether_brick_fence, tile.netherFence.name, Nether Brick Fence, 0
+minecraft:nether_brick_stairs, tile.stairsNetherBrick.name, Nether Brick Stairs, 0
+minecraft:enchanting_table, tile.enchantmentTable.name, Enchantment Table, 0
+minecraft:end_portal_frame, tile.endPortalFrame.name, End Portal, 0
+minecraft:end_stone, tile.whiteStone.name, End Stone, 0
+minecraft:redstone_lamp, tile.redstoneLight.name, Redstone Lamp, 0
+minecraft:wooden_slab, tile.woodSlab.oak.name, Oak Wood Slab, 0
+minecraft:wooden_slab, tile.woodSlab.spruce.name, Spruce Wood Slab, 1
+minecraft:wooden_slab, tile.woodSlab.birch.name, Birch Wood Slab, 2
+minecraft:wooden_slab, tile.woodSlab.jungle.name, Jungle Wood Slab, 3
+minecraft:wooden_slab, tile.woodSlab.acacia.name, Acacia Wood Slab, 4
+minecraft:wooden_slab, tile.woodSlab.big_oak.name, Dark Oak Wood Slab, 5
+minecraft:sandstone_stairs, tile.stairsSandStone.name, Sandstone Stairs, 0
+minecraft:emerald_ore, tile.oreEmerald.name, Emerald Ore, 0
+minecraft:ender_chest, tile.enderChest.name, Ender Chest, 0
+minecraft:tripwire_hook, tile.tripWireSource.name, Tripwire Hook, 0
+minecraft:emerald_block, tile.blockEmerald.name, Block of Emerald, 0
+minecraft:spruce_stairs, tile.stairsWoodSpruce.name, Spruce Wood Stairs, 0
+minecraft:birch_stairs, tile.stairsWoodBirch.name, Birch Wood Stairs, 0
+minecraft:jungle_stairs, tile.stairsWoodJungle.name, Jungle Wood Stairs, 0
+minecraft:beacon, tile.beacon.name, Beacon, 0
+minecraft:cobblestone_wall, tile.cobbleWall.normal.name, Cobblestone Wall, 0
+minecraft:cobblestone_wall, tile.cobbleWall.mossy.name, Mossy Cobblestone Wall, 1
+minecraft:wooden_button, tile.button.name, Button, 0
+minecraft:anvil, tile.anvil.intact.name, Anvil, 0
+minecraft:anvil, tile.anvil.slightlyDamaged.name, Slightly Damaged Anvil, 1
+minecraft:anvil, tile.anvil.veryDamaged.name, Very Damaged Anvil, 2
+minecraft:trapped_chest, tile.chestTrap.name, Trapped Chest, 0
+minecraft:light_weighted_pressure_plate, tile.weightedPlate_light.name, Weighted Pressure Plate (Light), 0
+minecraft:heavy_weighted_pressure_plate, tile.weightedPlate_heavy.name, Weighted Pressure Plate (Heavy), 0
+minecraft:daylight_detector, tile.daylightDetector.name, Daylight Sensor, 0
+minecraft:redstone_block, tile.blockRedstone.name, Block of Redstone, 0
+minecraft:quartz_ore, tile.netherquartz.name, Nether Quartz Ore, 0
+minecraft:hopper, tile.hopper.name, Hopper, 0
+minecraft:quartz_block, tile.quartzBlock.default.name, Block of Quartz, 0
+minecraft:quartz_block, tile.quartzBlock.chiseled.name, Chiseled Quartz Block, 1
+minecraft:quartz_block, tile.quartzBlock.lines.name, Pillar Quartz Block, 2
+minecraft:quartz_stairs, tile.stairsQuartz.name, Quartz Stairs, 0
+minecraft:activator_rail, tile.activatorRail.name, Activator Rail, 0
+minecraft:dropper, tile.dropper.name, Dropper, 0
+minecraft:stained_hardened_clay, tile.clayHardenedStained.white.name, White Terracotta, 0
+minecraft:stained_hardened_clay, tile.clayHardenedStained.orange.name, Orange Terracotta, 1
+minecraft:stained_hardened_clay, tile.clayHardenedStained.magenta.name, Magenta Terracotta, 2
+minecraft:stained_hardened_clay, tile.clayHardenedStained.lightBlue.name, Light Blue Terracotta, 3
+minecraft:stained_hardened_clay, tile.clayHardenedStained.yellow.name, Yellow Terracotta, 4
+minecraft:stained_hardened_clay, tile.clayHardenedStained.lime.name, Lime Terracotta, 5
+minecraft:stained_hardened_clay, tile.clayHardenedStained.pink.name, Pink Terracotta, 6
+minecraft:stained_hardened_clay, tile.clayHardenedStained.gray.name, Gray Terracotta, 7
+minecraft:stained_hardened_clay, tile.clayHardenedStained.silver.name, Light Gray Terracotta, 8
+minecraft:stained_hardened_clay, tile.clayHardenedStained.cyan.name, Cyan Terracotta, 9
+minecraft:stained_hardened_clay, tile.clayHardenedStained.purple.name, Purple Terracotta, 10
+minecraft:stained_hardened_clay, tile.clayHardenedStained.blue.name, Blue Terracotta, 11
+minecraft:stained_hardened_clay, tile.clayHardenedStained.brown.name, Brown Terracotta, 12
+minecraft:stained_hardened_clay, tile.clayHardenedStained.green.name, Green Terracotta, 13
+minecraft:stained_hardened_clay, tile.clayHardenedStained.red.name, Red Terracotta, 14
+minecraft:stained_hardened_clay, tile.clayHardenedStained.black.name, Black Terracotta, 15
+minecraft:stained_glass_pane, tile.thinStainedGlass.white.name, White Stained Glass Pane, 0
+minecraft:stained_glass_pane, tile.thinStainedGlass.orange.name, Orange Stained Glass Pane, 1
+minecraft:stained_glass_pane, tile.thinStainedGlass.magenta.name, Magenta Stained Glass Pane, 2
+minecraft:stained_glass_pane, tile.thinStainedGlass.lightBlue.name, Light Blue Stained Glass Pane, 3
+minecraft:stained_glass_pane, tile.thinStainedGlass.yellow.name, Yellow Stained Glass Pane, 4
+minecraft:stained_glass_pane, tile.thinStainedGlass.lime.name, Lime Stained Glass Pane, 5
+minecraft:stained_glass_pane, tile.thinStainedGlass.pink.name, Pink Stained Glass Pane, 6
+minecraft:stained_glass_pane, tile.thinStainedGlass.gray.name, Gray Stained Glass Pane, 7
+minecraft:stained_glass_pane, tile.thinStainedGlass.silver.name, Light Gray Stained Glass Pane, 8
+minecraft:stained_glass_pane, tile.thinStainedGlass.cyan.name, Cyan Stained Glass Pane, 9
+minecraft:stained_glass_pane, tile.thinStainedGlass.purple.name, Purple Stained Glass Pane, 10
+minecraft:stained_glass_pane, tile.thinStainedGlass.blue.name, Blue Stained Glass Pane, 11
+minecraft:stained_glass_pane, tile.thinStainedGlass.brown.name, Brown Stained Glass Pane, 12
+minecraft:stained_glass_pane, tile.thinStainedGlass.green.name, Green Stained Glass Pane, 13
+minecraft:stained_glass_pane, tile.thinStainedGlass.red.name, Red Stained Glass Pane, 14
+minecraft:stained_glass_pane, tile.thinStainedGlass.black.name, Black Stained Glass Pane, 15
+minecraft:leaves2, tile.leaves.acacia.name, Acacia Leaves, 0
+minecraft:leaves2, tile.leaves.big_oak.name, Dark Oak Leaves, 1
+minecraft:log2, tile.log.acacia.name, Acacia Wood, 0
+minecraft:log2, tile.log.big_oak.name, Dark Oak Wood, 1
+minecraft:acacia_stairs, tile.stairsWoodAcacia.name, Acacia Wood Stairs, 0
+minecraft:dark_oak_stairs, tile.stairsWoodDarkOak.name, Dark Oak Wood Stairs, 0
+minecraft:slime, tile.slime.name, Slime Block, 0
+minecraft:iron_trapdoor, tile.ironTrapdoor.name, Iron Trapdoor, 0
+minecraft:prismarine, tile.prismarine.rough.name, Prismarine, 0
+minecraft:prismarine, tile.prismarine.bricks.name, Prismarine Bricks, 1
+minecraft:prismarine, tile.prismarine.dark.name, Dark Prismarine, 2
+minecraft:sea_lantern, tile.seaLantern.name, Sea Lantern, 0
+minecraft:hay_block, tile.hayBlock.name, Hay Bale, 0
+minecraft:carpet, tile.woolCarpet.white.name, White Carpet, 0
+minecraft:carpet, tile.woolCarpet.orange.name, Orange Carpet, 1
+minecraft:carpet, tile.woolCarpet.magenta.name, Magenta Carpet, 2
+minecraft:carpet, tile.woolCarpet.lightBlue.name, Light Blue Carpet, 3
+minecraft:carpet, tile.woolCarpet.yellow.name, Yellow Carpet, 4
+minecraft:carpet, tile.woolCarpet.lime.name, Lime Carpet, 5
+minecraft:carpet, tile.woolCarpet.pink.name, Pink Carpet, 6
+minecraft:carpet, tile.woolCarpet.gray.name, Gray Carpet, 7
+minecraft:carpet, tile.woolCarpet.silver.name, Light Gray Carpet, 8
+minecraft:carpet, tile.woolCarpet.cyan.name, Cyan Carpet, 9
+minecraft:carpet, tile.woolCarpet.purple.name, Purple Carpet, 10
+minecraft:carpet, tile.woolCarpet.blue.name, Blue Carpet, 11
+minecraft:carpet, tile.woolCarpet.brown.name, Brown Carpet, 12
+minecraft:carpet, tile.woolCarpet.green.name, Green Carpet, 13
+minecraft:carpet, tile.woolCarpet.red.name, Red Carpet, 14
+minecraft:carpet, tile.woolCarpet.black.name, Black Carpet, 15
+minecraft:hardened_clay, tile.clayHardened.name, Terracotta, 0
+minecraft:coal_block, tile.blockCoal.name, Block of Coal, 0
+minecraft:packed_ice, tile.icePacked.name, Packed Ice, 0
+minecraft:double_plant, tile.doublePlant.sunflower.name, Sunflower, 0
+minecraft:double_plant, tile.doublePlant.syringa.name, Lilac, 1
+minecraft:double_plant, tile.doublePlant.grass.name, Double Tallgrass, 2
+minecraft:double_plant, tile.doublePlant.fern.name, Large Fern, 3
+minecraft:double_plant, tile.doublePlant.rose.name, Rose Bush, 4
+minecraft:double_plant, tile.doublePlant.paeonia.name, Peony, 5
+minecraft:red_sandstone, tile.redSandStone.default.name, Red Sandstone, 0
+minecraft:red_sandstone, tile.redSandStone.chiseled.name, Chiseled Red Sandstone, 1
+minecraft:red_sandstone, tile.redSandStone.smooth.name, Smooth Red Sandstone, 2
+minecraft:red_sandstone_stairs, tile.stairsRedSandStone.name, Red Sandstone Stairs, 0
+minecraft:stone_slab2, tile.stoneSlab2.red_sandstone.name, Red Sandstone Slab, 0
+minecraft:spruce_fence_gate, tile.spruceFenceGate.name, Spruce Fence Gate, 0
+minecraft:birch_fence_gate, tile.birchFenceGate.name, Birch Fence Gate, 0
+minecraft:jungle_fence_gate, tile.jungleFenceGate.name, Jungle Fence Gate, 0
+minecraft:dark_oak_fence_gate, tile.darkOakFenceGate.name, Dark Oak Fence Gate, 0
+minecraft:acacia_fence_gate, tile.acaciaFenceGate.name, Acacia Fence Gate, 0
+minecraft:spruce_fence, tile.spruceFence.name, Spruce Fence, 0
+minecraft:birch_fence, tile.birchFence.name, Birch Fence, 0
+minecraft:jungle_fence, tile.jungleFence.name, Jungle Fence, 0
+minecraft:dark_oak_fence, tile.darkOakFence.name, Dark Oak Fence, 0
+minecraft:acacia_fence, tile.acaciaFence.name, Acacia Fence, 0
+minecraft:end_rod, tile.endRod.name, End Rod, 0
+minecraft:chorus_plant, tile.chorusPlant.name, Chorus Plant, 0
+minecraft:chorus_flower, tile.chorusFlower.name, Chorus Flower, 0
+minecraft:purpur_block, tile.purpurBlock.name, Purpur Block, 0
+minecraft:purpur_pillar, tile.purpurPillar.name, Purpur Pillar, 0
+minecraft:purpur_stairs, tile.stairsPurpur.name, Purpur Stairs, 0
+minecraft:purpur_slab, tile.purpurSlab.name, Purpur Slab, 0
+minecraft:end_bricks, tile.endBricks.name, End Stone Bricks, 0
+minecraft:magma, tile.magma.name, Magma Block, 0
+minecraft:nether_wart_block, tile.netherWartBlock.name, Nether Wart Block, 0
+minecraft:red_nether_brick, tile.redNetherBrick.name, Red Nether Brick, 0
+minecraft:bone_block, tile.boneBlock.name, Bone Block, 0
+minecraft:observer, tile.observer.name, Observer, 0
+minecraft:white_shulker_box, tile.shulkerBoxWhite.name, White Shulker Box, 0
+minecraft:orange_shulker_box, tile.shulkerBoxOrange.name, Orange Shulker Box, 0
+minecraft:magenta_shulker_box, tile.shulkerBoxMagenta.name, Magenta Shulker Box, 0
+minecraft:light_blue_shulker_box, tile.shulkerBoxLightBlue.name, Light Blue Shulker Box, 0
+minecraft:yellow_shulker_box, tile.shulkerBoxYellow.name, Yellow Shulker Box, 0
+minecraft:lime_shulker_box, tile.shulkerBoxLime.name, Lime Shulker Box, 0
+minecraft:pink_shulker_box, tile.shulkerBoxPink.name, Pink Shulker Box, 0
+minecraft:gray_shulker_box, tile.shulkerBoxGray.name, Gray Shulker Box, 0
+minecraft:silver_shulker_box, tile.shulkerBoxSilver.name, Light Gray Shulker Box, 0
+minecraft:cyan_shulker_box, tile.shulkerBoxCyan.name, Cyan Shulker Box, 0
+minecraft:purple_shulker_box, tile.shulkerBoxPurple.name, Purple Shulker Box, 0
+minecraft:blue_shulker_box, tile.shulkerBoxBlue.name, Blue Shulker Box, 0
+minecraft:brown_shulker_box, tile.shulkerBoxBrown.name, Brown Shulker Box, 0
+minecraft:green_shulker_box, tile.shulkerBoxGreen.name, Green Shulker Box, 0
+minecraft:red_shulker_box, tile.shulkerBoxRed.name, Red Shulker Box, 0
+minecraft:black_shulker_box, tile.shulkerBoxBlack.name, Black Shulker Box, 0
+minecraft:white_glazed_terracotta, tile.glazedTerracottaWhite.name, White Glazed Terracotta, 0
+minecraft:orange_glazed_terracotta, tile.glazedTerracottaOrange.name, Orange Glazed Terracotta, 0
+minecraft:magenta_glazed_terracotta, tile.glazedTerracottaMagenta.name, Magenta Glazed Terracotta, 0
+minecraft:light_blue_glazed_terracotta, tile.glazedTerracottaLightBlue.name, Light Blue Glazed Terracotta, 0
+minecraft:yellow_glazed_terracotta, tile.glazedTerracottaYellow.name, Yellow Glazed Terracotta, 0
+minecraft:lime_glazed_terracotta, tile.glazedTerracottaLime.name, Lime Glazed Terracotta, 0
+minecraft:pink_glazed_terracotta, tile.glazedTerracottaPink.name, Pink Glazed Terracotta, 0
+minecraft:gray_glazed_terracotta, tile.glazedTerracottaGray.name, Gray Glazed Terracotta, 0
+minecraft:silver_glazed_terracotta, tile.glazedTerracottaSilver.name, Light Gray Glazed Terracotta, 0
+minecraft:cyan_glazed_terracotta, tile.glazedTerracottaCyan.name, Cyan Glazed Terracotta, 0
+minecraft:purple_glazed_terracotta, tile.glazedTerracottaPurple.name, Purple Glazed Terracotta, 0
+minecraft:blue_glazed_terracotta, tile.glazedTerracottaBlue.name, Blue Glazed Terracotta, 0
+minecraft:brown_glazed_terracotta, tile.glazedTerracottaBrown.name, Brown Glazed Terracotta, 0
+minecraft:green_glazed_terracotta, tile.glazedTerracottaGreen.name, Green Glazed Terracotta, 0
+minecraft:red_glazed_terracotta, tile.glazedTerracottaRed.name, Red Glazed Terracotta, 0
+minecraft:black_glazed_terracotta, tile.glazedTerracottaBlack.name, Black Glazed Terracotta, 0
+minecraft:concrete, tile.concrete.white.name, White Concrete, 0
+minecraft:concrete, tile.concrete.orange.name, Orange Concrete, 1
+minecraft:concrete, tile.concrete.magenta.name, Magenta Concrete, 2
+minecraft:concrete, tile.concrete.lightBlue.name, Light Blue Concrete, 3
+minecraft:concrete, tile.concrete.yellow.name, Yellow Concrete, 4
+minecraft:concrete, tile.concrete.lime.name, Lime Concrete, 5
+minecraft:concrete, tile.concrete.pink.name, Pink Concrete, 6
+minecraft:concrete, tile.concrete.gray.name, Gray Concrete, 7
+minecraft:concrete, tile.concrete.silver.name, Light Gray Concrete, 8
+minecraft:concrete, tile.concrete.cyan.name, Cyan Concrete, 9
+minecraft:concrete, tile.concrete.purple.name, Purple Concrete, 10
+minecraft:concrete, tile.concrete.blue.name, Blue Concrete, 11
+minecraft:concrete, tile.concrete.brown.name, Brown Concrete, 12
+minecraft:concrete, tile.concrete.green.name, Green Concrete, 13
+minecraft:concrete, tile.concrete.red.name, Red Concrete, 14
+minecraft:concrete, tile.concrete.black.name, Black Concrete, 15
+minecraft:concrete_powder, tile.concretePowder.white.name, White Concrete Powder, 0
+minecraft:concrete_powder, tile.concretePowder.orange.name, Orange Concrete Powder, 1
+minecraft:concrete_powder, tile.concretePowder.magenta.name, Magenta Concrete Powder, 2
+minecraft:concrete_powder, tile.concretePowder.lightBlue.name, Light Blue Concrete Powder, 3
+minecraft:concrete_powder, tile.concretePowder.yellow.name, Yellow Concrete Powder, 4
+minecraft:concrete_powder, tile.concretePowder.lime.name, Lime Concrete Powder, 5
+minecraft:concrete_powder, tile.concretePowder.pink.name, Pink Concrete Powder, 6
+minecraft:concrete_powder, tile.concretePowder.gray.name, Gray Concrete Powder, 7
+minecraft:concrete_powder, tile.concretePowder.silver.name, Light Gray Concrete Powder, 8
+minecraft:concrete_powder, tile.concretePowder.cyan.name, Cyan Concrete Powder, 9
+minecraft:concrete_powder, tile.concretePowder.purple.name, Purple Concrete Powder, 10
+minecraft:concrete_powder, tile.concretePowder.blue.name, Blue Concrete Powder, 11
+minecraft:concrete_powder, tile.concretePowder.brown.name, Brown Concrete Powder, 12
+minecraft:concrete_powder, tile.concretePowder.green.name, Green Concrete Powder, 13
+minecraft:concrete_powder, tile.concretePowder.red.name, Red Concrete Powder, 14
+minecraft:concrete_powder, tile.concretePowder.black.name, Black Concrete Powder, 15
+minecraft:iron_shovel, item.shovelIron.name, Iron Shovel, 0
+minecraft:iron_pickaxe, item.pickaxeIron.name, Iron Pickaxe, 0
+minecraft:iron_axe, item.hatchetIron.name, Iron Axe, 0
+minecraft:flint_and_steel, item.flintAndSteel.name, Flint and Steel, 0
+minecraft:apple, item.apple.name, Apple, 0
+minecraft:bow, item.bow.name, Bow, 0
+minecraft:arrow, item.arrow.name, Arrow, 0
+minecraft:coal, item.coal.name, Coal, 0
+minecraft:coal, item.charcoal.name, Charcoal, 1
+minecraft:diamond, item.diamond.name, Diamond, 0
+minecraft:iron_ingot, item.ingotIron.name, Iron Ingot, 0
+minecraft:gold_ingot, item.ingotGold.name, Gold Ingot, 0
+minecraft:iron_sword, item.swordIron.name, Iron Sword, 0
+minecraft:wooden_sword, item.swordWood.name, Wooden Sword, 0
+minecraft:wooden_shovel, item.shovelWood.name, Wooden Shovel, 0
+minecraft:wooden_pickaxe, item.pickaxeWood.name, Wooden Pickaxe, 0
+minecraft:wooden_axe, item.hatchetWood.name, Wooden Axe, 0
+minecraft:stone_sword, item.swordStone.name, Stone Sword, 0
+minecraft:stone_shovel, item.shovelStone.name, Stone Shovel, 0
+minecraft:stone_pickaxe, item.pickaxeStone.name, Stone Pickaxe, 0
+minecraft:stone_axe, item.hatchetStone.name, Stone Axe, 0
+minecraft:diamond_sword, item.swordDiamond.name, Diamond Sword, 0
+minecraft:diamond_shovel, item.shovelDiamond.name, Diamond Shovel, 0
+minecraft:diamond_pickaxe, item.pickaxeDiamond.name, Diamond Pickaxe, 0
+minecraft:diamond_axe, item.hatchetDiamond.name, Diamond Axe, 0
+minecraft:stick, item.stick.name, Stick, 0
+minecraft:bowl, item.bowl.name, Bowl, 0
+minecraft:mushroom_stew, item.mushroomStew.name, Mushroom Stew, 0
+minecraft:golden_sword, item.swordGold.name, Golden Sword, 0
+minecraft:golden_shovel, item.shovelGold.name, Golden Shovel, 0
+minecraft:golden_pickaxe, item.pickaxeGold.name, Golden Pickaxe, 0
+minecraft:golden_axe, item.hatchetGold.name, Golden Axe, 0
+minecraft:string, item.string.name, String, 0
+minecraft:feather, item.feather.name, Feather, 0
+minecraft:gunpowder, item.sulphur.name, Gunpowder, 0
+minecraft:wooden_hoe, item.hoeWood.name, Wooden Hoe, 0
+minecraft:stone_hoe, item.hoeStone.name, Stone Hoe, 0
+minecraft:iron_hoe, item.hoeIron.name, Iron Hoe, 0
+minecraft:diamond_hoe, item.hoeDiamond.name, Diamond Hoe, 0
+minecraft:golden_hoe, item.hoeGold.name, Golden Hoe, 0
+minecraft:wheat_seeds, item.seeds.name, Seeds, 0
+minecraft:wheat, item.wheat.name, Wheat, 0
+minecraft:bread, item.bread.name, Bread, 0
+minecraft:leather_helmet, item.helmetCloth.name, Leather Cap, 0
+minecraft:leather_chestplate, item.chestplateCloth.name, Leather Tunic, 0
+minecraft:leather_leggings, item.leggingsCloth.name, Leather Pants, 0
+minecraft:leather_boots, item.bootsCloth.name, Leather Boots, 0
+minecraft:chainmail_helmet, item.helmetChain.name, Chain Helmet, 0
+minecraft:chainmail_chestplate, item.chestplateChain.name, Chain Chestplate, 0
+minecraft:chainmail_leggings, item.leggingsChain.name, Chain Leggings, 0
+minecraft:chainmail_boots, item.bootsChain.name, Chain Boots, 0
+minecraft:iron_helmet, item.helmetIron.name, Iron Helmet, 0
+minecraft:iron_chestplate, item.chestplateIron.name, Iron Chestplate, 0
+minecraft:iron_leggings, item.leggingsIron.name, Iron Leggings, 0
+minecraft:iron_boots, item.bootsIron.name, Iron Boots, 0
+minecraft:diamond_helmet, item.helmetDiamond.name, Diamond Helmet, 0
+minecraft:diamond_chestplate, item.chestplateDiamond.name, Diamond Chestplate, 0
+minecraft:diamond_leggings, item.leggingsDiamond.name, Diamond Leggings, 0
+minecraft:diamond_boots, item.bootsDiamond.name, Diamond Boots, 0
+minecraft:golden_helmet, item.helmetGold.name, Golden Helmet, 0
+minecraft:golden_chestplate, item.chestplateGold.name, Golden Chestplate, 0
+minecraft:golden_leggings, item.leggingsGold.name, Golden Leggings, 0
+minecraft:golden_boots, item.bootsGold.name, Golden Boots, 0
+minecraft:flint, item.flint.name, Flint, 0
+minecraft:porkchop, item.porkchopRaw.name, Raw Porkchop, 0
+minecraft:cooked_porkchop, item.porkchopCooked.name, Cooked Porkchop, 0
+minecraft:painting, item.painting.name, Painting, 0
+minecraft:golden_apple, item.appleGold.name, Golden Apple, 1
+minecraft:sign, item.sign.name, Sign, 0
+minecraft:wooden_door, item.doorOak.name, Oak Door, 0
+minecraft:bucket, item.bucket.name, Bucket, 0
+minecraft:water_bucket, item.bucketWater.name, Water Bucket, 0
+minecraft:lava_bucket, item.bucketLava.name, Lava Bucket, 0
+minecraft:minecart, item.minecart.name, Minecart, 0
+minecraft:saddle, item.saddle.name, Saddle, 0
+minecraft:iron_door, item.doorIron.name, Iron Door, 0
+minecraft:redstone, item.redstone.name, Redstone, 0
+minecraft:snowball, item.snowball.name, Snowball, 0
+minecraft:boat, item.boat.oak.name, Oak Boat, 0
+minecraft:leather, item.leather.name, Leather, 0
+minecraft:milk_bucket, item.milk.name, Milk, 0
+minecraft:brick, item.brick.name, Brick, 0
+minecraft:clay_ball, item.clay.name, Clay, 0
+minecraft:reeds, item.reeds.name, Sugar Canes, 0
+minecraft:paper, item.paper.name, Paper, 0
+minecraft:book, item.book.name, Book, 0
+minecraft:slime_ball, item.slimeball.name, Slimeball, 0
+minecraft:chest_minecart, item.minecartChest.name, Minecart with Chest, 0
+minecraft:furnace_minecart, item.minecartFurnace.name, Minecart with Furnace, 0
+minecraft:egg, item.egg.name, Egg, 0
+minecraft:compass, item.compass.name, Compass, 0
+minecraft:fishing_rod, item.fishingRod.name, Fishing Rod, 0
+minecraft:clock, item.clock.name, Clock, 0
+minecraft:glowstone_dust, item.yellowDust.name, Glowstone Dust, 0
+minecraft:fish, item.fish.cod.raw.name, Raw Fish, 0
+minecraft:fish, item.fish.salmon.raw.name, Raw Salmon, 1
+minecraft:fish, item.fish.clownfish.raw.name, Clownfish, 2
+minecraft:fish, item.fish.pufferfish.raw.name, Pufferfish, 3
+minecraft:cooked_fish, item.fish.cod.cooked.name, Cooked Fish, 0
+minecraft:cooked_fish, item.fish.salmon.cooked.name, Cooked Salmon, 1
+minecraft:dye, item.dyePowder.black.name, Ink Sac, 0
+minecraft:dye, item.dyePowder.red.name, Rose Red, 1
+minecraft:dye, item.dyePowder.green.name, Cactus Green, 2
+minecraft:dye, item.dyePowder.brown.name, Cocoa Beans, 3
+minecraft:dye, item.dyePowder.blue.name, Lapis Lazuli, 4
+minecraft:dye, item.dyePowder.purple.name, Purple Dye, 5
+minecraft:dye, item.dyePowder.cyan.name, Cyan Dye, 6
+minecraft:dye, item.dyePowder.silver.name, Light Gray Dye, 7
+minecraft:dye, item.dyePowder.gray.name, Gray Dye, 8
+minecraft:dye, item.dyePowder.pink.name, Pink Dye, 9
+minecraft:dye, item.dyePowder.lime.name, Lime Dye, 10
+minecraft:dye, item.dyePowder.yellow.name, Dandelion Yellow, 11
+minecraft:dye, item.dyePowder.lightBlue.name, Light Blue Dye, 12
+minecraft:dye, item.dyePowder.magenta.name, Magenta Dye, 13
+minecraft:dye, item.dyePowder.orange.name, Orange Dye, 14
+minecraft:dye, item.dyePowder.white.name, Bone Meal, 15
+minecraft:bone, item.bone.name, Bone, 0
+minecraft:sugar, item.sugar.name, Sugar, 0
+minecraft:cake, item.cake.name, Cake, 0
+minecraft:bed, item.bed.white.name, White Bed, 0
+minecraft:bed, item.bed.orange.name, Orange Bed, 1
+minecraft:bed, item.bed.magenta.name, Magenta Bed, 2
+minecraft:bed, item.bed.lightBlue.name, Light Blue Bed, 3
+minecraft:bed, item.bed.yellow.name, Yellow Bed, 4
+minecraft:bed, item.bed.lime.name, Lime Bed, 5
+minecraft:bed, item.bed.pink.name, Pink Bed, 6
+minecraft:bed, item.bed.gray.name, Gray Bed, 7
+minecraft:bed, item.bed.silver.name, Light Gray Bed, 8
+minecraft:bed, item.bed.cyan.name, Cyan Bed, 9
+minecraft:bed, item.bed.purple.name, Purple Bed, 10
+minecraft:bed, item.bed.blue.name, Blue Bed, 11
+minecraft:bed, item.bed.brown.name, Brown Bed, 12
+minecraft:bed, item.bed.green.name, Green Bed, 13
+minecraft:bed, item.bed.red.name, Red Bed, 14
+minecraft:bed, item.bed.black.name, Black Bed, 15
+minecraft:repeater, item.diode.name, Redstone Repeater, 0
+minecraft:cookie, item.cookie.name, Cookie, 0
+minecraft:shears, item.shears.name, Shears, 0
+minecraft:melon, item.melon.name, Melon, 0
+minecraft:pumpkin_seeds, item.seeds_pumpkin.name, Pumpkin Seeds, 0
+minecraft:melon_seeds, item.seeds_melon.name, Melon Seeds, 0
+minecraft:beef, item.beefRaw.name, Raw Beef, 0
+minecraft:cooked_beef, item.beefCooked.name, Steak, 0
+minecraft:chicken, item.chickenRaw.name, Raw Chicken, 0
+minecraft:cooked_chicken, item.chickenCooked.name, Cooked Chicken, 0
+minecraft:rotten_flesh, item.rottenFlesh.name, Rotten Flesh, 0
+minecraft:ender_pearl, item.enderPearl.name, Ender Pearl, 0
+minecraft:blaze_rod, item.blazeRod.name, Blaze Rod, 0
+minecraft:ghast_tear, item.ghastTear.name, Ghast Tear, 0
+minecraft:gold_nugget, item.goldNugget.name, Gold Nugget, 0
+minecraft:nether_wart, item.netherStalkSeeds.name, Nether Wart, 0
+minecraft:potion, item.potion.name, Water Bottle, 0
+minecraft:potion, item.potion.name, Mundane Potion, 0
+minecraft:potion, item.potion.name, Thick Potion, 0
+minecraft:potion, item.potion.name, Awkward Potion, 0
+minecraft:potion, item.potion.name, Potion of Night Vision, 0
+minecraft:potion, item.potion.name, Potion of Invisibility, 0
+minecraft:potion, item.potion.name, Potion of Leaping, 0
+minecraft:potion, item.potion.name, Potion of Fire Resistance, 0
+minecraft:potion, item.potion.name, Potion of Swiftness, 0
+minecraft:potion, item.potion.name, Potion of Slowness, 0
+minecraft:potion, item.potion.name, Potion of Water Breathing, 0
+minecraft:potion, item.potion.name, Potion of Healing, 0
+minecraft:potion, item.potion.name, Potion of Harming, 0
+minecraft:potion, item.potion.name, Potion of Poison, 0
+minecraft:potion, item.potion.name, Potion of Regeneration, 0
+minecraft:potion, item.potion.name, Potion of Strength, 0
+minecraft:potion, item.potion.name, Potion of Weakness, 0
+minecraft:potion, item.potion.name, Potion of Luck, 0
+minecraft:glass_bottle, item.glassBottle.name, Glass Bottle, 0
+minecraft:spider_eye, item.spiderEye.name, Spider Eye, 0
+minecraft:fermented_spider_eye, item.fermentedSpiderEye.name, Fermented Spider Eye, 0
+minecraft:blaze_powder, item.blazePowder.name, Blaze Powder, 0
+minecraft:magma_cream, item.magmaCream.name, Magma Cream, 0
+minecraft:brewing_stand, item.brewingStand.name, Brewing Stand, 0
+minecraft:cauldron, item.cauldron.name, Cauldron, 0
+minecraft:ender_eye, item.eyeOfEnder.name, Eye of Ender, 0
+minecraft:speckled_melon, item.speckledMelon.name, Glistering Melon, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Bat, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Blaze, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Cave Spider, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Chicken, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Cow, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Creeper, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Donkey, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Elder Guardian, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Enderman, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Endermite, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Evoker, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Ghast, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Guardian, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Horse, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Husk, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Llama, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Magma Cube, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Mooshroom, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Mule, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Ocelot, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Parrot, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Pig, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Polar Bear, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Rabbit, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Sheep, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Shulker, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Silverfish, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Skeleton, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Skeleton Horse, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Slime, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Spider, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Squid, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Stray, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Vex, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Villager, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Vindicator, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Witch, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Wither Skeleton, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Wolf, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Zombie, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Zombie Horse, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Zombie Pigman, 0
+minecraft:spawn_egg, item.monsterPlacer.name, Spawn Zombie Villager, 0
+minecraft:experience_bottle, item.expBottle.name, Bottle o' Enchanting, 0
+minecraft:fire_charge, item.fireball.name, Fire Charge, 0
+minecraft:writable_book, item.writingBook.name, Book and Quill, 0
+minecraft:emerald, item.emerald.name, Emerald, 0
+minecraft:item_frame, item.frame.name, Item Frame, 0
+minecraft:flower_pot, item.flowerPot.name, Flower Pot, 0
+minecraft:carrot, item.carrots.name, Carrot, 0
+minecraft:potato, item.potato.name, Potato, 0
+minecraft:baked_potato, item.potatoBaked.name, Baked Potato, 0
+minecraft:poisonous_potato, item.potatoPoisonous.name, Poisonous Potato, 0
+minecraft:map, item.emptyMap.name, Empty Map, 0
+minecraft:golden_carrot, item.carrotGolden.name, Golden Carrot, 0
+minecraft:skull, item.skull.skeleton.name, Skeleton Skull, 0
+minecraft:skull, item.skull.wither.name, Wither Skeleton Skull, 1
+minecraft:skull, item.skull.zombie.name, Zombie Head, 2
+minecraft:skull, item.skull.char.name, Head, 3
+minecraft:skull, item.skull.creeper.name, Creeper Head, 4
+minecraft:skull, item.skull.dragon.name, Dragon Head, 5
+minecraft:carrot_on_a_stick, item.carrotOnAStick.name, Carrot on a Stick, 0
+minecraft:nether_star, item.netherStar.name, Nether Star, 0
+minecraft:pumpkin_pie, item.pumpkinPie.name, Pumpkin Pie, 0
+minecraft:firework_charge, item.fireworksCharge.name, Firework Star, 0
+minecraft:enchanted_book, item.enchantedBook.name, Enchanted Book, 0
+minecraft:comparator, item.comparator.name, Redstone Comparator, 0
+minecraft:netherbrick, item.netherbrick.name, Nether Brick, 0
+minecraft:quartz, item.netherquartz.name, Nether Quartz, 0
+minecraft:tnt_minecart, item.minecartTnt.name, Minecart with TNT, 0
+minecraft:hopper_minecart, item.minecartHopper.name, Minecart with Hopper, 0
+minecraft:prismarine_shard, item.prismarineShard.name, Prismarine Shard, 0
+minecraft:prismarine_crystals, item.prismarineCrystals.name, Prismarine Crystals, 0
+minecraft:rabbit, item.rabbitRaw.name, Raw Rabbit, 0
+minecraft:cooked_rabbit, item.rabbitCooked.name, Cooked Rabbit, 0
+minecraft:rabbit_stew, item.rabbitStew.name, Rabbit Stew, 0
+minecraft:rabbit_foot, item.rabbitFoot.name, Rabbit's Foot, 0
+minecraft:rabbit_hide, item.rabbitHide.name, Rabbit Hide, 0
+minecraft:armor_stand, item.armorStand.name, Armor Stand, 0
+minecraft:iron_horse_armor, item.horsearmormetal.name, Iron Horse Armor, 0
+minecraft:golden_horse_armor, item.horsearmorgold.name, Gold Horse Armor, 0
+minecraft:diamond_horse_armor, item.horsearmordiamond.name, Diamond Horse Armor, 0
+minecraft:lead, item.leash.name, Lead, 0
+minecraft:name_tag, item.nameTag.name, Name Tag, 0
+minecraft:mutton, item.muttonRaw.name, Raw Mutton, 0
+minecraft:cooked_mutton, item.muttonCooked.name, Cooked Mutton, 0
+minecraft:banner, tile.banner.name, White Banner, 15
+minecraft:banner, tile.banner.name, Orange Banner, 14
+minecraft:banner, tile.banner.name, Magenta Banner, 13
+minecraft:banner, tile.banner.name, Light Blue Banner, 12
+minecraft:banner, tile.banner.name, Yellow Banner, 11
+minecraft:banner, tile.banner.name, Lime Banner, 10
+minecraft:banner, tile.banner.name, Pink Banner, 9
+minecraft:banner, tile.banner.name, Gray Banner, 8
+minecraft:banner, tile.banner.name, Light Gray Banner, 7
+minecraft:banner, tile.banner.name, Cyan Banner, 6
+minecraft:banner, tile.banner.name, Purple Banner, 5
+minecraft:banner, tile.banner.name, Blue Banner, 4
+minecraft:banner, tile.banner.name, Brown Banner, 3
+minecraft:banner, tile.banner.name, Green Banner, 2
+minecraft:banner, tile.banner.name, Red Banner, 1
+minecraft:banner, tile.banner.name, Black Banner, 0
+minecraft:end_crystal, item.end_crystal.name, End Crystal, 0
+minecraft:spruce_door, item.doorSpruce.name, Spruce Door, 0
+minecraft:birch_door, item.doorBirch.name, Birch Door, 0
+minecraft:jungle_door, item.doorJungle.name, Jungle Door, 0
+minecraft:acacia_door, item.doorAcacia.name, Acacia Door, 0
+minecraft:dark_oak_door, item.doorDarkOak.name, Dark Oak Door, 0
+minecraft:chorus_fruit, item.chorusFruit.name, Chorus Fruit, 0
+minecraft:chorus_fruit_popped, item.chorusFruitPopped.name, Popped Chorus Fruit, 0
+minecraft:beetroot, item.beetroot.name, Beetroot, 0
+minecraft:beetroot_seeds, item.beetroot_seeds.name, Beetroot Seeds, 0
+minecraft:beetroot_soup, item.beetroot_soup.name, Beetroot Soup, 0
+minecraft:dragon_breath, item.dragon_breath.name, Dragon's Breath, 0
+minecraft:splash_potion, item.splash_potion.name, Splash Water Bottle, 0
+minecraft:splash_potion, item.splash_potion.name, Mundane Splash Potion, 0
+minecraft:splash_potion, item.splash_potion.name, Thick Splash Potion, 0
+minecraft:splash_potion, item.splash_potion.name, Awkward Splash Potion, 0
+minecraft:splash_potion, item.splash_potion.name, Splash Potion of Night Vision, 0
+minecraft:splash_potion, item.splash_potion.name, Splash Potion of Invisibility, 0
+minecraft:splash_potion, item.splash_potion.name, Splash Potion of Leaping, 0
+minecraft:splash_potion, item.splash_potion.name, Splash Potion of Fire Resistance, 0
+minecraft:splash_potion, item.splash_potion.name, Splash Potion of Swiftness, 0
+minecraft:splash_potion, item.splash_potion.name, Splash Potion of Slowness, 0
+minecraft:splash_potion, item.splash_potion.name, Splash Potion of Water Breathing, 0
+minecraft:splash_potion, item.splash_potion.name, Splash Potion of Healing, 0
+minecraft:splash_potion, item.splash_potion.name, Splash Potion of Harming, 0
+minecraft:splash_potion, item.splash_potion.name, Splash Potion of Poison, 0
+minecraft:splash_potion, item.splash_potion.name, Splash Potion of Regeneration, 0
+minecraft:splash_potion, item.splash_potion.name, Splash Potion of Strength, 0
+minecraft:splash_potion, item.splash_potion.name, Splash Potion of Weakness, 0
+minecraft:splash_potion, item.splash_potion.name, Splash Potion of Luck, 0
+minecraft:spectral_arrow, item.spectral_arrow.name, Spectral Arrow, 0
+minecraft:tipped_arrow, item.tipped_arrow.name, Arrow of Night Vision, 0
+minecraft:tipped_arrow, item.tipped_arrow.name, Arrow of Invisibility, 0
+minecraft:tipped_arrow, item.tipped_arrow.name, Arrow of Leaping, 0
+minecraft:tipped_arrow, item.tipped_arrow.name, Arrow of Fire Resistance, 0
+minecraft:tipped_arrow, item.tipped_arrow.name, Arrow of Swiftness, 0
+minecraft:tipped_arrow, item.tipped_arrow.name, Arrow of Slowness, 0
+minecraft:tipped_arrow, item.tipped_arrow.name, Arrow of Water Breathing, 0
+minecraft:tipped_arrow, item.tipped_arrow.name, Arrow of Healing, 0
+minecraft:tipped_arrow, item.tipped_arrow.name, Arrow of Harming, 0
+minecraft:tipped_arrow, item.tipped_arrow.name, Arrow of Poison, 0
+minecraft:tipped_arrow, item.tipped_arrow.name, Arrow of Regeneration, 0
+minecraft:tipped_arrow, item.tipped_arrow.name, Arrow of Strength, 0
+minecraft:tipped_arrow, item.tipped_arrow.name, Arrow of Weakness, 0
+minecraft:tipped_arrow, item.tipped_arrow.name, Arrow of Luck, 0
+minecraft:lingering_potion, item.lingering_potion.name, Lingering Water Bottle, 0
+minecraft:lingering_potion, item.lingering_potion.name, Mundane Lingering Potion, 0
+minecraft:lingering_potion, item.lingering_potion.name, Thick Lingering Potion, 0
+minecraft:lingering_potion, item.lingering_potion.name, Awkward Lingering Potion, 0
+minecraft:lingering_potion, item.lingering_potion.name, Lingering Potion of Night Vision, 0
+minecraft:lingering_potion, item.lingering_potion.name, Lingering Potion of Invisibility, 0
+minecraft:lingering_potion, item.lingering_potion.name, Lingering Potion of Leaping, 0
+minecraft:lingering_potion, item.lingering_potion.name, Lingering Potion of Fire Resistance, 0
+minecraft:lingering_potion, item.lingering_potion.name, Lingering Potion of Swiftness, 0
+minecraft:lingering_potion, item.lingering_potion.name, Lingering Potion of Slowness, 0
+minecraft:lingering_potion, item.lingering_potion.name, Lingering Potion of Water Breathing, 0
+minecraft:lingering_potion, item.lingering_potion.name, Lingering Potion of Healing, 0
+minecraft:lingering_potion, item.lingering_potion.name, Lingering Potion of Harming, 0
+minecraft:lingering_potion, item.lingering_potion.name, Lingering Potion of Poison, 0
+minecraft:lingering_potion, item.lingering_potion.name, Lingering Potion of Regeneration, 0
+minecraft:lingering_potion, item.lingering_potion.name, Lingering Potion of Strength, 0
+minecraft:lingering_potion, item.lingering_potion.name, Lingering Potion of Weakness, 0
+minecraft:lingering_potion, item.lingering_potion.name, Lingering Potion of Luck, 0
+minecraft:shield, item.shield.name, Shield, 0
+minecraft:elytra, item.elytra.name, Elytra, 0
+minecraft:spruce_boat, item.boat.spruce.name, Spruce Boat, 0
+minecraft:birch_boat, item.boat.birch.name, Birch Boat, 0
+minecraft:jungle_boat, item.boat.jungle.name, Jungle Boat, 0
+minecraft:acacia_boat, item.boat.acacia.name, Acacia Boat, 0
+minecraft:dark_oak_boat, item.boat.dark_oak.name, Dark Oak Boat, 0
+minecraft:totem_of_undying, item.totem.name, Totem of Undying, 0
+minecraft:shulker_shell, item.shulkerShell.name, Shulker Shell, 0
+minecraft:iron_nugget, item.ironNugget.name, Iron Nugget, 0
+minecraft:record_13, item.record.name, Music Disc, 0
+minecraft:record_cat, item.record.name, Music Disc, 0
+minecraft:record_blocks, item.record.name, Music Disc, 0
+minecraft:record_chirp, item.record.name, Music Disc, 0
+minecraft:record_far, item.record.name, Music Disc, 0
+minecraft:record_mall, item.record.name, Music Disc, 0
+minecraft:record_mellohi, item.record.name, Music Disc, 0
+minecraft:record_stal, item.record.name, Music Disc, 0
+minecraft:record_strad, item.record.name, Music Disc, 0
+minecraft:record_ward, item.record.name, Music Disc, 0
+minecraft:record_11, item.record.name, Music Disc, 0
+minecraft:record_wait, item.record.name, Music Disc, 0
+storagebox:storagebox, item.storagebox.name, Storage Box, 0
+#output time is 5 ms.

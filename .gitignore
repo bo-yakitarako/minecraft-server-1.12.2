@@ -2,6 +2,7 @@
 !.gitignore
 !/config
 !/config/**/*
+/config/jei/*
 /config/splash.properties
 !/mods
 !/mods/**/*

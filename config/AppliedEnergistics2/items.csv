@@ -2090,6 +2090,54 @@ ic2:fluid_cell:0, 流体容器
 ic2:fluid_cell:0, 流体容器
 ic2:fluid_cell:0, 流体容器
 ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
 ic2:cable:0, 裸銅電線
 ic2:cable:0, 被覆銅電線
 ic2:cable:1, グラスファイバー電線
@@ -2888,106 +2936,6 @@ appliedenergistics2:facade:0, Cable Facade - 震動の爆薬
 appliedenergistics2:facade:0, Cable Facade - エンダー爆薬
 appliedenergistics2:facade:0, Cable Facade - 粗鋼ブロック
 appliedenergistics2:facade:0, Cable Facade - 指向性無線充電アンテナ
-appliedenergistics2:facade:0, Cable Facade - オスミウムブロック
-appliedenergistics2:facade:0, Cable Facade - 青銅ブロック
-appliedenergistics2:facade:0, Cable Facade - 精製黒曜石
-appliedenergistics2:facade:0, Cable Facade - 木炭ブロック
-appliedenergistics2:facade:0, Cable Facade - 精製グロウストーン
-appliedenergistics2:facade:0, Cable Facade - 鋼鉄ブロック
-appliedenergistics2:facade:0, Cable Facade - テレポーターフレーム
-appliedenergistics2:facade:0, Cable Facade - 鋼鉄ケース
-appliedenergistics2:facade:0, Cable Facade - ダイナミックタンク
-appliedenergistics2:facade:0, Cable Facade - 構造用ガラス
-appliedenergistics2:facade:0, Cable Facade - ダイナミックバルブ
-appliedenergistics2:facade:0, Cable Facade - 銅ブロック
-appliedenergistics2:facade:0, Cable Facade - 錫ブロック
-appliedenergistics2:facade:0, Cable Facade - 加温蒸発濃縮コントローラー
-appliedenergistics2:facade:0, Cable Facade - 加温蒸発濃縮バルブ
-appliedenergistics2:facade:0, Cable Facade - オスミウム鉱石
-appliedenergistics2:facade:0, Cable Facade - 銅鉱石
-appliedenergistics2:facade:0, Cable Facade - 錫鉱石
-appliedenergistics2:facade:0, Cable Facade - 黒曜石TNT
-appliedenergistics2:facade:0, Cable Facade - §8黒色 プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §c赤色 プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §2緑色 プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §6茶色 プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §1青色 プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §5紫色 プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §3水色 プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §7薄灰色 プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §8灰色 プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §d桃色 プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §a黄緑色 プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §e黄色 プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §9空色 プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §d赤紫色 プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §6橙色 プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §f白色 プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §8黒色 滑らかなプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §c赤色 滑らかなプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §2緑色 滑らかなプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §6茶色 滑らかなプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §1青色 滑らかなプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §5紫色 滑らかなプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §3水色 滑らかなプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §7薄灰色 滑らかなプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §8灰色 滑らかなプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §d桃色 滑らかなプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §a黄緑色 滑らかなプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §e黄色 滑らかなプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §9空色 滑らかなプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §d赤紫色 滑らかなプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §6橙色 滑らかなプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §f白色 滑らかなプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §8黒色 輝くプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §c赤色 輝くプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §2緑色 輝くプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §6茶色 輝くプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §1青色 輝くプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §5紫色 輝くプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §3水色 輝くプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §7薄灰色 輝くプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §8灰色 輝くプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §d桃色 輝くプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §a黄緑色 輝くプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §e黄色 輝くプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §9空色 輝くプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §d赤紫色 輝くプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §6橙色 輝くプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §f白色 輝くプラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §8黒色 強化プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §c赤色 強化プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §2緑色 強化プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §6茶色 強化プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §1青色 強化プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §5紫色 強化プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §3水色 強化プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §7薄灰色 強化プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §8灰色 強化プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §d桃色 強化プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §a黄緑色 強化プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §e黄色 強化プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §9空色 強化プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §d赤紫色 強化プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §6橙色 強化プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §f白色 強化プラスチックブロック
-appliedenergistics2:facade:0, Cable Facade - §8黒色 プラスチックロード
-appliedenergistics2:facade:0, Cable Facade - §c赤色 プラスチックロード
-appliedenergistics2:facade:0, Cable Facade - §2緑色 プラスチックロード
-appliedenergistics2:facade:0, Cable Facade - §6茶色 プラスチックロード
-appliedenergistics2:facade:0, Cable Facade - §1青色 プラスチックロード
-appliedenergistics2:facade:0, Cable Facade - §5紫色 プラスチックロード
-appliedenergistics2:facade:0, Cable Facade - §3水色 プラスチックロード
-appliedenergistics2:facade:0, Cable Facade - §7薄灰色 プラスチックロード
-appliedenergistics2:facade:0, Cable Facade - §8灰色 プラスチックロード
-appliedenergistics2:facade:0, Cable Facade - §d桃色 プラスチックロード
-appliedenergistics2:facade:0, Cable Facade - §a黄緑色 プラスチックロード
-appliedenergistics2:facade:0, Cable Facade - §e黄色 プラスチックロード
-appliedenergistics2:facade:0, Cable Facade - §9空色 プラスチックロード
-appliedenergistics2:facade:0, Cable Facade - §d赤紫色 プラスチックロード
-appliedenergistics2:facade:0, Cable Facade - §6橙色 プラスチックロード
-appliedenergistics2:facade:0, Cable Facade - §f白色 プラスチックロード
-appliedenergistics2:facade:0, Cable Facade - 塩ブロック
 appliedenergistics2:facade:0, Cable Facade - トワイライトオークの原木
 appliedenergistics2:facade:0, Cable Facade - 林冠木の原木
 appliedenergistics2:facade:0, Cable Facade - マングローブの原木
@@ -3099,6 +3047,191 @@ appliedenergistics2:facade:0, Cable Facade - Sortingwood Planks
 appliedenergistics2:facade:0, Cable Facade - Terrorcotta (Circular)
 appliedenergistics2:facade:0, Cable Facade - Terrorcotta (Diagonal)
 appliedenergistics2:facade:0, Cable Facade - tile.twilightforest.StonePillar.name
+appliedenergistics2:facade:0, Cable Facade - グラウト
+appliedenergistics2:facade:0, Cable Facade - 緑色のべとつく泥
+appliedenergistics2:facade:0, Cable Facade - 青色のべとつく泥
+appliedenergistics2:facade:0, Cable Facade - 墓地の土
+appliedenergistics2:facade:0, Cable Facade - 聖なる土
+appliedenergistics2:facade:0, Cable Facade - べとつくマグマ泥
+appliedenergistics2:facade:0, Cable Facade - 青スライムブロック
+appliedenergistics2:facade:0, Cable Facade - 紫スライムブロック
+appliedenergistics2:facade:0, Cable Facade - 血液スライムブロック
+appliedenergistics2:facade:0, Cable Facade - マグマスライムブロック
+appliedenergistics2:facade:0, Cable Facade - 凝固した緑スライムブロック
+appliedenergistics2:facade:0, Cable Facade - 凝固した青スライムブロック
+appliedenergistics2:facade:0, Cable Facade - 凝固した紫スライムブロック
+appliedenergistics2:facade:0, Cable Facade - 凝固した血液スライムブロック
+appliedenergistics2:facade:0, Cable Facade - 凝固したマグマスライムブロック
+appliedenergistics2:facade:0, Cable Facade - コバルト鉱石
+appliedenergistics2:facade:0, Cable Facade - アーダイト鉱石
+appliedenergistics2:facade:0, Cable Facade - ラヴァウッド
+appliedenergistics2:facade:0, Cable Facade - ファイアウッド
+appliedenergistics2:facade:0, Cable Facade - 泥レンガ
+appliedenergistics2:facade:0, Cable Facade - コバルトブロック
+appliedenergistics2:facade:0, Cable Facade - アーダイトブロック
+appliedenergistics2:facade:0, Cable Facade - マニュリンブロック
+appliedenergistics2:facade:0, Cable Facade - ナイトスライムブロック
+appliedenergistics2:facade:0, Cable Facade - ブタ鉄ブロック
+appliedenergistics2:facade:0, Cable Facade - シルキージュエルブロック
+appliedenergistics2:facade:0, Cable Facade - 緑色のべとつく土
+appliedenergistics2:facade:0, Cable Facade - 青色のべとつく土
+appliedenergistics2:facade:0, Cable Facade - 紫色のべとつく土
+appliedenergistics2:facade:0, Cable Facade - べとつくマグマ土
+appliedenergistics2:facade:0, Cable Facade - べとつく草ブロック
+appliedenergistics2:facade:0, Cable Facade - 緑色のべとつく草ブロック
+appliedenergistics2:facade:0, Cable Facade - 青色のべとつく草ブロック
+appliedenergistics2:facade:0, Cable Facade - 紫色のべとつく草ブロック
+appliedenergistics2:facade:0, Cable Facade - べとつくマグマ草ブロック
+appliedenergistics2:facade:0, Cable Facade - べとつく草ブロック
+appliedenergistics2:facade:0, Cable Facade - 緑色のべとつく草ブロック
+appliedenergistics2:facade:0, Cable Facade - 青色のべとつく草ブロック
+appliedenergistics2:facade:0, Cable Facade - 紫色のべとつく草ブロック
+appliedenergistics2:facade:0, Cable Facade - べとつくマグマ草ブロック
+appliedenergistics2:facade:0, Cable Facade - べとつく草ブロック
+appliedenergistics2:facade:0, Cable Facade - 緑色のべとつく草ブロック
+appliedenergistics2:facade:0, Cable Facade - 青色のべとつく草ブロック
+appliedenergistics2:facade:0, Cable Facade - 紫色のべとつく草ブロック
+appliedenergistics2:facade:0, Cable Facade - べとつくマグマ草ブロック
+appliedenergistics2:facade:0, Cable Facade - べとつく葉
+appliedenergistics2:facade:0, Cable Facade - べとつく葉
+appliedenergistics2:facade:0, Cable Facade - べとつく葉
+appliedenergistics2:facade:0, Cable Facade - 乾燥粘土
+appliedenergistics2:facade:0, Cable Facade - 乾燥粘土レンガ
+appliedenergistics2:facade:0, Cable Facade - 滑らかなブラウンストーン
+appliedenergistics2:facade:0, Cable Facade - 粗いブラウンストーン
+appliedenergistics2:facade:0, Cable Facade - 舗装されたブラウンストーン
+appliedenergistics2:facade:0, Cable Facade - ブラウンストーンレンガ
+appliedenergistics2:facade:0, Cable Facade - ひび割れたブラウンストーンレンガ
+appliedenergistics2:facade:0, Cable Facade - ブラウンストーンレンガ(ファンシー)
+appliedenergistics2:facade:0, Cable Facade - ブラウンストーンレンガ(スクエア)
+appliedenergistics2:facade:0, Cable Facade - ブラウンストーン(道)
+appliedenergistics2:facade:0, Cable Facade - ブラウンストーン(クリーパー)
+appliedenergistics2:facade:0, Cable Facade - ブラウンストーンレンガ(トライアングル)
+appliedenergistics2:facade:0, Cable Facade - ブラウンストーンレンガ(小)
+appliedenergistics2:facade:0, Cable Facade - ブラウンストーン(タイル)
+appliedenergistics2:facade:0, Cable Facade - オスミウムブロック
+appliedenergistics2:facade:0, Cable Facade - 青銅ブロック
+appliedenergistics2:facade:0, Cable Facade - 精製黒曜石
+appliedenergistics2:facade:0, Cable Facade - 木炭ブロック
+appliedenergistics2:facade:0, Cable Facade - 精製グロウストーン
+appliedenergistics2:facade:0, Cable Facade - 鋼鉄ブロック
+appliedenergistics2:facade:0, Cable Facade - テレポーターフレーム
+appliedenergistics2:facade:0, Cable Facade - 鋼鉄ケース
+appliedenergistics2:facade:0, Cable Facade - ダイナミックタンク
+appliedenergistics2:facade:0, Cable Facade - 構造用ガラス
+appliedenergistics2:facade:0, Cable Facade - ダイナミックバルブ
+appliedenergistics2:facade:0, Cable Facade - 銅ブロック
+appliedenergistics2:facade:0, Cable Facade - 錫ブロック
+appliedenergistics2:facade:0, Cable Facade - 加温蒸発濃縮コントローラー
+appliedenergistics2:facade:0, Cable Facade - 加温蒸発濃縮バルブ
+appliedenergistics2:facade:0, Cable Facade - オスミウム鉱石
+appliedenergistics2:facade:0, Cable Facade - 銅鉱石
+appliedenergistics2:facade:0, Cable Facade - 錫鉱石
+appliedenergistics2:facade:0, Cable Facade - 黒曜石TNT
+appliedenergistics2:facade:0, Cable Facade - §8黒色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §c赤色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §2緑色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §6茶色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §1青色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §5紫色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §3水色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §7薄灰色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §8灰色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §d桃色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §a黄緑色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §e黄色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §9空色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §d赤紫色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §6橙色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §f白色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §8黒色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §c赤色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §2緑色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §6茶色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §1青色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §5紫色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §3水色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §7薄灰色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §8灰色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §d桃色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §a黄緑色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §e黄色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §9空色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §d赤紫色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §6橙色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §f白色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §8黒色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §c赤色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §2緑色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §6茶色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §1青色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §5紫色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §3水色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §7薄灰色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §8灰色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §d桃色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §a黄緑色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §e黄色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §9空色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §d赤紫色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §6橙色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §f白色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §8黒色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §c赤色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §2緑色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §6茶色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §1青色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §5紫色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §3水色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §7薄灰色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §8灰色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §d桃色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §a黄緑色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §e黄色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §9空色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §d赤紫色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §6橙色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §f白色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §8黒色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §c赤色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §2緑色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §6茶色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §1青色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §5紫色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §3水色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §7薄灰色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §8灰色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §d桃色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §a黄緑色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §e黄色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §9空色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §d赤紫色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §6橙色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §f白色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - 塩ブロック
+appliedenergistics2:facade:0, Cable Facade - 錬金炭ブロック
+appliedenergistics2:facade:0, Cable Facade - メビウス燃料ブロック
+appliedenergistics2:facade:0, Cable Facade - エターナリス燃料ブロック
+appliedenergistics2:facade:0, Cable Facade - ダークマターブロック
+appliedenergistics2:facade:0, Cable Facade - レッドマターブロック
+appliedenergistics2:facade:0, Cable Facade - ノヴァTNT
+appliedenergistics2:facade:0, Cable Facade - スーパーノヴァTNT
+appliedenergistics2:facade:0, Cable Facade - 錬金術的エネルギー生成装置
+appliedenergistics2:facade:0, Cable Facade - 錬金術的エネルギー生成装置
+appliedenergistics2:facade:0, Cable Facade - 発展型AEGU
+appliedenergistics2:facade:0, Cable Facade - 発展型AEGU
+appliedenergistics2:facade:0, Cable Facade - 究極型AEGU
+appliedenergistics2:facade:0, Cable Facade - 究極型AEGU
+appliedenergistics2:facade:0, Cable Facade - AEGUEX
+appliedenergistics2:facade:0, Cable Facade - AEGUEX
+appliedenergistics2:facade:0, Cable Facade - 強化型AEGUEX
+appliedenergistics2:facade:0, Cable Facade - 強化型AEGUEX
+appliedenergistics2:facade:0, Cable Facade - 超究極型AEGUEX
+appliedenergistics2:facade:0, Cable Facade - 超究極型AEGUEX
+appliedenergistics2:facade:0, Cable Facade - 最終型AEGUEX
+appliedenergistics2:facade:0, Cable Facade - 最終型AEGUEX
+appliedenergistics2:facade:0, Cable Facade - ブルマターブロック
+appliedenergistics2:facade:0, Cable Facade - カオスマターブロック
 appliedenergistics2:facade:0, Cable Facade - エンチャント移動機
 appliedenergistics2:facade:0, Cable Facade - モンスタースポナー制御装置
 appliedenergistics2:facade:0, Cable Facade - 湧き水の源
@@ -3413,6 +3546,8 @@ enderio:item_material:26, 銅の粉
 enderio:item_material:27, 錫の粉
 enderio:item_material:28, エンダーパールの粉
 enderio:item_material:29, 黒曜石の粉
+enderio:item_material:30, アーダイトの粉
+enderio:item_material:31, コバルトの粉
 enderio:item_material:32, ラピスラズリの粉
 enderio:item_material:33, クォーツの粉
 enderio:item_material:34, プレシェンスの粒
@@ -4485,6 +4620,1983 @@ enderio:block_cap_bank:3, ヴァイブラント蓄電装置
 enderio:block_gauge, エネルギーゲージ
 enderio:block_power_monitor, 電力モニター
 enderio:block_advanced_power_monitor, グラフィカル電力モニター
+twilightforest:naga_scale, ナーガの鱗
+twilightforest:naga_chestplate, ナーガアーマー(胴)
+twilightforest:naga_leggings, ナーガアーマー(脚)
+twilightforest:twilight_scepter, 魔弾の杖
+twilightforest:lifedrain_scepter, 吸精の杖
+twilightforest:zombie_scepter, 召喚の杖
+twilightforest:shield_scepter, Scepter of Fortification
+twilightforest:ore_meter, 鉱石レーダー [制作中]
+twilightforest:magic_map:0, 魔法の地図(地上)
+twilightforest:maze_map:0, 魔法の地図(迷宮)
+twilightforest:ore_map:0, 魔法の地図(迷宮/鉱石)
+twilightforest:raven_feather, カラスの羽根
+twilightforest:magic_map_focus, 魔法の羽根
+twilightforest:maze_map_focus, 魔法の金貨
+twilightforest:liveroot, 生きている根
+twilightforest:ironwood_raw, 樹鉄の素
+twilightforest:ironwood_ingot, 樹鉄インゴット
+twilightforest:ironwood_helmet, 樹鉄ヘルム
+twilightforest:ironwood_chestplate, 樹鉄プレート
+twilightforest:ironwood_leggings, 樹鉄レギンス
+twilightforest:ironwood_boots, 樹鉄ブーツ
+twilightforest:ironwood_sword, 樹鉄の剣
+twilightforest:ironwood_shovel, 樹鉄のシャベル
+twilightforest:ironwood_pickaxe, 樹鉄のツルハシ
+twilightforest:ironwood_axe, 樹鉄の斧
+twilightforest:ironwood_hoe, 樹鉄のクワ
+twilightforest:torchberries, トーチベリーの実
+twilightforest:raw_venison, 生の黄昏鹿肉
+twilightforest:cooked_venison, 黄昏鹿肉ステーキ
+twilightforest:hydra_chop, ヒドラ肉
+twilightforest:fiery_blood, 焦熱の血
+twilightforest:fiery_tears, 焦熱の涙
+twilightforest:trophy:0, ナーガトロフィー
+twilightforest:trophy:1, リッチトロフィー
+twilightforest:trophy:2, ヒドラトロフィー
+twilightforest:trophy:3, ウルガストトロフィー
+twilightforest:trophy:4, ナイトファントムトロフィー
+twilightforest:trophy:5, 雪の女王トロフィー
+twilightforest:trophy:6, ミノッシュルームトロフィー
+twilightforest:trophy:8, 色食みの羊トロフィー
+twilightforest:fiery_ingot, 焦熱インゴット
+twilightforest:fiery_helmet, 焦熱ヘルム
+twilightforest:fiery_chestplate, 焦熱プレート
+twilightforest:fiery_leggings, 焦熱レギンス
+twilightforest:fiery_boots, 焦熱ブーツ
+twilightforest:fiery_sword, 焦熱の剣
+twilightforest:fiery_pickaxe, 焦熱のツルハシ
+twilightforest:steeleaf_ingot, 葉鋼
+twilightforest:steeleaf_helmet, 葉鋼ヘルム
+twilightforest:steeleaf_chestplate, 葉鋼プレート
+twilightforest:steeleaf_leggings, 葉鋼レギンス
+twilightforest:steeleaf_boots, 葉鋼ブーツ
+twilightforest:steeleaf_sword, 葉鋼の剣
+twilightforest:steeleaf_shovel, 葉鋼のシャベル
+twilightforest:steeleaf_pickaxe, 葉鋼のツルハシ
+twilightforest:steeleaf_axe, 葉鋼の斧
+twilightforest:steeleaf_hoe, 葉鋼のクワ
+twilightforest:minotaur_axe_gold, Golden Minotaur Axe
+twilightforest:minotaur_axe, ミノタウロスの斧
+twilightforest:mazebreaker_pickaxe, メイズブレイカー
+twilightforest:transformation_powder, 変化の粉
+twilightforest:raw_meef, 生のミノ肉
+twilightforest:cooked_meef, ミーフステーキ
+twilightforest:meef_stroganoff, ミーフストロガノフ
+twilightforest:maze_wafer, 迷宮ウエハース
+twilightforest:magic_map_empty, 白紙の魔法の地図(地上)
+twilightforest:maze_map_empty, 白紙の魔法の地図(迷宮)
+twilightforest:ore_map_empty, 白紙の魔法の地図(鉱石/迷宮)
+twilightforest:ore_magnet, 鉱石磁石
+twilightforest:crumble_horn, 山鳴りの角笛
+twilightforest:peacock_fan, 孔雀扇
+twilightforest:moonworm_queen, 女王月光虫
+twilightforest:charm_of_life_1, 命の護石Lv1
+twilightforest:charm_of_life_2, 命の護石Lv2
+twilightforest:charm_of_keeping_1, 鍵の護石Lv1
+twilightforest:charm_of_keeping_2, 鍵の護石Lv2
+twilightforest:charm_of_keeping_3, 鍵の護石Lv3
+twilightforest:tower_key, タワーキー
+twilightforest:borer_essence, ボーラーエッセンス
+twilightforest:carminite, カーミナイト
+twilightforest:experiment_115, エクスペリメント115
+twilightforest:armor_shard, アーマーシャード
+twilightforest:knightmetal_ingot, ナイトメタルインゴット
+twilightforest:armor_shard_cluster, アーマーシャードの塊
+twilightforest:knightmetal_helmet, ナイトヘルム
+twilightforest:knightmetal_chestplate, ナイトプレート
+twilightforest:knightmetal_leggings, ナイトグリーヴ
+twilightforest:knightmetal_boots, ナイトブーツ
+twilightforest:knightmetal_sword, ナイトソード
+twilightforest:knightmetal_pickaxe, ナイトピッケル
+twilightforest:knightmetal_axe, ナイトアックス
+twilightforest:knightmetal_shield, Knightly Shield
+twilightforest:phantom_helmet, ファントムヘルム
+twilightforest:phantom_chestplate, ファントムプレート
+twilightforest:lamp_of_cinders, 灰のランプ
+twilightforest:alpha_fur, アルファイエティの毛皮
+twilightforest:yeti_helmet, イエティの角兜
+twilightforest:yeti_chestplate, イエティジャケット
+twilightforest:yeti_leggings, イエティレギンス
+twilightforest:yeti_boots, イエティブーツ
+twilightforest:ice_bomb, アイスボム
+twilightforest:arctic_fur, 防寒毛皮
+twilightforest:arctic_helmet, 防寒フード
+twilightforest:arctic_chestplate, 防寒ジャケット
+twilightforest:arctic_leggings, 防寒レギンス
+twilightforest:arctic_boots, 防寒ブーツ
+twilightforest:magic_beans, 魔法の豆
+twilightforest:giant_pickaxe, 巨人のツルハシ
+twilightforest:giant_sword, 巨人の剣
+twilightforest:triple_bow, トライボウ
+twilightforest:seeker_bow, シーカーボウ
+twilightforest:ice_bow, アイスボウ
+twilightforest:ender_bow, エンダーボウ
+twilightforest:ice_sword, アイスソード
+twilightforest:glass_sword, ガラスの剣
+twilightforest:knightmetal_ring, ナイトメタルの輪
+twilightforest:block_and_chain, モーニングスター
+twilightforest:cube_talisman, 六面の加護
+twilightforest:cube_of_annihilation, 破滅の箱
+twilightforest:moon_dial, Moon Dial
+twilightforest:twilight_log:0, トワイライトオークの原木
+twilightforest:twilight_log:1, 林冠木の原木
+twilightforest:twilight_log:2, マングローブの原木
+twilightforest:twilight_log:3, ダークウッドの原木
+twilightforest:root:0, 根ブロック
+twilightforest:root:1, 根ブロック(苔)
+twilightforest:twilight_leaves:0, トワイライトオークの葉
+twilightforest:twilight_leaves:1, 林冠木の葉
+twilightforest:twilight_leaves:2, マングローブの葉
+twilightforest:twilight_leaves:3, レインボーオークの葉
+twilightforest:firefly, ホタル
+twilightforest:cicada, セミ
+twilightforest:maze_stone:0, メイズストーン
+twilightforest:maze_stone:1, メイズレンガ
+twilightforest:maze_stone:2, メイズストーン(模様)
+twilightforest:maze_stone:3, メイズレンガ(装飾)
+twilightforest:maze_stone:4, メイズレンガ(ヒビ)
+twilightforest:maze_stone:5, メイズレンガ(苔)
+twilightforest:maze_stone:6, メイズストーン(モザイク)
+twilightforest:maze_stone:7, メイズストーン(ボーダー)
+twilightforest:hedge:0, 生垣ブロック
+twilightforest:boss_spawner:0, ナーガスポナー
+twilightforest:boss_spawner:1, リッチスポナー
+twilightforest:boss_spawner:2, ヒドラスポナー
+twilightforest:boss_spawner:3, ウルガストスポナー
+twilightforest:boss_spawner:4, ナイトファントムスポナー
+twilightforest:boss_spawner:5, Snow Queen Spawner
+twilightforest:boss_spawner:6, Minoshroom Spawner
+twilightforest:boss_spawner:7, Alpha Yeti Spawner
+twilightforest:boss_spawner:9, tile.twilightforest.BossSpawner.9.name
+twilightforest:firefly_jar, 瓶詰めホタル
+twilightforest:twilight_plant:0, 苔
+twilightforest:twilight_plant:1, メイアップル
+twilightforest:twilight_plant:2, クローバーパッチ [制作中]
+twilightforest:twilight_plant:3, 巻きシダ
+twilightforest:twilight_plant:4, ヒカリダケ
+twilightforest:twilight_plant:5, 森の草
+twilightforest:twilight_plant:6, 乾いた低木
+twilightforest:twilight_plant:7, トーチベリー
+twilightforest:twilight_plant:8, ひげ根
+twilightforest:twilight_plant:9, Leaf Pile
+twilightforest:uncrafting_table, 解体作業台
+twilightforest:fire_jet:0, 噴煙ブロック
+twilightforest:fire_jet:3, 間欠炎ブロック
+twilightforest:fire_jet:1, 噴煙装置
+twilightforest:fire_jet:6, 間欠炎装置
+twilightforest:naga_stone:0, ナーガストーン(頭)
+twilightforest:naga_stone:1, ナーガストーン
+twilightforest:twilight_sapling:0, ひ弱なトワイライトオークの苗木
+twilightforest:twilight_sapling:1, 林冠木の苗木
+twilightforest:twilight_sapling:2, トワイライトマングローブの苗木
+twilightforest:twilight_sapling:3, ダークウッドの苗木
+twilightforest:twilight_sapling:4, 丈夫なトワイライトオークの苗木
+twilightforest:twilight_sapling:5, 刻の木の苗木
+twilightforest:twilight_sapling:6, 変化の木の苗木
+twilightforest:twilight_sapling:7, 採掘の木の苗木
+twilightforest:twilight_sapling:8, 分類の木の苗木
+twilightforest:twilight_sapling:9, レインボーオークの苗木
+twilightforest:moonworm, 月光虫
+twilightforest:magic_log:0, 刻の木の原木
+twilightforest:magic_log:1, 変化の木の原木
+twilightforest:magic_log:2, 採掘の木の原木
+twilightforest:magic_log:3, 分類の木の原木
+twilightforest:magic_leaves:0, 刻の木の葉
+twilightforest:magic_leaves:1, 変化の木の葉
+twilightforest:magic_leaves:2, 採掘の木の葉
+twilightforest:magic_leaves:3, 分類の木の葉
+twilightforest:magic_log_core:0, 刻の時辰儀
+twilightforest:magic_log_core:1, 変化の心
+twilightforest:magic_log_core:2, 採掘コア
+twilightforest:magic_log_core:3, 分類エンジン
+twilightforest:tower_wood:0, タワーウッド
+twilightforest:tower_wood:1, タワーウッド(緑)
+twilightforest:tower_wood:2, タワーウッド(ヒビ)
+twilightforest:tower_wood:3, タワーウッド(苔)
+twilightforest:tower_wood:4, タワーウッド(シミ)
+twilightforest:tower_device:0, タワーウッド(扉)
+twilightforest:tower_device:2, タワーウッド(消失扉)
+twilightforest:tower_device:4, タワーウッド(施錠)
+twilightforest:tower_device:5, タワーウッド(開錠)
+twilightforest:tower_device:6, カーミナイトビルダー
+twilightforest:tower_device:9, アンチビルダー
+twilightforest:tower_device:10, ガストトラップ
+twilightforest:tower_device:12, カーミナイトリアクター
+twilightforest:stronghold_shield, 拠点の防壁
+twilightforest:trophy_pedestal:0, トロフィーの台座
+twilightforest:aurora_block, オーロラブロック
+twilightforest:underbrick:0, アンダーブリック
+twilightforest:underbrick:1, アンダーブリック(苔)
+twilightforest:underbrick:2, アンダーブリック(ヒビ)
+twilightforest:underbrick:3, アンダーフリック(床)
+twilightforest:thorns:0, 茨
+twilightforest:thorns:1, 緑の茨
+twilightforest:burnt_thorns, 焦げた茨
+twilightforest:thorn_rose, 野バラ
+twilightforest:twilight_leaves_3:0, 茨の葉
+twilightforest:twilight_leaves_3:1, 豆の木の葉
+twilightforest:deadrock:0, デッドロック(風化)
+twilightforest:deadrock:1, デッドロック(ヒビ)
+twilightforest:deadrock:2, デッドロック
+twilightforest:dark_leaves, ダークウッドの葉
+twilightforest:aurora_pillar, オーロラの柱
+twilightforest:aurora_slab:0, オーロラのハーフブロック
+twilightforest:trollsteinn, トロール石
+twilightforest:wispy_cloud, 薄雲
+twilightforest:fluffy_cloud, ふわふわ雲
+twilightforest:giant_cobblestone, 巨人の丸石
+twilightforest:giant_log, 巨人の原木
+twilightforest:giant_leaves, 巨人の葉
+twilightforest:giant_obsidian, 巨人の黒曜石
+twilightforest:uberous_soil, 培養土
+twilightforest:huge_stalk, 巨大な茎
+twilightforest:huge_mushgloom, 巨大ヒカリダケブロック
+twilightforest:trollvidr, トロールベリーのツタ
+twilightforest:unripe_trollber, 未熟なトロールベリー
+twilightforest:trollber, トロールベリー
+twilightforest:knightmetal_block, ナイトメタルブロック
+twilightforest:huge_lilypad, 巨大なスイレンの葉
+twilightforest:huge_waterlily, 巨大なスイレン
+twilightforest:slider:0, 滑走トラップ
+twilightforest:slider:1, 滑走トラップ 1
+twilightforest:slider:2, 滑走トラップ 2
+twilightforest:slider:3, 滑走トラップ 3
+twilightforest:castle_brick:0, キャッスルレンガ
+twilightforest:castle_brick:1, キャッスルレンガ(かすれ)
+twilightforest:castle_brick:2, キャッスルレンガ(ヒビ)
+twilightforest:castle_brick:3, キャッスルルーフ
+twilightforest:castle_brick:4, キャッスルレンガ(苔)
+twilightforest:castle_brick:5, 厚いキャッスルレンガ
+twilightforest:castle_stairs_brick, Castle Brick Stairs
+twilightforest:castle_stairs_cracked, Cracked Castle Brick Stairs
+twilightforest:castle_stairs_worn, Worn Castle Brick Stairs
+twilightforest:castle_stairs_mossy, Mossy Castle Brick Stairs
+twilightforest:castle_pillar:0, キャッスルレンガの柱(斑)
+twilightforest:castle_pillar:1, キャッスルレンガ(斑)
+twilightforest:castle_pillar:2, キャッスルレンガの柱(チェック)
+twilightforest:castle_pillar:3, キャッスルレンガ(チェック)
+twilightforest:castle_stairs:0, キャッスルレンガの階段(斑)
+twilightforest:castle_stairs:8, キャッスルレンガの階段(チェック)
+twilightforest:castle_rune_brick:0, ルーンレンガ(赤)
+twilightforest:castle_rune_brick:1, ルーンレンガ(青)
+twilightforest:castle_rune_brick:2, ルーンレンガ(黄)
+twilightforest:castle_rune_brick:3, ルーンレンガ(紫)
+twilightforest:force_field:0, フォースフィールド(紫)
+twilightforest:force_field:1, フォースフィールド(赤)
+twilightforest:force_field:2, フォースフィールド(橙)
+twilightforest:force_field:3, フォースフィールド(緑)
+twilightforest:force_field:4, フォースフィールド(青)
+twilightforest:cinder_furnace, 灰のかまど [未実装]
+twilightforest:cinder_log, 灰の原木 [未実装]
+twilightforest:castle_door:0, キャッスルドア(黄)
+twilightforest:castle_door:1, キャッスルドア(紫)
+twilightforest:castle_door:2, キャッスルドア(赤)
+twilightforest:castle_door:3, キャッスルドア(青)
+twilightforest:miniature_structure:0, 黄昏のポータルのミニチュア [未実装]
+twilightforest:miniature_structure:1, 生垣迷路のミニチュア [未実装]
+twilightforest:miniature_structure:2, 亡霊鉱山のミニチュア [未実装]
+twilightforest:miniature_structure:3, 霊羊の遺跡のミニチュア [未実装]
+twilightforest:miniature_structure:4, キノコの城のミニチュア [未実装]
+twilightforest:miniature_structure:5, ナーガ神殿のミニチュア [未実装]
+twilightforest:miniature_structure:6, リッチタワーのミニチュア [未実装]
+twilightforest:miniature_structure:7, ラビリンスのミニチュア [未実装]
+twilightforest:miniature_structure:8, ヒドラの巣のミニチュア [未実装]
+twilightforest:miniature_structure:9, ゴブリン騎士の拠点のミニチュア [未実装]
+twilightforest:miniature_structure:10, ダークタワーのミニチュア [未実装]
+twilightforest:miniature_structure:11, イエティの洞窟のミニチュア [未実装]
+twilightforest:miniature_structure:12, オーロラ宮殿のミニチュア [未実装]
+twilightforest:miniature_structure:13, トロールの洞窟とクラウドコテージのミニチュア [未実装]
+twilightforest:miniature_structure:14, 最後の城のミニチュア [未実装]
+twilightforest:block_storage:0, 樹鉄ブロック
+twilightforest:block_storage:1, 焦熱ブロック
+twilightforest:block_storage:2, 葉鋼ブロック
+twilightforest:block_storage:3, 防寒毛皮ブロック
+twilightforest:block_storage:4, カーミナイトブロック
+twilightforest:spiral_bricks, 螺旋状の石レンガ [製作中]
+twilightforest:etched_nagastone, エッチングナーガストーン
+twilightforest:nagastone_pillar, ナーガストーンの柱
+twilightforest:nagastone_stairs:0, ナーガストーンの階段(左)
+twilightforest:nagastone_stairs:8, ナーガストーンの階段(右)
+twilightforest:etched_nagastone_mossy, エッチングナーガストーン(苔)
+twilightforest:nagastone_pillar_mossy, ナーガストーンの柱(苔)
+twilightforest:nagastone_stairs_mossy:0, ナーガストーンの階段(左)(苔)
+twilightforest:nagastone_stairs_mossy:8, ナーガストーンの階段(右)(苔)
+twilightforest:etched_nagastone_weathered, エッチングナーガストーン(風化)
+twilightforest:nagastone_pillar_weathered, ナーガストーンの柱(風化)
+twilightforest:nagastone_stairs_weathered:0, ナーガストーンの階段(左)(風化)
+twilightforest:nagastone_stairs_weathered:8, ナーガストーンの階段(右)(風化)
+twilightforest:auroralized_glass, Auroralized Glass
+twilightforest:iron_ladder, Iron Ladder
+twilightforest:terrorcotta_circle, Terrorcotta (Circular)
+twilightforest:terrorcotta_diagonal, Terrorcotta (Diagonal)
+twilightforest:stone_twist, tile.twilightforest.StonePillar.name
+twilightforest:stone_twist_thin, tile.twilightforest.StonePillarThin.name
+twilightforest:twilight_oak_planks, Twilight Oak Planks
+twilightforest:twilight_oak_stairs, Twilight Oak Stairs
+twilightforest:twilight_oak_slab:0, Twilight Oak Slab
+twilightforest:twilight_oak_button, Twilight Oak Button
+twilightforest:twilight_oak_door, Twilight Oak Door
+twilightforest:twilight_oak_trapdoor, Twilight Oak Trapdoor
+twilightforest:twilight_oak_fence, Twilight Oak Fence
+twilightforest:twilight_oak_gate, Twilight Oak Gate
+twilightforest:twilight_oak_plate, Twilight Oak Pressure Plate
+twilightforest:canopy_planks, Canopy Planks
+twilightforest:canopy_stairs, Canopy Stairs
+twilightforest:canopy_slab:0, Canopy Slab
+twilightforest:canopy_button, Canopy Button
+twilightforest:canopy_door, Canopy Door
+twilightforest:canopy_trapdoor, Canopy Trapdoor
+twilightforest:canopy_fence, Canopy Fence
+twilightforest:canopy_gate, Canopy Gate
+twilightforest:canopy_plate, Canopy Pressure Plate
+twilightforest:mangrove_planks, Mangrove Planks
+twilightforest:mangrove_stairs, Mangrove Stairs
+twilightforest:mangrove_slab:0, Mangrove Slab
+twilightforest:mangrove_button, Mangrove Button
+twilightforest:mangrove_door, Mangrove Door
+twilightforest:mangrove_trapdoor, Mangrove Trapdoor
+twilightforest:mangrove_fence, Mangrove Fence
+twilightforest:mangrove_gate, Mangrove Gate
+twilightforest:mangrove_plate, Mangrove Pressure Plate
+twilightforest:dark_planks, Darkwood Planks
+twilightforest:dark_stairs, Darkwood Stairs
+twilightforest:dark_slab:0, Darkwood Slab
+twilightforest:dark_button, Darkwood Button
+twilightforest:dark_door, Darkwood Door
+twilightforest:dark_trapdoor, Darkwood Trapdoor
+twilightforest:dark_fence, Darkwood Fence
+twilightforest:dark_gate, Darkwood Gate
+twilightforest:dark_plate, Darkwood Pressure Plate
+twilightforest:time_planks, Timewood Planks
+twilightforest:time_stairs, Timewood Stairs
+twilightforest:time_slab:0, Timewood Slab
+twilightforest:time_button, Timewood Button
+twilightforest:time_door, Timewood Door
+twilightforest:time_trapdoor, Timewood Trapdoor
+twilightforest:time_fence, Timewood Fence
+twilightforest:time_gate, Timewood Gate
+twilightforest:time_plate, Timewood Pressure Plate
+twilightforest:trans_planks, Transwood Planks
+twilightforest:trans_stairs, Transwood Stairs
+twilightforest:trans_slab:0, Transwood Slab
+twilightforest:trans_button, Transwood Button
+twilightforest:trans_door, Transwood Door
+twilightforest:trans_trapdoor, Transwood Trapdoor
+twilightforest:trans_fence, Transwood Fence
+twilightforest:trans_gate, Transwood Gate
+twilightforest:trans_plate, Transwood Pressure Plate
+twilightforest:mine_planks, Minewood Planks
+twilightforest:mine_stairs, Minewood Stairs
+twilightforest:mine_slab:0, Minewood Slab
+twilightforest:mine_button, Minewood Button
+twilightforest:mine_door, Minewood Door
+twilightforest:mine_trapdoor, Minewood Trapdoor
+twilightforest:mine_fence, Minewood Fence
+twilightforest:mine_gate, Minewood Gate
+twilightforest:mine_plate, Minewood Pressure Plate
+twilightforest:sort_planks, Sortingwood Planks
+twilightforest:sort_stairs, Sortingwood Stairs
+twilightforest:sort_slab:0, Sortingwood Slab
+twilightforest:sort_button, Sortingwood Button
+twilightforest:sort_door, Sortingwood Door
+twilightforest:sort_trapdoor, Sortingwood Trapdoor
+twilightforest:sort_fence, Sortingwood Fence
+twilightforest:sort_gate, Sortingwood Gate
+twilightforest:sort_plate, Sortingwood Pressure Plate
+tconstruct:book, 素材とあなた
+tconstruct:soil:0, グラウト
+tconstruct:soil:1, 緑色のべとつく泥
+tconstruct:soil:2, 青色のべとつく泥
+tconstruct:soil:3, 墓地の土
+tconstruct:soil:4, 聖なる土
+tconstruct:soil:5, べとつくマグマ泥
+tconstruct:slime:1, 青スライムブロック
+tconstruct:slime:2, 紫スライムブロック
+tconstruct:slime:3, 血液スライムブロック
+tconstruct:slime:4, マグマスライムブロック
+tconstruct:slime_congealed:0, 凝固した緑スライムブロック
+tconstruct:slime_congealed:1, 凝固した青スライムブロック
+tconstruct:slime_congealed:2, 凝固した紫スライムブロック
+tconstruct:slime_congealed:3, 凝固した血液スライムブロック
+tconstruct:slime_congealed:4, 凝固したマグマスライムブロック
+tconstruct:ore:0, コバルト鉱石
+tconstruct:ore:1, アーダイト鉱石
+tconstruct:firewood:0, ラヴァウッド
+tconstruct:firewood:1, ファイアウッド
+tconstruct:deco_ground:0, 泥レンガ
+tconstruct:clear_glass:0, クリアガラス
+tconstruct:clear_stained_glass:0, 白色の色付きクリアガラス
+tconstruct:clear_stained_glass:1, 橙色の色付きクリアガラス
+tconstruct:clear_stained_glass:2, 赤紫色の色付きクリアガラス
+tconstruct:clear_stained_glass:3, 空色の色付きクリアガラス
+tconstruct:clear_stained_glass:4, 黄色の色付きクリアガラス
+tconstruct:clear_stained_glass:5, 黄緑色の色付きクリアガラス
+tconstruct:clear_stained_glass:6, 桃色の色付きクリアガラス
+tconstruct:clear_stained_glass:7, 灰色の色付きクリアガラス
+tconstruct:clear_stained_glass:8, 薄灰色の色付きクリアガラス
+tconstruct:clear_stained_glass:9, 青緑色の色付きクリアガラス
+tconstruct:clear_stained_glass:10, 紫色の色付きクリアガラス
+tconstruct:clear_stained_glass:11, 青色の色付きクリアガラス
+tconstruct:clear_stained_glass:12, 茶色の色付きクリアガラス
+tconstruct:clear_stained_glass:13, 緑色の色付きクリアガラス
+tconstruct:clear_stained_glass:14, 赤色の色付きクリアガラス
+tconstruct:clear_stained_glass:15, 黒色の色付きクリアガラス
+tconstruct:deco_ground_slab:0, 泥レンガのハーフブロック
+tconstruct:firewood_slab:0, ラヴァウッドのハーフブロック
+tconstruct:firewood_slab:1, ファイアウッドのハーフブロック
+tconstruct:mudbrick_stairs:0, 泥レンガの階段
+tconstruct:firewood_stairs:0, ファイアウッドの階段
+tconstruct:lavawood_stairs:0, ラヴァウッドの階段
+tconstruct:nuggets:0, コバルト塊
+tconstruct:nuggets:1, アーダイト塊
+tconstruct:nuggets:2, マニュリン塊
+tconstruct:nuggets:3, ナイトスライム塊
+tconstruct:nuggets:4, ブタ鉄塊
+tconstruct:ingots:0, コバルトインゴット
+tconstruct:ingots:1, アーダイトインゴット
+tconstruct:ingots:2, マニュリンインゴット
+tconstruct:ingots:3, ナイトスライムインゴット
+tconstruct:ingots:4, ブタ鉄インゴット
+tconstruct:materials:0, 焼成レンガ
+tconstruct:materials:1, 泥レンガ
+tconstruct:materials:2, 乾燥レンガ
+tconstruct:materials:9, 緑スライムクリスタル
+tconstruct:materials:10, 青スライムクリスタル
+tconstruct:materials:11, マグマスライムクリスタル
+tconstruct:materials:12, エキスパンダー(垂直)
+tconstruct:materials:13, エキスパンダー(水平)
+tconstruct:materials:14, 補強
+tconstruct:materials:15, シルクの布
+tconstruct:materials:16, シルキージュエル
+tconstruct:materials:17, 死の骨
+tconstruct:materials:18, 苔玉
+tconstruct:materials:19, 修復の苔
+tconstruct:materials:50, 改造スロット作成
+tconstruct:edible:0, ベーコン
+tconstruct:edible:1, 青色のスライムボール
+tconstruct:edible:2, 紫色のスライムボール
+tconstruct:edible:3, 凝固した血液
+tconstruct:edible:4, マグマスライムボール
+tconstruct:edible:5, Slimeball
+tconstruct:edible:10, モンスタージャーキー
+tconstruct:edible:11, ビーフジャーキー
+tconstruct:edible:12, チキンジャーキー
+tconstruct:edible:13, ベーコンのジャーキー
+tconstruct:edible:14, 羊肉のジャーキー
+tconstruct:edible:15, ウサギ肉のジャーキー
+tconstruct:edible:20, 魚のジャーキー
+tconstruct:edible:21, 鮭のジャーキー
+tconstruct:edible:22, クマノミのジャーキー
+tconstruct:edible:23, フグのジャーキー
+tconstruct:edible:30, ゼラチンスライムドロップ
+tconstruct:edible:31, ゼラチンスライムドロップ
+tconstruct:edible:32, ゼラチンスライムドロップ
+tconstruct:edible:33, 凝固した血液ドロップ
+tconstruct:edible:34, ゼラチンスライムドロップ
+tconstruct:metal:0, コバルトブロック
+tconstruct:metal:1, アーダイトブロック
+tconstruct:metal:2, マニュリンブロック
+tconstruct:metal:3, ナイトスライムブロック
+tconstruct:metal:4, ブタ鉄ブロック
+tconstruct:metal:6, シルキージュエルブロック
+tconstruct:slime_dirt:0, 緑色のべとつく土
+tconstruct:slime_dirt:1, 青色のべとつく土
+tconstruct:slime_dirt:2, 紫色のべとつく土
+tconstruct:slime_dirt:3, べとつくマグマ土
+tconstruct:slime_grass:0, べとつく草ブロック
+tconstruct:slime_grass:1, 緑色のべとつく草ブロック
+tconstruct:slime_grass:2, 青色のべとつく草ブロック
+tconstruct:slime_grass:3, 紫色のべとつく草ブロック
+tconstruct:slime_grass:4, べとつくマグマ草ブロック
+tconstruct:slime_grass:5, べとつく草ブロック
+tconstruct:slime_grass:6, 緑色のべとつく草ブロック
+tconstruct:slime_grass:7, 青色のべとつく草ブロック
+tconstruct:slime_grass:8, 紫色のべとつく草ブロック
+tconstruct:slime_grass:9, べとつくマグマ草ブロック
+tconstruct:slime_grass:10, べとつく草ブロック
+tconstruct:slime_grass:11, 緑色のべとつく草ブロック
+tconstruct:slime_grass:12, 青色のべとつく草ブロック
+tconstruct:slime_grass:13, 紫色のべとつく草ブロック
+tconstruct:slime_grass:14, べとつくマグマ草ブロック
+tconstruct:slime_leaves:0, べとつく葉
+tconstruct:slime_leaves:1, べとつく葉
+tconstruct:slime_leaves:2, べとつく葉
+tconstruct:slime_grass_tall:0, べとつく草
+tconstruct:slime_grass_tall:4, べとつく草
+tconstruct:slime_grass_tall:8, べとつく草
+tconstruct:slime_grass_tall:1, べとつくシダ
+tconstruct:slime_grass_tall:5, べとつくシダ
+tconstruct:slime_grass_tall:9, べとつくシダ
+tconstruct:slime_sapling:0, 青色のスライム木の苗木
+tconstruct:slime_sapling:1, 紫色のスライム木の苗木
+tconstruct:slime_sapling:2, マグマスライム木の苗木
+tconstruct:slime_vine_blue_end:0, 青色のべとつくツタ
+tconstruct:slime_vine_blue_mid:0, 青色のべとつくツタ
+tconstruct:slime_vine_blue:0, 青色のべとつくツタ
+tconstruct:slime_vine_purple_end:0, 紫色のべとつくツタ
+tconstruct:slime_vine_purple_mid:0, 紫色のべとつくツタ
+tconstruct:slime_vine_purple:0, 紫色のべとつくツタ
+tconstruct:pattern:0, 空白の木型
+tconstruct:pattern:0, シャープニングキットの木型
+tconstruct:pattern:0, 大刀身の木型
+tconstruct:pattern:0, 鎌刃の木型
+tconstruct:pattern:0, 弓幹の木型
+tconstruct:pattern:0, 大鍔の木型
+tconstruct:pattern:0, 板の木型
+tconstruct:pattern:0, 強化持ち手の木型
+tconstruct:pattern:0, 締め具の木型
+tconstruct:pattern:0, 斧頭の木型
+tconstruct:pattern:0, 大板の木型
+tconstruct:pattern:0, 十字鍔の木型
+tconstruct:pattern:0, 矢尻の木型
+tconstruct:pattern:0, 大斧頭の木型
+tconstruct:pattern:0, ナイフ刃の木型
+tconstruct:pattern:0, 大鎌刃の木型
+tconstruct:pattern:0, 矢柄の木型
+tconstruct:pattern:0, ツルハシ頭の木型
+tconstruct:pattern:0, 刀身の木型
+tconstruct:pattern:0, 強化締め具の木型
+tconstruct:pattern:0, 欠片の木型
+tconstruct:pattern:0, 鍔の木型
+tconstruct:pattern:0, 持ち手の木型
+tconstruct:pattern:0, 弓弦の木型
+tconstruct:pattern:0, エクスカベーター頭の木型
+tconstruct:pattern:0, シャベル頭の木型
+tconstruct:pattern:0, ハンマー頭の木型
+tconstruct:pattern:0, 矢羽の木型
+tconstruct:pattern:0, 鍋の木型
+tconstruct:shard:0, 電炉の欠片
+tconstruct:shard:0, エネルギー性欠片
+tconstruct:shard:0, ヴァイブラントの欠片
+tconstruct:shard:0, 赤き欠片
+tconstruct:shard:0, 電導性欠片
+tconstruct:shard:0, 脈動する欠片
+tconstruct:shard:0, ダークスチールの欠片
+tconstruct:shard:0, 憑依された欠片
+tconstruct:shard:0, エンドの欠片
+tconstruct:shard:0, 鉄もどきの欠片
+tconstruct:shard:0, ナーガの鱗の欠片
+tconstruct:shard:0, 葉鋼の欠片
+tconstruct:shard:0, 焦熱の欠片
+tconstruct:shard:0, ナイトメタルの欠片
+tconstruct:shard:0, 木の欠片
+tconstruct:shard:0, 石の欠片
+tconstruct:shard:0, 火打石の欠片
+tconstruct:shard:0, サボテンの欠片
+tconstruct:shard:0, 骨の欠片
+tconstruct:shard:0, 黒曜石の欠片
+tconstruct:shard:0, プリズマリンの欠片
+tconstruct:shard:0, エンドストーンの欠片
+tconstruct:shard:0, 紙の欠片
+tconstruct:shard:0, スポンジの欠片
+tconstruct:shard:0, ファイアウッドの欠片
+tconstruct:shard:0, 鉄の欠片
+tconstruct:shard:0, 豚鉄の欠片
+tconstruct:shard:0, ナイトスライムの欠片
+tconstruct:shard:0, スライムの欠片
+tconstruct:shard:0, 青スライムの欠片
+tconstruct:shard:0, マグマスライムの欠片
+tconstruct:shard:0, ネザーラックの欠片
+tconstruct:shard:0, コバルトの欠片
+tconstruct:shard:0, アーダイトの欠片
+tconstruct:shard:0, マニュリンの欠片
+tconstruct:shard:0, 銅の欠片
+tconstruct:shard:0, 青銅の欠片
+tconstruct:shard:0, 鉛の欠片
+tconstruct:shard:0, 銀の欠片
+tconstruct:shard:0, エレクトラムの欠片
+tconstruct:shard:0, 鋼鉄の欠片
+tconstruct:shard:0, Magical Wooden 欠片
+tconstruct:shard:0, Evil Infused 欠片
+tconstruct:shard:0, Enchanted 欠片
+tconstruct:shard:0, Demonic 欠片
+tconstruct:sharpening_kit:0, 電炉のシャープニングキット
+tconstruct:sharpening_kit:0, エネルギー性シャープニングキット
+tconstruct:sharpening_kit:0, ヴァイブラントのシャープニングキット
+tconstruct:sharpening_kit:0, 赤きシャープニングキット
+tconstruct:sharpening_kit:0, 電導性シャープニングキット
+tconstruct:sharpening_kit:0, 脈動するシャープニングキット
+tconstruct:sharpening_kit:0, ダークスチールのシャープニングキット
+tconstruct:sharpening_kit:0, 憑依されたシャープニングキット
+tconstruct:sharpening_kit:0, エンドのシャープニングキット
+tconstruct:sharpening_kit:0, 鉄もどきのシャープニングキット
+tconstruct:sharpening_kit:0, ナーガの鱗のシャープニングキット
+tconstruct:sharpening_kit:0, 葉鋼のシャープニングキット
+tconstruct:sharpening_kit:0, 焦熱のシャープニングキット
+tconstruct:sharpening_kit:0, ナイトメタルのシャープニングキット
+tconstruct:sharpening_kit:0, 木のシャープニングキット
+tconstruct:sharpening_kit:0, 石のシャープニングキット
+tconstruct:sharpening_kit:0, 火打石のシャープニングキット
+tconstruct:sharpening_kit:0, サボテンのシャープニングキット
+tconstruct:sharpening_kit:0, 骨のシャープニングキット
+tconstruct:sharpening_kit:0, 黒曜石のシャープニングキット
+tconstruct:sharpening_kit:0, プリズマリンのシャープニングキット
+tconstruct:sharpening_kit:0, エンドストーンのシャープニングキット
+tconstruct:sharpening_kit:0, 紙のシャープニングキット
+tconstruct:sharpening_kit:0, スポンジのシャープニングキット
+tconstruct:sharpening_kit:0, ファイアウッドのシャープニングキット
+tconstruct:sharpening_kit:0, 鉄のシャープニングキット
+tconstruct:sharpening_kit:0, 豚鉄のシャープニングキット
+tconstruct:sharpening_kit:0, ナイトスライムのシャープニングキット
+tconstruct:sharpening_kit:0, スライムのシャープニングキット
+tconstruct:sharpening_kit:0, 青スライムのシャープニングキット
+tconstruct:sharpening_kit:0, マグマスライムのシャープニングキット
+tconstruct:sharpening_kit:0, ネザーラックのシャープニングキット
+tconstruct:sharpening_kit:0, コバルトのシャープニングキット
+tconstruct:sharpening_kit:0, アーダイトのシャープニングキット
+tconstruct:sharpening_kit:0, マニュリンのシャープニングキット
+tconstruct:sharpening_kit:0, 銅のシャープニングキット
+tconstruct:sharpening_kit:0, 青銅のシャープニングキット
+tconstruct:sharpening_kit:0, 鉛のシャープニングキット
+tconstruct:sharpening_kit:0, 銀のシャープニングキット
+tconstruct:sharpening_kit:0, エレクトラムのシャープニングキット
+tconstruct:sharpening_kit:0, 鋼鉄のシャープニングキット
+tconstruct:sharpening_kit:0, Magical Wooden シャープニングキット
+tconstruct:sharpening_kit:0, Evil Infused シャープニングキット
+tconstruct:sharpening_kit:0, Enchanted シャープニングキット
+tconstruct:sharpening_kit:0, Demonic シャープニングキット
+tconstruct:pick_head:0, 電炉のツルハシ頭
+tconstruct:pick_head:0, エネルギー性ツルハシ頭
+tconstruct:pick_head:0, ヴァイブラントのツルハシ頭
+tconstruct:pick_head:0, 赤きツルハシ頭
+tconstruct:pick_head:0, 電導性ツルハシ頭
+tconstruct:pick_head:0, 脈動するツルハシ頭
+tconstruct:pick_head:0, ダークスチールのツルハシ頭
+tconstruct:pick_head:0, 憑依されたツルハシ頭
+tconstruct:pick_head:0, エンドのツルハシ頭
+tconstruct:pick_head:0, 鉄もどきのツルハシ頭
+tconstruct:pick_head:0, ナーガの鱗のツルハシ頭
+tconstruct:pick_head:0, 葉鋼のツルハシ頭
+tconstruct:pick_head:0, 焦熱のツルハシ頭
+tconstruct:pick_head:0, ナイトメタルのツルハシ頭
+tconstruct:pick_head:0, 木のツルハシ頭
+tconstruct:pick_head:0, 石のツルハシ頭
+tconstruct:pick_head:0, 火打石のツルハシ頭
+tconstruct:pick_head:0, サボテンのツルハシ頭
+tconstruct:pick_head:0, 骨のツルハシ頭
+tconstruct:pick_head:0, 黒曜石のツルハシ頭
+tconstruct:pick_head:0, プリズマリンのツルハシ頭
+tconstruct:pick_head:0, エンドストーンのツルハシ頭
+tconstruct:pick_head:0, 紙のツルハシ頭
+tconstruct:pick_head:0, スポンジのツルハシ頭
+tconstruct:pick_head:0, ファイアウッドのツルハシ頭
+tconstruct:pick_head:0, 鉄のツルハシ頭
+tconstruct:pick_head:0, 豚鉄のツルハシ頭
+tconstruct:pick_head:0, ナイトスライムのツルハシ頭
+tconstruct:pick_head:0, スライムのツルハシ頭
+tconstruct:pick_head:0, 青スライムのツルハシ頭
+tconstruct:pick_head:0, マグマスライムのツルハシ頭
+tconstruct:pick_head:0, ネザーラックのツルハシ頭
+tconstruct:pick_head:0, コバルトのツルハシ頭
+tconstruct:pick_head:0, アーダイトのツルハシ頭
+tconstruct:pick_head:0, マニュリンのツルハシ頭
+tconstruct:pick_head:0, 銅のツルハシ頭
+tconstruct:pick_head:0, 青銅のツルハシ頭
+tconstruct:pick_head:0, 鉛のツルハシ頭
+tconstruct:pick_head:0, 銀のツルハシ頭
+tconstruct:pick_head:0, エレクトラムのツルハシ頭
+tconstruct:pick_head:0, 鋼鉄のツルハシ頭
+tconstruct:pick_head:0, Magical Wooden ツルハシ頭
+tconstruct:pick_head:0, Evil Infused ツルハシ頭
+tconstruct:pick_head:0, Enchanted ツルハシ頭
+tconstruct:pick_head:0, Demonic ツルハシ頭
+tconstruct:shovel_head:0, 電炉のシャベル頭
+tconstruct:shovel_head:0, エネルギー性シャベル頭
+tconstruct:shovel_head:0, ヴァイブラントのシャベル頭
+tconstruct:shovel_head:0, 赤きシャベル頭
+tconstruct:shovel_head:0, 電導性シャベル頭
+tconstruct:shovel_head:0, 脈動するシャベル頭
+tconstruct:shovel_head:0, ダークスチールのシャベル頭
+tconstruct:shovel_head:0, 憑依されたシャベル頭
+tconstruct:shovel_head:0, エンドのシャベル頭
+tconstruct:shovel_head:0, 鉄もどきのシャベル頭
+tconstruct:shovel_head:0, ナーガの鱗のシャベル頭
+tconstruct:shovel_head:0, 葉鋼のシャベル頭
+tconstruct:shovel_head:0, 焦熱のシャベル頭
+tconstruct:shovel_head:0, ナイトメタルのシャベル頭
+tconstruct:shovel_head:0, 木のシャベル頭
+tconstruct:shovel_head:0, 石のシャベル頭
+tconstruct:shovel_head:0, 火打石のシャベル頭
+tconstruct:shovel_head:0, サボテンのシャベル頭
+tconstruct:shovel_head:0, 骨のシャベル頭
+tconstruct:shovel_head:0, 黒曜石のシャベル頭
+tconstruct:shovel_head:0, プリズマリンのシャベル頭
+tconstruct:shovel_head:0, エンドストーンのシャベル頭
+tconstruct:shovel_head:0, 紙のシャベル頭
+tconstruct:shovel_head:0, スポンジのシャベル頭
+tconstruct:shovel_head:0, ファイアウッドのシャベル頭
+tconstruct:shovel_head:0, 鉄のシャベル頭
+tconstruct:shovel_head:0, 豚鉄のシャベル頭
+tconstruct:shovel_head:0, ナイトスライムのシャベル頭
+tconstruct:shovel_head:0, スライムのシャベル頭
+tconstruct:shovel_head:0, 青スライムのシャベル頭
+tconstruct:shovel_head:0, マグマスライムのシャベル頭
+tconstruct:shovel_head:0, ネザーラックのシャベル頭
+tconstruct:shovel_head:0, コバルトのシャベル頭
+tconstruct:shovel_head:0, アーダイトのシャベル頭
+tconstruct:shovel_head:0, マニュリンのシャベル頭
+tconstruct:shovel_head:0, 銅のシャベル頭
+tconstruct:shovel_head:0, 青銅のシャベル頭
+tconstruct:shovel_head:0, 鉛のシャベル頭
+tconstruct:shovel_head:0, 銀のシャベル頭
+tconstruct:shovel_head:0, エレクトラムのシャベル頭
+tconstruct:shovel_head:0, 鋼鉄のシャベル頭
+tconstruct:shovel_head:0, Magical Wooden シャベル頭
+tconstruct:shovel_head:0, Evil Infused シャベル頭
+tconstruct:shovel_head:0, Enchanted シャベル頭
+tconstruct:shovel_head:0, Demonic シャベル頭
+tconstruct:axe_head:0, 電炉の斧頭
+tconstruct:axe_head:0, エネルギー性斧頭
+tconstruct:axe_head:0, ヴァイブラントの斧頭
+tconstruct:axe_head:0, 赤き斧頭
+tconstruct:axe_head:0, 電導性斧頭
+tconstruct:axe_head:0, 脈動する斧頭
+tconstruct:axe_head:0, ダークスチールの斧頭
+tconstruct:axe_head:0, 憑依された斧頭
+tconstruct:axe_head:0, エンドの斧頭
+tconstruct:axe_head:0, 鉄もどきの斧頭
+tconstruct:axe_head:0, ナーガの鱗の斧頭
+tconstruct:axe_head:0, 葉鋼の斧頭
+tconstruct:axe_head:0, 焦熱の斧頭
+tconstruct:axe_head:0, ナイトメタルの斧頭
+tconstruct:axe_head:0, 木の斧頭
+tconstruct:axe_head:0, 石の斧頭
+tconstruct:axe_head:0, 火打石の斧頭
+tconstruct:axe_head:0, サボテンの斧頭
+tconstruct:axe_head:0, 骨の斧頭
+tconstruct:axe_head:0, 黒曜石の斧頭
+tconstruct:axe_head:0, プリズマリンの斧頭
+tconstruct:axe_head:0, エンドストーンの斧頭
+tconstruct:axe_head:0, 紙の斧頭
+tconstruct:axe_head:0, スポンジの斧頭
+tconstruct:axe_head:0, ファイアウッドの斧頭
+tconstruct:axe_head:0, 鉄の斧頭
+tconstruct:axe_head:0, 豚鉄の斧頭
+tconstruct:axe_head:0, ナイトスライムの斧頭
+tconstruct:axe_head:0, スライムの斧頭
+tconstruct:axe_head:0, 青スライムの斧頭
+tconstruct:axe_head:0, マグマスライムの斧頭
+tconstruct:axe_head:0, ネザーラックの斧頭
+tconstruct:axe_head:0, コバルトの斧頭
+tconstruct:axe_head:0, アーダイトの斧頭
+tconstruct:axe_head:0, マニュリンの斧頭
+tconstruct:axe_head:0, 銅の斧頭
+tconstruct:axe_head:0, 青銅の斧頭
+tconstruct:axe_head:0, 鉛の斧頭
+tconstruct:axe_head:0, 銀の斧頭
+tconstruct:axe_head:0, エレクトラムの斧頭
+tconstruct:axe_head:0, 鋼鉄の斧頭
+tconstruct:axe_head:0, Magical Wooden 斧頭
+tconstruct:axe_head:0, Evil Infused 斧頭
+tconstruct:axe_head:0, Enchanted 斧頭
+tconstruct:axe_head:0, Demonic 斧頭
+tconstruct:broad_axe_head:0, 電炉の大斧頭
+tconstruct:broad_axe_head:0, エネルギー性大斧頭
+tconstruct:broad_axe_head:0, ヴァイブラントの大斧頭
+tconstruct:broad_axe_head:0, 赤き大斧頭
+tconstruct:broad_axe_head:0, 電導性大斧頭
+tconstruct:broad_axe_head:0, 脈動する大斧頭
+tconstruct:broad_axe_head:0, ダークスチールの大斧頭
+tconstruct:broad_axe_head:0, 憑依された大斧頭
+tconstruct:broad_axe_head:0, エンドの大斧頭
+tconstruct:broad_axe_head:0, 鉄もどきの大斧頭
+tconstruct:broad_axe_head:0, ナーガの鱗の大斧頭
+tconstruct:broad_axe_head:0, 葉鋼の大斧頭
+tconstruct:broad_axe_head:0, 焦熱の大斧頭
+tconstruct:broad_axe_head:0, ナイトメタルの大斧頭
+tconstruct:broad_axe_head:0, 木の大斧頭
+tconstruct:broad_axe_head:0, 石の大斧頭
+tconstruct:broad_axe_head:0, 火打石の大斧頭
+tconstruct:broad_axe_head:0, サボテンの大斧頭
+tconstruct:broad_axe_head:0, 骨の大斧頭
+tconstruct:broad_axe_head:0, 黒曜石の大斧頭
+tconstruct:broad_axe_head:0, プリズマリンの大斧頭
+tconstruct:broad_axe_head:0, エンドストーンの大斧頭
+tconstruct:broad_axe_head:0, 紙の大斧頭
+tconstruct:broad_axe_head:0, スポンジの大斧頭
+tconstruct:broad_axe_head:0, ファイアウッドの大斧頭
+tconstruct:broad_axe_head:0, 鉄の大斧頭
+tconstruct:broad_axe_head:0, 豚鉄の大斧頭
+tconstruct:broad_axe_head:0, ナイトスライムの大斧頭
+tconstruct:broad_axe_head:0, スライムの大斧頭
+tconstruct:broad_axe_head:0, 青スライムの大斧頭
+tconstruct:broad_axe_head:0, マグマスライムの大斧頭
+tconstruct:broad_axe_head:0, ネザーラックの大斧頭
+tconstruct:broad_axe_head:0, コバルトの大斧頭
+tconstruct:broad_axe_head:0, アーダイトの大斧頭
+tconstruct:broad_axe_head:0, マニュリンの大斧頭
+tconstruct:broad_axe_head:0, 銅の大斧頭
+tconstruct:broad_axe_head:0, 青銅の大斧頭
+tconstruct:broad_axe_head:0, 鉛の大斧頭
+tconstruct:broad_axe_head:0, 銀の大斧頭
+tconstruct:broad_axe_head:0, エレクトラムの大斧頭
+tconstruct:broad_axe_head:0, 鋼鉄の大斧頭
+tconstruct:broad_axe_head:0, Magical Wooden 大斧頭
+tconstruct:broad_axe_head:0, Evil Infused 大斧頭
+tconstruct:broad_axe_head:0, Enchanted 大斧頭
+tconstruct:broad_axe_head:0, Demonic 大斧頭
+tconstruct:sword_blade:0, 電炉の刀身
+tconstruct:sword_blade:0, エネルギー性刀身
+tconstruct:sword_blade:0, ヴァイブラントの刀身
+tconstruct:sword_blade:0, 赤き刀身
+tconstruct:sword_blade:0, 電導性刀身
+tconstruct:sword_blade:0, 脈動する刀身
+tconstruct:sword_blade:0, ダークスチールの刀身
+tconstruct:sword_blade:0, 憑依された刀身
+tconstruct:sword_blade:0, エンドの刀身
+tconstruct:sword_blade:0, 鉄もどきの刀身
+tconstruct:sword_blade:0, ナーガの鱗の刀身
+tconstruct:sword_blade:0, 葉鋼の刀身
+tconstruct:sword_blade:0, 焦熱の刀身
+tconstruct:sword_blade:0, ナイトメタルの刀身
+tconstruct:sword_blade:0, 木の刀身
+tconstruct:sword_blade:0, 石の刀身
+tconstruct:sword_blade:0, 火打石の刀身
+tconstruct:sword_blade:0, サボテンの刀身
+tconstruct:sword_blade:0, 骨の刀身
+tconstruct:sword_blade:0, 黒曜石の刀身
+tconstruct:sword_blade:0, プリズマリンの刀身
+tconstruct:sword_blade:0, エンドストーンの刀身
+tconstruct:sword_blade:0, 紙の刀身
+tconstruct:sword_blade:0, スポンジの刀身
+tconstruct:sword_blade:0, ファイアウッドの刀身
+tconstruct:sword_blade:0, 鉄の刀身
+tconstruct:sword_blade:0, 豚鉄の刀身
+tconstruct:sword_blade:0, ナイトスライムの刀身
+tconstruct:sword_blade:0, スライムの刀身
+tconstruct:sword_blade:0, 青スライムの刀身
+tconstruct:sword_blade:0, マグマスライムの刀身
+tconstruct:sword_blade:0, ネザーラックの刀身
+tconstruct:sword_blade:0, コバルトの刀身
+tconstruct:sword_blade:0, アーダイトの刀身
+tconstruct:sword_blade:0, マニュリンの刀身
+tconstruct:sword_blade:0, 銅の刀身
+tconstruct:sword_blade:0, 青銅の刀身
+tconstruct:sword_blade:0, 鉛の刀身
+tconstruct:sword_blade:0, 銀の刀身
+tconstruct:sword_blade:0, エレクトラムの刀身
+tconstruct:sword_blade:0, 鋼鉄の刀身
+tconstruct:sword_blade:0, Magical Wooden 刀身
+tconstruct:sword_blade:0, Evil Infused 刀身
+tconstruct:sword_blade:0, Enchanted 刀身
+tconstruct:sword_blade:0, Demonic 刀身
+tconstruct:large_sword_blade:0, 電炉の大刀身
+tconstruct:large_sword_blade:0, エネルギー性大刀身
+tconstruct:large_sword_blade:0, ヴァイブラントの大刀身
+tconstruct:large_sword_blade:0, 赤き大刀身
+tconstruct:large_sword_blade:0, 電導性大刀身
+tconstruct:large_sword_blade:0, 脈動する大刀身
+tconstruct:large_sword_blade:0, ダークスチールの大刀身
+tconstruct:large_sword_blade:0, 憑依された大刀身
+tconstruct:large_sword_blade:0, エンドの大刀身
+tconstruct:large_sword_blade:0, 鉄もどきの大刀身
+tconstruct:large_sword_blade:0, ナーガの鱗の大刀身
+tconstruct:large_sword_blade:0, 葉鋼の大刀身
+tconstruct:large_sword_blade:0, 焦熱の大刀身
+tconstruct:large_sword_blade:0, ナイトメタルの大刀身
+tconstruct:large_sword_blade:0, 木の大刀身
+tconstruct:large_sword_blade:0, 石の大刀身
+tconstruct:large_sword_blade:0, 火打石の大刀身
+tconstruct:large_sword_blade:0, サボテンの大刀身
+tconstruct:large_sword_blade:0, 骨の大刀身
+tconstruct:large_sword_blade:0, 黒曜石の大刀身
+tconstruct:large_sword_blade:0, プリズマリンの大刀身
+tconstruct:large_sword_blade:0, エンドストーンの大刀身
+tconstruct:large_sword_blade:0, 紙の大刀身
+tconstruct:large_sword_blade:0, スポンジの大刀身
+tconstruct:large_sword_blade:0, ファイアウッドの大刀身
+tconstruct:large_sword_blade:0, 鉄の大刀身
+tconstruct:large_sword_blade:0, 豚鉄の大刀身
+tconstruct:large_sword_blade:0, ナイトスライムの大刀身
+tconstruct:large_sword_blade:0, スライムの大刀身
+tconstruct:large_sword_blade:0, 青スライムの大刀身
+tconstruct:large_sword_blade:0, マグマスライムの大刀身
+tconstruct:large_sword_blade:0, ネザーラックの大刀身
+tconstruct:large_sword_blade:0, コバルトの大刀身
+tconstruct:large_sword_blade:0, アーダイトの大刀身
+tconstruct:large_sword_blade:0, マニュリンの大刀身
+tconstruct:large_sword_blade:0, 銅の大刀身
+tconstruct:large_sword_blade:0, 青銅の大刀身
+tconstruct:large_sword_blade:0, 鉛の大刀身
+tconstruct:large_sword_blade:0, 銀の大刀身
+tconstruct:large_sword_blade:0, エレクトラムの大刀身
+tconstruct:large_sword_blade:0, 鋼鉄の大刀身
+tconstruct:large_sword_blade:0, Magical Wooden 大刀身
+tconstruct:large_sword_blade:0, Evil Infused 大刀身
+tconstruct:large_sword_blade:0, Enchanted 大刀身
+tconstruct:large_sword_blade:0, Demonic 大刀身
+tconstruct:hammer_head:0, 電炉のハンマー頭
+tconstruct:hammer_head:0, エネルギー性ハンマー頭
+tconstruct:hammer_head:0, ヴァイブラントのハンマー頭
+tconstruct:hammer_head:0, 赤きハンマー頭
+tconstruct:hammer_head:0, 電導性ハンマー頭
+tconstruct:hammer_head:0, 脈動するハンマー頭
+tconstruct:hammer_head:0, ダークスチールのハンマー頭
+tconstruct:hammer_head:0, 憑依されたハンマー頭
+tconstruct:hammer_head:0, エンドのハンマー頭
+tconstruct:hammer_head:0, 鉄もどきのハンマー頭
+tconstruct:hammer_head:0, ナーガの鱗のハンマー頭
+tconstruct:hammer_head:0, 葉鋼のハンマー頭
+tconstruct:hammer_head:0, 焦熱のハンマー頭
+tconstruct:hammer_head:0, ナイトメタルのハンマー頭
+tconstruct:hammer_head:0, 木のハンマー頭
+tconstruct:hammer_head:0, 石のハンマー頭
+tconstruct:hammer_head:0, 火打石のハンマー頭
+tconstruct:hammer_head:0, サボテンのハンマー頭
+tconstruct:hammer_head:0, 骨のハンマー頭
+tconstruct:hammer_head:0, 黒曜石のハンマー頭
+tconstruct:hammer_head:0, プリズマリンのハンマー頭
+tconstruct:hammer_head:0, エンドストーンのハンマー頭
+tconstruct:hammer_head:0, 紙のハンマー頭
+tconstruct:hammer_head:0, スポンジのハンマー頭
+tconstruct:hammer_head:0, ファイアウッドのハンマー頭
+tconstruct:hammer_head:0, 鉄のハンマー頭
+tconstruct:hammer_head:0, 豚鉄のハンマー頭
+tconstruct:hammer_head:0, ナイトスライムのハンマー頭
+tconstruct:hammer_head:0, スライムのハンマー頭
+tconstruct:hammer_head:0, 青スライムのハンマー頭
+tconstruct:hammer_head:0, マグマスライムのハンマー頭
+tconstruct:hammer_head:0, ネザーラックのハンマー頭
+tconstruct:hammer_head:0, コバルトのハンマー頭
+tconstruct:hammer_head:0, アーダイトのハンマー頭
+tconstruct:hammer_head:0, マニュリンのハンマー頭
+tconstruct:hammer_head:0, 銅のハンマー頭
+tconstruct:hammer_head:0, 青銅のハンマー頭
+tconstruct:hammer_head:0, 鉛のハンマー頭
+tconstruct:hammer_head:0, 銀のハンマー頭
+tconstruct:hammer_head:0, エレクトラムのハンマー頭
+tconstruct:hammer_head:0, 鋼鉄のハンマー頭
+tconstruct:hammer_head:0, Magical Wooden ハンマー頭
+tconstruct:hammer_head:0, Evil Infused ハンマー頭
+tconstruct:hammer_head:0, Enchanted ハンマー頭
+tconstruct:hammer_head:0, Demonic ハンマー頭
+tconstruct:excavator_head:0, 電炉のエクスカベーター頭
+tconstruct:excavator_head:0, エネルギー性エクスカベーター頭
+tconstruct:excavator_head:0, ヴァイブラントのエクスカベーター頭
+tconstruct:excavator_head:0, 赤きエクスカベーター頭
+tconstruct:excavator_head:0, 電導性エクスカベーター頭
+tconstruct:excavator_head:0, 脈動するエクスカベーター頭
+tconstruct:excavator_head:0, ダークスチールのエクスカベーター頭
+tconstruct:excavator_head:0, 憑依されたエクスカベーター頭
+tconstruct:excavator_head:0, エンドのエクスカベーター頭
+tconstruct:excavator_head:0, 鉄もどきのエクスカベーター頭
+tconstruct:excavator_head:0, ナーガの鱗のエクスカベーター頭
+tconstruct:excavator_head:0, 葉鋼のエクスカベーター頭
+tconstruct:excavator_head:0, 焦熱のエクスカベーター頭
+tconstruct:excavator_head:0, ナイトメタルのエクスカベーター頭
+tconstruct:excavator_head:0, 木のエクスカベーター頭
+tconstruct:excavator_head:0, 石のエクスカベーター頭
+tconstruct:excavator_head:0, 火打石のエクスカベーター頭
+tconstruct:excavator_head:0, サボテンのエクスカベーター頭
+tconstruct:excavator_head:0, 骨のエクスカベーター頭
+tconstruct:excavator_head:0, 黒曜石のエクスカベーター頭
+tconstruct:excavator_head:0, プリズマリンのエクスカベーター頭
+tconstruct:excavator_head:0, エンドストーンのエクスカベーター頭
+tconstruct:excavator_head:0, 紙のエクスカベーター頭
+tconstruct:excavator_head:0, スポンジのエクスカベーター頭
+tconstruct:excavator_head:0, ファイアウッドのエクスカベーター頭
+tconstruct:excavator_head:0, 鉄のエクスカベーター頭
+tconstruct:excavator_head:0, 豚鉄のエクスカベーター頭
+tconstruct:excavator_head:0, ナイトスライムのエクスカベーター頭
+tconstruct:excavator_head:0, スライムのエクスカベーター頭
+tconstruct:excavator_head:0, 青スライムのエクスカベーター頭
+tconstruct:excavator_head:0, マグマスライムのエクスカベーター頭
+tconstruct:excavator_head:0, ネザーラックのエクスカベーター頭
+tconstruct:excavator_head:0, コバルトのエクスカベーター頭
+tconstruct:excavator_head:0, アーダイトのエクスカベーター頭
+tconstruct:excavator_head:0, マニュリンのエクスカベーター頭
+tconstruct:excavator_head:0, 銅のエクスカベーター頭
+tconstruct:excavator_head:0, 青銅のエクスカベーター頭
+tconstruct:excavator_head:0, 鉛のエクスカベーター頭
+tconstruct:excavator_head:0, 銀のエクスカベーター頭
+tconstruct:excavator_head:0, エレクトラムのエクスカベーター頭
+tconstruct:excavator_head:0, 鋼鉄のエクスカベーター頭
+tconstruct:excavator_head:0, Magical Wooden エクスカベーター頭
+tconstruct:excavator_head:0, Evil Infused エクスカベーター頭
+tconstruct:excavator_head:0, Enchanted エクスカベーター頭
+tconstruct:excavator_head:0, Demonic エクスカベーター頭
+tconstruct:kama_head:0, 電炉の鎌刃
+tconstruct:kama_head:0, エネルギー性鎌刃
+tconstruct:kama_head:0, ヴァイブラントの鎌刃
+tconstruct:kama_head:0, 赤き鎌刃
+tconstruct:kama_head:0, 電導性鎌刃
+tconstruct:kama_head:0, 脈動する鎌刃
+tconstruct:kama_head:0, ダークスチールの鎌刃
+tconstruct:kama_head:0, 憑依された鎌刃
+tconstruct:kama_head:0, エンドの鎌刃
+tconstruct:kama_head:0, 鉄もどきの鎌刃
+tconstruct:kama_head:0, ナーガの鱗の鎌刃
+tconstruct:kama_head:0, 葉鋼の鎌刃
+tconstruct:kama_head:0, 焦熱の鎌刃
+tconstruct:kama_head:0, ナイトメタルの鎌刃
+tconstruct:kama_head:0, 木の鎌刃
+tconstruct:kama_head:0, 石の鎌刃
+tconstruct:kama_head:0, 火打石の鎌刃
+tconstruct:kama_head:0, サボテンの鎌刃
+tconstruct:kama_head:0, 骨の鎌刃
+tconstruct:kama_head:0, 黒曜石の鎌刃
+tconstruct:kama_head:0, プリズマリンの鎌刃
+tconstruct:kama_head:0, エンドストーンの鎌刃
+tconstruct:kama_head:0, 紙の鎌刃
+tconstruct:kama_head:0, スポンジの鎌刃
+tconstruct:kama_head:0, ファイアウッドの鎌刃
+tconstruct:kama_head:0, 鉄の鎌刃
+tconstruct:kama_head:0, 豚鉄の鎌刃
+tconstruct:kama_head:0, ナイトスライムの鎌刃
+tconstruct:kama_head:0, スライムの鎌刃
+tconstruct:kama_head:0, 青スライムの鎌刃
+tconstruct:kama_head:0, マグマスライムの鎌刃
+tconstruct:kama_head:0, ネザーラックの鎌刃
+tconstruct:kama_head:0, コバルトの鎌刃
+tconstruct:kama_head:0, アーダイトの鎌刃
+tconstruct:kama_head:0, マニュリンの鎌刃
+tconstruct:kama_head:0, 銅の鎌刃
+tconstruct:kama_head:0, 青銅の鎌刃
+tconstruct:kama_head:0, 鉛の鎌刃
+tconstruct:kama_head:0, 銀の鎌刃
+tconstruct:kama_head:0, エレクトラムの鎌刃
+tconstruct:kama_head:0, 鋼鉄の鎌刃
+tconstruct:kama_head:0, Magical Wooden 鎌刃
+tconstruct:kama_head:0, Evil Infused 鎌刃
+tconstruct:kama_head:0, Enchanted 鎌刃
+tconstruct:kama_head:0, Demonic 鎌刃
+tconstruct:scythe_head:0, 電炉の大鎌刃
+tconstruct:scythe_head:0, エネルギー性大鎌刃
+tconstruct:scythe_head:0, ヴァイブラントの大鎌刃
+tconstruct:scythe_head:0, 赤き大鎌刃
+tconstruct:scythe_head:0, 電導性大鎌刃
+tconstruct:scythe_head:0, 脈動する大鎌刃
+tconstruct:scythe_head:0, ダークスチールの大鎌刃
+tconstruct:scythe_head:0, 憑依された大鎌刃
+tconstruct:scythe_head:0, エンドの大鎌刃
+tconstruct:scythe_head:0, 鉄もどきの大鎌刃
+tconstruct:scythe_head:0, ナーガの鱗の大鎌刃
+tconstruct:scythe_head:0, 葉鋼の大鎌刃
+tconstruct:scythe_head:0, 焦熱の大鎌刃
+tconstruct:scythe_head:0, ナイトメタルの大鎌刃
+tconstruct:scythe_head:0, 木の大鎌刃
+tconstruct:scythe_head:0, 石の大鎌刃
+tconstruct:scythe_head:0, 火打石の大鎌刃
+tconstruct:scythe_head:0, サボテンの大鎌刃
+tconstruct:scythe_head:0, 骨の大鎌刃
+tconstruct:scythe_head:0, 黒曜石の大鎌刃
+tconstruct:scythe_head:0, プリズマリンの大鎌刃
+tconstruct:scythe_head:0, エンドストーンの大鎌刃
+tconstruct:scythe_head:0, 紙の大鎌刃
+tconstruct:scythe_head:0, スポンジの大鎌刃
+tconstruct:scythe_head:0, ファイアウッドの大鎌刃
+tconstruct:scythe_head:0, 鉄の大鎌刃
+tconstruct:scythe_head:0, 豚鉄の大鎌刃
+tconstruct:scythe_head:0, ナイトスライムの大鎌刃
+tconstruct:scythe_head:0, スライムの大鎌刃
+tconstruct:scythe_head:0, 青スライムの大鎌刃
+tconstruct:scythe_head:0, マグマスライムの大鎌刃
+tconstruct:scythe_head:0, ネザーラックの大鎌刃
+tconstruct:scythe_head:0, コバルトの大鎌刃
+tconstruct:scythe_head:0, アーダイトの大鎌刃
+tconstruct:scythe_head:0, マニュリンの大鎌刃
+tconstruct:scythe_head:0, 銅の大鎌刃
+tconstruct:scythe_head:0, 青銅の大鎌刃
+tconstruct:scythe_head:0, 鉛の大鎌刃
+tconstruct:scythe_head:0, 銀の大鎌刃
+tconstruct:scythe_head:0, エレクトラムの大鎌刃
+tconstruct:scythe_head:0, 鋼鉄の大鎌刃
+tconstruct:scythe_head:0, Magical Wooden 大鎌刃
+tconstruct:scythe_head:0, Evil Infused 大鎌刃
+tconstruct:scythe_head:0, Enchanted 大鎌刃
+tconstruct:scythe_head:0, Demonic 大鎌刃
+tconstruct:pan_head:0, 電炉の鍋
+tconstruct:pan_head:0, エネルギー性鍋
+tconstruct:pan_head:0, ヴァイブラントの鍋
+tconstruct:pan_head:0, 赤き鍋
+tconstruct:pan_head:0, 電導性鍋
+tconstruct:pan_head:0, 脈動する鍋
+tconstruct:pan_head:0, ダークスチールの鍋
+tconstruct:pan_head:0, 憑依された鍋
+tconstruct:pan_head:0, エンドの鍋
+tconstruct:pan_head:0, 鉄もどきの鍋
+tconstruct:pan_head:0, ナーガの鱗の鍋
+tconstruct:pan_head:0, 葉鋼の鍋
+tconstruct:pan_head:0, 焦熱の鍋
+tconstruct:pan_head:0, ナイトメタルの鍋
+tconstruct:pan_head:0, 木の鍋
+tconstruct:pan_head:0, 石の鍋
+tconstruct:pan_head:0, 火打石の鍋
+tconstruct:pan_head:0, サボテンの鍋
+tconstruct:pan_head:0, 骨の鍋
+tconstruct:pan_head:0, 黒曜石の鍋
+tconstruct:pan_head:0, プリズマリンの鍋
+tconstruct:pan_head:0, エンドストーンの鍋
+tconstruct:pan_head:0, 紙の鍋
+tconstruct:pan_head:0, スポンジの鍋
+tconstruct:pan_head:0, ファイアウッドの鍋
+tconstruct:pan_head:0, 鉄の鍋
+tconstruct:pan_head:0, 豚鉄の鍋
+tconstruct:pan_head:0, ナイトスライムの鍋
+tconstruct:pan_head:0, スライムの鍋
+tconstruct:pan_head:0, 青スライムの鍋
+tconstruct:pan_head:0, マグマスライムの鍋
+tconstruct:pan_head:0, ネザーラックの鍋
+tconstruct:pan_head:0, コバルトの鍋
+tconstruct:pan_head:0, アーダイトの鍋
+tconstruct:pan_head:0, マニュリンの鍋
+tconstruct:pan_head:0, 銅の鍋
+tconstruct:pan_head:0, 青銅の鍋
+tconstruct:pan_head:0, 鉛の鍋
+tconstruct:pan_head:0, 銀の鍋
+tconstruct:pan_head:0, エレクトラムの鍋
+tconstruct:pan_head:0, 鋼鉄の鍋
+tconstruct:pan_head:0, Magical Wooden 鍋
+tconstruct:pan_head:0, Evil Infused 鍋
+tconstruct:pan_head:0, Enchanted 鍋
+tconstruct:pan_head:0, Demonic 鍋
+tconstruct:sign_head:0, 電炉の板
+tconstruct:sign_head:0, エネルギー性板
+tconstruct:sign_head:0, ヴァイブラントの板
+tconstruct:sign_head:0, 赤き板
+tconstruct:sign_head:0, 電導性板
+tconstruct:sign_head:0, 脈動する板
+tconstruct:sign_head:0, ダークスチールの板
+tconstruct:sign_head:0, 憑依された板
+tconstruct:sign_head:0, エンドの板
+tconstruct:sign_head:0, 鉄もどきの板
+tconstruct:sign_head:0, ナーガの鱗の板
+tconstruct:sign_head:0, 葉鋼の板
+tconstruct:sign_head:0, 焦熱の板
+tconstruct:sign_head:0, ナイトメタルの板
+tconstruct:sign_head:0, 木の板
+tconstruct:sign_head:0, 石の板
+tconstruct:sign_head:0, 火打石の板
+tconstruct:sign_head:0, サボテンの板
+tconstruct:sign_head:0, 骨の板
+tconstruct:sign_head:0, 黒曜石の板
+tconstruct:sign_head:0, プリズマリンの板
+tconstruct:sign_head:0, エンドストーンの板
+tconstruct:sign_head:0, 紙の板
+tconstruct:sign_head:0, スポンジの板
+tconstruct:sign_head:0, ファイアウッドの板
+tconstruct:sign_head:0, 鉄の板
+tconstruct:sign_head:0, 豚鉄の板
+tconstruct:sign_head:0, ナイトスライムの板
+tconstruct:sign_head:0, スライムの板
+tconstruct:sign_head:0, 青スライムの板
+tconstruct:sign_head:0, マグマスライムの板
+tconstruct:sign_head:0, ネザーラックの板
+tconstruct:sign_head:0, コバルトの板
+tconstruct:sign_head:0, アーダイトの板
+tconstruct:sign_head:0, マニュリンの板
+tconstruct:sign_head:0, 銅の板
+tconstruct:sign_head:0, 青銅の板
+tconstruct:sign_head:0, 鉛の板
+tconstruct:sign_head:0, 銀の板
+tconstruct:sign_head:0, エレクトラムの板
+tconstruct:sign_head:0, 鋼鉄の板
+tconstruct:sign_head:0, Magical Wooden 板
+tconstruct:sign_head:0, Evil Infused 板
+tconstruct:sign_head:0, Enchanted 板
+tconstruct:sign_head:0, Demonic 板
+tconstruct:tool_rod:0, 電炉の持ち手
+tconstruct:tool_rod:0, エネルギー性持ち手
+tconstruct:tool_rod:0, ヴァイブラントの持ち手
+tconstruct:tool_rod:0, 赤き持ち手
+tconstruct:tool_rod:0, 電導性持ち手
+tconstruct:tool_rod:0, 脈動する持ち手
+tconstruct:tool_rod:0, ダークスチールの持ち手
+tconstruct:tool_rod:0, 憑依された持ち手
+tconstruct:tool_rod:0, エンドの持ち手
+tconstruct:tool_rod:0, 鉄もどきの持ち手
+tconstruct:tool_rod:0, 葉鋼の持ち手
+tconstruct:tool_rod:0, 焦熱の持ち手
+tconstruct:tool_rod:0, ナイトメタルの持ち手
+tconstruct:tool_rod:0, 木の持ち手
+tconstruct:tool_rod:0, 石の持ち手
+tconstruct:tool_rod:0, 火打石の持ち手
+tconstruct:tool_rod:0, サボテンの持ち手
+tconstruct:tool_rod:0, 骨の持ち手
+tconstruct:tool_rod:0, 黒曜石の持ち手
+tconstruct:tool_rod:0, プリズマリンの持ち手
+tconstruct:tool_rod:0, エンドストーンの持ち手
+tconstruct:tool_rod:0, 紙の持ち手
+tconstruct:tool_rod:0, スポンジの持ち手
+tconstruct:tool_rod:0, ファイアウッドの持ち手
+tconstruct:tool_rod:0, 鉄の持ち手
+tconstruct:tool_rod:0, 豚鉄の持ち手
+tconstruct:tool_rod:0, ナイトスライムの持ち手
+tconstruct:tool_rod:0, スライムの持ち手
+tconstruct:tool_rod:0, 青スライムの持ち手
+tconstruct:tool_rod:0, マグマスライムの持ち手
+tconstruct:tool_rod:0, ネザーラックの持ち手
+tconstruct:tool_rod:0, コバルトの持ち手
+tconstruct:tool_rod:0, アーダイトの持ち手
+tconstruct:tool_rod:0, マニュリンの持ち手
+tconstruct:tool_rod:0, 銅の持ち手
+tconstruct:tool_rod:0, 青銅の持ち手
+tconstruct:tool_rod:0, 鉛の持ち手
+tconstruct:tool_rod:0, 銀の持ち手
+tconstruct:tool_rod:0, エレクトラムの持ち手
+tconstruct:tool_rod:0, 鋼鉄の持ち手
+tconstruct:tool_rod:0, Magical Wooden 持ち手
+tconstruct:tool_rod:0, Evil Infused 持ち手
+tconstruct:tool_rod:0, Enchanted 持ち手
+tconstruct:tool_rod:0, Demonic 持ち手
+tconstruct:tough_tool_rod:0, 電炉の強化持ち手
+tconstruct:tough_tool_rod:0, エネルギー性強化持ち手
+tconstruct:tough_tool_rod:0, ヴァイブラントの強化持ち手
+tconstruct:tough_tool_rod:0, 赤き強化持ち手
+tconstruct:tough_tool_rod:0, 電導性強化持ち手
+tconstruct:tough_tool_rod:0, 脈動する強化持ち手
+tconstruct:tough_tool_rod:0, ダークスチールの強化持ち手
+tconstruct:tough_tool_rod:0, 憑依された強化持ち手
+tconstruct:tough_tool_rod:0, エンドの強化持ち手
+tconstruct:tough_tool_rod:0, 鉄もどきの強化持ち手
+tconstruct:tough_tool_rod:0, 葉鋼の強化持ち手
+tconstruct:tough_tool_rod:0, 焦熱の強化持ち手
+tconstruct:tough_tool_rod:0, ナイトメタルの強化持ち手
+tconstruct:tough_tool_rod:0, 木の強化持ち手
+tconstruct:tough_tool_rod:0, 石の強化持ち手
+tconstruct:tough_tool_rod:0, 火打石の強化持ち手
+tconstruct:tough_tool_rod:0, サボテンの強化持ち手
+tconstruct:tough_tool_rod:0, 骨の強化持ち手
+tconstruct:tough_tool_rod:0, 黒曜石の強化持ち手
+tconstruct:tough_tool_rod:0, プリズマリンの強化持ち手
+tconstruct:tough_tool_rod:0, エンドストーンの強化持ち手
+tconstruct:tough_tool_rod:0, 紙の強化持ち手
+tconstruct:tough_tool_rod:0, スポンジの強化持ち手
+tconstruct:tough_tool_rod:0, ファイアウッドの強化持ち手
+tconstruct:tough_tool_rod:0, 鉄の強化持ち手
+tconstruct:tough_tool_rod:0, 豚鉄の強化持ち手
+tconstruct:tough_tool_rod:0, ナイトスライムの強化持ち手
+tconstruct:tough_tool_rod:0, スライムの強化持ち手
+tconstruct:tough_tool_rod:0, 青スライムの強化持ち手
+tconstruct:tough_tool_rod:0, マグマスライムの強化持ち手
+tconstruct:tough_tool_rod:0, ネザーラックの強化持ち手
+tconstruct:tough_tool_rod:0, コバルトの強化持ち手
+tconstruct:tough_tool_rod:0, アーダイトの強化持ち手
+tconstruct:tough_tool_rod:0, マニュリンの強化持ち手
+tconstruct:tough_tool_rod:0, 銅の強化持ち手
+tconstruct:tough_tool_rod:0, 青銅の強化持ち手
+tconstruct:tough_tool_rod:0, 鉛の強化持ち手
+tconstruct:tough_tool_rod:0, 銀の強化持ち手
+tconstruct:tough_tool_rod:0, エレクトラムの強化持ち手
+tconstruct:tough_tool_rod:0, 鋼鉄の強化持ち手
+tconstruct:tough_tool_rod:0, Magical Wooden 強化持ち手
+tconstruct:tough_tool_rod:0, Evil Infused 強化持ち手
+tconstruct:tough_tool_rod:0, Enchanted 強化持ち手
+tconstruct:tough_tool_rod:0, Demonic 強化持ち手
+tconstruct:binding:0, 電炉の締め具
+tconstruct:binding:0, エネルギー性締め具
+tconstruct:binding:0, ヴァイブラントの締め具
+tconstruct:binding:0, 赤き締め具
+tconstruct:binding:0, 電導性締め具
+tconstruct:binding:0, 脈動する締め具
+tconstruct:binding:0, ダークスチールの締め具
+tconstruct:binding:0, 憑依された締め具
+tconstruct:binding:0, エンドの締め具
+tconstruct:binding:0, 鉄もどきの締め具
+tconstruct:binding:0, 葉鋼の締め具
+tconstruct:binding:0, 焦熱の締め具
+tconstruct:binding:0, ナイトメタルの締め具
+tconstruct:binding:0, 木の締め具
+tconstruct:binding:0, 石の締め具
+tconstruct:binding:0, 火打石の締め具
+tconstruct:binding:0, サボテンの締め具
+tconstruct:binding:0, 骨の締め具
+tconstruct:binding:0, 黒曜石の締め具
+tconstruct:binding:0, プリズマリンの締め具
+tconstruct:binding:0, エンドストーンの締め具
+tconstruct:binding:0, 紙の締め具
+tconstruct:binding:0, スポンジの締め具
+tconstruct:binding:0, ファイアウッドの締め具
+tconstruct:binding:0, 鉄の締め具
+tconstruct:binding:0, 豚鉄の締め具
+tconstruct:binding:0, ナイトスライムの締め具
+tconstruct:binding:0, スライムの締め具
+tconstruct:binding:0, 青スライムの締め具
+tconstruct:binding:0, マグマスライムの締め具
+tconstruct:binding:0, ネザーラックの締め具
+tconstruct:binding:0, コバルトの締め具
+tconstruct:binding:0, アーダイトの締め具
+tconstruct:binding:0, マニュリンの締め具
+tconstruct:binding:0, 銅の締め具
+tconstruct:binding:0, 青銅の締め具
+tconstruct:binding:0, 鉛の締め具
+tconstruct:binding:0, 銀の締め具
+tconstruct:binding:0, エレクトラムの締め具
+tconstruct:binding:0, 鋼鉄の締め具
+tconstruct:binding:0, Magical Wooden 締め具
+tconstruct:binding:0, Evil Infused 締め具
+tconstruct:binding:0, Enchanted 締め具
+tconstruct:binding:0, Demonic 締め具
+tconstruct:tough_binding:0, 電炉の強化締め具
+tconstruct:tough_binding:0, エネルギー性強化締め具
+tconstruct:tough_binding:0, ヴァイブラントの強化締め具
+tconstruct:tough_binding:0, 赤き強化締め具
+tconstruct:tough_binding:0, 電導性強化締め具
+tconstruct:tough_binding:0, 脈動する強化締め具
+tconstruct:tough_binding:0, ダークスチールの強化締め具
+tconstruct:tough_binding:0, 憑依された強化締め具
+tconstruct:tough_binding:0, エンドの強化締め具
+tconstruct:tough_binding:0, 鉄もどきの強化締め具
+tconstruct:tough_binding:0, 葉鋼の強化締め具
+tconstruct:tough_binding:0, 焦熱の強化締め具
+tconstruct:tough_binding:0, ナイトメタルの強化締め具
+tconstruct:tough_binding:0, 木の強化締め具
+tconstruct:tough_binding:0, 石の強化締め具
+tconstruct:tough_binding:0, 火打石の強化締め具
+tconstruct:tough_binding:0, サボテンの強化締め具
+tconstruct:tough_binding:0, 骨の強化締め具
+tconstruct:tough_binding:0, 黒曜石の強化締め具
+tconstruct:tough_binding:0, プリズマリンの強化締め具
+tconstruct:tough_binding:0, エンドストーンの強化締め具
+tconstruct:tough_binding:0, 紙の強化締め具
+tconstruct:tough_binding:0, スポンジの強化締め具
+tconstruct:tough_binding:0, ファイアウッドの強化締め具
+tconstruct:tough_binding:0, 鉄の強化締め具
+tconstruct:tough_binding:0, 豚鉄の強化締め具
+tconstruct:tough_binding:0, ナイトスライムの強化締め具
+tconstruct:tough_binding:0, スライムの強化締め具
+tconstruct:tough_binding:0, 青スライムの強化締め具
+tconstruct:tough_binding:0, マグマスライムの強化締め具
+tconstruct:tough_binding:0, ネザーラックの強化締め具
+tconstruct:tough_binding:0, コバルトの強化締め具
+tconstruct:tough_binding:0, アーダイトの強化締め具
+tconstruct:tough_binding:0, マニュリンの強化締め具
+tconstruct:tough_binding:0, 銅の強化締め具
+tconstruct:tough_binding:0, 青銅の強化締め具
+tconstruct:tough_binding:0, 鉛の強化締め具
+tconstruct:tough_binding:0, 銀の強化締め具
+tconstruct:tough_binding:0, エレクトラムの強化締め具
+tconstruct:tough_binding:0, 鋼鉄の強化締め具
+tconstruct:tough_binding:0, Magical Wooden 強化締め具
+tconstruct:tough_binding:0, Evil Infused 強化締め具
+tconstruct:tough_binding:0, Enchanted 強化締め具
+tconstruct:tough_binding:0, Demonic 強化締め具
+tconstruct:wide_guard:0, 電炉の大鍔
+tconstruct:wide_guard:0, エネルギー性大鍔
+tconstruct:wide_guard:0, ヴァイブラントの大鍔
+tconstruct:wide_guard:0, 赤き大鍔
+tconstruct:wide_guard:0, 電導性大鍔
+tconstruct:wide_guard:0, 脈動する大鍔
+tconstruct:wide_guard:0, ダークスチールの大鍔
+tconstruct:wide_guard:0, 憑依された大鍔
+tconstruct:wide_guard:0, エンドの大鍔
+tconstruct:wide_guard:0, 鉄もどきの大鍔
+tconstruct:wide_guard:0, 葉鋼の大鍔
+tconstruct:wide_guard:0, 焦熱の大鍔
+tconstruct:wide_guard:0, ナイトメタルの大鍔
+tconstruct:wide_guard:0, 木の大鍔
+tconstruct:wide_guard:0, 石の大鍔
+tconstruct:wide_guard:0, 火打石の大鍔
+tconstruct:wide_guard:0, サボテンの大鍔
+tconstruct:wide_guard:0, 骨の大鍔
+tconstruct:wide_guard:0, 黒曜石の大鍔
+tconstruct:wide_guard:0, プリズマリンの大鍔
+tconstruct:wide_guard:0, エンドストーンの大鍔
+tconstruct:wide_guard:0, 紙の大鍔
+tconstruct:wide_guard:0, スポンジの大鍔
+tconstruct:wide_guard:0, ファイアウッドの大鍔
+tconstruct:wide_guard:0, 鉄の大鍔
+tconstruct:wide_guard:0, 豚鉄の大鍔
+tconstruct:wide_guard:0, ナイトスライムの大鍔
+tconstruct:wide_guard:0, スライムの大鍔
+tconstruct:wide_guard:0, 青スライムの大鍔
+tconstruct:wide_guard:0, マグマスライムの大鍔
+tconstruct:wide_guard:0, ネザーラックの大鍔
+tconstruct:wide_guard:0, コバルトの大鍔
+tconstruct:wide_guard:0, アーダイトの大鍔
+tconstruct:wide_guard:0, マニュリンの大鍔
+tconstruct:wide_guard:0, 銅の大鍔
+tconstruct:wide_guard:0, 青銅の大鍔
+tconstruct:wide_guard:0, 鉛の大鍔
+tconstruct:wide_guard:0, 銀の大鍔
+tconstruct:wide_guard:0, エレクトラムの大鍔
+tconstruct:wide_guard:0, 鋼鉄の大鍔
+tconstruct:wide_guard:0, Magical Wooden 大鍔
+tconstruct:wide_guard:0, Evil Infused 大鍔
+tconstruct:wide_guard:0, Enchanted 大鍔
+tconstruct:wide_guard:0, Demonic 大鍔
+tconstruct:hand_guard:0, 電炉の鍔
+tconstruct:hand_guard:0, エネルギー性鍔
+tconstruct:hand_guard:0, ヴァイブラントの鍔
+tconstruct:hand_guard:0, 赤き鍔
+tconstruct:hand_guard:0, 電導性鍔
+tconstruct:hand_guard:0, 脈動する鍔
+tconstruct:hand_guard:0, ダークスチールの鍔
+tconstruct:hand_guard:0, 憑依された鍔
+tconstruct:hand_guard:0, エンドの鍔
+tconstruct:hand_guard:0, 鉄もどきの鍔
+tconstruct:hand_guard:0, 葉鋼の鍔
+tconstruct:hand_guard:0, 焦熱の鍔
+tconstruct:hand_guard:0, ナイトメタルの鍔
+tconstruct:hand_guard:0, 木の鍔
+tconstruct:hand_guard:0, 石の鍔
+tconstruct:hand_guard:0, 火打石の鍔
+tconstruct:hand_guard:0, サボテンの鍔
+tconstruct:hand_guard:0, 骨の鍔
+tconstruct:hand_guard:0, 黒曜石の鍔
+tconstruct:hand_guard:0, プリズマリンの鍔
+tconstruct:hand_guard:0, エンドストーンの鍔
+tconstruct:hand_guard:0, 紙の鍔
+tconstruct:hand_guard:0, スポンジの鍔
+tconstruct:hand_guard:0, ファイアウッドの鍔
+tconstruct:hand_guard:0, 鉄の鍔
+tconstruct:hand_guard:0, 豚鉄の鍔
+tconstruct:hand_guard:0, ナイトスライムの鍔
+tconstruct:hand_guard:0, スライムの鍔
+tconstruct:hand_guard:0, 青スライムの鍔
+tconstruct:hand_guard:0, マグマスライムの鍔
+tconstruct:hand_guard:0, ネザーラックの鍔
+tconstruct:hand_guard:0, コバルトの鍔
+tconstruct:hand_guard:0, アーダイトの鍔
+tconstruct:hand_guard:0, マニュリンの鍔
+tconstruct:hand_guard:0, 銅の鍔
+tconstruct:hand_guard:0, 青銅の鍔
+tconstruct:hand_guard:0, 鉛の鍔
+tconstruct:hand_guard:0, 銀の鍔
+tconstruct:hand_guard:0, エレクトラムの鍔
+tconstruct:hand_guard:0, 鋼鉄の鍔
+tconstruct:hand_guard:0, Magical Wooden 鍔
+tconstruct:hand_guard:0, Evil Infused 鍔
+tconstruct:hand_guard:0, Enchanted 鍔
+tconstruct:hand_guard:0, Demonic 鍔
+tconstruct:cross_guard:0, 電炉の十字鍔
+tconstruct:cross_guard:0, エネルギー性十字鍔
+tconstruct:cross_guard:0, ヴァイブラントの十字鍔
+tconstruct:cross_guard:0, 赤き十字鍔
+tconstruct:cross_guard:0, 電導性十字鍔
+tconstruct:cross_guard:0, 脈動する十字鍔
+tconstruct:cross_guard:0, ダークスチールの十字鍔
+tconstruct:cross_guard:0, 憑依された十字鍔
+tconstruct:cross_guard:0, エンドの十字鍔
+tconstruct:cross_guard:0, 鉄もどきの十字鍔
+tconstruct:cross_guard:0, 葉鋼の十字鍔
+tconstruct:cross_guard:0, 焦熱の十字鍔
+tconstruct:cross_guard:0, ナイトメタルの十字鍔
+tconstruct:cross_guard:0, 木の十字鍔
+tconstruct:cross_guard:0, 石の十字鍔
+tconstruct:cross_guard:0, 火打石の十字鍔
+tconstruct:cross_guard:0, サボテンの十字鍔
+tconstruct:cross_guard:0, 骨の十字鍔
+tconstruct:cross_guard:0, 黒曜石の十字鍔
+tconstruct:cross_guard:0, プリズマリンの十字鍔
+tconstruct:cross_guard:0, エンドストーンの十字鍔
+tconstruct:cross_guard:0, 紙の十字鍔
+tconstruct:cross_guard:0, スポンジの十字鍔
+tconstruct:cross_guard:0, ファイアウッドの十字鍔
+tconstruct:cross_guard:0, 鉄の十字鍔
+tconstruct:cross_guard:0, 豚鉄の十字鍔
+tconstruct:cross_guard:0, ナイトスライムの十字鍔
+tconstruct:cross_guard:0, スライムの十字鍔
+tconstruct:cross_guard:0, 青スライムの十字鍔
+tconstruct:cross_guard:0, マグマスライムの十字鍔
+tconstruct:cross_guard:0, ネザーラックの十字鍔
+tconstruct:cross_guard:0, コバルトの十字鍔
+tconstruct:cross_guard:0, アーダイトの十字鍔
+tconstruct:cross_guard:0, マニュリンの十字鍔
+tconstruct:cross_guard:0, 銅の十字鍔
+tconstruct:cross_guard:0, 青銅の十字鍔
+tconstruct:cross_guard:0, 鉛の十字鍔
+tconstruct:cross_guard:0, 銀の十字鍔
+tconstruct:cross_guard:0, エレクトラムの十字鍔
+tconstruct:cross_guard:0, 鋼鉄の十字鍔
+tconstruct:cross_guard:0, Magical Wooden 十字鍔
+tconstruct:cross_guard:0, Evil Infused 十字鍔
+tconstruct:cross_guard:0, Enchanted 十字鍔
+tconstruct:cross_guard:0, Demonic 十字鍔
+tconstruct:large_plate:0, 電炉の大板
+tconstruct:large_plate:0, エネルギー性大板
+tconstruct:large_plate:0, ヴァイブラントの大板
+tconstruct:large_plate:0, 赤き大板
+tconstruct:large_plate:0, 電導性大板
+tconstruct:large_plate:0, 脈動する大板
+tconstruct:large_plate:0, ダークスチールの大板
+tconstruct:large_plate:0, 憑依された大板
+tconstruct:large_plate:0, エンドの大板
+tconstruct:large_plate:0, 鉄もどきの大板
+tconstruct:large_plate:0, ナーガの鱗の大板
+tconstruct:large_plate:0, 葉鋼の大板
+tconstruct:large_plate:0, 焦熱の大板
+tconstruct:large_plate:0, ナイトメタルの大板
+tconstruct:large_plate:0, 木の大板
+tconstruct:large_plate:0, 石の大板
+tconstruct:large_plate:0, 火打石の大板
+tconstruct:large_plate:0, サボテンの大板
+tconstruct:large_plate:0, 骨の大板
+tconstruct:large_plate:0, 黒曜石の大板
+tconstruct:large_plate:0, プリズマリンの大板
+tconstruct:large_plate:0, エンドストーンの大板
+tconstruct:large_plate:0, 紙の大板
+tconstruct:large_plate:0, スポンジの大板
+tconstruct:large_plate:0, ファイアウッドの大板
+tconstruct:large_plate:0, 鉄の大板
+tconstruct:large_plate:0, 豚鉄の大板
+tconstruct:large_plate:0, ナイトスライムの大板
+tconstruct:large_plate:0, スライムの大板
+tconstruct:large_plate:0, 青スライムの大板
+tconstruct:large_plate:0, マグマスライムの大板
+tconstruct:large_plate:0, ネザーラックの大板
+tconstruct:large_plate:0, コバルトの大板
+tconstruct:large_plate:0, アーダイトの大板
+tconstruct:large_plate:0, マニュリンの大板
+tconstruct:large_plate:0, 銅の大板
+tconstruct:large_plate:0, 青銅の大板
+tconstruct:large_plate:0, 鉛の大板
+tconstruct:large_plate:0, 銀の大板
+tconstruct:large_plate:0, エレクトラムの大板
+tconstruct:large_plate:0, 鋼鉄の大板
+tconstruct:large_plate:0, Magical Wooden 大板
+tconstruct:large_plate:0, Evil Infused 大板
+tconstruct:large_plate:0, Enchanted 大板
+tconstruct:large_plate:0, Demonic 大板
+tconstruct:knife_blade:0, 電炉のナイフ刃
+tconstruct:knife_blade:0, エネルギー性ナイフ刃
+tconstruct:knife_blade:0, ヴァイブラントのナイフ刃
+tconstruct:knife_blade:0, 赤きナイフ刃
+tconstruct:knife_blade:0, 電導性ナイフ刃
+tconstruct:knife_blade:0, 脈動するナイフ刃
+tconstruct:knife_blade:0, ダークスチールのナイフ刃
+tconstruct:knife_blade:0, 憑依されたナイフ刃
+tconstruct:knife_blade:0, エンドのナイフ刃
+tconstruct:knife_blade:0, 鉄もどきのナイフ刃
+tconstruct:knife_blade:0, 葉鋼のナイフ刃
+tconstruct:knife_blade:0, 焦熱のナイフ刃
+tconstruct:knife_blade:0, ナイトメタルのナイフ刃
+tconstruct:knife_blade:0, 木のナイフ刃
+tconstruct:knife_blade:0, 石のナイフ刃
+tconstruct:knife_blade:0, 火打石のナイフ刃
+tconstruct:knife_blade:0, サボテンのナイフ刃
+tconstruct:knife_blade:0, 骨のナイフ刃
+tconstruct:knife_blade:0, 黒曜石のナイフ刃
+tconstruct:knife_blade:0, プリズマリンのナイフ刃
+tconstruct:knife_blade:0, エンドストーンのナイフ刃
+tconstruct:knife_blade:0, 紙のナイフ刃
+tconstruct:knife_blade:0, スポンジのナイフ刃
+tconstruct:knife_blade:0, ファイアウッドのナイフ刃
+tconstruct:knife_blade:0, 鉄のナイフ刃
+tconstruct:knife_blade:0, 豚鉄のナイフ刃
+tconstruct:knife_blade:0, ナイトスライムのナイフ刃
+tconstruct:knife_blade:0, スライムのナイフ刃
+tconstruct:knife_blade:0, 青スライムのナイフ刃
+tconstruct:knife_blade:0, マグマスライムのナイフ刃
+tconstruct:knife_blade:0, ネザーラックのナイフ刃
+tconstruct:knife_blade:0, コバルトのナイフ刃
+tconstruct:knife_blade:0, アーダイトのナイフ刃
+tconstruct:knife_blade:0, マニュリンのナイフ刃
+tconstruct:knife_blade:0, 銅のナイフ刃
+tconstruct:knife_blade:0, 青銅のナイフ刃
+tconstruct:knife_blade:0, 鉛のナイフ刃
+tconstruct:knife_blade:0, 銀のナイフ刃
+tconstruct:knife_blade:0, エレクトラムのナイフ刃
+tconstruct:knife_blade:0, 鋼鉄のナイフ刃
+tconstruct:knife_blade:0, Magical Wooden ナイフ刃
+tconstruct:knife_blade:0, Evil Infused ナイフ刃
+tconstruct:knife_blade:0, Enchanted ナイフ刃
+tconstruct:knife_blade:0, Demonic ナイフ刃
+tconstruct:bow_limb:0, 電炉の弓幹
+tconstruct:bow_limb:0, エネルギー性弓幹
+tconstruct:bow_limb:0, ヴァイブラントの弓幹
+tconstruct:bow_limb:0, 赤き弓幹
+tconstruct:bow_limb:0, 電導性弓幹
+tconstruct:bow_limb:0, 脈動する弓幹
+tconstruct:bow_limb:0, ダークスチールの弓幹
+tconstruct:bow_limb:0, 憑依された弓幹
+tconstruct:bow_limb:0, エンドの弓幹
+tconstruct:bow_limb:0, 鉄もどきの弓幹
+tconstruct:bow_limb:0, ナーガの鱗の弓幹
+tconstruct:bow_limb:0, 葉鋼の弓幹
+tconstruct:bow_limb:0, 焦熱の弓幹
+tconstruct:bow_limb:0, 木の弓幹
+tconstruct:bow_limb:0, 石の弓幹
+tconstruct:bow_limb:0, 火打石の弓幹
+tconstruct:bow_limb:0, サボテンの弓幹
+tconstruct:bow_limb:0, 骨の弓幹
+tconstruct:bow_limb:0, 黒曜石の弓幹
+tconstruct:bow_limb:0, プリズマリンの弓幹
+tconstruct:bow_limb:0, エンドストーンの弓幹
+tconstruct:bow_limb:0, 紙の弓幹
+tconstruct:bow_limb:0, スポンジの弓幹
+tconstruct:bow_limb:0, ファイアウッドの弓幹
+tconstruct:bow_limb:0, 鉄の弓幹
+tconstruct:bow_limb:0, 豚鉄の弓幹
+tconstruct:bow_limb:0, ナイトスライムの弓幹
+tconstruct:bow_limb:0, スライムの弓幹
+tconstruct:bow_limb:0, 青スライムの弓幹
+tconstruct:bow_limb:0, マグマスライムの弓幹
+tconstruct:bow_limb:0, ネザーラックの弓幹
+tconstruct:bow_limb:0, コバルトの弓幹
+tconstruct:bow_limb:0, アーダイトの弓幹
+tconstruct:bow_limb:0, マニュリンの弓幹
+tconstruct:bow_limb:0, 銅の弓幹
+tconstruct:bow_limb:0, 青銅の弓幹
+tconstruct:bow_limb:0, 鉛の弓幹
+tconstruct:bow_limb:0, 銀の弓幹
+tconstruct:bow_limb:0, エレクトラムの弓幹
+tconstruct:bow_limb:0, 鋼鉄の弓幹
+tconstruct:bow_limb:0, Magical Wooden 弓幹
+tconstruct:bow_limb:0, Demonic 弓幹
+tconstruct:bow_string:0, 憑依された弓弦
+tconstruct:bow_string:0, 糸の弓弦
+tconstruct:bow_string:0, スライムツタの弓弦
+tconstruct:bow_string:0, スライムツタの弓弦
+tconstruct:bow_string:0, ツタの弓弦
+tconstruct:arrow_head:0, 電炉の矢尻
+tconstruct:arrow_head:0, エネルギー性矢尻
+tconstruct:arrow_head:0, ヴァイブラントの矢尻
+tconstruct:arrow_head:0, 赤き矢尻
+tconstruct:arrow_head:0, 電導性矢尻
+tconstruct:arrow_head:0, 脈動する矢尻
+tconstruct:arrow_head:0, ダークスチールの矢尻
+tconstruct:arrow_head:0, 憑依された矢尻
+tconstruct:arrow_head:0, エンドの矢尻
+tconstruct:arrow_head:0, 鉄もどきの矢尻
+tconstruct:arrow_head:0, ナーガの鱗の矢尻
+tconstruct:arrow_head:0, 葉鋼の矢尻
+tconstruct:arrow_head:0, 焦熱の矢尻
+tconstruct:arrow_head:0, ナイトメタルの矢尻
+tconstruct:arrow_head:0, 木の矢尻
+tconstruct:arrow_head:0, 石の矢尻
+tconstruct:arrow_head:0, 火打石の矢尻
+tconstruct:arrow_head:0, サボテンの矢尻
+tconstruct:arrow_head:0, 骨の矢尻
+tconstruct:arrow_head:0, 黒曜石の矢尻
+tconstruct:arrow_head:0, プリズマリンの矢尻
+tconstruct:arrow_head:0, エンドストーンの矢尻
+tconstruct:arrow_head:0, 紙の矢尻
+tconstruct:arrow_head:0, スポンジの矢尻
+tconstruct:arrow_head:0, ファイアウッドの矢尻
+tconstruct:arrow_head:0, 鉄の矢尻
+tconstruct:arrow_head:0, 豚鉄の矢尻
+tconstruct:arrow_head:0, ナイトスライムの矢尻
+tconstruct:arrow_head:0, スライムの矢尻
+tconstruct:arrow_head:0, 青スライムの矢尻
+tconstruct:arrow_head:0, マグマスライムの矢尻
+tconstruct:arrow_head:0, ネザーラックの矢尻
+tconstruct:arrow_head:0, コバルトの矢尻
+tconstruct:arrow_head:0, アーダイトの矢尻
+tconstruct:arrow_head:0, マニュリンの矢尻
+tconstruct:arrow_head:0, 銅の矢尻
+tconstruct:arrow_head:0, 青銅の矢尻
+tconstruct:arrow_head:0, 鉛の矢尻
+tconstruct:arrow_head:0, 銀の矢尻
+tconstruct:arrow_head:0, エレクトラムの矢尻
+tconstruct:arrow_head:0, 鋼鉄の矢尻
+tconstruct:arrow_head:0, Magical Wooden 矢尻
+tconstruct:arrow_head:0, Evil Infused 矢尻
+tconstruct:arrow_head:0, Enchanted 矢尻
+tconstruct:arrow_head:0, Demonic 矢尻
+tconstruct:arrow_shaft:0, ナーガの鱗の矢柄
+tconstruct:arrow_shaft:0, 葉鋼の矢柄
+tconstruct:arrow_shaft:0, 焦熱の矢柄
+tconstruct:arrow_shaft:0, 木の矢柄
+tconstruct:arrow_shaft:0, 骨の矢柄
+tconstruct:arrow_shaft:0, ブレイズロッドの矢柄
+tconstruct:arrow_shaft:0, サトウキビの矢柄
+tconstruct:arrow_shaft:0, 氷の矢柄
+tconstruct:arrow_shaft:0, エンドロッドの矢柄
+tconstruct:fletching:0, 葉鋼の矢羽
+tconstruct:fletching:0, カラスの羽根の矢羽
+tconstruct:fletching:0, 羽の矢羽
+tconstruct:fletching:0, スライムリーフの矢羽
+tconstruct:fletching:0, スライムリーフの矢羽
+tconstruct:fletching:0, スライムリーフの矢羽
+tconstruct:fletching:0, 葉の矢羽
+tconstruct:bolt_core:0, ナーガの鱗-鉄 ボルトコア
+tconstruct:bolt_core:0, 葉鋼-鉄 ボルトコア
+tconstruct:bolt_core:0, 焦熱-鉄 ボルトコア
+tconstruct:bolt_core:0, 木-鉄 ボルトコア
+tconstruct:bolt_core:0, 骨-鉄 ボルトコア
+tconstruct:bolt_core:0, ブレイズロッド-鉄 ボルトコア
+tconstruct:bolt_core:0, サトウキビ-鉄 ボルトコア
+tconstruct:bolt_core:0, 氷-鉄 ボルトコア
+tconstruct:bolt_core:0, エンドロッド-鉄 ボルトコア
+tconstruct:tooltables:0, 改良作業台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:1, 木型作成台
+tconstruct:tooltables:4, パターンチェスト
+tconstruct:tooltables:2, 部品作成台
+tconstruct:tooltables:2, 部品作成台
+tconstruct:tooltables:2, 部品作成台
+tconstruct:tooltables:2, 部品作成台
+tconstruct:tooltables:2, 部品作成台
+tconstruct:tooltables:2, 部品作成台
+tconstruct:tooltables:2, 部品作成台
+tconstruct:tooltables:2, 部品作成台
+tconstruct:tooltables:2, 部品作成台
+tconstruct:tooltables:2, 部品作成台
+tconstruct:tooltables:2, 部品作成台
+tconstruct:tooltables:2, 部品作成台
+tconstruct:tooltables:2, 部品作成台
+tconstruct:tooltables:2, 部品作成台
+tconstruct:tooltables:2, 部品作成台
+tconstruct:tooltables:2, 部品作成台
+tconstruct:tooltables:5, 部品チェスト
+tconstruct:tooltables:3, 道具組立台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:toolforge:0, 道具鍛冶台
+tconstruct:pickaxe, ツルハシ
+tconstruct:shovel, シャベル
+tconstruct:hatchet, ハチェット
+tconstruct:mattock, マトック
+tconstruct:kama, 鎌
+tconstruct:hammer, ハンマー
+tconstruct:excavator, エクスカベーター
+tconstruct:lumberaxe, まさかり
+tconstruct:scythe, 大鎌
+tconstruct:broadsword, ブロードソード
+tconstruct:longsword, ロングソード
+tconstruct:rapier, レイピア
+tconstruct:frypan, フライパン
+tconstruct:battlesign, 看板
+tconstruct:cleaver, クリーバー
+tconstruct:shortbow, ショートボウ
+tconstruct:longbow, ロングボウ
+tconstruct:crossbow, クロスボウ
+tconstruct:arrow, 矢
+tconstruct:bolt, ボルト
+tconstruct:shuriken, 手裏剣
+tconstruct:seared:0, 焼成石
+tconstruct:seared:1, 焼成丸石
+tconstruct:seared:2, 舗装された焼成石
+tconstruct:seared:3, 焼成レンガ
+tconstruct:seared:4, ひび割れた焼成レンガ
+tconstruct:seared:5, 焼成レンガ(ファンシー)
+tconstruct:seared:6, 焼成レンガ(スクエア)
+tconstruct:seared:7, 焼成石(道)
+tconstruct:seared:8, 焼成石(クリーパー)
+tconstruct:seared:9, 焼成レンガ(トライアングル)
+tconstruct:seared:10, 焼成レンガ(小)
+tconstruct:seared:11, 焼成石(タイル)
+tconstruct:smeltery_controller:0, 溶解炉コントローラー
+tconstruct:seared_tank:0, 焼成タンク
+tconstruct:seared_tank:1, 焼成ゲージ
+tconstruct:seared_tank:2, 焼成ウィンドウ
+tconstruct:faucet:0, 水栓
+tconstruct:channel:0, 鋳造樋
+tconstruct:casting:0, 鋳造台
+tconstruct:casting:1, 鋳造鉢
+tconstruct:smeltery_io:0, 溶解炉排液口
+tconstruct:seared_glass:0, 焼成ガラス
+tconstruct:seared_furnace_controller:0, 焼成かまど制御器
+tconstruct:tinker_tank_controller:0, ティンカータンク制御器
+tconstruct:seared_slab:0, 焼成石のハーフブロック
+tconstruct:seared_slab:1, 焼成丸石のハーフブロック
+tconstruct:seared_slab:2, 舗装された焼成石のハーフブロック
+tconstruct:seared_slab:3, 焼成レンガのハーフブロック
+tconstruct:seared_slab:4, ひび割れた焼成レンガのハーフブロック
+tconstruct:seared_slab:5, 焼成レンガ(ファンシー)のハーフブロック
+tconstruct:seared_slab:6, 焼成レンガ(スクエア)のハーフブロック
+tconstruct:seared_slab:7, 焼成石(道)のハーフブロック
+tconstruct:seared_slab2:0, 焼成石(クリーパー)のハーフブロック
+tconstruct:seared_slab2:1, 焼成レンガ(トライアングル)のハーフブロック
+tconstruct:seared_slab2:2, 焼成レンガ(小)のハーフブロック
+tconstruct:seared_slab2:3, 焼成石(タイル)のハーフブロック
+tconstruct:seared_stairs_stone:0, 焼成石の階段
+tconstruct:seared_stairs_cobble:0, 焼成丸石の階段
+tconstruct:seared_stairs_paver:0, 舗装された焼成石の階段
+tconstruct:seared_stairs_brick:0, 焼成レンガの階段
+tconstruct:seared_stairs_brick_cracked:0, ひび割れた焼成レンガの階段
+tconstruct:seared_stairs_brick_fancy:0, 焼成レンガ(ファンシー)の階段
+tconstruct:seared_stairs_brick_square:0, 焼成レンガ(スクエア)の階段
+tconstruct:seared_stairs_brick_triangle:0, 焼成レンガ(トライアングル)の階段
+tconstruct:seared_stairs_brick_small:0, 焼成レンガ(小)の階段
+tconstruct:seared_stairs_road:0, 焼成レンガ(道)の階段
+tconstruct:seared_stairs_tile:0, 焼成レンガ(タイル)の階段
+tconstruct:seared_stairs_creeper:0, 焼成レンガ(クリーパー)の階段
+tconstruct:cast:0, 空白の鋳型
+tconstruct:cast:0, シャープニングキットの鋳型
+tconstruct:cast:0, 大刀身の鋳型
+tconstruct:cast:0, 鎌刃の鋳型
+tconstruct:cast:0, 弓幹の鋳型
+tconstruct:cast:0, 大鍔の鋳型
+tconstruct:cast:0, 板の鋳型
+tconstruct:cast:0, 強化持ち手の鋳型
+tconstruct:cast:0, 締め具の鋳型
+tconstruct:cast:0, 斧頭の鋳型
+tconstruct:cast:0, 大板の鋳型
+tconstruct:cast:0, 十字鍔の鋳型
+tconstruct:cast:0, 矢尻の鋳型
+tconstruct:cast:0, 大斧頭の鋳型
+tconstruct:cast:0, ナイフ刃の鋳型
+tconstruct:cast:0, 大鎌刃の鋳型
+tconstruct:cast:0, 矢柄の鋳型
+tconstruct:cast:0, ツルハシ頭の鋳型
+tconstruct:cast:0, 刀身の鋳型
+tconstruct:cast:0, 強化締め具の鋳型
+tconstruct:cast:0, 欠片の鋳型
+tconstruct:cast:0, 鍔の鋳型
+tconstruct:cast:0, 持ち手の鋳型
+tconstruct:cast:0, 弓弦の鋳型
+tconstruct:cast:0, エクスカベーター頭の鋳型
+tconstruct:cast:0, シャベル頭の鋳型
+tconstruct:cast:0, ハンマー頭の鋳型
+tconstruct:cast:0, 鍋の鋳型
+tconstruct:cast_custom:0, インゴットの鋳型
+tconstruct:cast_custom:1, 塊の鋳型
+tconstruct:cast_custom:2, 宝石の鋳型
+tconstruct:cast_custom:3, プレートの鋳型
+tconstruct:cast_custom:4, 歯車の鋳型
+tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
+tconstruct:clay_cast:0, シャープニングキットの粘土鋳型
+tconstruct:clay_cast:0, 大刀身の粘土鋳型
+tconstruct:clay_cast:0, 鎌刃の粘土鋳型
+tconstruct:clay_cast:0, 弓幹の粘土鋳型
+tconstruct:clay_cast:0, 大鍔の粘土鋳型
+tconstruct:clay_cast:0, 板の粘土鋳型
+tconstruct:clay_cast:0, 強化持ち手の粘土鋳型
+tconstruct:clay_cast:0, 締め具の粘土鋳型
+tconstruct:clay_cast:0, 斧頭の粘土鋳型
+tconstruct:clay_cast:0, 大板の粘土鋳型
+tconstruct:clay_cast:0, 十字鍔の粘土鋳型
+tconstruct:clay_cast:0, 矢尻の粘土鋳型
+tconstruct:clay_cast:0, 大斧頭の粘土鋳型
+tconstruct:clay_cast:0, ナイフ刃の粘土鋳型
+tconstruct:clay_cast:0, 大鎌刃の粘土鋳型
+tconstruct:clay_cast:0, 矢柄の粘土鋳型
+tconstruct:clay_cast:0, ツルハシ頭の粘土鋳型
+tconstruct:clay_cast:0, 刀身の粘土鋳型
+tconstruct:clay_cast:0, 強化締め具の粘土鋳型
+tconstruct:clay_cast:0, 欠片の粘土鋳型
+tconstruct:clay_cast:0, 鍔の粘土鋳型
+tconstruct:clay_cast:0, 持ち手の粘土鋳型
+tconstruct:clay_cast:0, 弓弦の粘土鋳型
+tconstruct:clay_cast:0, エクスカベーター頭の粘土鋳型
+tconstruct:clay_cast:0, シャベル頭の粘土鋳型
+tconstruct:clay_cast:0, ハンマー頭の粘土鋳型
+tconstruct:clay_cast:0, 鍋の粘土鋳型
+tconstruct:stone_torch:0, 石の松明
+tconstruct:stone_ladder:0, 石のはしご
+tconstruct:punji:0, 竹槍トラップ
+tconstruct:rack:0, アイテムラック
+tconstruct:rack:1, 乾燥ラック
+tconstruct:wood_rail:0, 木のレール
+tconstruct:wood_rail_trapdoor:0, トラップドア付きの木のレール
+tconstruct:wooden_hopper:0, Wooden Hopper
+tconstruct:slime_channel:0, 緑スライムチャネル
+tconstruct:slime_channel:1, 青スライムチャネル
+tconstruct:slime_channel:2, 紫スライムチャネル
+tconstruct:slime_channel:3, 血液チャネル
+tconstruct:slime_channel:4, マグマスライムチャネル
+tconstruct:dried_clay:0, 乾燥粘土
+tconstruct:dried_clay:1, 乾燥粘土レンガ
+tconstruct:dried_clay_slab:0, 乾燥粘土のハーフブロック
+tconstruct:dried_clay_slab:1, 乾燥粘土レンガのハーフブロック
+tconstruct:dried_clay_stairs:0, 乾燥粘土の階段
+tconstruct:dried_brick_stairs:0, 乾燥粘土レンガの階段
+tconstruct:brownstone:0, 滑らかなブラウンストーン
+tconstruct:brownstone:1, 粗いブラウンストーン
+tconstruct:brownstone:2, 舗装されたブラウンストーン
+tconstruct:brownstone:3, ブラウンストーンレンガ
+tconstruct:brownstone:4, ひび割れたブラウンストーンレンガ
+tconstruct:brownstone:5, ブラウンストーンレンガ(ファンシー)
+tconstruct:brownstone:6, ブラウンストーンレンガ(スクエア)
+tconstruct:brownstone:7, ブラウンストーン(道)
+tconstruct:brownstone:8, ブラウンストーン(クリーパー)
+tconstruct:brownstone:9, ブラウンストーンレンガ(トライアングル)
+tconstruct:brownstone:10, ブラウンストーンレンガ(小)
+tconstruct:brownstone:11, ブラウンストーン(タイル)
+tconstruct:brownstone_slab:0, 滑らかなブラウンストーンのハーフブロック
+tconstruct:brownstone_slab:1, 粗いブラウンストーンのハーフブロック
+tconstruct:brownstone_slab:2, 舗装されたブラウンストーンのハーフブロック
+tconstruct:brownstone_slab:3, ブラウンストーンレンガのハーフブロック
+tconstruct:brownstone_slab:4, ひび割れたブラウンストーンのハーフブロック
+tconstruct:brownstone_slab:5, ブラウンストーンレンガ(ファンシー)のハーフブロック
+tconstruct:brownstone_slab:6, ブラウンストーンレンガ(スクエア)のハーフブロック
+tconstruct:brownstone_slab:7, ブラウンストーン(道)のハーフブロック
+tconstruct:brownstone_slab2:0, ブラウンストーン(クリーパー)のハーフブロック
+tconstruct:brownstone_slab2:1, ブラウンストーンレンガ(トライアングル)のハーフブロック
+tconstruct:brownstone_slab2:2, ブラウンストーンレンガ(小)のハーフブロック
+tconstruct:brownstone_slab2:3, ブラウンストーン(タイル)のハーフブロック
+tconstruct:brownstone_stairs_smooth:0, 滑らかなブラウンストーンの階段
+tconstruct:brownstone_stairs_rough:0, 粗いブラウンストーンの階段
+tconstruct:brownstone_stairs_paver:0, 舗装されたブラウンストーンの階段
+tconstruct:brownstone_stairs_brick:0, ブラウンストーンレンガの階段
+tconstruct:brownstone_stairs_brick_cracked:0, ひび割れたブラウンストーンの階段
+tconstruct:brownstone_stairs_brick_fancy:0, ブラウンストーンレンガ(ファンシー)の階段
+tconstruct:brownstone_stairs_brick_square:0, ブラウンストーンレンガ(スクエア)の階段
+tconstruct:brownstone_stairs_brick_triangle:0, ブラウンストーンレンガ(トライアングル)の階段
+tconstruct:brownstone_stairs_brick_small:0, ブラウンストーンレンガ(小)の階段
+tconstruct:brownstone_stairs_road:0, ブラウンストーン(道)の階段
+tconstruct:brownstone_stairs_tile:0, ブラウンストーン(タイル)の階段
+tconstruct:brownstone_stairs_creeper:0, ブラウンストーン(クリーパー)の階段
+tconstruct:slimesling:0, Slimesling
+tconstruct:slimesling:1, Slimesling
+tconstruct:slimesling:2, Slimesling
+tconstruct:slimesling:3, Congealed Bloodsling
+tconstruct:slimesling:4, Slimesling
+tconstruct:slime_boots:0, スライムブーツ
+tconstruct:slime_boots:1, スライムブーツ
+tconstruct:slime_boots:2, スライムブーツ
+tconstruct:slime_boots:3, 凝固した血液のブーツ
+tconstruct:slime_boots:4, スライムブーツ
+tconstruct:piggybackpack, ピギーバックパック
+tconstruct:throwball:0, グロウボール
+tconstruct:throwball:1, EFLN
+tconstruct:stone_stick, 石の棒
+tconstruct:fancy_frame:0, ファンシーな額縁
+tconstruct:fancy_frame:1, アルミブラスの額縁
+tconstruct:fancy_frame:2, コバルトの額縁
+tconstruct:fancy_frame:3, アーダイトの額縁
+tconstruct:fancy_frame:4, マニュリンの額縁
+tconstruct:fancy_frame:5, 金の額縁
+tconstruct:fancy_frame:6, 透明な額縁
+tconstruct:moms_spaghetti, ママのスパゲッティ
 mekanism:electricbow, エレクトリックボウ
 mekanism:dust:0, 鉄の粉
 mekanism:dust:1, 金の粉
@@ -4888,24 +7000,6 @@ teslacorelib:machine_case, Machine Case
 teslacorelib:speed_tier1, Speed Upgrade I
 teslacorelib:speed_tier2, Speed Upgrade II
 teslacorelib:wrench, Tesla Wrench
-ironchest:iron_gold_chest_upgrade, 鉄から金のチェストにアップグレード
-ironchest:gold_diamond_chest_upgrade, 金からダイヤのチェストにアップグレード
-ironchest:copper_silver_chest_upgrade, 銅から銀のチェストにアップグレード
-ironchest:silver_gold_chest_upgrade, 銀から金のチェストにアップグレード
-ironchest:copper_iron_chest_upgrade, 銅から鉄のチェストにアップグレード
-ironchest:diamond_crystal_chest_upgrade, ダイヤからクリスタルチェストにアップグレード
-ironchest:wood_iron_chest_upgrade, 通常から鉄のチェストにアップグレード
-ironchest:wood_copper_chest_upgrade, 通常から銅のチェストにアップグレード
-ironchest:diamond_obsidian_chest_upgrade, ダイヤから黒曜石のチェストにアップグレード
-ironchest:iron_gold_shulker_upgrade, 鉄から金のシュルカーボックスにアップグレード
-ironchest:gold_diamond_shulker_upgrade, 金からダイヤのシュルカーボックスにアップグレード
-ironchest:copper_silver_shulker_upgrade, 銅から銀のシュルカーボックスにアップグレード
-ironchest:silver_gold_shulker_upgrade, 銀から金のシュルカーボックスにアップグレード
-ironchest:copper_iron_shulker_upgrade, 銅から鉄のシュルカーボックスにアップグレード
-ironchest:diamond_crystal_shulker_upgrade, ダイヤからクリスタルシュルカーボックスにアップグレード
-ironchest:vanilla_iron_shulker_upgrade, 通常から鉄のシュルカーボックスにアップグレード
-ironchest:vanilla_copper_shulker_upgrade, 通常から銅のシュルカーボックスにアップグレード
-ironchest:diamond_obsidian_shulker_upgrade, ダイヤから黒曜石のシュルカーボックスにアップグレード
 ironchest:iron_chest:0, 鉄のチェスト
 ironchest:iron_chest:1, 金のチェスト
 ironchest:iron_chest:2, ダイヤのチェスト
@@ -5026,6 +7120,24 @@ ironchest:iron_shulker_box_black:3, 黒色の銅のシュルカーボックス
 ironchest:iron_shulker_box_black:4, 黒色の銀のシュルカーボックス
 ironchest:iron_shulker_box_black:5, 黒色のクリスタルシュルカーボックス
 ironchest:iron_shulker_box_black:6, 黒色の黒曜石のシュルカーボックス
+ironchest:iron_gold_chest_upgrade, 鉄から金のチェストにアップグレード
+ironchest:gold_diamond_chest_upgrade, 金からダイヤのチェストにアップグレード
+ironchest:copper_silver_chest_upgrade, 銅から銀のチェストにアップグレード
+ironchest:silver_gold_chest_upgrade, 銀から金のチェストにアップグレード
+ironchest:copper_iron_chest_upgrade, 銅から鉄のチェストにアップグレード
+ironchest:diamond_crystal_chest_upgrade, ダイヤからクリスタルチェストにアップグレード
+ironchest:wood_iron_chest_upgrade, 通常から鉄のチェストにアップグレード
+ironchest:wood_copper_chest_upgrade, 通常から銅のチェストにアップグレード
+ironchest:diamond_obsidian_chest_upgrade, ダイヤから黒曜石のチェストにアップグレード
+ironchest:iron_gold_shulker_upgrade, 鉄から金のシュルカーボックスにアップグレード
+ironchest:gold_diamond_shulker_upgrade, 金からダイヤのシュルカーボックスにアップグレード
+ironchest:copper_silver_shulker_upgrade, 銅から銀のシュルカーボックスにアップグレード
+ironchest:silver_gold_shulker_upgrade, 銀から金のシュルカーボックスにアップグレード
+ironchest:copper_iron_shulker_upgrade, 銅から鉄のシュルカーボックスにアップグレード
+ironchest:diamond_crystal_shulker_upgrade, ダイヤからクリスタルシュルカーボックスにアップグレード
+ironchest:vanilla_iron_shulker_upgrade, 通常から鉄のシュルカーボックスにアップグレード
+ironchest:vanilla_copper_shulker_upgrade, 通常から銅のシュルカーボックスにアップグレード
+ironchest:diamond_obsidian_shulker_upgrade, ダイヤから黒曜石のシュルカーボックスにアップグレード
 mekanismgenerators:solarpanel, ソーラーパネル
 mekanismgenerators:hohlraum, ホールラウム
 mekanismgenerators:turbineblade, タービンの羽
@@ -5142,391 +7254,151 @@ powersuits:powerarmorcomponent:20, Computer Chip
 powersuits:powerarmorcomponent:21, Insulated Rubber Hose
 powersuits:tinkertable, Power Armor Tinker Table
 powersuits:luxcapacitor, Lux Capacitor
-twilightforest:naga_scale, ナーガの鱗
-twilightforest:naga_chestplate, ナーガアーマー(胴)
-twilightforest:naga_leggings, ナーガアーマー(脚)
-twilightforest:twilight_scepter, 魔弾の杖
-twilightforest:lifedrain_scepter, 吸精の杖
-twilightforest:zombie_scepter, 召喚の杖
-twilightforest:shield_scepter, Scepter of Fortification
-twilightforest:ore_meter, 鉱石レーダー [制作中]
-twilightforest:magic_map:0, 魔法の地図(地上)
-twilightforest:maze_map:0, 魔法の地図(迷宮)
-twilightforest:ore_map:0, 魔法の地図(迷宮/鉱石)
-twilightforest:raven_feather, カラスの羽根
-twilightforest:magic_map_focus, 魔法の羽根
-twilightforest:maze_map_focus, 魔法の金貨
-twilightforest:liveroot, 生きている根
-twilightforest:ironwood_raw, 樹鉄の素
-twilightforest:ironwood_ingot, 樹鉄インゴット
-twilightforest:ironwood_helmet, 樹鉄ヘルム
-twilightforest:ironwood_chestplate, 樹鉄プレート
-twilightforest:ironwood_leggings, 樹鉄レギンス
-twilightforest:ironwood_boots, 樹鉄ブーツ
-twilightforest:ironwood_sword, 樹鉄の剣
-twilightforest:ironwood_shovel, 樹鉄のシャベル
-twilightforest:ironwood_pickaxe, 樹鉄のツルハシ
-twilightforest:ironwood_axe, 樹鉄の斧
-twilightforest:ironwood_hoe, 樹鉄のクワ
-twilightforest:torchberries, トーチベリーの実
-twilightforest:raw_venison, 生の黄昏鹿肉
-twilightforest:cooked_venison, 黄昏鹿肉ステーキ
-twilightforest:hydra_chop, ヒドラ肉
-twilightforest:fiery_blood, 焦熱の血
-twilightforest:fiery_tears, 焦熱の涙
-twilightforest:trophy:0, ナーガトロフィー
-twilightforest:trophy:1, リッチトロフィー
-twilightforest:trophy:2, ヒドラトロフィー
-twilightforest:trophy:3, ウルガストトロフィー
-twilightforest:trophy:4, ナイトファントムトロフィー
-twilightforest:trophy:5, 雪の女王トロフィー
-twilightforest:trophy:6, ミノッシュルームトロフィー
-twilightforest:trophy:8, 色食みの羊トロフィー
-twilightforest:fiery_ingot, 焦熱インゴット
-twilightforest:fiery_helmet, 焦熱ヘルム
-twilightforest:fiery_chestplate, 焦熱プレート
-twilightforest:fiery_leggings, 焦熱レギンス
-twilightforest:fiery_boots, 焦熱ブーツ
-twilightforest:fiery_sword, 焦熱の剣
-twilightforest:fiery_pickaxe, 焦熱のツルハシ
-twilightforest:steeleaf_ingot, 葉鋼
-twilightforest:steeleaf_helmet, 葉鋼ヘルム
-twilightforest:steeleaf_chestplate, 葉鋼プレート
-twilightforest:steeleaf_leggings, 葉鋼レギンス
-twilightforest:steeleaf_boots, 葉鋼ブーツ
-twilightforest:steeleaf_sword, 葉鋼の剣
-twilightforest:steeleaf_shovel, 葉鋼のシャベル
-twilightforest:steeleaf_pickaxe, 葉鋼のツルハシ
-twilightforest:steeleaf_axe, 葉鋼の斧
-twilightforest:steeleaf_hoe, 葉鋼のクワ
-twilightforest:minotaur_axe_gold, Golden Minotaur Axe
-twilightforest:minotaur_axe, ミノタウロスの斧
-twilightforest:mazebreaker_pickaxe, メイズブレイカー
-twilightforest:transformation_powder, 変化の粉
-twilightforest:raw_meef, 生のミノ肉
-twilightforest:cooked_meef, ミーフステーキ
-twilightforest:meef_stroganoff, ミーフストロガノフ
-twilightforest:maze_wafer, 迷宮ウエハース
-twilightforest:magic_map_empty, 白紙の魔法の地図(地上)
-twilightforest:maze_map_empty, 白紙の魔法の地図(迷宮)
-twilightforest:ore_map_empty, 白紙の魔法の地図(鉱石/迷宮)
-twilightforest:ore_magnet, 鉱石磁石
-twilightforest:crumble_horn, 山鳴りの角笛
-twilightforest:peacock_fan, 孔雀扇
-twilightforest:moonworm_queen, 女王月光虫
-twilightforest:charm_of_life_1, 命の護石Lv1
-twilightforest:charm_of_life_2, 命の護石Lv2
-twilightforest:charm_of_keeping_1, 鍵の護石Lv1
-twilightforest:charm_of_keeping_2, 鍵の護石Lv2
-twilightforest:charm_of_keeping_3, 鍵の護石Lv3
-twilightforest:tower_key, タワーキー
-twilightforest:borer_essence, ボーラーエッセンス
-twilightforest:carminite, カーミナイト
-twilightforest:experiment_115, エクスペリメント115
-twilightforest:armor_shard, アーマーシャード
-twilightforest:knightmetal_ingot, ナイトメタルインゴット
-twilightforest:armor_shard_cluster, アーマーシャードの塊
-twilightforest:knightmetal_helmet, ナイトヘルム
-twilightforest:knightmetal_chestplate, ナイトプレート
-twilightforest:knightmetal_leggings, ナイトグリーヴ
-twilightforest:knightmetal_boots, ナイトブーツ
-twilightforest:knightmetal_sword, ナイトソード
-twilightforest:knightmetal_pickaxe, ナイトピッケル
-twilightforest:knightmetal_axe, ナイトアックス
-twilightforest:knightmetal_shield, Knightly Shield
-twilightforest:phantom_helmet, ファントムヘルム
-twilightforest:phantom_chestplate, ファントムプレート
-twilightforest:lamp_of_cinders, 灰のランプ
-twilightforest:alpha_fur, アルファイエティの毛皮
-twilightforest:yeti_helmet, イエティの角兜
-twilightforest:yeti_chestplate, イエティジャケット
-twilightforest:yeti_leggings, イエティレギンス
-twilightforest:yeti_boots, イエティブーツ
-twilightforest:ice_bomb, アイスボム
-twilightforest:arctic_fur, 防寒毛皮
-twilightforest:arctic_helmet, 防寒フード
-twilightforest:arctic_chestplate, 防寒ジャケット
-twilightforest:arctic_leggings, 防寒レギンス
-twilightforest:arctic_boots, 防寒ブーツ
-twilightforest:magic_beans, 魔法の豆
-twilightforest:giant_pickaxe, 巨人のツルハシ
-twilightforest:giant_sword, 巨人の剣
-twilightforest:triple_bow, トライボウ
-twilightforest:seeker_bow, シーカーボウ
-twilightforest:ice_bow, アイスボウ
-twilightforest:ender_bow, エンダーボウ
-twilightforest:ice_sword, アイスソード
-twilightforest:glass_sword, ガラスの剣
-twilightforest:knightmetal_ring, ナイトメタルの輪
-twilightforest:block_and_chain, モーニングスター
-twilightforest:cube_talisman, 六面の加護
-twilightforest:cube_of_annihilation, 破滅の箱
-twilightforest:moon_dial, Moon Dial
-twilightforest:twilight_log:0, トワイライトオークの原木
-twilightforest:twilight_log:1, 林冠木の原木
-twilightforest:twilight_log:2, マングローブの原木
-twilightforest:twilight_log:3, ダークウッドの原木
-twilightforest:root:0, 根ブロック
-twilightforest:root:1, 根ブロック(苔)
-twilightforest:twilight_leaves:0, トワイライトオークの葉
-twilightforest:twilight_leaves:1, 林冠木の葉
-twilightforest:twilight_leaves:2, マングローブの葉
-twilightforest:twilight_leaves:3, レインボーオークの葉
-twilightforest:firefly, ホタル
-twilightforest:cicada, セミ
-twilightforest:maze_stone:0, メイズストーン
-twilightforest:maze_stone:1, メイズレンガ
-twilightforest:maze_stone:2, メイズストーン(模様)
-twilightforest:maze_stone:3, メイズレンガ(装飾)
-twilightforest:maze_stone:4, メイズレンガ(ヒビ)
-twilightforest:maze_stone:5, メイズレンガ(苔)
-twilightforest:maze_stone:6, メイズストーン(モザイク)
-twilightforest:maze_stone:7, メイズストーン(ボーダー)
-twilightforest:hedge:0, 生垣ブロック
-twilightforest:boss_spawner:0, ナーガスポナー
-twilightforest:boss_spawner:1, リッチスポナー
-twilightforest:boss_spawner:2, ヒドラスポナー
-twilightforest:boss_spawner:3, ウルガストスポナー
-twilightforest:boss_spawner:4, ナイトファントムスポナー
-twilightforest:boss_spawner:5, Snow Queen Spawner
-twilightforest:boss_spawner:6, Minoshroom Spawner
-twilightforest:boss_spawner:7, Alpha Yeti Spawner
-twilightforest:boss_spawner:9, tile.twilightforest.BossSpawner.9.name
-twilightforest:firefly_jar, 瓶詰めホタル
-twilightforest:twilight_plant:0, 苔
-twilightforest:twilight_plant:1, メイアップル
-twilightforest:twilight_plant:2, クローバーパッチ [制作中]
-twilightforest:twilight_plant:3, 巻きシダ
-twilightforest:twilight_plant:4, ヒカリダケ
-twilightforest:twilight_plant:5, 森の草
-twilightforest:twilight_plant:6, 乾いた低木
-twilightforest:twilight_plant:7, トーチベリー
-twilightforest:twilight_plant:8, ひげ根
-twilightforest:twilight_plant:9, Leaf Pile
-twilightforest:uncrafting_table, 解体作業台
-twilightforest:fire_jet:0, 噴煙ブロック
-twilightforest:fire_jet:3, 間欠炎ブロック
-twilightforest:fire_jet:1, 噴煙装置
-twilightforest:fire_jet:6, 間欠炎装置
-twilightforest:naga_stone:0, ナーガストーン(頭)
-twilightforest:naga_stone:1, ナーガストーン
-twilightforest:twilight_sapling:0, ひ弱なトワイライトオークの苗木
-twilightforest:twilight_sapling:1, 林冠木の苗木
-twilightforest:twilight_sapling:2, トワイライトマングローブの苗木
-twilightforest:twilight_sapling:3, ダークウッドの苗木
-twilightforest:twilight_sapling:4, 丈夫なトワイライトオークの苗木
-twilightforest:twilight_sapling:5, 刻の木の苗木
-twilightforest:twilight_sapling:6, 変化の木の苗木
-twilightforest:twilight_sapling:7, 採掘の木の苗木
-twilightforest:twilight_sapling:8, 分類の木の苗木
-twilightforest:twilight_sapling:9, レインボーオークの苗木
-twilightforest:moonworm, 月光虫
-twilightforest:magic_log:0, 刻の木の原木
-twilightforest:magic_log:1, 変化の木の原木
-twilightforest:magic_log:2, 採掘の木の原木
-twilightforest:magic_log:3, 分類の木の原木
-twilightforest:magic_leaves:0, 刻の木の葉
-twilightforest:magic_leaves:1, 変化の木の葉
-twilightforest:magic_leaves:2, 採掘の木の葉
-twilightforest:magic_leaves:3, 分類の木の葉
-twilightforest:magic_log_core:0, 刻の時辰儀
-twilightforest:magic_log_core:1, 変化の心
-twilightforest:magic_log_core:2, 採掘コア
-twilightforest:magic_log_core:3, 分類エンジン
-twilightforest:tower_wood:0, タワーウッド
-twilightforest:tower_wood:1, タワーウッド(緑)
-twilightforest:tower_wood:2, タワーウッド(ヒビ)
-twilightforest:tower_wood:3, タワーウッド(苔)
-twilightforest:tower_wood:4, タワーウッド(シミ)
-twilightforest:tower_device:0, タワーウッド(扉)
-twilightforest:tower_device:2, タワーウッド(消失扉)
-twilightforest:tower_device:4, タワーウッド(施錠)
-twilightforest:tower_device:5, タワーウッド(開錠)
-twilightforest:tower_device:6, カーミナイトビルダー
-twilightforest:tower_device:9, アンチビルダー
-twilightforest:tower_device:10, ガストトラップ
-twilightforest:tower_device:12, カーミナイトリアクター
-twilightforest:stronghold_shield, 拠点の防壁
-twilightforest:trophy_pedestal:0, トロフィーの台座
-twilightforest:aurora_block, オーロラブロック
-twilightforest:underbrick:0, アンダーブリック
-twilightforest:underbrick:1, アンダーブリック(苔)
-twilightforest:underbrick:2, アンダーブリック(ヒビ)
-twilightforest:underbrick:3, アンダーフリック(床)
-twilightforest:thorns:0, 茨
-twilightforest:thorns:1, 緑の茨
-twilightforest:burnt_thorns, 焦げた茨
-twilightforest:thorn_rose, 野バラ
-twilightforest:twilight_leaves_3:0, 茨の葉
-twilightforest:twilight_leaves_3:1, 豆の木の葉
-twilightforest:deadrock:0, デッドロック(風化)
-twilightforest:deadrock:1, デッドロック(ヒビ)
-twilightforest:deadrock:2, デッドロック
-twilightforest:dark_leaves, ダークウッドの葉
-twilightforest:aurora_pillar, オーロラの柱
-twilightforest:aurora_slab:0, オーロラのハーフブロック
-twilightforest:trollsteinn, トロール石
-twilightforest:wispy_cloud, 薄雲
-twilightforest:fluffy_cloud, ふわふわ雲
-twilightforest:giant_cobblestone, 巨人の丸石
-twilightforest:giant_log, 巨人の原木
-twilightforest:giant_leaves, 巨人の葉
-twilightforest:giant_obsidian, 巨人の黒曜石
-twilightforest:uberous_soil, 培養土
-twilightforest:huge_stalk, 巨大な茎
-twilightforest:huge_mushgloom, 巨大ヒカリダケブロック
-twilightforest:trollvidr, トロールベリーのツタ
-twilightforest:unripe_trollber, 未熟なトロールベリー
-twilightforest:trollber, トロールベリー
-twilightforest:knightmetal_block, ナイトメタルブロック
-twilightforest:huge_lilypad, 巨大なスイレンの葉
-twilightforest:huge_waterlily, 巨大なスイレン
-twilightforest:slider:0, 滑走トラップ
-twilightforest:slider:1, 滑走トラップ 1
-twilightforest:slider:2, 滑走トラップ 2
-twilightforest:slider:3, 滑走トラップ 3
-twilightforest:castle_brick:0, キャッスルレンガ
-twilightforest:castle_brick:1, キャッスルレンガ(かすれ)
-twilightforest:castle_brick:2, キャッスルレンガ(ヒビ)
-twilightforest:castle_brick:3, キャッスルルーフ
-twilightforest:castle_brick:4, キャッスルレンガ(苔)
-twilightforest:castle_brick:5, 厚いキャッスルレンガ
-twilightforest:castle_stairs_brick, Castle Brick Stairs
-twilightforest:castle_stairs_cracked, Cracked Castle Brick Stairs
-twilightforest:castle_stairs_worn, Worn Castle Brick Stairs
-twilightforest:castle_stairs_mossy, Mossy Castle Brick Stairs
-twilightforest:castle_pillar:0, キャッスルレンガの柱(斑)
-twilightforest:castle_pillar:1, キャッスルレンガ(斑)
-twilightforest:castle_pillar:2, キャッスルレンガの柱(チェック)
-twilightforest:castle_pillar:3, キャッスルレンガ(チェック)
-twilightforest:castle_stairs:0, キャッスルレンガの階段(斑)
-twilightforest:castle_stairs:8, キャッスルレンガの階段(チェック)
-twilightforest:castle_rune_brick:0, ルーンレンガ(赤)
-twilightforest:castle_rune_brick:1, ルーンレンガ(青)
-twilightforest:castle_rune_brick:2, ルーンレンガ(黄)
-twilightforest:castle_rune_brick:3, ルーンレンガ(紫)
-twilightforest:force_field:0, フォースフィールド(紫)
-twilightforest:force_field:1, フォースフィールド(赤)
-twilightforest:force_field:2, フォースフィールド(橙)
-twilightforest:force_field:3, フォースフィールド(緑)
-twilightforest:force_field:4, フォースフィールド(青)
-twilightforest:cinder_furnace, 灰のかまど [未実装]
-twilightforest:cinder_log, 灰の原木 [未実装]
-twilightforest:castle_door:0, キャッスルドア(黄)
-twilightforest:castle_door:1, キャッスルドア(紫)
-twilightforest:castle_door:2, キャッスルドア(赤)
-twilightforest:castle_door:3, キャッスルドア(青)
-twilightforest:miniature_structure:0, 黄昏のポータルのミニチュア [未実装]
-twilightforest:miniature_structure:1, 生垣迷路のミニチュア [未実装]
-twilightforest:miniature_structure:2, 亡霊鉱山のミニチュア [未実装]
-twilightforest:miniature_structure:3, 霊羊の遺跡のミニチュア [未実装]
-twilightforest:miniature_structure:4, キノコの城のミニチュア [未実装]
-twilightforest:miniature_structure:5, ナーガ神殿のミニチュア [未実装]
-twilightforest:miniature_structure:6, リッチタワーのミニチュア [未実装]
-twilightforest:miniature_structure:7, ラビリンスのミニチュア [未実装]
-twilightforest:miniature_structure:8, ヒドラの巣のミニチュア [未実装]
-twilightforest:miniature_structure:9, ゴブリン騎士の拠点のミニチュア [未実装]
-twilightforest:miniature_structure:10, ダークタワーのミニチュア [未実装]
-twilightforest:miniature_structure:11, イエティの洞窟のミニチュア [未実装]
-twilightforest:miniature_structure:12, オーロラ宮殿のミニチュア [未実装]
-twilightforest:miniature_structure:13, トロールの洞窟とクラウドコテージのミニチュア [未実装]
-twilightforest:miniature_structure:14, 最後の城のミニチュア [未実装]
-twilightforest:block_storage:0, 樹鉄ブロック
-twilightforest:block_storage:1, 焦熱ブロック
-twilightforest:block_storage:2, 葉鋼ブロック
-twilightforest:block_storage:3, 防寒毛皮ブロック
-twilightforest:block_storage:4, カーミナイトブロック
-twilightforest:spiral_bricks, 螺旋状の石レンガ [製作中]
-twilightforest:etched_nagastone, エッチングナーガストーン
-twilightforest:nagastone_pillar, ナーガストーンの柱
-twilightforest:nagastone_stairs:0, ナーガストーンの階段(左)
-twilightforest:nagastone_stairs:8, ナーガストーンの階段(右)
-twilightforest:etched_nagastone_mossy, エッチングナーガストーン(苔)
-twilightforest:nagastone_pillar_mossy, ナーガストーンの柱(苔)
-twilightforest:nagastone_stairs_mossy:0, ナーガストーンの階段(左)(苔)
-twilightforest:nagastone_stairs_mossy:8, ナーガストーンの階段(右)(苔)
-twilightforest:etched_nagastone_weathered, エッチングナーガストーン(風化)
-twilightforest:nagastone_pillar_weathered, ナーガストーンの柱(風化)
-twilightforest:nagastone_stairs_weathered:0, ナーガストーンの階段(左)(風化)
-twilightforest:nagastone_stairs_weathered:8, ナーガストーンの階段(右)(風化)
-twilightforest:auroralized_glass, Auroralized Glass
-twilightforest:iron_ladder, Iron Ladder
-twilightforest:terrorcotta_circle, Terrorcotta (Circular)
-twilightforest:terrorcotta_diagonal, Terrorcotta (Diagonal)
-twilightforest:stone_twist, tile.twilightforest.StonePillar.name
-twilightforest:stone_twist_thin, tile.twilightforest.StonePillarThin.name
-twilightforest:twilight_oak_planks, Twilight Oak Planks
-twilightforest:twilight_oak_stairs, Twilight Oak Stairs
-twilightforest:twilight_oak_slab:0, Twilight Oak Slab
-twilightforest:twilight_oak_button, Twilight Oak Button
-twilightforest:twilight_oak_door, Twilight Oak Door
-twilightforest:twilight_oak_trapdoor, Twilight Oak Trapdoor
-twilightforest:twilight_oak_fence, Twilight Oak Fence
-twilightforest:twilight_oak_gate, Twilight Oak Gate
-twilightforest:twilight_oak_plate, Twilight Oak Pressure Plate
-twilightforest:canopy_planks, Canopy Planks
-twilightforest:canopy_stairs, Canopy Stairs
-twilightforest:canopy_slab:0, Canopy Slab
-twilightforest:canopy_button, Canopy Button
-twilightforest:canopy_door, Canopy Door
-twilightforest:canopy_trapdoor, Canopy Trapdoor
-twilightforest:canopy_fence, Canopy Fence
-twilightforest:canopy_gate, Canopy Gate
-twilightforest:canopy_plate, Canopy Pressure Plate
-twilightforest:mangrove_planks, Mangrove Planks
-twilightforest:mangrove_stairs, Mangrove Stairs
-twilightforest:mangrove_slab:0, Mangrove Slab
-twilightforest:mangrove_button, Mangrove Button
-twilightforest:mangrove_door, Mangrove Door
-twilightforest:mangrove_trapdoor, Mangrove Trapdoor
-twilightforest:mangrove_fence, Mangrove Fence
-twilightforest:mangrove_gate, Mangrove Gate
-twilightforest:mangrove_plate, Mangrove Pressure Plate
-twilightforest:dark_planks, Darkwood Planks
-twilightforest:dark_stairs, Darkwood Stairs
-twilightforest:dark_slab:0, Darkwood Slab
-twilightforest:dark_button, Darkwood Button
-twilightforest:dark_door, Darkwood Door
-twilightforest:dark_trapdoor, Darkwood Trapdoor
-twilightforest:dark_fence, Darkwood Fence
-twilightforest:dark_gate, Darkwood Gate
-twilightforest:dark_plate, Darkwood Pressure Plate
-twilightforest:time_planks, Timewood Planks
-twilightforest:time_stairs, Timewood Stairs
-twilightforest:time_slab:0, Timewood Slab
-twilightforest:time_button, Timewood Button
-twilightforest:time_door, Timewood Door
-twilightforest:time_trapdoor, Timewood Trapdoor
-twilightforest:time_fence, Timewood Fence
-twilightforest:time_gate, Timewood Gate
-twilightforest:time_plate, Timewood Pressure Plate
-twilightforest:trans_planks, Transwood Planks
-twilightforest:trans_stairs, Transwood Stairs
-twilightforest:trans_slab:0, Transwood Slab
-twilightforest:trans_button, Transwood Button
-twilightforest:trans_door, Transwood Door
-twilightforest:trans_trapdoor, Transwood Trapdoor
-twilightforest:trans_fence, Transwood Fence
-twilightforest:trans_gate, Transwood Gate
-twilightforest:trans_plate, Transwood Pressure Plate
-twilightforest:mine_planks, Minewood Planks
-twilightforest:mine_stairs, Minewood Stairs
-twilightforest:mine_slab:0, Minewood Slab
-twilightforest:mine_button, Minewood Button
-twilightforest:mine_door, Minewood Door
-twilightforest:mine_trapdoor, Minewood Trapdoor
-twilightforest:mine_fence, Minewood Fence
-twilightforest:mine_gate, Minewood Gate
-twilightforest:mine_plate, Minewood Pressure Plate
-twilightforest:sort_planks, Sortingwood Planks
-twilightforest:sort_stairs, Sortingwood Stairs
-twilightforest:sort_slab:0, Sortingwood Slab
-twilightforest:sort_button, Sortingwood Button
-twilightforest:sort_door, Sortingwood Door
-twilightforest:sort_trapdoor, Sortingwood Trapdoor
-twilightforest:sort_fence, Sortingwood Fence
-twilightforest:sort_gate, Sortingwood Gate
-twilightforest:sort_plate, Sortingwood Pressure Plate
+projecte:alchemical_chest, 錬金チェスト
+projecte:collector_mk1, EMCコレクター MK1
+projecte:collector_mk2, EMCコレクター MK2
+projecte:collector_mk3, EMCコレクター MK3
+projecte:condenser_mk1, EMCコンデンサー
+projecte:condenser_mk2, Energy Condenser MK2
+projecte:dm_furnace, ダークマターかまど
+projecte:dm_pedestal, Dark Matter Pedestal
+projecte:fuel_block:0, 錬金炭ブロック
+projecte:fuel_block:1, メビウス燃料ブロック
+projecte:fuel_block:2, エターナリス燃料ブロック
+projecte:interdiction_torch, 結界の灯火
+projecte:matter_block:0, ダークマターブロック
+projecte:matter_block:1, レッドマターブロック
+projecte:nova_catalyst, ノヴァTNT
+projecte:nova_cataclysm, スーパーノヴァTNT
+projecte:relay_mk1, 反物質炉 MK1
+projecte:relay_mk2, 反物質炉 MK2
+projecte:relay_mk3, 反物質炉 MK3
+projecte:rm_furnace, レッドマターかまど
+projecte:transmutation_table, 変換テーブル
+projecte:item.pe_philosophers_stone, 賢者の石
+projecte:item.pe_alchemical_bag:0, 錬金バッグ (白色)
+projecte:item.pe_alchemical_bag:1, 錬金バッグ (橙色)
+projecte:item.pe_alchemical_bag:2, 錬金バッグ (赤紫色)
+projecte:item.pe_alchemical_bag:3, 錬金バッグ (空色)
+projecte:item.pe_alchemical_bag:4, 錬金バッグ (黄色)
+projecte:item.pe_alchemical_bag:5, 錬金バッグ (黄緑色)
+projecte:item.pe_alchemical_bag:6, 錬金バッグ (桃色)
+projecte:item.pe_alchemical_bag:7, 錬金バッグ (灰色)
+projecte:item.pe_alchemical_bag:8, 錬金バッグ (薄灰色)
+projecte:item.pe_alchemical_bag:9, 錬金バッグ (青緑色)
+projecte:item.pe_alchemical_bag:10, 錬金バッグ (紫色)
+projecte:item.pe_alchemical_bag:11, 錬金バッグ (青色)
+projecte:item.pe_alchemical_bag:12, 錬金バッグ (茶色)
+projecte:item.pe_alchemical_bag:13, 錬金バッグ (緑色)
+projecte:item.pe_alchemical_bag:14, 錬金バッグ (赤色)
+projecte:item.pe_alchemical_bag:15, 錬金バッグ (黒色)
+projecte:item.pe_repair_talisman, 補修のお守り
+projecte:item.pe_klein_star:0, クラインの星 Ein
+projecte:item.pe_klein_star:1, クラインの星 Zwei
+projecte:item.pe_klein_star:2, クラインの星 Drei
+projecte:item.pe_klein_star:3, クラインの星 Vier
+projecte:item.pe_klein_star:4, クラインの星 Sphere
+projecte:item.pe_klein_star:5, クラインの星 Omega
+projecte:item.pe_fuel:0, 錬金炭
+projecte:item.pe_fuel:1, メビウス燃料
+projecte:item.pe_fuel:2, エターナリス燃料
+projecte:item.pe_covalence_dust:0, 共有結合粉 (low)
+projecte:item.pe_covalence_dust:1, 共有結合粉 (medium)
+projecte:item.pe_covalence_dust:2, 共有結合粉 (high)
+projecte:item.pe_matter:0, ダークマター
+projecte:item.pe_matter:1, レッドマター
+projecte:item.pe_dm_pick, ダークマターつるはし
+projecte:item.pe_dm_axe, ダークマターアクス
+projecte:item.pe_dm_shovel, ダークマターシャベル
+projecte:item.pe_dm_sword, ダークマターソード
+projecte:item.pe_dm_hoe, ダークマタークワ
+projecte:item.pe_dm_shears, ダークマターはさみ
+projecte:item.pe_dm_hammer, ダークマターハンマー
+projecte:item.pe_rm_pick, レッドマターつるはし
+projecte:item.pe_rm_axe, レッドマターアクス
+projecte:item.pe_rm_shovel, レッドマターシャベル
+projecte:item.pe_rm_sword, レッドマターソード
+projecte:item.pe_rm_hoe, レッドマタークワ
+projecte:item.pe_rm_shears, レッドマターはさみ
+projecte:item.pe_rm_hammer, レッドマターハンマー
+projecte:item.pe_rm_katar, レッドカタール
+projecte:item.pe_rm_morning_star, レッドモーニングスター
+projecte:item.pe_dm_armor_3, ダークマターの兜
+projecte:item.pe_dm_armor_2, ダークマターの鎧
+projecte:item.pe_dm_armor_1, ダークマターの脛当て
+projecte:item.pe_dm_armor_0, ダークマターのブーツ
+projecte:item.pe_rm_armor_3, レッドマターの兜
+projecte:item.pe_rm_armor_2, レッドマターの鎧
+projecte:item.pe_rm_armor_1, レッドマターの脛当て
+projecte:item.pe_rm_armor_0, レッドマターのブーツ
+projecte:item.pe_gem_armor_3, ジェムの兜
+projecte:item.pe_gem_armor_2, ジェムの鎧
+projecte:item.pe_gem_armor_1, ジェムの脛当て
+projecte:item.pe_gem_armor_0, ジェムのブーツ
+projecte:item.pe_ring_iron_band, 鉄の指輪
+projecte:item.pe_black_hole, 吸引の指輪
+projecte:item.pe_archangel_smite, 大天使の指輪 [WIP]
+projecte:item.pe_harvest_god, 豊穣の女神の指輪
+projecte:item.pe_ignition, 発火の指輪
+projecte:item.pe_zero_ring, 絶対零度の指輪
+projecte:item.pe_swrg, 風統べる狼王の指輪
+projecte:item.pe_time_watch, 時流計
+projecte:item.pe_gem_density, 圧縮の宝珠
+projecte:item.pe_divining_rod_1, 占い棒 (low)
+projecte:item.pe_divining_rod_2, 占い棒 (medium)
+projecte:item.pe_divining_rod_3, 占い棒 (high)
+projecte:item.pe_mercurial_eye, メルクリウスの目
+projecte:item.pe_void_ring, Void Ring
+projecte:item.pe_arcana_ring, アルカナの指輪
+projecte:item.pe_body_stone, 体の石
+projecte:item.pe_soul_stone, 魂の石
+projecte:item.pe_mind_stone, 心の石
+projecte:item.pe_life_stone, 生命の石
+projecte:item.pe_evertide_amulet, 湧水の祭器
+projecte:item.pe_volcanite_amulet, 灼熱の祭器
+projecte:item.pe_water_orb, 水の宝珠
+projecte:item.pe_lava_orb, Lava Orb
+projecte:item.pe_randomizer, Randomizer Orb
+projecte:item.pe_lens_explosive, Explozive・レンズ
+projecte:item.pe_fire_projectile, item.pe_fire_projectile.name
+projecte:item.pe_wind_projectile, item.pe_wind_projectile.name
+projecte:item.pe_destruction_catalyst, 破壊の石
+projecte:item.pe_hyperkinetic_lens, キネシス・レンズ
+projecte:item.pe_catalitic_lens, カタリスト・レンズ
+projecte:item.pe_tome, 錬金大全
+projecte:item.pe_transmutation_tablet, 練成盤
+projecte:item.pe_manual, Book of the Alchemist [WIP]
+peex:aegu/aegumk1_off, 錬金術的エネルギー生成装置
+peex:aegu/aegumk1_on, 錬金術的エネルギー生成装置
+peex:aegu/aegumk2_off, 発展型AEGU
+peex:aegu/aegumk2_on, 発展型AEGU
+peex:aegu/aegumk3_off, 究極型AEGU
+peex:aegu/aegumk3_on, 究極型AEGU
+peex:collectors/collectormk4, EMCコレクター Mk4
+peex:collectors/collectormk5, EMCコレクター Mk5
+peex:aegu/aeguexmk1_off, AEGUEX
+peex:aegu/aeguexmk1_on, AEGUEX
+peex:aegu/aeguexmk2_off, 強化型AEGUEX
+peex:aegu/aeguexmk2_on, 強化型AEGUEX
+peex:aegu/aeguexmk3_off, 超究極型AEGUEX
+peex:aegu/aeguexmk3_on, 超究極型AEGUEX
+peex:aegu/aeguexfinal_off, 最終型AEGUEX
+peex:aegu/aeguexfinal_on, 最終型AEGUEX
+peex:condenser_mk3, エナジーコンデンサー Mk3
+peex:condenser_grade0, コンデンサーグレード0
+peex:collectors/collectormk6, EMCコレクター Mk6
+peex:collectors/collectormk7, EMCコレクター Mk7
+peex:collectors/collectormk8, EMCコレクター Mk8
+peex:collectors/collectormk9, EMCコレクター Mk9
+peex:collectors/collectormk10, EMCコレクター Mk10
+peex:collectors/collector_final, 最終型EMCコレクター
+peex:relays/relaymk4, 反物質炉 Mk4
+peex:relays/relaymk5, 反物質炉 Mk5
+peex:relays/relay_final, 最終型反物質炉
+peex:matterblock:0, ブルマターブロック
+peex:matterblock:1, カオスマターブロック
+peex:matter:0, ブルーマター
+peex:matter:1, カオスマター
 quarryplus:quarryplus, 改良型露天採掘機(旧版)
 quarryplus:pumpplus, 改良型ポンプ
 quarryplus:markerplus, 改良型ランドマーク
@@ -6014,6 +7886,7 @@ mystcraft:page:0, Page (Mesa Plateau M Biome)
 mystcraft:page:0, Page (Meteors)
 mystcraft:page:0, Page (Milk Block)
 mystcraft:page:0, Page (Mineshafts)
+mystcraft:page:0, Page (Molten Iron Alloy Block)
 mystcraft:page:0, Page (Mushroom Forest Biome)
 mystcraft:page:0, Page (Mushroom Island Biome)
 mystcraft:page:0, Page (Mushroom Island Shore Biome)
@@ -6178,6 +8051,42 @@ mystcraft:page:0, Page (栄養蒸留液 Block)
 mystcraft:page:0, Page (水 Block)
 mystcraft:page:0, Page (氷 Block)
 mystcraft:page:0, Page (氷塊 Block)
+mystcraft:page:0, Page (液体の土 Block)
+mystcraft:page:0, Page (液体紫スライム Block)
+mystcraft:page:0, Page (液体青スライム Block)
+mystcraft:page:0, Page (溶けたアルミニウム Block)
+mystcraft:page:0, Page (溶けたアルミブラス Block)
+mystcraft:page:0, Page (溶けたアーダイト Block)
+mystcraft:page:0, Page (溶けたエナジェティック合金 Block)
+mystcraft:page:0, Page (溶けたエメラルド Block)
+mystcraft:page:0, Page (溶けたエレクトラム Block)
+mystcraft:page:0, Page (溶けたエンドスチール Block)
+mystcraft:page:0, Page (溶けたガラス Block)
+mystcraft:page:0, Page (溶けたコバルト Block)
+mystcraft:page:0, Page (溶けたソウラリウム Block)
+mystcraft:page:0, Page (溶けたダークスチール Block)
+mystcraft:page:0, Page (溶けたナイトスライム Block)
+mystcraft:page:0, Page (溶けたニッケル Block)
+mystcraft:page:0, Page (溶けたブタ鉄 Block)
+mystcraft:page:0, Page (溶けたマニュリン Block)
+mystcraft:page:0, Page (溶けたレッドストーン合金 Block)
+mystcraft:page:0, Page (溶けたヴァイブラント合金 Block)
+mystcraft:page:0, Page (溶けた亜鉛 Block)
+mystcraft:page:0, Page (溶けた石 Block)
+mystcraft:page:0, Page (溶けた粘土 Block)
+mystcraft:page:0, Page (溶けた脈動鉄 Block)
+mystcraft:page:0, Page (溶けた金 Block)
+mystcraft:page:0, Page (溶けた鉄 Block)
+mystcraft:page:0, Page (溶けた鉛 Block)
+mystcraft:page:0, Page (溶けた銀 Block)
+mystcraft:page:0, Page (溶けた銅 Block)
+mystcraft:page:0, Page (溶けた鋼鉄 Block)
+mystcraft:page:0, Page (溶けた錫 Block)
+mystcraft:page:0, Page (溶けた電導鉄 Block)
+mystcraft:page:0, Page (溶けた電炉鋼 Block)
+mystcraft:page:0, Page (溶けた青銅 Block)
+mystcraft:page:0, Page (溶けた黄銅 Block)
+mystcraft:page:0, Page (溶けた黒曜石 Block)
 mystcraft:page:0, Page (溶岩 Block)
 mystcraft:page:0, Page (濃縮人工雨 Block)
 mystcraft:page:0, Page (火酒 Block)
@@ -6190,6 +8099,7 @@ mystcraft:page:0, Page (磨かれた安山岩 Block)
 mystcraft:page:0, Page (磨かれた花崗岩 Block)
 mystcraft:page:0, Page (磨かれた閃緑岩 Block)
 mystcraft:page:0, Page (花崗岩 Block)
+mystcraft:page:0, Page (血液 Block)
 mystcraft:page:0, Page (金鉱石 Block)
 mystcraft:page:0, Page (鉄鉱石 Block)
 mystcraft:page:0, Page (閃緑岩 Block)

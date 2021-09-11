@@ -1,5 +1,7 @@
 *
 !.gitignore
+!/config
+!/config/*allsmp.cfg
 !/mods
 !/mods/**/*
 !README.md

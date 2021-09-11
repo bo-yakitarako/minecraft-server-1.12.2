@@ -1,0 +1,4421 @@
+Mod:Item:MetaData, Localized Name
+minecraft:air, 空気
+minecraft:stone:0, 石
+minecraft:stone:1, 花崗岩
+minecraft:stone:2, 磨かれた花崗岩
+minecraft:stone:3, 閃緑岩
+minecraft:stone:4, 磨かれた閃緑岩
+minecraft:stone:5, 安山岩
+minecraft:stone:6, 磨かれた安山岩
+minecraft:grass, 草ブロック
+minecraft:dirt:0, 土
+minecraft:dirt:1, 粗い土
+minecraft:dirt:2, ポドゾル
+minecraft:cobblestone, 丸石
+minecraft:planks:0, オークの木材
+minecraft:planks:1, マツの木材
+minecraft:planks:2, シラカバの木材
+minecraft:planks:3, ジャングルの木材
+minecraft:planks:4, アカシアの木材
+minecraft:planks:5, ダークオークの木材
+minecraft:sapling:0, オークの苗木
+minecraft:sapling:1, マツの苗木
+minecraft:sapling:2, シラカバの苗木
+minecraft:sapling:3, ジャングルの苗木
+minecraft:sapling:4, アカシアの苗木
+minecraft:sapling:5, ダークオークの苗木
+minecraft:bedrock, 岩盤
+minecraft:sand:0, 砂
+minecraft:sand:1, 赤い砂
+minecraft:gravel, 砂利
+minecraft:gold_ore, 金鉱石
+minecraft:iron_ore, 鉄鉱石
+minecraft:coal_ore, 石炭鉱石
+minecraft:log:0, オークの原木
+minecraft:log:1, マツの原木
+minecraft:log:2, シラカバの原木
+minecraft:log:3, ジャングルの原木
+minecraft:leaves:0, オークの葉
+minecraft:leaves:1, マツの葉
+minecraft:leaves:2, シラカバの葉
+minecraft:leaves:3, ジャングルの葉
+minecraft:sponge:0, スポンジ
+minecraft:sponge:1, 濡れたスポンジ
+minecraft:glass, ガラス
+minecraft:lapis_ore, ラピスラズリ鉱石
+minecraft:lapis_block, ラピスラズリブロック
+minecraft:dispenser, ディスペンサー
+minecraft:sandstone:0, 砂岩
+minecraft:sandstone:1, 模様入りの砂岩
+minecraft:sandstone:2, 滑らかな砂岩
+minecraft:noteblock, 音符ブロック
+minecraft:golden_rail, パワードレール
+minecraft:detector_rail, ディテクターレール
+minecraft:sticky_piston, 粘着ピストン
+minecraft:web, クモの巣
+minecraft:tallgrass:1, 草
+minecraft:tallgrass:2, シダ
+minecraft:deadbush, 枯れ木
+minecraft:piston, ピストン
+minecraft:wool:0, 白色の羊毛
+minecraft:wool:1, 橙色の羊毛
+minecraft:wool:2, 赤紫色の羊毛
+minecraft:wool:3, 空色の羊毛
+minecraft:wool:4, 黄色の羊毛
+minecraft:wool:5, 黄緑色の羊毛
+minecraft:wool:6, 桃色の羊毛
+minecraft:wool:7, 灰色の羊毛
+minecraft:wool:8, 薄灰色の羊毛
+minecraft:wool:9, 青緑色の羊毛
+minecraft:wool:10, 紫色の羊毛
+minecraft:wool:11, 青色の羊毛
+minecraft:wool:12, 茶色の羊毛
+minecraft:wool:13, 緑色の羊毛
+minecraft:wool:14, 赤色の羊毛
+minecraft:wool:15, 黒色の羊毛
+minecraft:yellow_flower:0, タンポポ
+minecraft:red_flower:0, ポピー
+minecraft:red_flower:1, ヒスイラン
+minecraft:red_flower:2, アリウム
+minecraft:red_flower:3, ヒナソウ
+minecraft:red_flower:4, 赤色のチューリップ
+minecraft:red_flower:5, 橙色のチューリップ
+minecraft:red_flower:6, 白色のチューリップ
+minecraft:red_flower:7, 桃色のチューリップ
+minecraft:red_flower:8, フランスギク
+minecraft:brown_mushroom, キノコ
+minecraft:red_mushroom, キノコ
+minecraft:gold_block, 金ブロック
+minecraft:iron_block, 鉄ブロック
+minecraft:stone_slab:0, 石のハーフブロック
+minecraft:stone_slab:1, 砂岩のハーフブロック
+minecraft:stone_slab:3, 丸石のハーフブロック
+minecraft:stone_slab:4, レンガのハーフブロック
+minecraft:stone_slab:5, 石レンガのハーフブロック
+minecraft:stone_slab:6, ネザーレンガのハーフブロック
+minecraft:stone_slab:7, クォーツのハーフブロック
+minecraft:brick_block, レンガ
+minecraft:tnt, TNT
+minecraft:bookshelf, 本棚
+minecraft:mossy_cobblestone, 苔むした丸石
+minecraft:obsidian, 黒曜石
+minecraft:torch, 松明
+minecraft:mob_spawner, モンスタースポナー
+minecraft:oak_stairs, オークの木材の階段
+minecraft:chest, チェスト
+minecraft:diamond_ore, ダイヤモンド鉱石
+minecraft:diamond_block, ダイヤモンドブロック
+minecraft:crafting_table, 作業台
+minecraft:farmland, 耕地
+minecraft:furnace, かまど
+minecraft:ladder, はしご
+minecraft:rail, レール
+minecraft:stone_stairs, 丸石の階段
+minecraft:lever, レバー
+minecraft:stone_pressure_plate, 石の感圧板
+minecraft:wooden_pressure_plate, 木の感圧板
+minecraft:redstone_ore, レッドストーン鉱石
+minecraft:redstone_torch, レッドストーントーチ
+minecraft:stone_button, ボタン
+minecraft:snow_layer, 雪
+minecraft:ice, 氷
+minecraft:snow, 雪
+minecraft:cactus, サボテン
+minecraft:clay, 粘土
+minecraft:jukebox, ジュークボックス
+minecraft:fence, オークのフェンス
+minecraft:pumpkin, カボチャ
+minecraft:netherrack, ネザーラック
+minecraft:soul_sand, ソウルサンド
+minecraft:glowstone, グロウストーン
+minecraft:lit_pumpkin, ジャック・オ・ランタン
+minecraft:stained_glass:0, 白色の色付きガラス
+minecraft:stained_glass:1, 橙色の色付きガラス
+minecraft:stained_glass:2, 赤紫色の色付きガラス
+minecraft:stained_glass:3, 空色の色付きガラス
+minecraft:stained_glass:4, 黄色の色付きガラス
+minecraft:stained_glass:5, 黄緑色の色付きガラス
+minecraft:stained_glass:6, 桃色の色付きガラス
+minecraft:stained_glass:7, 灰色の色付きガラス
+minecraft:stained_glass:8, 薄灰色の色付きガラス
+minecraft:stained_glass:9, 青緑色の色付きガラス
+minecraft:stained_glass:10, 紫色の色付きガラス
+minecraft:stained_glass:11, 青色の色付きガラス
+minecraft:stained_glass:12, 茶色の色付きガラス
+minecraft:stained_glass:13, 緑色の色付きガラス
+minecraft:stained_glass:14, 赤色の色付きガラス
+minecraft:stained_glass:15, 黒色の色付きガラス
+minecraft:trapdoor, 木のトラップドア
+minecraft:monster_egg:0, シルバーフィッシュ入りの石
+minecraft:monster_egg:1, シルバーフィッシュ入りの丸石
+minecraft:monster_egg:2, シルバーフィッシュ入りの石レンガ
+minecraft:monster_egg:3, シルバーフィッシュ入りの苔石レンガ
+minecraft:monster_egg:4, シルバーフィッシュ入りのひび割れた石レンガ
+minecraft:monster_egg:5, シルバーフィッシュ入りの模様入りの石レンガ
+minecraft:stonebrick:0, 石レンガ
+minecraft:stonebrick:1, 苔むした石レンガ
+minecraft:stonebrick:2, ひび割れた石レンガ
+minecraft:stonebrick:3, 模様入りの石レンガ
+minecraft:brown_mushroom_block, キノコ
+minecraft:red_mushroom_block, キノコ
+minecraft:iron_bars, 鉄格子
+minecraft:glass_pane, 板ガラス
+minecraft:melon_block, スイカ
+minecraft:vine, ツタ
+minecraft:fence_gate, オークのフェンスゲート
+minecraft:brick_stairs, レンガの階段
+minecraft:stone_brick_stairs, 石レンガの階段
+minecraft:mycelium, 菌糸
+minecraft:waterlily, スイレンの葉
+minecraft:nether_brick, ネザーレンガ
+minecraft:nether_brick_fence, ネザーレンガのフェンス
+minecraft:nether_brick_stairs, ネザーレンガの階段
+minecraft:enchanting_table, エンチャントテーブル
+minecraft:end_portal_frame, エンドポータル
+minecraft:end_stone, エンドストーン
+minecraft:dragon_egg, ドラゴンの卵
+minecraft:redstone_lamp, レッドストーンランプ
+minecraft:wooden_slab:0, オークの木材のハーフブロック
+minecraft:wooden_slab:1, マツの木材のハーフブロック
+minecraft:wooden_slab:2, シラカバの木材のハーフブロック
+minecraft:wooden_slab:3, ジャングルの木材のハーフブロック
+minecraft:wooden_slab:4, アカシアの木材のハーフブロック
+minecraft:wooden_slab:5, ダークオークの木材のハーフブロック
+minecraft:sandstone_stairs, 砂岩の階段
+minecraft:emerald_ore, エメラルド鉱石
+minecraft:ender_chest, エンダーチェスト
+minecraft:tripwire_hook, トリップワイヤーフック
+minecraft:emerald_block, エメラルドブロック
+minecraft:spruce_stairs, マツの木材の階段
+minecraft:birch_stairs, シラカバの木材の階段
+minecraft:jungle_stairs, ジャングルの木材の階段
+minecraft:command_block, コマンドブロック
+minecraft:beacon, ビーコン
+minecraft:cobblestone_wall:0, 丸石の塀
+minecraft:cobblestone_wall:1, 苔むした丸石の塀
+minecraft:wooden_button, ボタン
+minecraft:anvil:0, 金床
+minecraft:anvil:1, 少し壊れた金床
+minecraft:anvil:2, かなり壊れた金床
+minecraft:trapped_chest, トラップチェスト
+minecraft:light_weighted_pressure_plate, 重量感圧板（軽）
+minecraft:heavy_weighted_pressure_plate, 重量感圧板（重）
+minecraft:daylight_detector, 日照センサー
+minecraft:redstone_block, レッドストーンブロック
+minecraft:quartz_ore, ネザークォーツ鉱石
+minecraft:hopper, ホッパー
+minecraft:quartz_block:0, クォーツブロック
+minecraft:quartz_block:1, 模様入りのクォーツブロック
+minecraft:quartz_block:2, 柱状のクォーツブロック
+minecraft:quartz_stairs, クォーツの階段
+minecraft:activator_rail, アクティベーターレール
+minecraft:dropper, ドロッパー
+minecraft:stained_hardened_clay:0, 白色のテラコッタ
+minecraft:stained_hardened_clay:1, 橙色のテラコッタ
+minecraft:stained_hardened_clay:2, 赤紫色のテラコッタ
+minecraft:stained_hardened_clay:3, 空色のテラコッタ
+minecraft:stained_hardened_clay:4, 黄色のテラコッタ
+minecraft:stained_hardened_clay:5, 黄緑色のテラコッタ
+minecraft:stained_hardened_clay:6, 桃色のテラコッタ
+minecraft:stained_hardened_clay:7, 灰色のテラコッタ
+minecraft:stained_hardened_clay:8, 薄灰色のテラコッタ
+minecraft:stained_hardened_clay:9, 青緑色のテラコッタ
+minecraft:stained_hardened_clay:10, 紫色のテラコッタ
+minecraft:stained_hardened_clay:11, 青色のテラコッタ
+minecraft:stained_hardened_clay:12, 茶色のテラコッタ
+minecraft:stained_hardened_clay:13, 緑色のテラコッタ
+minecraft:stained_hardened_clay:14, 赤色のテラコッタ
+minecraft:stained_hardened_clay:15, 黒色のテラコッタ
+minecraft:stained_glass_pane:0, 白色の色付きガラス板
+minecraft:stained_glass_pane:1, 橙色の色付きガラス板
+minecraft:stained_glass_pane:2, 赤紫色の色付きガラス板
+minecraft:stained_glass_pane:3, 空色の色付きガラス板
+minecraft:stained_glass_pane:4, 黄色の色付きガラス板
+minecraft:stained_glass_pane:5, 黄緑色の色付きガラス板
+minecraft:stained_glass_pane:6, 桃色の色付きガラス板
+minecraft:stained_glass_pane:7, 灰色の色付きガラス板
+minecraft:stained_glass_pane:8, 薄灰色の色付きガラス板
+minecraft:stained_glass_pane:9, 青緑色の色付きガラス板
+minecraft:stained_glass_pane:10, 紫色の色付きガラス板
+minecraft:stained_glass_pane:11, 青色の色付きガラス板
+minecraft:stained_glass_pane:12, 茶色の色付きガラス板
+minecraft:stained_glass_pane:13, 緑色の色付きガラス板
+minecraft:stained_glass_pane:14, 赤色の色付きガラス板
+minecraft:stained_glass_pane:15, 黒色の色付きガラス板
+minecraft:leaves2:0, アカシアの葉
+minecraft:leaves2:1, ダークオークの葉
+minecraft:log2:0, アカシアの原木
+minecraft:log2:1, ダークオークの原木
+minecraft:acacia_stairs, アカシアの木材の階段
+minecraft:dark_oak_stairs, ダークオークの木材の階段
+minecraft:slime, スライムブロック
+minecraft:barrier, バリアブロック
+minecraft:iron_trapdoor, 鉄のトラップドア
+minecraft:prismarine:0, プリズマリン
+minecraft:prismarine:1, プリズマリンレンガ
+minecraft:prismarine:2, ダークプリズマリン
+minecraft:sea_lantern, シーランタン
+minecraft:hay_block, 干草の俵
+minecraft:carpet:0, 白色のカーペット
+minecraft:carpet:1, 橙色のカーペット
+minecraft:carpet:2, 赤紫色のカーペット
+minecraft:carpet:3, 空色のカーペット
+minecraft:carpet:4, 黄色のカーペット
+minecraft:carpet:5, 黄緑色のカーペット
+minecraft:carpet:6, 桃色のカーペット
+minecraft:carpet:7, 灰色のカーペット
+minecraft:carpet:8, 薄灰色のカーペット
+minecraft:carpet:9, 青緑色のカーペット
+minecraft:carpet:10, 紫色のカーペット
+minecraft:carpet:11, 青色のカーペット
+minecraft:carpet:12, 茶色のカーペット
+minecraft:carpet:13, 緑色のカーペット
+minecraft:carpet:14, 赤色のカーペット
+minecraft:carpet:15, 黒色のカーペット
+minecraft:hardened_clay, テラコッタ
+minecraft:coal_block, 石炭ブロック
+minecraft:packed_ice, 氷塊
+minecraft:double_plant:0, ヒマワリ
+minecraft:double_plant:1, ライラック
+minecraft:double_plant:2, 高い草
+minecraft:double_plant:3, 大きなシダ
+minecraft:double_plant:4, バラの低木
+minecraft:double_plant:5, ボタン
+minecraft:red_sandstone:0, 赤砂岩
+minecraft:red_sandstone:1, 模様入りの赤砂岩
+minecraft:red_sandstone:2, 滑らかな赤い砂岩
+minecraft:red_sandstone_stairs, 赤砂岩の階段
+minecraft:stone_slab2:0, 赤砂岩のハーフブロック
+minecraft:spruce_fence_gate, マツのフェンスゲート
+minecraft:birch_fence_gate, シラカバのフェンスゲート
+minecraft:jungle_fence_gate, ジャングルのフェンスゲート
+minecraft:dark_oak_fence_gate, ダークオークのフェンスゲート
+minecraft:acacia_fence_gate, アカシアのフェンスゲート
+minecraft:spruce_fence, マツのフェンス
+minecraft:birch_fence, シラカバのフェンス
+minecraft:jungle_fence, ジャングルのフェンス
+minecraft:dark_oak_fence, ダークオークのフェンス
+minecraft:acacia_fence, アカシアのフェンス
+minecraft:end_rod, エンドロッド
+minecraft:chorus_plant, コーラスプラント
+minecraft:chorus_flower, コーラスフラワー
+minecraft:purpur_block, プルプァブロック
+minecraft:purpur_pillar, プルプァの柱
+minecraft:purpur_stairs, プルプァの階段
+minecraft:purpur_slab:0, プルプァのハーフブロック
+minecraft:end_bricks, エンドストーンレンガ
+minecraft:grass_path, 草の道
+minecraft:repeating_command_block, リピートコマンドブロック
+minecraft:chain_command_block, チェーンコマンドブロック
+minecraft:magma, マグマブロック
+minecraft:nether_wart_block, ネザーウォートブロック
+minecraft:red_nether_brick, 赤いネザーレンガ
+minecraft:bone_block, 骨ブロック
+minecraft:structure_void, ストラクチャーヴォイド
+minecraft:observer, オブザーバー
+minecraft:white_shulker_box, 白色のシュルカーボックス
+minecraft:orange_shulker_box, 橙色のシュルカーボックス
+minecraft:magenta_shulker_box, 赤紫色のシュルカーボックス
+minecraft:light_blue_shulker_box, 空色のシュルカーボックス
+minecraft:yellow_shulker_box, 黄色のシュルカーボックス
+minecraft:lime_shulker_box, 黄緑色のシュルカーボックス
+minecraft:pink_shulker_box, 桃色のシュルカーボックス
+minecraft:gray_shulker_box, 灰色のシュルカーボックス
+minecraft:silver_shulker_box, 薄灰色のシュルカーボックス
+minecraft:cyan_shulker_box, 青緑色のシュルカーボックス
+minecraft:purple_shulker_box, 紫色のシュルカーボックス
+minecraft:blue_shulker_box, 青色のシュルカーボックス
+minecraft:brown_shulker_box, 茶色のシュルカーボックス
+minecraft:green_shulker_box, 緑色のシュルカーボックス
+minecraft:red_shulker_box, 赤色のシュルカーボックス
+minecraft:black_shulker_box, 黒色のシュルカーボックス
+minecraft:white_glazed_terracotta, 白色の彩釉テラコッタ
+minecraft:orange_glazed_terracotta, 橙色の彩釉テラコッタ
+minecraft:magenta_glazed_terracotta, 赤紫色の彩釉テラコッタ
+minecraft:light_blue_glazed_terracotta, 空色の彩釉テラコッタ
+minecraft:yellow_glazed_terracotta, 黄色の彩釉テラコッタ
+minecraft:lime_glazed_terracotta, 黄緑色の彩釉テラコッタ
+minecraft:pink_glazed_terracotta, 桃色の彩釉テラコッタ
+minecraft:gray_glazed_terracotta, 灰色の彩釉テラコッタ
+minecraft:silver_glazed_terracotta, 薄灰色の彩釉テラコッタ
+minecraft:cyan_glazed_terracotta, 青緑色の彩釉テラコッタ
+minecraft:purple_glazed_terracotta, 紫色の彩釉テラコッタ
+minecraft:blue_glazed_terracotta, 青色の彩釉テラコッタ
+minecraft:brown_glazed_terracotta, 茶色の彩釉テラコッタ
+minecraft:green_glazed_terracotta, 緑色の彩釉テラコッタ
+minecraft:red_glazed_terracotta, 赤色の彩釉テラコッタ
+minecraft:black_glazed_terracotta, 黒色の彩釉テラコッタ
+minecraft:concrete:0, 白色のコンクリート
+minecraft:concrete:1, 橙色のコンクリート
+minecraft:concrete:2, 赤紫色のコンクリート
+minecraft:concrete:3, 空色のコンクリート
+minecraft:concrete:4, 黄色のコンクリート
+minecraft:concrete:5, 黄緑色のコンクリート
+minecraft:concrete:6, 桃色のコンクリート
+minecraft:concrete:7, 灰色のコンクリート
+minecraft:concrete:8, 薄灰色のコンクリート
+minecraft:concrete:9, 青緑色のコンクリート
+minecraft:concrete:10, 紫色のコンクリート
+minecraft:concrete:11, 青色のコンクリート
+minecraft:concrete:12, 茶色のコンクリート
+minecraft:concrete:13, 緑色のコンクリート
+minecraft:concrete:14, 赤色のコンクリート
+minecraft:concrete:15, 黒色のコンクリート
+minecraft:concrete_powder:0, 白色のコンクリートパウダー
+minecraft:concrete_powder:1, 橙色のコンクリートパウダー
+minecraft:concrete_powder:2, 赤紫色のコンクリートパウダー
+minecraft:concrete_powder:3, 空色のコンクリートパウダー
+minecraft:concrete_powder:4, 黄色のコンクリートパウダー
+minecraft:concrete_powder:5, 黄緑色のコンクリートパウダー
+minecraft:concrete_powder:6, 桃色のコンクリートパウダー
+minecraft:concrete_powder:7, 灰色のコンクリートパウダー
+minecraft:concrete_powder:8, 薄灰色のコンクリートパウダー
+minecraft:concrete_powder:9, 青緑色のコンクリートパウダー
+minecraft:concrete_powder:10, 紫色のコンクリートパウダー
+minecraft:concrete_powder:11, 青色のコンクリートパウダー
+minecraft:concrete_powder:12, 茶色のコンクリートパウダー
+minecraft:concrete_powder:13, 緑色のコンクリートパウダー
+minecraft:concrete_powder:14, 赤色のコンクリートパウダー
+minecraft:concrete_powder:15, 黒色のコンクリートパウダー
+minecraft:structure_block, ストラクチャーブロック
+minecraft:iron_shovel, 鉄のシャベル
+minecraft:iron_pickaxe, 鉄のツルハシ
+minecraft:iron_axe, 鉄の斧
+minecraft:flint_and_steel, 火打石と打ち金
+minecraft:apple, リンゴ
+minecraft:bow, 弓
+minecraft:arrow, 矢
+minecraft:coal:0, 石炭
+minecraft:coal:1, 木炭
+minecraft:diamond, ダイヤモンド
+minecraft:iron_ingot, 鉄インゴット
+minecraft:gold_ingot, 金インゴット
+minecraft:iron_sword, 鉄の剣
+minecraft:wooden_sword, 木の剣
+minecraft:wooden_shovel, 木のシャベル
+minecraft:wooden_pickaxe, 木のツルハシ
+minecraft:wooden_axe, 木の斧
+minecraft:stone_sword, 石の剣
+minecraft:stone_shovel, 石のシャベル
+minecraft:stone_pickaxe, 石のツルハシ
+minecraft:stone_axe, 石の斧
+minecraft:diamond_sword, ダイヤモンドの剣
+minecraft:diamond_shovel, ダイヤモンドのシャベル
+minecraft:diamond_pickaxe, ダイヤモンドのツルハシ
+minecraft:diamond_axe, ダイヤモンドの斧
+minecraft:stick, 棒
+minecraft:bowl, ボウル
+minecraft:mushroom_stew, キノコシチュー
+minecraft:golden_sword, 金の剣
+minecraft:golden_shovel, 金のシャベル
+minecraft:golden_pickaxe, 金のツルハシ
+minecraft:golden_axe, 金の斧
+minecraft:string, 糸
+minecraft:feather, 羽根
+minecraft:gunpowder, 火薬
+minecraft:wooden_hoe, 木のクワ
+minecraft:stone_hoe, 石のクワ
+minecraft:iron_hoe, 鉄のクワ
+minecraft:diamond_hoe, ダイヤモンドのクワ
+minecraft:golden_hoe, 金のクワ
+minecraft:wheat_seeds, 種
+minecraft:wheat, 小麦
+minecraft:bread, パン
+minecraft:leather_helmet, 革の帽子
+minecraft:leather_chestplate, 革の上着
+minecraft:leather_leggings, 革のズボン
+minecraft:leather_boots, 革のブーツ
+minecraft:chainmail_helmet, チェーンのヘルメット
+minecraft:chainmail_chestplate, チェーンのチェストプレート
+minecraft:chainmail_leggings, チェーンのレギンス
+minecraft:chainmail_boots, チェーンのブーツ
+minecraft:iron_helmet, 鉄のヘルメット
+minecraft:iron_chestplate, 鉄のチェストプレート
+minecraft:iron_leggings, 鉄のレギンス
+minecraft:iron_boots, 鉄のブーツ
+minecraft:diamond_helmet, ダイヤモンドのヘルメット
+minecraft:diamond_chestplate, ダイヤモンドのチェストプレート
+minecraft:diamond_leggings, ダイヤモンドのレギンス
+minecraft:diamond_boots, ダイヤモンドのブーツ
+minecraft:golden_helmet, 金のヘルメット
+minecraft:golden_chestplate, 金のチェストプレート
+minecraft:golden_leggings, 金のレギンス
+minecraft:golden_boots, 金のブーツ
+minecraft:flint, 火打石
+minecraft:porkchop, 生の豚肉
+minecraft:cooked_porkchop, 焼き豚
+minecraft:painting, 絵画
+minecraft:golden_apple:0, 金のリンゴ
+minecraft:golden_apple:1, 金のリンゴ
+minecraft:sign, 看板
+minecraft:wooden_door, オークのドア
+minecraft:bucket, バケツ
+minecraft:water_bucket, 水入りバケツ
+minecraft:lava_bucket, 溶岩入りバケツ
+minecraft:minecart, トロッコ
+minecraft:saddle, 鞍
+minecraft:iron_door, 鉄のドア
+minecraft:redstone, レッドストーン
+minecraft:snowball, 雪玉
+minecraft:boat, オークのボート
+minecraft:leather, 革
+minecraft:milk_bucket, 牛乳
+minecraft:brick, レンガ
+minecraft:clay_ball, 粘土
+minecraft:reeds, サトウキビ
+minecraft:paper, 紙
+minecraft:book, 本
+minecraft:slime_ball, スライムボール
+minecraft:chest_minecart, チェスト付きトロッコ
+minecraft:furnace_minecart, かまど付きトロッコ
+minecraft:egg, 卵
+minecraft:compass, コンパス
+minecraft:fishing_rod, 釣竿
+minecraft:clock, 時計
+minecraft:glowstone_dust, グロウストーンダスト
+minecraft:fish:0, 生魚
+minecraft:fish:1, 生鮭
+minecraft:fish:2, クマノミ
+minecraft:fish:3, フグ
+minecraft:cooked_fish:0, 焼き魚
+minecraft:cooked_fish:1, 焼き鮭
+minecraft:dye:0, イカスミ
+minecraft:dye:1, 赤色の染料
+minecraft:dye:2, 緑色の染料
+minecraft:dye:3, カカオ豆
+minecraft:dye:4, ラピスラズリ
+minecraft:dye:5, 紫色の染料
+minecraft:dye:6, 青緑色の染料
+minecraft:dye:7, 薄灰色の染料
+minecraft:dye:8, 灰色の染料
+minecraft:dye:9, 桃色の染料
+minecraft:dye:10, 黄緑色の染料
+minecraft:dye:11, 黄色の染料
+minecraft:dye:12, 空色の染料
+minecraft:dye:13, 赤紫色の染料
+minecraft:dye:14, 橙色の染料
+minecraft:dye:15, 骨粉
+minecraft:bone, 骨
+minecraft:sugar, 砂糖
+minecraft:cake, ケーキ
+minecraft:bed:0, 白色のベッド
+minecraft:bed:1, 橙色のベッド
+minecraft:bed:2, 赤紫色のベッド
+minecraft:bed:3, 空色のベッド
+minecraft:bed:4, 黄色のベッド
+minecraft:bed:5, 黄緑色のベッド
+minecraft:bed:6, 桃色のベッド
+minecraft:bed:7, 灰色のベッド
+minecraft:bed:8, 薄灰色のベッド
+minecraft:bed:9, 青緑色のベッド
+minecraft:bed:10, 紫色のベッド
+minecraft:bed:11, 青色のベッド
+minecraft:bed:12, 茶色のベッド
+minecraft:bed:13, 緑色のベッド
+minecraft:bed:14, 赤色のベッド
+minecraft:bed:15, 黒色のベッド
+minecraft:repeater, レッドストーンリピーター
+minecraft:cookie, クッキー
+minecraft:filled_map:0, 地図
+minecraft:shears, ハサミ
+minecraft:melon, スイカ
+minecraft:pumpkin_seeds, カボチャの種
+minecraft:melon_seeds, スイカの種
+minecraft:beef, 生の牛肉
+minecraft:cooked_beef, ステーキ
+minecraft:chicken, 生の鶏肉
+minecraft:cooked_chicken, 焼き鳥
+minecraft:rotten_flesh, 腐った肉
+minecraft:ender_pearl, エンダーパール
+minecraft:blaze_rod, ブレイズロッド
+minecraft:ghast_tear, ガストの涙
+minecraft:gold_nugget, 金塊
+minecraft:nether_wart, ネザーウォート
+minecraft:potion, ポーション
+minecraft:glass_bottle, ガラス瓶
+minecraft:spider_eye, クモの目
+minecraft:fermented_spider_eye, 発酵したクモの目
+minecraft:blaze_powder, ブレイズパウダー
+minecraft:magma_cream, マグマクリーム
+minecraft:brewing_stand, 醸造台
+minecraft:cauldron, 大釜
+minecraft:ender_eye, エンダーアイ
+minecraft:speckled_melon, きらめくスイカ
+minecraft:spawn_egg, スポーン
+minecraft:experience_bottle, エンチャントの瓶
+minecraft:fire_charge, ファイヤーチャージ
+minecraft:writable_book, 本と羽根ペン
+minecraft:written_book, 記入済みの本
+minecraft:emerald, エメラルド
+minecraft:item_frame, 額縁
+minecraft:flower_pot, 植木鉢
+minecraft:carrot, ニンジン
+minecraft:potato, ジャガイモ
+minecraft:baked_potato, ベイクドポテト
+minecraft:poisonous_potato, 青くなったジャガイモ
+minecraft:map, 白紙の地図
+minecraft:golden_carrot, 金のニンジン
+minecraft:skull:0, スケルトンの頭蓋骨
+minecraft:skull:1, ウィザースケルトンの頭蓋骨
+minecraft:skull:2, ゾンビの頭
+minecraft:skull:3, 頭
+minecraft:skull:4, クリーパーの頭
+minecraft:skull:5, ドラゴンの頭
+minecraft:carrot_on_a_stick, ニンジン付きの棒
+minecraft:nether_star, ネザースター
+minecraft:pumpkin_pie, パンプキンパイ
+minecraft:fireworks, ロケット花火
+minecraft:firework_charge, 花火の星
+minecraft:enchanted_book, エンチャントの本
+minecraft:comparator, レッドストーンコンパレーター
+minecraft:netherbrick, ネザーレンガ
+minecraft:quartz, ネザークォーツ
+minecraft:tnt_minecart, TNT 付きトロッコ
+minecraft:hopper_minecart, ホッパー付きトロッコ
+minecraft:prismarine_shard, プリズマリンの欠片
+minecraft:prismarine_crystals, プリズマリンクリスタル
+minecraft:rabbit, 生の兎肉
+minecraft:cooked_rabbit, 焼き兎肉
+minecraft:rabbit_stew, ウサギシチュー
+minecraft:rabbit_foot, ウサギの足
+minecraft:rabbit_hide, ウサギの皮
+minecraft:armor_stand, 防具立て
+minecraft:iron_horse_armor, 鉄の馬鎧
+minecraft:golden_horse_armor, 金の馬鎧
+minecraft:diamond_horse_armor, ダイヤモンドの馬鎧
+minecraft:lead, リード
+minecraft:name_tag, 名札
+minecraft:command_block_minecart, コマンドブロック付きトロッコ
+minecraft:mutton, 生の羊肉
+minecraft:cooked_mutton, 焼き羊肉
+minecraft:banner:15, 白色の旗
+minecraft:banner:14, 橙色の旗
+minecraft:banner:13, 赤紫色の旗
+minecraft:banner:12, 空色の旗
+minecraft:banner:11, 黄色の旗
+minecraft:banner:10, 黄緑色の旗
+minecraft:banner:9, 桃色の旗
+minecraft:banner:8, 灰色の旗
+minecraft:banner:7, 薄灰色の旗
+minecraft:banner:6, 青緑色の旗
+minecraft:banner:5, 紫色の旗
+minecraft:banner:4, 青色の旗
+minecraft:banner:3, 茶色の旗
+minecraft:banner:2, 緑色の旗
+minecraft:banner:1, 赤色の旗
+minecraft:banner:0, 黒色の旗
+minecraft:end_crystal, エンドクリスタル
+minecraft:spruce_door, マツのドア
+minecraft:birch_door, シラカバのドア
+minecraft:jungle_door, ジャングルのドア
+minecraft:acacia_door, アカシアのドア
+minecraft:dark_oak_door, ダークオークのドア
+minecraft:chorus_fruit, コーラスフルーツ
+minecraft:chorus_fruit_popped, 焼いたコーラスフルーツ
+minecraft:beetroot, ビートルート
+minecraft:beetroot_seeds, ビートルートの種
+minecraft:beetroot_soup, ビートルートスープ
+minecraft:dragon_breath, ドラゴンブレス
+minecraft:splash_potion, スプラッシュポーション
+minecraft:spectral_arrow, 光の矢
+minecraft:tipped_arrow, 効能付きの矢
+minecraft:lingering_potion, 残留ポーション
+minecraft:shield, 盾
+minecraft:elytra, エリトラ
+minecraft:spruce_boat, マツのボート
+minecraft:birch_boat, シラカバのボート
+minecraft:jungle_boat, ジャングルのボート
+minecraft:acacia_boat, アカシアのボート
+minecraft:dark_oak_boat, ダークオークのボート
+minecraft:totem_of_undying, 不死のトーテム
+minecraft:shulker_shell, シュルカーの殻
+minecraft:iron_nugget, 鉄塊
+minecraft:knowledge_book, 知恵の本
+minecraft:record_13, レコード
+minecraft:record_cat, レコード
+minecraft:record_blocks, レコード
+minecraft:record_chirp, レコード
+minecraft:record_far, レコード
+minecraft:record_mall, レコード
+minecraft:record_mellohi, レコード
+minecraft:record_stal, レコード
+minecraft:record_strad, レコード
+minecraft:record_ward, レコード
+minecraft:record_11, レコード
+minecraft:record_wait, レコード
+chickenchunks:chunk_loader:0, チャンクローダー
+chickenchunks:chunk_loader:1, スポットローダー
+extrautils2:snowglobe:0, Magical Snow Globe
+extrautils2:snowglobe:1, Magical Snow Globe
+extrautils2:wateringcan, Watering Can
+extrautils2:itemcreativedestructionwand, Creative Destruction Wand
+extrautils2:unstableingots:0, Unstable Ingot
+extrautils2:unstableingots:1, Stable-'Unstable Nugget'
+extrautils2:unstableingots:2, Stable-'Unstable Ingot'
+extrautils2:itembuilderswand, Builders Wand
+extrautils2:itemdestructionwand, Destruction Wand
+extrautils2:itemcreativebuilderswand, Creative Builders Wand
+extrautils2:soundmuffler, Sound Muffler
+extrautils2:enderlilly, Ender Lilly
+extrautils2:decorativesolidwood:0, Magical Planks
+extrautils2:decorativesolidwood:1, Magical Wood
+extrautils2:decorativesolidwood:2, Diagonal Wood
+extrautils2:trashcan, Trash Can
+extrautils2:trashcanfluid, Trash Can (Fluid)
+extrautils2:trashcanenergy, Trash Can (Energy)
+extrautils2:angelblock, Angel Block
+extrautils2:passivegenerator:0, Solar Panel
+extrautils2:passivegenerator:1, Lunar Panel
+extrautils2:passivegenerator:2, Lava Mill
+extrautils2:passivegenerator:3, Water Mill
+extrautils2:passivegenerator:4, Wind Mill
+extrautils2:passivegenerator:5, Fire Mill
+extrautils2:passivegenerator:6, Creative Mill
+extrautils2:passivegenerator:7, Manual Mill
+extrautils2:passivegenerator:8, Dragon Egg Mill
+extrautils2:supermobspawner, Resturbed Mob Spawner
+extrautils2:cursedearth, Cursed Earth
+extrautils2:redstoneclock, Redstone Clock
+extrautils2:compressedcobblestone:0, Compressed Cobblestone
+extrautils2:compressedcobblestone:1, Double Compressed Cobblestone
+extrautils2:compressedcobblestone:2, Triple Compressed Cobblestone
+extrautils2:compressedcobblestone:3, Quadruple Compressed Cobblestone
+extrautils2:compressedcobblestone:4, Quintuple Compressed Cobblestone
+extrautils2:compressedcobblestone:5, Sextuple Compressed Cobblestone
+extrautils2:compressedcobblestone:6, Septuple Compressed Cobblestone
+extrautils2:compressedcobblestone:7, Octuple Compressed Cobblestone
+extrautils2:compresseddirt:0, Compressed Dirt
+extrautils2:compresseddirt:1, Double Compressed Dirt
+extrautils2:compresseddirt:2, Triple Compressed Dirt
+extrautils2:compresseddirt:3, Quadruple Compressed Dirt
+extrautils2:compressedsand:0, Compressed Sand
+extrautils2:compressedsand:1, Double Compressed Sand
+extrautils2:compressedgravel:0, Compressed Gravel
+extrautils2:compressedgravel:1, Double Compressed Gravel
+extrautils2:compressednetherrack:0, Compressed Netherrack
+extrautils2:compressednetherrack:1, Double Compressed Netherrack
+extrautils2:compressednetherrack:2, Triple Compressed Netherrack
+extrautils2:compressednetherrack:3, Quadruple Compressed Netherrack
+extrautils2:compressednetherrack:4, Quintuple Compressed Netherrack
+extrautils2:compressednetherrack:5, Sextuple Compressed Netherrack
+extrautils2:glasscutter, Glass Cutter
+extrautils2:endershard, Ender Shard
+extrautils2:redorchid, Red Orchid
+extrautils2:sickle_wood, Wooden Sickle
+extrautils2:sickle_stone, Stone Sickle
+extrautils2:sickle_iron, Iron Sickle
+extrautils2:sickle_gold, Golden Sickle
+extrautils2:sickle_diamond, Diamond Sickle
+extrautils2:poweroverload, Power Overload
+extrautils2:resonator, Resonator
+extrautils2:suncrystal, Sun Crystal
+extrautils2:spotlight, Spotlight
+extrautils2:screen, Screen
+extrautils2:decorativesolid:0, Border Stone
+extrautils2:decorativesolid:1, Crossed Stone
+extrautils2:decorativesolid:2, Polished Stone
+extrautils2:decorativesolid:3, Stoneburnt
+extrautils2:decorativesolid:4, Sandy Glass
+extrautils2:decorativesolid:5, Truchet
+extrautils2:decorativesolid:6, Blue Quartz
+extrautils2:decorativesolid:7, Quartzburnt
+extrautils2:decorativesolid:8, Rainbow Stone
+extrautils2:ingredients:0, Resonating Redstone Crystal
+extrautils2:ingredients:1, Redstone Gear
+extrautils2:ingredients:2, Eye of Redstone
+extrautils2:ingredients:3, Lunar Reactive Dust
+extrautils2:ingredients:4, Red Coal
+extrautils2:ingredients:5, Moon Stone
+extrautils2:ingredients:6, Upgrade Speed
+extrautils2:ingredients:7, Upgrade Stack
+extrautils2:ingredients:8, Upgrade Mining
+extrautils2:ingredients:9, Upgrade Base
+extrautils2:ingredients:10, Drop of Evil
+extrautils2:ingredients:11, Demon Ingot
+extrautils2:ingredients:12, Enchanted Ingot
+extrautils2:ingredients:13, Wireless RF Heating Coil
+extrautils2:ingredients:14, Blue Dye
+extrautils2:ingredients:15, Upgrade Speed (Magical)
+extrautils2:ingredients:16, Upgrade Speed (Ultimate)
+extrautils2:ingredients:17, Evil Infused Iron Ingot
+extrautils2:goldenlasso:0, Golden Lasso
+extrautils2:goldenlasso:1, Cursed Lasso
+extrautils2:chickenring:0, Chicken Wing Ring
+extrautils2:chickenring:1, Ring of the Flying Squid
+extrautils2:angelring:0, Angel Ring
+extrautils2:angelring:1, Angel Ring
+extrautils2:angelring:2, Angel Ring
+extrautils2:angelring:3, Angel Ring
+extrautils2:angelring:4, Angel Ring
+extrautils2:angelring:5, Angel Ring
+extrautils2:powermanager, Power Manager
+extrautils2:bagofholding, Bag Of Holding
+extrautils2:decorativeglass:0, Thickened Glass
+extrautils2:decorativeglass:1, Thickened Glass (Bordered)
+extrautils2:decorativeglass:2, Thickened Glass (Patterned)
+extrautils2:decorativeglass:3, Dark Glass
+extrautils2:decorativeglass:4, Glowing Glass
+extrautils2:decorativeglass:5, Redstone Glass
+extrautils2:ineffableglass:0, Ethereal Glass
+extrautils2:ineffableglass:1, Reverse Ethereal Glass
+extrautils2:ineffableglass:2, Ineffable Glass
+extrautils2:ineffableglass:3, Dark Ineffable Glass
+extrautils2:pipe, Transfer Pipe
+extrautils2:playerchest, Player Chest
+extrautils2:wrench, Wrench
+extrautils2:boomerang, Magical Boomerang
+extrautils2:book, Extra Utilities 2 Manual
+extrautils2:contract, Contract
+extrautils2:chunkloader, Chunk Loading Ward
+extrautils2:filter, Filter
+extrautils2:filterfluids, Filter Fluids
+extrautils2:grocket:0, Transfer Node (Items)
+extrautils2:grocket:1, Transfer Filter
+extrautils2:grocket:2, Transfer Node (Fluids)
+extrautils2:grocket:3, Retrieval Node (Items)
+extrautils2:grocket:4, Retrieval Node (Fluids)
+extrautils2:grocket:5, Transfer Pipe Filter
+extrautils2:grocket:6, Transfer Node (Energy)
+extrautils2:indexer, Indexer
+extrautils2:indexerremote, Indexer Remote
+extrautils2:crafter, Mechanical Crafter
+extrautils2:scanner, Scanner
+extrautils2:miner, Mechanical Miner
+extrautils2:user, Mechanical User
+extrautils2:klein:0, Klein Bottle
+extrautils2:drum:0, Stone Drum
+extrautils2:drum:1, Iron Drum
+extrautils2:drum:2, Reinforced Large Drum
+extrautils2:drum:3, Demonically Gargantuan Drum
+extrautils2:drum:4, Creative Drum
+extrautils2:machine:0, Machine Block
+extrautils2:machine:0, Furnace
+extrautils2:machine:0, Crusher
+extrautils2:machine:0, Enchanter
+extrautils2:machine:0, Survival Generator
+extrautils2:machine:0, Furnace Generator
+extrautils2:machine:0, Culinary Generator
+extrautils2:machine:0, Magmatic Generator
+extrautils2:machine:0, Heated Redstone Generator
+extrautils2:machine:0, Ender Generator
+extrautils2:machine:0, Potion Generator
+extrautils2:machine:0, Pink Generator
+extrautils2:machine:0, Overclocked Generator
+extrautils2:machine:0, Explosive Generator
+extrautils2:machine:0, Netherstar Generator
+extrautils2:machine:0, Halitosis Generator
+extrautils2:machine:0, Frosty Generator
+extrautils2:machine:0, Death Generator
+extrautils2:machine:0, Dischantment Generator
+extrautils2:machine:0, Slimey Generator
+extrautils2:teleporter:0, Overworld Portal
+extrautils2:teleporter:1, Deep Dark Portal
+extrautils2:powertransmitter, Wireless RF Transmitter
+extrautils2:powerbattery, Wireless RF Battery
+extrautils2:quarryproxy, Quantum Quarry Actuator
+extrautils2:quarry, Quantum Quarry
+extrautils2:spike_wood, Wooden Spikes
+extrautils2:spike_stone, Stone Spikes
+extrautils2:spike_iron, Iron Spikes
+extrautils2:spike_gold, Golden Spikes
+extrautils2:spike_diamond, Diamond Spikes
+extrautils2:spike_creative, Creative Spikes
+extrautils2:redstonelantern, Redstone Lantern
+extrautils2:largishchest, Slightly-Larger Chest
+extrautils2:minichest, Mini Chest
+extrautils2:rainbowgenerator:0, Rainbow Generator!
+extrautils2:rainbowgenerator:1, Rainbow Generator (bottom half)
+extrautils2:rainbowgenerator:2, Rainbow Generator (top half)
+extrautils2:magicapple, Magical Apple
+extrautils2:simpledecorative:0, Block of Enchanted Metal
+extrautils2:simpledecorative:1, Block of Demon Metal
+extrautils2:simpledecorative:2, Block of Evil Infused Iron
+extrautils2:creativechest, Creative Chest
+extrautils2:creativeenergy, Creative Energy Source
+extrautils2:creativeharvest, Creative Harvest
+extrautils2:trowel, Trowel
+extrautils2:biomemarker, Biome Marker
+extrautils2:terraformer:0, Terraformer
+extrautils2:terraformer:1, Antenna
+extrautils2:terraformer:2, Humidifier
+extrautils2:terraformer:3, Dehumidifier
+extrautils2:terraformer:4, Heater
+extrautils2:terraformer:5, Cooler
+extrautils2:terraformer:6, Dehostilifier
+extrautils2:terraformer:7, Magic Absorbtion
+extrautils2:terraformer:8, Magic Infuser
+extrautils2:terraformer:9, Climograph Base Unit
+extrautils2:trashchest, Trash Chest
+extrautils2:opinium:0, Opinium Core (Pathetic)
+extrautils2:opinium:1, Opinium Core (Mediocre)
+extrautils2:opinium:2, Opinium Core (Passable)
+extrautils2:opinium:3, Opinium Core (Decent)
+extrautils2:opinium:4, Opinium Core (Good)
+extrautils2:opinium:5, Opinium Core (Damn Good)
+extrautils2:opinium:6, Opinium Core (Amazing)
+extrautils2:opinium:7, Opinium Core (Inspiring)
+extrautils2:opinium:8, Opinium Core (Perfected)
+extrautils2:lawsword, Kikoku
+extrautils2:flattransfernode:0, Flat Transfer Node (Items)
+extrautils2:flattransfernode:1, Flat Transfer Node (Fluids)
+extrautils2:analogcrafter, Analog Crafter
+extrautils2:decorativebedrock:0, Bedrock Bricks
+extrautils2:decorativebedrock:1, Bedrock Slabs
+extrautils2:decorativebedrock:2, Bedrock Cobblestone
+extrautils2:compoundbow, Compound Bow
+extrautils2:fireaxe, Fire Axe
+extrautils2:interactionproxy, Ender Porcupine
+extrautils2:luxsaber:0, Lux Saber
+extrautils2:luxsaber:0, Lux Saber
+extrautils2:luxsaber:1, Lux Saber
+extrautils2:luxsaber:1, Lux Saber
+extrautils2:luxsaber:2, Lux Saber
+extrautils2:luxsaber:2, Lux Saber
+extrautils2:luxsaber:3, Lux Saber
+extrautils2:luxsaber:3, Lux Saber
+extrautils2:luxsaber:4, Lux Saber
+extrautils2:luxsaber:4, Lux Saber
+extrautils2:luxsaber:5, Lux Saber
+extrautils2:luxsaber:5, Lux Saber
+extrautils2:luxsaber:6, Lux Saber
+extrautils2:luxsaber:6, Lux Saber
+extrautils2:luxsaber:7, Lux Saber
+extrautils2:luxsaber:7, Lux Saber
+extrautils2:ironwood_leaves:0, Ferrous-Juniper Leaves
+extrautils2:ironwood_leaves:1, Burnt Ferrous-Juniper Leaves
+extrautils2:ironwood_log:0, Ferrous-Juniper Log
+extrautils2:ironwood_log:1, Ferrous-Juniper Log
+extrautils2:ironwood_sapling:0, Ferrous-Juniper Sapling
+extrautils2:ironwood_sapling:1, Dead Ferrous-Juniper Sapling
+extrautils2:ironwood_planks:0, Ferrous-Juniper Planks
+extrautils2:ironwood_planks:1, Raw Ferrous-Juniper Planks
+ic2:te:1, 工業用TNT
+ic2:te:2, 核爆弾
+ic2:te:3, 火力発電機
+ic2:te:4, 地熱発電機
+ic2:te:5, 動力発電機
+ic2:te:6, 放射性同位元素崩壊熱発電機
+ic2:te:7, 半流体燃料発電機
+ic2:te:8, 太陽電池パネル
+ic2:te:9, スターリング発電機
+ic2:te:10, 水力発電機
+ic2:te:11, 風力発電機
+ic2:te:12, 電気発熱機
+ic2:te:13, 液体燃料発熱機
+ic2:te:14, 放射性同位元素崩壊熱発熱機
+ic2:te:15, 固体燃料発熱機
+ic2:te:16, 電動モーター
+ic2:te:17, 手回し動力発生器
+ic2:te:18, 蒸気タービン
+ic2:te:19, スターリング動力発生機
+ic2:te:20, 水力タービン
+ic2:te:21, 風力タービン
+ic2:te:22, 原子炉
+ic2:te:23, 原子炉アクセスハッチ
+ic2:te:24, 原子炉チャンバー
+ic2:te:25, 原子炉注排液ポート
+ic2:te:26, 原子炉レッドストーン信号入力ポート
+ic2:te:27, 復水機
+ic2:te:28, 瓶詰製造器
+ic2:te:29, 流体分配器
+ic2:te:30, 液体流量調節機
+ic2:te:31, 液体熱交換機
+ic2:te:32, ポンプ
+ic2:te:33, 太陽光蒸留器
+ic2:te:34, 蒸気ボイラー
+ic2:te:35, アイテム搬送器
+ic2:te:36, 電気照明
+ic2:te:37, 磁気発生器
+ic2:te:38, 電動分別機
+ic2:te:39, 瞬間移動装置
+ic2:te:40, 環境変移装置
+ic2:te:41, テスラコイル
+ic2:te:42, 汎用缶詰製造機
+ic2:te:43, 圧縮機
+ic2:te:44, 電気炉
+ic2:te:45, 抽出機
+ic2:te:46, 鉄かまど
+ic2:te:47, 破砕機
+ic2:te:48, 廃棄物再生機
+ic2:te:49, 固形物専用缶詰製造器
+ic2:te:50, 高炉
+ic2:te:51, ブロック切断機
+ic2:te:52, 熱遠心分離機
+ic2:te:53, 発酵槽
+ic2:te:54, 誘導電気炉
+ic2:te:55, 金属加工機
+ic2:te:56, 鉱石洗浄機
+ic2:te:57, 上位採掘機
+ic2:te:58, 農作物収穫機
+ic2:te:59, 農業用多目的散布装置
+ic2:te:60, 採掘機
+ic2:te:92, Mass Fabricator
+ic2:te:93, UU Assembly Bench
+ic2:te:61, 万能物質製造器
+ic2:te:62, パターン記憶装置
+ic2:te:63, 物体複製装置
+ic2:te:64, 物体スキャナ
+ic2:te:65, エネルギー交換器
+ic2:te:66, 個人用保護チェスト
+ic2:te:67, アイテム交換器
+ic2:te:94, Trading Terminal
+ic2:te:68, 低圧充電パッド
+ic2:te:69, 中圧充電パッド(CESU)
+ic2:te:70, 高圧充電パッド(MFE)
+ic2:te:71, 超高圧充電パッド(MFSU)
+ic2:te:72, 低圧蓄電器(BatBox)
+ic2:te:73, 中圧蓄電器(CESU)
+ic2:te:74, 高圧蓄電器(MFE)
+ic2:te:75, 超高圧蓄電器(MFSU)
+ic2:te:76, 電解水製造器
+ic2:te:77, 低電圧変圧機
+ic2:te:78, 中電圧変圧機
+ic2:te:79, 高電圧変圧機
+ic2:te:80, 超高電圧変圧機
+ic2:te:81, タンク
+ic2:te:82, チャンク再生機
+ic2:te:83, 小型アイテム搬送器
+ic2:te:86, クリエイティブ生成機
+ic2:te:87, 蒸気再加圧機
+ic2:te:90, Weighted Fluid Distributor
+ic2:te:91, Weighted Item Distributor
+ic2:te:84, 原子炉冷却材注入機 (RSH)
+ic2:te:85, 原子炉冷却材注入機 (LZH)
+ic2:te:88, 工業用工作台
+ic2:te:89, 連続処理自動化工作台
+ic2:te:100, Coke Kiln
+ic2:te:101, Coke Kiln Hatch
+ic2:te:102, Coke Kiln Grate
+ic2:te:111, Wooden Storage Box
+ic2:te:112, Iron Storage Box
+ic2:te:113, Bronze Storage Box
+ic2:te:114, Steel Storage Box
+ic2:te:115, Iridium Storage Box
+ic2:te:131, Bronze Tank
+ic2:te:132, Iron Tank
+ic2:te:133, Steel Tank
+ic2:te:134, Iridium Tank
+ic2:resource:0, 玄武岩
+ic2:resource:1, 銅鉱石
+ic2:resource:2, 鉛鉱石
+ic2:resource:3, 錫鉱石
+ic2:resource:4, ウラン鉱石
+ic2:resource:5, 青銅ブロック
+ic2:resource:6, 銅ブロック
+ic2:resource:7, 鉛ブロック
+ic2:resource:8, 錬鉄ブロック
+ic2:resource:9, 錫ブロック
+ic2:resource:10, ウランブロック
+ic2:resource:11, 鉄筋コンクリート
+ic2:resource:12, 基本筐体
+ic2:resource:13, 高位筐体
+ic2:resource:14, 原子炉圧力容器
+ic2:resource:15, Silver Block
+ic2:leaves, ic2.leaves.name
+ic2:rubber_wood, ic2.rubber_wood.name
+ic2:sapling, ic2.sapling.rubber.name
+ic2:scaffold:0, 木製足場
+ic2:scaffold:1, 強化木製足場
+ic2:scaffold:2, 鉄製足場
+ic2:scaffold:3, 強化鉄製足場
+ic2:fence:0, 鉄柵
+ic2:sheet:0, 粘着シート
+ic2:sheet:1, ゴムシート
+ic2:sheet:2, 羊毛シート
+ic2:glass:0, 強化ガラス
+ic2:foam:0, 生コンクリート
+ic2:foam:1, 強化生コンクリート
+ic2:wall:0, コンクリート壁（黒色）
+ic2:wall:1, コンクリート壁（青色）
+ic2:wall:2, コンクリート壁（茶色）
+ic2:wall:3, コンクリート壁（水色）
+ic2:wall:4, コンクリート壁（灰色）
+ic2:wall:5, コンクリート壁（緑色）
+ic2:wall:6, コンクリート壁（空色）
+ic2:wall:7, コンクリート壁（薄灰色）
+ic2:wall:8, コンクリート壁（黄緑色）
+ic2:wall:9, コンクリート壁（赤紫色）
+ic2:wall:10, コンクリート壁（橙色）
+ic2:wall:11, コンクリート壁（桃色）
+ic2:wall:12, コンクリート壁（紫色）
+ic2:wall:13, コンクリート壁（赤色）
+ic2:wall:14, コンクリート壁（白色）
+ic2:wall:15, コンクリート壁（黄色）
+ic2:mining_pipe:0, 採掘管
+ic2:reinforced_door, ic2.reinforced_door.name
+ic2:refractory_bricks, ic2.refractory_bricks.name
+ic2:uu_matter, ic2.uu_matter.name
+ic2:construction_foam, ic2.construction_foam.name
+ic2:coolant, ic2.coolant.name
+ic2:creosote, ic2.creosote.name
+ic2:hot_coolant, ic2.hot_coolant.name
+ic2:pahoehoe_lava, ic2.pahoehoe_lava.name
+ic2:biomass, ic2.biomass.name
+ic2:biogas, ic2.biogas.name
+ic2:distilled_water, ic2.distilled_water.name
+ic2:superheated_steam, ic2.superheated_steam.name
+ic2:steam, ic2.steam.name
+ic2:hot_water, ic2.hot_water.name
+ic2:weed_ex, ic2.weed_ex.name
+ic2:air, ic2.air.name
+ic2:hydrogen, ic2.hydrogen.name
+ic2:oxygen, ic2.oxygen.name
+ic2:heavy_water, ic2.heavy_water.name
+ic2:milk, ic2.milk.name
+ic2:advanced_batpack, ic2.advanced_batpack.name
+ic2:alloy_chestplate, ic2.alloy_chestplate.name
+ic2:batpack, ic2.batpack.name
+ic2:bronze_boots, ic2.bronze_boots.name
+ic2:bronze_chestplate, ic2.bronze_chestplate.name
+ic2:bronze_helmet, ic2.bronze_helmet.name
+ic2:bronze_leggings, ic2.bronze_leggings.name
+ic2:cf_pack, ic2.cf_pack.name
+ic2:energy_pack, ic2.energy_pack.name
+ic2:hazmat_chestplate, ic2.hazmat_chestplate.name
+ic2:hazmat_helmet, ic2.hazmat_helmet.name
+ic2:hazmat_leggings, ic2.hazmat_leggings.name
+ic2:jetpack, ic2.jetpack.name
+ic2:jetpack_electric, ic2.jetpack_electric.name
+ic2:lappack, ic2.lappack.name
+ic2:nano_boots, ic2.nano_boots.name
+ic2:nano_chestplate, ic2.nano_chestplate.name
+ic2:nano_helmet, ic2.nano_helmet.name
+ic2:nano_leggings, ic2.nano_leggings.name
+ic2:nightvision_goggles, ic2.nightvision_goggles.name
+ic2:quantum_boots, ic2.quantum_boots.name
+ic2:quantum_chestplate, ic2.quantum_chestplate.name
+ic2:quantum_helmet, ic2.quantum_helmet.name
+ic2:quantum_leggings, ic2.quantum_leggings.name
+ic2:rubber_boots, ic2.rubber_boots.name
+ic2:solar_helmet, ic2.solar_helmet.name
+ic2:static_boots, ic2.static_boots.name
+ic2:boat:0, 損傷したゴムボート
+ic2:boat:1, ゴムボート
+ic2:boat:2, カーボンカヌー
+ic2:boat:3, 電動ボート
+ic2:barrel, ic2.barrel.name
+ic2:mug:0, マグカップ
+ic2:mug:1, アイスコーヒー
+ic2:mug:2, ブラックコーヒー
+ic2:mug:3, コーヒー
+ic2:booze_mug, ic2.booze_mug.name
+ic2:crushed:0, 破砕済み銅鉱石
+ic2:crushed:1, 破砕済み金鉱石
+ic2:crushed:2, 破砕済み鉄鉱石
+ic2:crushed:3, 破砕済み鉛鉱石
+ic2:crushed:4, 破砕済み銀鉱石
+ic2:crushed:5, 破砕済み錫鉱石
+ic2:crushed:6, 破砕済みウラン鉱石
+ic2:purified:0, 破砕済銅鉱石（洗浄後）
+ic2:purified:1, 破砕済金鉱石（洗浄後）
+ic2:purified:2, 破砕済鉄鉱石（洗浄後）
+ic2:purified:3, 破砕済鉛鉱石（洗浄後）
+ic2:purified:4, 破砕済銀鉱石（洗浄後）
+ic2:purified:5, 破砕済錫鉱石（洗浄後）
+ic2:purified:6, 破砕済ウラン鉱石（洗浄後）
+ic2:dust:0, 青銅粉末
+ic2:dust:1, 粘土粉末
+ic2:dust:2, 石炭粉末
+ic2:dust:3, 水和石炭粉末
+ic2:dust:4, 銅粉末
+ic2:dust:5, ダイアモンド粉末
+ic2:dust:6, エナジウム粉末
+ic2:dust:7, 金粉末
+ic2:dust:8, 鉄粉末
+ic2:dust:9, ラピスラズリ粉末
+ic2:dust:10, 鉛粉末
+ic2:dust:11, リチウム粉末
+ic2:dust:12, 黒曜石粉末
+ic2:dust:13, 二酸化ケイ素
+ic2:dust:14, 銀粉末
+ic2:dust:15, 石粉末
+ic2:dust:16, 硫黄粉末
+ic2:dust:17, 錫粉末
+ic2:dust:18, 青銅粉末（小）
+ic2:dust:19, 銅粉末（小）
+ic2:dust:20, 金粉末（小）
+ic2:dust:21, 鉄粉末（小）
+ic2:dust:22, ラピスラズリ粉末（小）
+ic2:dust:23, 鉛粉末（小）
+ic2:dust:24, リチウム粉末（小）
+ic2:dust:25, 黒曜石粉末（小）
+ic2:dust:26, 銀粉末（小）
+ic2:dust:27, 硫黄粉末（小）
+ic2:dust:28, 錫粉末（小）
+ic2:dust:29, 水和錫粉末
+ic2:dust:30, Netherrack Dust
+ic2:dust:31, Ender Pearl Dust
+ic2:dust:32, Ender Eye Dust
+ic2:dust:33, Milk Powder
+ic2:dust:34, Emerald Dust
+ic2:dust:35, Tiny Pile of Emerald Dust
+ic2:dust:36, Tiny Pile of Diamond Dust
+ic2:ingot:0, 複合金属インゴット
+ic2:ingot:1, 青銅インゴット
+ic2:ingot:2, 銅インゴット
+ic2:ingot:3, 鉛インゴット
+ic2:ingot:4, 銀インゴット
+ic2:ingot:5, 錬鉄インゴット
+ic2:ingot:6, 錫インゴット
+ic2:plate:0, 青銅板
+ic2:plate:1, 銅板
+ic2:plate:2, 金板
+ic2:plate:3, 鉄板
+ic2:plate:4, ラピスラズリの板
+ic2:plate:5, 鉛板
+ic2:plate:6, 黒曜石の板
+ic2:plate:7, 錬鉄板
+ic2:plate:8, 錫板
+ic2:plate:9, 高密化青銅板
+ic2:plate:10, 高密化銅板
+ic2:plate:11, 高密化金板
+ic2:plate:12, 高密化鉄板
+ic2:plate:13, ラピスラズリの板（高密化）
+ic2:plate:14, 高密化鉛板
+ic2:plate:15, 黒曜石の板（高密化）
+ic2:plate:16, 高密化錬鉄板
+ic2:plate:17, 高密化錫板
+ic2:casing:0, 青銅製金枠
+ic2:casing:1, 銅製金枠
+ic2:casing:2, 金製金枠
+ic2:casing:3, 鉄製金枠
+ic2:casing:4, 鉛製金枠
+ic2:casing:5, 錬鉄製金枠
+ic2:casing:6, 錫製金枠
+ic2:nuclear:0, 濃縮ウラン核燃料
+ic2:nuclear:1, ウラン235
+ic2:nuclear:2, ウラン238
+ic2:nuclear:3, プルトニウム
+ic2:nuclear:4, MOX核燃料
+ic2:nuclear:5, ウラン235（小）
+ic2:nuclear:6, ウラン238（小）
+ic2:nuclear:7, プルトニウム（小）
+ic2:nuclear:8, 濃縮ウラン核燃料ペレット
+ic2:nuclear:9, MOX核燃料ペレット
+ic2:nuclear:10, RTG燃料ペレット
+ic2:nuclear:11, 燃料棒（劣化ウラン）
+ic2:nuclear:12, 二重化燃料棒（劣化ウラン）
+ic2:nuclear:13, 四重化燃料棒（劣化ウラン）
+ic2:nuclear:14, 燃料棒（劣化MOX）
+ic2:nuclear:15, 二重化燃料棒（劣化MOX）
+ic2:nuclear:16, 四重化燃料棒（劣化MOX）
+ic2:misc_resource:0, 灰
+ic2:misc_resource:1, イリジウム鉱石
+ic2:misc_resource:2, イリジウム片
+ic2:misc_resource:3, 万能物質
+ic2:misc_resource:4, 粘性樹脂
+ic2:misc_resource:5, スラグ
+ic2:misc_resource:6, ヨウ素
+ic2:misc_resource:7, Water
+ic2:misc_resource:8, Lava
+ic2:crafting:0, 天然ゴム
+ic2:crafting:1, 電子回路
+ic2:crafting:2, 上位電子回路
+ic2:crafting:3, 複合金属版
+ic2:crafting:4, イリジウム強化板
+ic2:crafting:5, コイル
+ic2:crafting:6, 電動モーター
+ic2:crafting:7, 熱導体
+ic2:crafting:8, 銅製ボイラー罐
+ic2:crafting:9, 燃料棒（空）
+ic2:crafting:10, 空き缶
+ic2:crafting:11, パワーユニット（小）
+ic2:crafting:12, パワーユニット
+ic2:crafting:13, カーボン繊維
+ic2:crafting:14, カーボンメッシュ
+ic2:crafting:15, カーボン板材
+ic2:crafting:16, 炭球
+ic2:crafting:17, 加圧炭球
+ic2:crafting:18, 石炭塊
+ic2:crafting:19, 工業用ダイアモンド
+ic2:crafting:20, 植物球
+ic2:crafting:21, 植物屑
+ic2:crafting:23, スクラップ
+ic2:crafting:24, スクラップボックス
+ic2:crafting:25, セメント粉
+ic2:crafting:27, クリスタルメモリ（未加工）
+ic2:crafting:29, シャフト（鉄）
+ic2:crafting:30, シャフト（錬鉄）
+ic2:crafting:31, 木製ローター翼
+ic2:crafting:32, 鉄製ローター翼
+ic2:crafting:33, 錬鉄製ローター翼
+ic2:crafting:34, カーボン製ローター翼
+ic2:crafting:35, 蒸気タービン回転翼
+ic2:crafting:36, 蒸気タービン回転子
+ic2:crafting:37, ジェットパック装着プレート
+ic2:crafting:38, 工業通貨
+ic2:crafting:41, Bronze Rotor Blade
+ic2:crafting:42, Shaft (Bronze)
+ic2:block_cutting_blade:0, 切断刃（鉄）
+ic2:block_cutting_blade:1, 切断刃（錬鉄）
+ic2:block_cutting_blade:2, 切断刃（ダイアモンド）
+ic2:upgrade_kit:0, 超高圧蓄電器アップグレードキット
+ic2:crop_stick, ic2.crop_stick.name
+ic2:crop_res:0, コーヒー豆
+ic2:crop_res:1, コーヒー粉末
+ic2:crop_res:2, 肥料
+ic2:crop_res:3, 除草粉
+ic2:crop_res:4, ホップ
+ic2:crop_res:5, 雑草
+ic2:crop_res:6, Milk Wart
+ic2:crop_res:7, Oil Berry
+ic2:crop_res:8, Bobs-Yer-Uncle-Ranks Berry
+ic2:terra_wart, ic2.terra_wart.name
+ic2:cropnalyzer, ic2.cropnalyzer.name
+ic2:re_battery, ic2.re_battery.name
+ic2:advanced_re_battery, ic2.advanced_re_battery.name
+ic2:energy_crystal, ic2.energy_crystal.name
+ic2:lapotron_crystal, ic2.lapotron_crystal.name
+ic2:single_use_battery, ic2.single_use_battery.name
+ic2:charging_re_battery, ic2.charging_re_battery.name
+ic2:advanced_charging_re_battery, ic2.advanced_charging_re_battery.name
+ic2:charging_energy_crystal, ic2.charging_energy_crystal.name
+ic2:charging_lapotron_crystal, ic2.charging_lapotron_crystal.name
+ic2:heat_storage, ic2.heat_storage.name
+ic2:tri_heat_storage, ic2.tri_heat_storage.name
+ic2:hex_heat_storage, ic2.hex_heat_storage.name
+ic2:plating, ic2.plating.name
+ic2:heat_plating, ic2.heat_plating.name
+ic2:containment_plating, ic2.containment_plating.name
+ic2:heat_exchanger, ic2.heat_exchanger.name
+ic2:reactor_heat_exchanger, ic2.reactor_heat_exchanger.name
+ic2:component_heat_exchanger, ic2.component_heat_exchanger.name
+ic2:advanced_heat_exchanger, ic2.advanced_heat_exchanger.name
+ic2:heat_vent, ic2.heat_vent.name
+ic2:reactor_heat_vent, ic2.reactor_heat_vent.name
+ic2:overclocked_heat_vent, ic2.overclocked_heat_vent.name
+ic2:component_heat_vent, ic2.component_heat_vent.name
+ic2:advanced_heat_vent, ic2.advanced_heat_vent.name
+ic2:neutron_reflector, ic2.neutron_reflector.name
+ic2:thick_neutron_reflector, ic2.thick_neutron_reflector.name
+ic2:iridium_reflector, ic2.iridium_reflector.name
+ic2:rsh_condensator, ic2.rsh_condensator.name
+ic2:lzh_condensator, ic2.lzh_condensator.name
+ic2:heatpack, ic2.heatpack.name
+ic2:uranium_fuel_rod, ic2.uranium_fuel_rod.name
+ic2:dual_uranium_fuel_rod, ic2.dual_uranium_fuel_rod.name
+ic2:quad_uranium_fuel_rod, ic2.quad_uranium_fuel_rod.name
+ic2:mox_fuel_rod, ic2.mox_fuel_rod.name
+ic2:dual_mox_fuel_rod, ic2.dual_mox_fuel_rod.name
+ic2:quad_mox_fuel_rod, ic2.quad_mox_fuel_rod.name
+ic2:lithium_fuel_rod, ic2.lithium_fuel_rod.name
+ic2:depleted_isotope_fuel_rod, ic2.depleted_isotope_fuel_rod.name
+ic2:tfbp:0, 環境変移計画図面（空）
+ic2:tfbp:1, 環境変移計画図面（凍結化）
+ic2:tfbp:2, 環境変移計画図面（耕作地）
+ic2:tfbp:3, 環境変移計画図面（砂漠化）
+ic2:tfbp:4, 環境変移計画図面（平坦化）
+ic2:tfbp:5, 環境変移計画図面（灌漑地）
+ic2:tfbp:6, 環境変移計画図面（キノコ）
+ic2:bronze_axe, ic2.bronze_axe.name
+ic2:bronze_hoe, ic2.bronze_hoe.name
+ic2:bronze_pickaxe, ic2.bronze_pickaxe.name
+ic2:bronze_shovel, ic2.bronze_shovel.name
+ic2:bronze_sword, ic2.bronze_sword.name
+ic2:cutter, ic2.cutter.name
+ic2:debug_item, ic2.debug_item.name
+ic2:foam_sprayer:0, 生コン射出器
+ic2:foam_sprayer:0, 生コン射出器
+ic2:forge_hammer, ic2.forge_hammer.name
+ic2:frequency_transmitter, ic2.frequency_transmitter.name
+ic2:meter, ic2.meter.name
+ic2:tool_box, ic2.tool_box.name
+ic2:treetap, ic2.treetap.name
+ic2:wrench, ic2.wrench.name
+ic2:wrench_new, ic2.wrench_new.name
+ic2:crowbar, ic2.crowbar.name
+ic2:containment_box, ic2.containment_box.name
+ic2:weeding_trowel, ic2.weeding_trowel.name
+ic2:crop_seed_bag, ic2.crop_seed_bag.name
+ic2:advanced_scanner, ic2.advanced_scanner.name
+ic2:chainsaw, ic2.chainsaw.name
+ic2:diamond_drill, ic2.diamond_drill.name
+ic2:drill, ic2.drill.name
+ic2:electric_hoe, ic2.electric_hoe.name
+ic2:electric_treetap, ic2.electric_treetap.name
+ic2:electric_wrench, ic2.electric_wrench.name
+ic2:iridium_drill, ic2.iridium_drill.name
+ic2:mining_laser, ic2.mining_laser.name
+ic2:nano_saber, ic2.nano_saber.name
+ic2:obscurator, ic2.obscurator.name
+ic2:scanner, ic2.scanner.name
+ic2:wind_meter, ic2.wind_meter.name
+ic2:painter:0, 塗装ローラー
+ic2:painter:0, 塗装用ローラー（黒色）
+ic2:painter:0, 塗装用ローラー（青色）
+ic2:painter:0, 塗装用ローラー（茶色）
+ic2:painter:0, 塗装用ローラー（水色）
+ic2:painter:0, 塗装用ローラー（灰色）
+ic2:painter:0, 塗装用ローラー（緑色）
+ic2:painter:0, 塗装用ローラー（空色）
+ic2:painter:0, 塗装用ローラー（薄灰色）
+ic2:painter:0, 塗装用ローラー（黄緑色）
+ic2:painter:0, 塗装用ローラー（赤紫色）
+ic2:painter:0, 塗装用ローラー（橙色）
+ic2:painter:0, 塗装用ローラー（桃色）
+ic2:painter:0, 塗装用ローラー（紫色）
+ic2:painter:0, 塗装用ローラー（赤色）
+ic2:painter:0, 塗装用ローラー（白色）
+ic2:painter:0, 塗装用ローラー（黄色）
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:cable:0, 裸銅電線
+ic2:cable:0, 被覆銅電線
+ic2:cable:1, グラスファイバー電線
+ic2:cable:2, 裸金電線
+ic2:cable:2, 被覆金電線
+ic2:cable:2, 二重被覆金電線
+ic2:cable:3, 高圧鉄電線
+ic2:cable:3, 被覆高圧鉄電線
+ic2:cable:3, 二重被覆高圧鉄電線
+ic2:cable:3, 三重被覆高圧鉄電線
+ic2:cable:4, 裸錫電線
+ic2:cable:4, 被覆錫電線
+ic2:cable:5, 電流検出線
+ic2:cable:6, 電流遮断線
+ic2:upgrade:0, 高速化アップグレード
+ic2:upgrade:1, 変圧アップグレード
+ic2:upgrade:2, 蓄電容量アップグレード
+ic2:upgrade:3, レッドストーン信号反転アップグレード
+ic2:upgrade:4, 搬出器アップグレード
+ic2:upgrade:5, 上位搬出器アップグレード
+ic2:upgrade:6, 搬入器アップグレード
+ic2:upgrade:7, 上位搬入器アップグレード
+ic2:upgrade:8, 液体排出器アップグレード
+ic2:upgrade:9, 液体搬入器アップグレード
+ic2:upgrade:10, Remote Interface Upgrade
+ic2:filled_tin_can, ic2.filled_tin_can.name
+ic2:filled_fuel_can, ic2.filled_fuel_can.name
+ic2:iodine_tablet, ic2.iodine_tablet.name
+ic2:crystal_memory, ic2.crystal_memory.name
+ic2:rotor_wood, ic2.rotor_wood.name
+ic2:rotor_bronze, ic2.rotor_bronze.name
+ic2:rotor_iron, ic2.rotor_iron.name
+ic2:rotor_steel, ic2.rotor_steel.name
+ic2:rotor_carbon, ic2.rotor_carbon.name
+ic2:dynamite, ic2.dynamite.name
+ic2:dynamite_sticky, ic2.dynamite_sticky.name
+ic2:remote, ic2.remote.name
+ic2:pipe:0, Tiny Bronze Pipe
+ic2:pipe:0, Small Bronze Pipe
+ic2:pipe:0, Medium Bronze Pipe
+ic2:pipe:0, Large Bronze Pipe
+ic2:pipe:1, Tiny Steel Pipe
+ic2:pipe:1, Small Steel Pipe
+ic2:pipe:1, Medium Steel Pipe
+ic2:pipe:1, Large Steel Pipe
+ic2:cover:0, Pump Attachment (LV)
+ic2:cover:1, Pump Attachment (MV)
+ic2:coke, ic2.coke.name
+vrgenerator:visibleraysolar:0, 人工光ソーラー 1 EU/t
+vrgenerator:visibleraysolar:1, 人工光ソーラー 8 EU/t
+vrgenerator:visibleraysolar:2, 人工光ソーラー 64 EU/t
+vrgenerator:visibleraysolar:3, 人工光ソーラー 512 EU/t
+vrgenerator:visibleraysolar:4, 永久光発電機 2 EU/t
+vrgenerator:visibleraysolar:5, 永久光発電機 8 EU/t
+vrgenerator:visibleraysolar:6, 永久光発電機 32 EU/t
+vrgenerator:visibleraysolar:7, 永久光発電機 128 EU/t
+vrgenerator:visibleraysolar:8, 永久光発電機 512 EU/t
+vrgenerator:visibleraysolar:9, 永久光発電機 2048 EU/t
+vrgenerator:visibleraysolar:10, 永久光発電機 8192 EU/t
+vrgenerator:visibleraysolar:11, 永久光発電機 32768 EU/t
+vrgenerator:visibleraysolar:12, 永久光発電機 131072 EU/t
+vrgenerator:visibleraysolar:13, 永久光発電機 532480 EU/t
+vrgenerator:lavaupdater, item.null.name
+forge:bucketfilled, %s Bucket
+storagebox:storagebox:0, Storage Box
+appliedenergistics2:quartz_ore, Certus Quartz Ore
+appliedenergistics2:charged_quartz_ore, Charged Certus Quartz Ore
+appliedenergistics2:matrix_frame, Matrix Frame
+appliedenergistics2:quartz_block, Certus Quartz Block
+appliedenergistics2:quartz_pillar, Certus Quartz Pillar
+appliedenergistics2:chiseled_quartz_block, Chiseled Certus Quartz Block
+appliedenergistics2:quartz_glass, Quartz Glass
+appliedenergistics2:quartz_vibrant_glass, Vibrant Quartz Glass
+appliedenergistics2:quartz_fixture, Charged Quartz Fixture
+appliedenergistics2:fluix_block, Fluix Block
+appliedenergistics2:sky_stone_block, Sky Stone
+appliedenergistics2:smooth_sky_stone_block, Sky Stone Block
+appliedenergistics2:sky_stone_brick, Sky Stone Brick
+appliedenergistics2:sky_stone_small_brick, Sky Stone Small Brick
+appliedenergistics2:sky_stone_chest, Sky Stone Chest
+appliedenergistics2:smooth_sky_stone_chest, Sky Stone Block Chest
+appliedenergistics2:sky_compass, Meteorite Compass
+appliedenergistics2:grindstone, Quartz Grindstone
+appliedenergistics2:crank, Wooden Crank
+appliedenergistics2:inscriber, Inscriber
+appliedenergistics2:wireless_access_point, ME Wireless Access Point
+appliedenergistics2:charger, Charger
+appliedenergistics2:tiny_tnt, Tiny TNT
+appliedenergistics2:security_station, ME Security Terminal
+appliedenergistics2:quantum_ring, ME Quantum Ring
+appliedenergistics2:quantum_link, ME Quantum Link Chamber
+appliedenergistics2:spatial_pylon, Spatial Pylon
+appliedenergistics2:spatial_io_port, Spatial IO Port
+appliedenergistics2:controller, ME Controller
+appliedenergistics2:drive, ME Drive
+appliedenergistics2:chest, ME Chest
+appliedenergistics2:interface, ME Interface
+appliedenergistics2:fluid_interface, ME Fluid Interface
+appliedenergistics2:cell_workbench, Cell Workbench
+appliedenergistics2:io_port, ME IO Port
+appliedenergistics2:condenser, Matter Condenser
+appliedenergistics2:energy_acceptor, Energy Acceptor
+appliedenergistics2:vibration_chamber, Vibration Chamber
+appliedenergistics2:quartz_growth_accelerator, Crystal Growth Accelerator
+appliedenergistics2:energy_cell, Energy Cell
+appliedenergistics2:dense_energy_cell, Dense Energy Cell
+appliedenergistics2:creative_energy_cell, Creative Energy Cell
+appliedenergistics2:crafting_unit, Crafting Unit
+appliedenergistics2:crafting_accelerator, Crafting Co-Processing Unit
+appliedenergistics2:crafting_storage_1k, 1k Crafting Storage
+appliedenergistics2:crafting_storage_4k, 4k Crafting Storage
+appliedenergistics2:crafting_storage_16k, 16k Crafting Storage
+appliedenergistics2:crafting_storage_64k, 64k Crafting Storage
+appliedenergistics2:crafting_monitor, Crafting Monitor
+appliedenergistics2:molecular_assembler, Molecular Assembler
+appliedenergistics2:light_detector, Light Detecting Fixture
+appliedenergistics2:paint, tile.appliedenergistics2.paint.name
+appliedenergistics2:sky_stone_stairs, Sky Stone Stairs
+appliedenergistics2:smooth_sky_stone_stairs, Sky Stone Block Stairs
+appliedenergistics2:sky_stone_brick_stairs, Sky Stone Brick Stairs
+appliedenergistics2:sky_stone_small_brick_stairs, Sky Stone Small Brick Stairs
+appliedenergistics2:fluix_stairs, Fluix Stairs
+appliedenergistics2:quartz_stairs, Certus Quartz Stairs
+appliedenergistics2:chiseled_quartz_stairs, Chiseled Certus Quartz Stairs
+appliedenergistics2:quartz_pillar_stairs, Certus Quartz Pillar Stairs
+appliedenergistics2:cable_bus, AE2 Cable and/or Bus
+appliedenergistics2:sky_stone_slab:0, Sky Stone Slabs
+appliedenergistics2:smooth_sky_stone_slab:0, Sky Stone Block Slabs
+appliedenergistics2:sky_stone_brick_slab:0, Sky Stone Brick Slabs
+appliedenergistics2:sky_stone_small_brick_slab:0, Sky Stone Small Brick Slabs
+appliedenergistics2:fluix_slab:0, Fluix Slabs
+appliedenergistics2:quartz_slab:0, Certus Quartz Slabs
+appliedenergistics2:chiseled_quartz_slab:0, Chiseled Certus Quartz Slabs
+appliedenergistics2:quartz_pillar_slab:0, Certus Quartz Pillar Slabs
+appliedenergistics2:certus_quartz_axe, Certus Quartz Axe
+appliedenergistics2:certus_quartz_hoe, Certus Quartz Hoe
+appliedenergistics2:certus_quartz_spade, Certus Quartz Shovel
+appliedenergistics2:certus_quartz_pickaxe, Certus Quartz Pickaxe
+appliedenergistics2:certus_quartz_sword, Certus Quartz Sword
+appliedenergistics2:certus_quartz_wrench, Certus Quartz Wrench
+appliedenergistics2:certus_quartz_cutting_knife, Certus Quartz Cutting Knife
+appliedenergistics2:nether_quartz_axe, Nether Quartz Axe
+appliedenergistics2:nether_quartz_hoe, Nether Quartz Hoe
+appliedenergistics2:nether_quartz_spade, Nether Quartz Shovel
+appliedenergistics2:nether_quartz_pickaxe, Nether Quartz Pickaxe
+appliedenergistics2:nether_quartz_sword, Nether Quartz Sword
+appliedenergistics2:nether_quartz_wrench, Nether Quartz Wrench
+appliedenergistics2:nether_quartz_cutting_knife, Nether Quartz Cutting Knife
+appliedenergistics2:entropy_manipulator, Entropy Manipulator
+appliedenergistics2:wireless_terminal, Wireless Terminal
+appliedenergistics2:charged_staff, Charged Staff
+appliedenergistics2:matter_cannon, Matter Cannon
+appliedenergistics2:portable_cell, Portable Cell
+appliedenergistics2:color_applicator, Color Applicator
+appliedenergistics2:biometric_card, Biometric Card
+appliedenergistics2:memory_card, Memory Card
+appliedenergistics2:network_tool, Network Tool
+appliedenergistics2:creative_storage_cell, Creative ME Storage Cell
+appliedenergistics2:view_cell, View Cell
+appliedenergistics2:storage_cell_1k, 1k ME Storage Cell
+appliedenergistics2:storage_cell_4k, 4k ME Storage Cell
+appliedenergistics2:storage_cell_16k, 16k ME Storage Cell
+appliedenergistics2:storage_cell_64k, 64k ME Storage Cell
+appliedenergistics2:fluid_storage_cell_1k, 1k ME Fluid Storage Cell
+appliedenergistics2:fluid_storage_cell_4k, 4k ME Fluid Storage Cell
+appliedenergistics2:fluid_storage_cell_16k, 16k ME Fluid Storage Cell
+appliedenergistics2:fluid_storage_cell_64k, 64k ME Fluid Storage Cell
+appliedenergistics2:spatial_storage_cell_2_cubed, 2³ Spatial Storage Cell
+appliedenergistics2:spatial_storage_cell_16_cubed, 16³ Spatial Storage Cell
+appliedenergistics2:spatial_storage_cell_128_cubed, 128³ Spatial Storage Cell
+appliedenergistics2:facade:0, Cable Facade - 石
+appliedenergistics2:facade:0, Cable Facade - 花崗岩
+appliedenergistics2:facade:0, Cable Facade - 磨かれた花崗岩
+appliedenergistics2:facade:0, Cable Facade - 閃緑岩
+appliedenergistics2:facade:0, Cable Facade - 磨かれた閃緑岩
+appliedenergistics2:facade:0, Cable Facade - 安山岩
+appliedenergistics2:facade:0, Cable Facade - 磨かれた安山岩
+appliedenergistics2:facade:0, Cable Facade - 草ブロック
+appliedenergistics2:facade:0, Cable Facade - 土
+appliedenergistics2:facade:0, Cable Facade - 粗い土
+appliedenergistics2:facade:0, Cable Facade - ポドゾル
+appliedenergistics2:facade:0, Cable Facade - 丸石
+appliedenergistics2:facade:0, Cable Facade - オークの木材
+appliedenergistics2:facade:0, Cable Facade - マツの木材
+appliedenergistics2:facade:0, Cable Facade - シラカバの木材
+appliedenergistics2:facade:0, Cable Facade - ジャングルの木材
+appliedenergistics2:facade:0, Cable Facade - アカシアの木材
+appliedenergistics2:facade:0, Cable Facade - ダークオークの木材
+appliedenergistics2:facade:0, Cable Facade - 岩盤
+appliedenergistics2:facade:0, Cable Facade - 砂
+appliedenergistics2:facade:0, Cable Facade - 赤い砂
+appliedenergistics2:facade:0, Cable Facade - 砂利
+appliedenergistics2:facade:0, Cable Facade - 金鉱石
+appliedenergistics2:facade:0, Cable Facade - 鉄鉱石
+appliedenergistics2:facade:0, Cable Facade - 石炭鉱石
+appliedenergistics2:facade:0, Cable Facade - オークの原木
+appliedenergistics2:facade:0, Cable Facade - マツの原木
+appliedenergistics2:facade:0, Cable Facade - シラカバの原木
+appliedenergistics2:facade:0, Cable Facade - ジャングルの原木
+appliedenergistics2:facade:0, Cable Facade - オークの葉
+appliedenergistics2:facade:0, Cable Facade - マツの葉
+appliedenergistics2:facade:0, Cable Facade - シラカバの葉
+appliedenergistics2:facade:0, Cable Facade - ジャングルの葉
+appliedenergistics2:facade:0, Cable Facade - スポンジ
+appliedenergistics2:facade:0, Cable Facade - 濡れたスポンジ
+appliedenergistics2:facade:0, Cable Facade - ガラス
+appliedenergistics2:facade:0, Cable Facade - ラピスラズリ鉱石
+appliedenergistics2:facade:0, Cable Facade - ラピスラズリブロック
+appliedenergistics2:facade:0, Cable Facade - 砂岩
+appliedenergistics2:facade:0, Cable Facade - 模様入りの砂岩
+appliedenergistics2:facade:0, Cable Facade - 滑らかな砂岩
+appliedenergistics2:facade:0, Cable Facade - 白色の羊毛
+appliedenergistics2:facade:0, Cable Facade - 橙色の羊毛
+appliedenergistics2:facade:0, Cable Facade - 赤紫色の羊毛
+appliedenergistics2:facade:0, Cable Facade - 空色の羊毛
+appliedenergistics2:facade:0, Cable Facade - 黄色の羊毛
+appliedenergistics2:facade:0, Cable Facade - 黄緑色の羊毛
+appliedenergistics2:facade:0, Cable Facade - 桃色の羊毛
+appliedenergistics2:facade:0, Cable Facade - 灰色の羊毛
+appliedenergistics2:facade:0, Cable Facade - 薄灰色の羊毛
+appliedenergistics2:facade:0, Cable Facade - 青緑色の羊毛
+appliedenergistics2:facade:0, Cable Facade - 紫色の羊毛
+appliedenergistics2:facade:0, Cable Facade - 青色の羊毛
+appliedenergistics2:facade:0, Cable Facade - 茶色の羊毛
+appliedenergistics2:facade:0, Cable Facade - 緑色の羊毛
+appliedenergistics2:facade:0, Cable Facade - 赤色の羊毛
+appliedenergistics2:facade:0, Cable Facade - 黒色の羊毛
+appliedenergistics2:facade:0, Cable Facade - 金ブロック
+appliedenergistics2:facade:0, Cable Facade - 鉄ブロック
+appliedenergistics2:facade:0, Cable Facade - レンガ
+appliedenergistics2:facade:0, Cable Facade - TNT
+appliedenergistics2:facade:0, Cable Facade - 本棚
+appliedenergistics2:facade:0, Cable Facade - 苔むした丸石
+appliedenergistics2:facade:0, Cable Facade - 黒曜石
+appliedenergistics2:facade:0, Cable Facade - ダイヤモンド鉱石
+appliedenergistics2:facade:0, Cable Facade - ダイヤモンドブロック
+appliedenergistics2:facade:0, Cable Facade - 作業台
+appliedenergistics2:facade:0, Cable Facade - レッドストーン鉱石
+appliedenergistics2:facade:0, Cable Facade - 氷
+appliedenergistics2:facade:0, Cable Facade - 雪
+appliedenergistics2:facade:0, Cable Facade - 粘土
+appliedenergistics2:facade:0, Cable Facade - カボチャ
+appliedenergistics2:facade:0, Cable Facade - ネザーラック
+appliedenergistics2:facade:0, Cable Facade - ソウルサンド
+appliedenergistics2:facade:0, Cable Facade - グロウストーン
+appliedenergistics2:facade:0, Cable Facade - ジャック・オ・ランタン
+appliedenergistics2:facade:0, Cable Facade - 白色の色付きガラス
+appliedenergistics2:facade:0, Cable Facade - 橙色の色付きガラス
+appliedenergistics2:facade:0, Cable Facade - 赤紫色の色付きガラス
+appliedenergistics2:facade:0, Cable Facade - 空色の色付きガラス
+appliedenergistics2:facade:0, Cable Facade - 黄色の色付きガラス
+appliedenergistics2:facade:0, Cable Facade - 黄緑色の色付きガラス
+appliedenergistics2:facade:0, Cable Facade - 桃色の色付きガラス
+appliedenergistics2:facade:0, Cable Facade - 灰色の色付きガラス
+appliedenergistics2:facade:0, Cable Facade - 薄灰色の色付きガラス
+appliedenergistics2:facade:0, Cable Facade - 青緑色の色付きガラス
+appliedenergistics2:facade:0, Cable Facade - 紫色の色付きガラス
+appliedenergistics2:facade:0, Cable Facade - 青色の色付きガラス
+appliedenergistics2:facade:0, Cable Facade - 茶色の色付きガラス
+appliedenergistics2:facade:0, Cable Facade - 緑色の色付きガラス
+appliedenergistics2:facade:0, Cable Facade - 赤色の色付きガラス
+appliedenergistics2:facade:0, Cable Facade - 黒色の色付きガラス
+appliedenergistics2:facade:0, Cable Facade - シルバーフィッシュ入りの石
+appliedenergistics2:facade:0, Cable Facade - シルバーフィッシュ入りの丸石
+appliedenergistics2:facade:0, Cable Facade - シルバーフィッシュ入りの石レンガ
+appliedenergistics2:facade:0, Cable Facade - シルバーフィッシュ入りの苔石レンガ
+appliedenergistics2:facade:0, Cable Facade - シルバーフィッシュ入りのひび割れた石レンガ
+appliedenergistics2:facade:0, Cable Facade - シルバーフィッシュ入りの模様入りの石レンガ
+appliedenergistics2:facade:0, Cable Facade - 石レンガ
+appliedenergistics2:facade:0, Cable Facade - 苔むした石レンガ
+appliedenergistics2:facade:0, Cable Facade - ひび割れた石レンガ
+appliedenergistics2:facade:0, Cable Facade - 模様入りの石レンガ
+appliedenergistics2:facade:0, Cable Facade - キノコ
+appliedenergistics2:facade:0, Cable Facade - キノコ
+appliedenergistics2:facade:0, Cable Facade - スイカ
+appliedenergistics2:facade:0, Cable Facade - 菌糸
+appliedenergistics2:facade:0, Cable Facade - ネザーレンガ
+appliedenergistics2:facade:0, Cable Facade - エンドストーン
+appliedenergistics2:facade:0, Cable Facade - レッドストーンランプ
+appliedenergistics2:facade:0, Cable Facade - エメラルド鉱石
+appliedenergistics2:facade:0, Cable Facade - エメラルドブロック
+appliedenergistics2:facade:0, Cable Facade - レッドストーンブロック
+appliedenergistics2:facade:0, Cable Facade - ネザークォーツ鉱石
+appliedenergistics2:facade:0, Cable Facade - クォーツブロック
+appliedenergistics2:facade:0, Cable Facade - 模様入りのクォーツブロック
+appliedenergistics2:facade:0, Cable Facade - 柱状のクォーツブロック
+appliedenergistics2:facade:0, Cable Facade - 白色のテラコッタ
+appliedenergistics2:facade:0, Cable Facade - 橙色のテラコッタ
+appliedenergistics2:facade:0, Cable Facade - 赤紫色のテラコッタ
+appliedenergistics2:facade:0, Cable Facade - 空色のテラコッタ
+appliedenergistics2:facade:0, Cable Facade - 黄色のテラコッタ
+appliedenergistics2:facade:0, Cable Facade - 黄緑色のテラコッタ
+appliedenergistics2:facade:0, Cable Facade - 桃色のテラコッタ
+appliedenergistics2:facade:0, Cable Facade - 灰色のテラコッタ
+appliedenergistics2:facade:0, Cable Facade - 薄灰色のテラコッタ
+appliedenergistics2:facade:0, Cable Facade - 青緑色のテラコッタ
+appliedenergistics2:facade:0, Cable Facade - 紫色のテラコッタ
+appliedenergistics2:facade:0, Cable Facade - 青色のテラコッタ
+appliedenergistics2:facade:0, Cable Facade - 茶色のテラコッタ
+appliedenergistics2:facade:0, Cable Facade - 緑色のテラコッタ
+appliedenergistics2:facade:0, Cable Facade - 赤色のテラコッタ
+appliedenergistics2:facade:0, Cable Facade - 黒色のテラコッタ
+appliedenergistics2:facade:0, Cable Facade - アカシアの葉
+appliedenergistics2:facade:0, Cable Facade - ダークオークの葉
+appliedenergistics2:facade:0, Cable Facade - アカシアの原木
+appliedenergistics2:facade:0, Cable Facade - ダークオークの原木
+appliedenergistics2:facade:0, Cable Facade - スライムブロック
+appliedenergistics2:facade:0, Cable Facade - プリズマリン
+appliedenergistics2:facade:0, Cable Facade - プリズマリンレンガ
+appliedenergistics2:facade:0, Cable Facade - ダークプリズマリン
+appliedenergistics2:facade:0, Cable Facade - シーランタン
+appliedenergistics2:facade:0, Cable Facade - 干草の俵
+appliedenergistics2:facade:0, Cable Facade - テラコッタ
+appliedenergistics2:facade:0, Cable Facade - 石炭ブロック
+appliedenergistics2:facade:0, Cable Facade - 氷塊
+appliedenergistics2:facade:0, Cable Facade - 赤砂岩
+appliedenergistics2:facade:0, Cable Facade - 模様入りの赤砂岩
+appliedenergistics2:facade:0, Cable Facade - 滑らかな赤い砂岩
+appliedenergistics2:facade:0, Cable Facade - プルプァブロック
+appliedenergistics2:facade:0, Cable Facade - プルプァの柱
+appliedenergistics2:facade:0, Cable Facade - エンドストーンレンガ
+appliedenergistics2:facade:0, Cable Facade - マグマブロック
+appliedenergistics2:facade:0, Cable Facade - ネザーウォートブロック
+appliedenergistics2:facade:0, Cable Facade - 赤いネザーレンガ
+appliedenergistics2:facade:0, Cable Facade - 骨ブロック
+appliedenergistics2:facade:0, Cable Facade - オブザーバー
+appliedenergistics2:facade:0, Cable Facade - 白色の彩釉テラコッタ
+appliedenergistics2:facade:0, Cable Facade - 橙色の彩釉テラコッタ
+appliedenergistics2:facade:0, Cable Facade - 赤紫色の彩釉テラコッタ
+appliedenergistics2:facade:0, Cable Facade - 空色の彩釉テラコッタ
+appliedenergistics2:facade:0, Cable Facade - 黄色の彩釉テラコッタ
+appliedenergistics2:facade:0, Cable Facade - 黄緑色の彩釉テラコッタ
+appliedenergistics2:facade:0, Cable Facade - 桃色の彩釉テラコッタ
+appliedenergistics2:facade:0, Cable Facade - 灰色の彩釉テラコッタ
+appliedenergistics2:facade:0, Cable Facade - 薄灰色の彩釉テラコッタ
+appliedenergistics2:facade:0, Cable Facade - 青緑色の彩釉テラコッタ
+appliedenergistics2:facade:0, Cable Facade - 紫色の彩釉テラコッタ
+appliedenergistics2:facade:0, Cable Facade - 青色の彩釉テラコッタ
+appliedenergistics2:facade:0, Cable Facade - 茶色の彩釉テラコッタ
+appliedenergistics2:facade:0, Cable Facade - 緑色の彩釉テラコッタ
+appliedenergistics2:facade:0, Cable Facade - 赤色の彩釉テラコッタ
+appliedenergistics2:facade:0, Cable Facade - 黒色の彩釉テラコッタ
+appliedenergistics2:facade:0, Cable Facade - 白色のコンクリート
+appliedenergistics2:facade:0, Cable Facade - 橙色のコンクリート
+appliedenergistics2:facade:0, Cable Facade - 赤紫色のコンクリート
+appliedenergistics2:facade:0, Cable Facade - 空色のコンクリート
+appliedenergistics2:facade:0, Cable Facade - 黄色のコンクリート
+appliedenergistics2:facade:0, Cable Facade - 黄緑色のコンクリート
+appliedenergistics2:facade:0, Cable Facade - 桃色のコンクリート
+appliedenergistics2:facade:0, Cable Facade - 灰色のコンクリート
+appliedenergistics2:facade:0, Cable Facade - 薄灰色のコンクリート
+appliedenergistics2:facade:0, Cable Facade - 青緑色のコンクリート
+appliedenergistics2:facade:0, Cable Facade - 紫色のコンクリート
+appliedenergistics2:facade:0, Cable Facade - 青色のコンクリート
+appliedenergistics2:facade:0, Cable Facade - 茶色のコンクリート
+appliedenergistics2:facade:0, Cable Facade - 緑色のコンクリート
+appliedenergistics2:facade:0, Cable Facade - 赤色のコンクリート
+appliedenergistics2:facade:0, Cable Facade - 黒色のコンクリート
+appliedenergistics2:facade:0, Cable Facade - 白色のコンクリートパウダー
+appliedenergistics2:facade:0, Cable Facade - 橙色のコンクリートパウダー
+appliedenergistics2:facade:0, Cable Facade - 赤紫色のコンクリートパウダー
+appliedenergistics2:facade:0, Cable Facade - 空色のコンクリートパウダー
+appliedenergistics2:facade:0, Cable Facade - 黄色のコンクリートパウダー
+appliedenergistics2:facade:0, Cable Facade - 黄緑色のコンクリートパウダー
+appliedenergistics2:facade:0, Cable Facade - 桃色のコンクリートパウダー
+appliedenergistics2:facade:0, Cable Facade - 灰色のコンクリートパウダー
+appliedenergistics2:facade:0, Cable Facade - 薄灰色のコンクリートパウダー
+appliedenergistics2:facade:0, Cable Facade - 青緑色のコンクリートパウダー
+appliedenergistics2:facade:0, Cable Facade - 紫色のコンクリートパウダー
+appliedenergistics2:facade:0, Cable Facade - 青色のコンクリートパウダー
+appliedenergistics2:facade:0, Cable Facade - 茶色のコンクリートパウダー
+appliedenergistics2:facade:0, Cable Facade - 緑色のコンクリートパウダー
+appliedenergistics2:facade:0, Cable Facade - 赤色のコンクリートパウダー
+appliedenergistics2:facade:0, Cable Facade - 黒色のコンクリートパウダー
+appliedenergistics2:facade:0, Cable Facade - Magical Planks
+appliedenergistics2:facade:0, Cable Facade - Magical Wood
+appliedenergistics2:facade:0, Cable Facade - Diagonal Wood
+appliedenergistics2:facade:0, Cable Facade - Angel Block
+appliedenergistics2:facade:0, Cable Facade - Cursed Earth
+appliedenergistics2:facade:0, Cable Facade - Redstone Clock
+appliedenergistics2:facade:0, Cable Facade - Compressed Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Double Compressed Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Triple Compressed Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Quadruple Compressed Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Quintuple Compressed Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Sextuple Compressed Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Septuple Compressed Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Octuple Compressed Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Compressed Dirt
+appliedenergistics2:facade:0, Cable Facade - Double Compressed Dirt
+appliedenergistics2:facade:0, Cable Facade - Triple Compressed Dirt
+appliedenergistics2:facade:0, Cable Facade - Quadruple Compressed Dirt
+appliedenergistics2:facade:0, Cable Facade - Compressed Sand
+appliedenergistics2:facade:0, Cable Facade - Double Compressed Sand
+appliedenergistics2:facade:0, Cable Facade - Compressed Gravel
+appliedenergistics2:facade:0, Cable Facade - Double Compressed Gravel
+appliedenergistics2:facade:0, Cable Facade - Compressed Netherrack
+appliedenergistics2:facade:0, Cable Facade - Double Compressed Netherrack
+appliedenergistics2:facade:0, Cable Facade - Triple Compressed Netherrack
+appliedenergistics2:facade:0, Cable Facade - Quadruple Compressed Netherrack
+appliedenergistics2:facade:0, Cable Facade - Quintuple Compressed Netherrack
+appliedenergistics2:facade:0, Cable Facade - Sextuple Compressed Netherrack
+appliedenergistics2:facade:0, Cable Facade - Border Stone
+appliedenergistics2:facade:0, Cable Facade - Crossed Stone
+appliedenergistics2:facade:0, Cable Facade - Polished Stone
+appliedenergistics2:facade:0, Cable Facade - Stoneburnt
+appliedenergistics2:facade:0, Cable Facade - Sandy Glass
+appliedenergistics2:facade:0, Cable Facade - Truchet
+appliedenergistics2:facade:0, Cable Facade - Blue Quartz
+appliedenergistics2:facade:0, Cable Facade - Quartzburnt
+appliedenergistics2:facade:0, Cable Facade - Rainbow Stone
+appliedenergistics2:facade:0, Cable Facade - Thickened Glass
+appliedenergistics2:facade:0, Cable Facade - Thickened Glass (Bordered)
+appliedenergistics2:facade:0, Cable Facade - Thickened Glass (Patterned)
+appliedenergistics2:facade:0, Cable Facade - Dark Glass
+appliedenergistics2:facade:0, Cable Facade - Glowing Glass
+appliedenergistics2:facade:0, Cable Facade - Redstone Glass
+appliedenergistics2:facade:0, Cable Facade - Block of Enchanted Metal
+appliedenergistics2:facade:0, Cable Facade - Block of Demon Metal
+appliedenergistics2:facade:0, Cable Facade - Block of Evil Infused Iron
+appliedenergistics2:facade:0, Cable Facade - Bedrock Bricks
+appliedenergistics2:facade:0, Cable Facade - Bedrock Slabs
+appliedenergistics2:facade:0, Cable Facade - Bedrock Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Ferrous-Juniper Log
+appliedenergistics2:facade:0, Cable Facade - Ferrous-Juniper Log
+appliedenergistics2:facade:0, Cable Facade - Ferrous-Juniper Planks
+appliedenergistics2:facade:0, Cable Facade - Raw Ferrous-Juniper Planks
+appliedenergistics2:facade:0, Cable Facade - 玄武岩
+appliedenergistics2:facade:0, Cable Facade - 銅鉱石
+appliedenergistics2:facade:0, Cable Facade - 鉛鉱石
+appliedenergistics2:facade:0, Cable Facade - 錫鉱石
+appliedenergistics2:facade:0, Cable Facade - ウラン鉱石
+appliedenergistics2:facade:0, Cable Facade - 青銅ブロック
+appliedenergistics2:facade:0, Cable Facade - 銅ブロック
+appliedenergistics2:facade:0, Cable Facade - 鉛ブロック
+appliedenergistics2:facade:0, Cable Facade - 錬鉄ブロック
+appliedenergistics2:facade:0, Cable Facade - 錫ブロック
+appliedenergistics2:facade:0, Cable Facade - ウランブロック
+appliedenergistics2:facade:0, Cable Facade - 鉄筋コンクリート
+appliedenergistics2:facade:0, Cable Facade - 基本筐体
+appliedenergistics2:facade:0, Cable Facade - 高位筐体
+appliedenergistics2:facade:0, Cable Facade - 原子炉圧力容器
+appliedenergistics2:facade:0, Cable Facade - Silver Block
+appliedenergistics2:facade:0, Cable Facade - ゴムの木の葉
+appliedenergistics2:facade:0, Cable Facade - ゴムの木
+appliedenergistics2:facade:0, Cable Facade - 木製足場
+appliedenergistics2:facade:0, Cable Facade - 強化木製足場
+appliedenergistics2:facade:0, Cable Facade - 鉄製足場
+appliedenergistics2:facade:0, Cable Facade - 強化鉄製足場
+appliedenergistics2:facade:0, Cable Facade - 生コンクリート
+appliedenergistics2:facade:0, Cable Facade - 強化生コンクリート
+appliedenergistics2:facade:0, Cable Facade - コンクリート壁（黒色）
+appliedenergistics2:facade:0, Cable Facade - コンクリート壁（青色）
+appliedenergistics2:facade:0, Cable Facade - コンクリート壁（茶色）
+appliedenergistics2:facade:0, Cable Facade - コンクリート壁（水色）
+appliedenergistics2:facade:0, Cable Facade - コンクリート壁（灰色）
+appliedenergistics2:facade:0, Cable Facade - コンクリート壁（緑色）
+appliedenergistics2:facade:0, Cable Facade - コンクリート壁（空色）
+appliedenergistics2:facade:0, Cable Facade - コンクリート壁（薄灰色）
+appliedenergistics2:facade:0, Cable Facade - コンクリート壁（黄緑色）
+appliedenergistics2:facade:0, Cable Facade - コンクリート壁（赤紫色）
+appliedenergistics2:facade:0, Cable Facade - コンクリート壁（橙色）
+appliedenergistics2:facade:0, Cable Facade - コンクリート壁（桃色）
+appliedenergistics2:facade:0, Cable Facade - コンクリート壁（紫色）
+appliedenergistics2:facade:0, Cable Facade - コンクリート壁（赤色）
+appliedenergistics2:facade:0, Cable Facade - コンクリート壁（白色）
+appliedenergistics2:facade:0, Cable Facade - コンクリート壁（黄色）
+appliedenergistics2:facade:0, Cable Facade - Refractory Bricks
+appliedenergistics2:facade:0, Cable Facade - Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Certus Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Certus Quartz Pillar
+appliedenergistics2:facade:0, Cable Facade - Chiseled Certus Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Quartz Glass
+appliedenergistics2:facade:0, Cable Facade - Vibrant Quartz Glass
+appliedenergistics2:facade:0, Cable Facade - Fluix Block
+appliedenergistics2:facade:0, Cable Facade - Sky Stone
+appliedenergistics2:facade:0, Cable Facade - Sky Stone Block
+appliedenergistics2:facade:0, Cable Facade - Sky Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Sky Stone Small Brick
+appliedenergistics2:facade:0, Cable Facade - 電炉鋼ブロック
+appliedenergistics2:facade:0, Cable Facade - インフィニティダストブロック
+appliedenergistics2:facade:0, Cable Facade - 圧縮インフィニティダストブロック
+appliedenergistics2:facade:0, Cable Facade - 重圧縮インフィニティダストブロック
+appliedenergistics2:facade:0, Cable Facade - 強化黒曜石
+appliedenergistics2:facade:0, Cable Facade - マシンシャーシ（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 機械の面（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 機械の上面（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 機械の側面（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 機械の背面（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 四方側面の機械（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 四方背面の機械（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - ソウル系機械の面（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - ソウル系機械の上面（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - ソウル系機械の側面（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - ソウル系機械の背面（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 四方側面のソウル系機械（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 四方背面のソウル系機械（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 赤色の機械（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 壊れたスポナー（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 不可視ブロック（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 合金精錬機（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - アイテムバッファ（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 電力バッファ（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 総合バッファ（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - クリエイティブ専用バッファ（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - クラフト装置（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 塗装機（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 電力モニター（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 準自生粉砕機（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - スライスンスプライス（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - スターリング発電機（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 液体タンク（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 加圧式液体タンク（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - トラベルアンカー（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - バキュームチェスト（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 無線充電装置（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 経験値バキューム装置（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 簡易型合金精錬機（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 簡易型スターリング発電機（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 有線充電装置（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 簡易型準自生粉砕機（装飾ブロック）
+appliedenergistics2:facade:0, Cable Facade - 工業用断熱材
+appliedenergistics2:facade:0, Cable Facade - 眩惑の爆薬
+appliedenergistics2:facade:0, Cable Facade - 震動の爆薬
+appliedenergistics2:facade:0, Cable Facade - エンダー爆薬
+appliedenergistics2:facade:0, Cable Facade - 粗鋼ブロック
+appliedenergistics2:facade:0, Cable Facade - 指向性無線充電アンテナ
+appliedenergistics2:facade:0, Cable Facade - オスミウムブロック
+appliedenergistics2:facade:0, Cable Facade - 青銅ブロック
+appliedenergistics2:facade:0, Cable Facade - 精製黒曜石
+appliedenergistics2:facade:0, Cable Facade - 木炭ブロック
+appliedenergistics2:facade:0, Cable Facade - 精製グロウストーン
+appliedenergistics2:facade:0, Cable Facade - 鋼鉄ブロック
+appliedenergistics2:facade:0, Cable Facade - テレポーターフレーム
+appliedenergistics2:facade:0, Cable Facade - 鋼鉄ケース
+appliedenergistics2:facade:0, Cable Facade - ダイナミックタンク
+appliedenergistics2:facade:0, Cable Facade - 構造用ガラス
+appliedenergistics2:facade:0, Cable Facade - ダイナミックバルブ
+appliedenergistics2:facade:0, Cable Facade - 銅ブロック
+appliedenergistics2:facade:0, Cable Facade - 錫ブロック
+appliedenergistics2:facade:0, Cable Facade - 加温蒸発濃縮コントローラー
+appliedenergistics2:facade:0, Cable Facade - 加温蒸発濃縮バルブ
+appliedenergistics2:facade:0, Cable Facade - オスミウム鉱石
+appliedenergistics2:facade:0, Cable Facade - 銅鉱石
+appliedenergistics2:facade:0, Cable Facade - 錫鉱石
+appliedenergistics2:facade:0, Cable Facade - 黒曜石TNT
+appliedenergistics2:facade:0, Cable Facade - §8黒色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §c赤色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §2緑色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §6茶色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §1青色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §5紫色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §3水色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §7薄灰色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §8灰色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §d桃色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §a黄緑色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §e黄色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §9空色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §d赤紫色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §6橙色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §f白色 プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §8黒色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §c赤色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §2緑色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §6茶色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §1青色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §5紫色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §3水色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §7薄灰色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §8灰色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §d桃色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §a黄緑色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §e黄色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §9空色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §d赤紫色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §6橙色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §f白色 滑らかなプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §8黒色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §c赤色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §2緑色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §6茶色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §1青色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §5紫色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §3水色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §7薄灰色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §8灰色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §d桃色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §a黄緑色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §e黄色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §9空色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §d赤紫色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §6橙色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §f白色 輝くプラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §8黒色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §c赤色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §2緑色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §6茶色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §1青色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §5紫色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §3水色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §7薄灰色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §8灰色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §d桃色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §a黄緑色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §e黄色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §9空色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §d赤紫色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §6橙色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §f白色 強化プラスチックブロック
+appliedenergistics2:facade:0, Cable Facade - §8黒色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §c赤色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §2緑色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §6茶色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §1青色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §5紫色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §3水色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §7薄灰色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §8灰色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §d桃色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §a黄緑色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §e黄色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §9空色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §d赤紫色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §6橙色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - §f白色 プラスチックロード
+appliedenergistics2:facade:0, Cable Facade - 塩ブロック
+appliedenergistics2:facade:0, Cable Facade - 湧き水の源
+appliedenergistics2:facade:0, Cable Facade - 原油の源
+appliedenergistics2:facade:0, Cable Facade - tile.decorated.destroy.name
+appliedenergistics2:facade:0, Cable Facade - Blueprint (Decoration)
+appliedenergistics2:facade:0, Cable Facade - Template (Decoration)
+appliedenergistics2:facade:0, Cable Facade - tile.decorated.paper.name
+appliedenergistics2:facade:0, Cable Facade - tile.decorated.leather.name
+appliedenergistics2:facade:0, Cable Facade - Laser (Decoration)
+appliedenergistics2:crystal_seed:0, Certus Quartz Seed
+appliedenergistics2:crystal_seed:600, Nether Quartz Seed
+appliedenergistics2:crystal_seed:1200, Fluix Seed
+appliedenergistics2:crystal_seed:0, Certus Quartz Seed
+appliedenergistics2:crystal_seed:600, Nether Quartz Seed
+appliedenergistics2:crystal_seed:1200, Fluix Seed
+appliedenergistics2:crystal_seed:0, Certus Quartz Seed
+appliedenergistics2:crystal_seed:600, Nether Quartz Seed
+appliedenergistics2:crystal_seed:1200, Fluix Seed
+appliedenergistics2:encoded_pattern, Encoded Pattern
+appliedenergistics2:paint_ball:0, Paint Ball - White
+appliedenergistics2:paint_ball:1, Paint Ball - Orange
+appliedenergistics2:paint_ball:2, Paint Ball - Magenta
+appliedenergistics2:paint_ball:3, Paint Ball - Light Blue
+appliedenergistics2:paint_ball:4, Paint Ball - Yellow
+appliedenergistics2:paint_ball:5, Paint Ball - Lime
+appliedenergistics2:paint_ball:6, Paint Ball - Pink
+appliedenergistics2:paint_ball:7, Paint Ball - Gray
+appliedenergistics2:paint_ball:8, Paint Ball - Light Gray
+appliedenergistics2:paint_ball:9, Paint Ball - Cyan
+appliedenergistics2:paint_ball:10, Paint Ball - Purple
+appliedenergistics2:paint_ball:11, Paint Ball - Blue
+appliedenergistics2:paint_ball:12, Paint Ball - Brown
+appliedenergistics2:paint_ball:13, Paint Ball - Green
+appliedenergistics2:paint_ball:14, Paint Ball - Red
+appliedenergistics2:paint_ball:15, Paint Ball - Black
+appliedenergistics2:paint_ball:20, Paint Ball - Lumen White
+appliedenergistics2:paint_ball:21, Paint Ball - Lumen Orange
+appliedenergistics2:paint_ball:22, Paint Ball - Lumen Magenta
+appliedenergistics2:paint_ball:23, Paint Ball - Lumen Light Blue
+appliedenergistics2:paint_ball:24, Paint Ball - Lumen Yellow
+appliedenergistics2:paint_ball:25, Paint Ball - Lumen Lime
+appliedenergistics2:paint_ball:26, Paint Ball - Lumen Pink
+appliedenergistics2:paint_ball:27, Paint Ball - Lumen Gray
+appliedenergistics2:paint_ball:28, Paint Ball - Lumen Light Gray
+appliedenergistics2:paint_ball:29, Paint Ball - Lumen Cyan
+appliedenergistics2:paint_ball:30, Paint Ball - Lumen Purple
+appliedenergistics2:paint_ball:31, Paint Ball - Lumen Blue
+appliedenergistics2:paint_ball:32, Paint Ball - Lumen Brown
+appliedenergistics2:paint_ball:33, Paint Ball - Lumen Green
+appliedenergistics2:paint_ball:34, Paint Ball - Lumen Red
+appliedenergistics2:paint_ball:35, Paint Ball - Lumen Black
+appliedenergistics2:dummy_fluid_item, item.appliedenergistics2.dummy_fluid_item.name
+appliedenergistics2:material:28, Advanced Card
+appliedenergistics2:material:44, Annihilation Core
+appliedenergistics2:material:25, Basic Card
+appliedenergistics2:material:52, Blank Pattern
+appliedenergistics2:material:23, Calculation Processor
+appliedenergistics2:material:13, Inscriber Calculation Press
+appliedenergistics2:material:16, Printed Calculation Circuit
+appliedenergistics2:material:27, Capacity Card
+appliedenergistics2:material:53, Crafting Card
+appliedenergistics2:material:29, Fuzzy Card
+appliedenergistics2:material:31, Inverter Card
+appliedenergistics2:material:26, Redstone Card
+appliedenergistics2:material:30, Acceleration Card
+appliedenergistics2:material:34, 128³ Spatial Component
+appliedenergistics2:material:37, 16k ME Storage Component
+appliedenergistics2:material:33, 16³ Spatial Component
+appliedenergistics2:material:35, 1k ME Storage Component
+appliedenergistics2:material:32, 2³ Spatial Component
+appliedenergistics2:material:36, 4k ME Storage Component
+appliedenergistics2:material:38, 64k ME Storage Component
+appliedenergistics2:material:0, Certus Quartz Crystal
+appliedenergistics2:material:1, Charged Certus Quartz Crystal
+appliedenergistics2:material:2, Certus Quartz Dust
+appliedenergistics2:material:39, ME Storage Housing
+appliedenergistics2:material:46, Ender Dust
+appliedenergistics2:material:24, Engineering Processor
+appliedenergistics2:material:14, Inscriber Engineering Press
+appliedenergistics2:material:17, Printed Engineering Circuit
+appliedenergistics2:material:4, Flour
+appliedenergistics2:material:56, 16k ME Fluid Storage Component
+appliedenergistics2:material:54, 1k ME Fluid Storage Component
+appliedenergistics2:material:55, 4k ME Fluid Storage Component
+appliedenergistics2:material:57, 64k ME Fluid Storage Component
+appliedenergistics2:material:7, Fluix Crystal
+appliedenergistics2:material:8, Fluix Dust
+appliedenergistics2:material:9, Fluix Pearl
+appliedenergistics2:material:43, Formation Core
+appliedenergistics2:material:51, Gold Dust
+appliedenergistics2:material:49, Iron Dust
+appliedenergistics2:material:22, Logic Processor
+appliedenergistics2:material:15, Inscriber Logic Press
+appliedenergistics2:material:18, Printed Logic Circuit
+appliedenergistics2:material:6, Matter Ball
+appliedenergistics2:material:21, Inscriber Name Press
+appliedenergistics2:material:3, Nether Quartz Dust
+appliedenergistics2:material:10, Pure Certus Quartz Crystal
+appliedenergistics2:material:12, Pure Fluix Crystal
+appliedenergistics2:material:11, Pure Nether Quartz Crystal
+appliedenergistics2:material:48, Quantum Entangled Singularity
+appliedenergistics2:material:5, Silicon
+appliedenergistics2:material:19, Inscriber Silicon Press
+appliedenergistics2:material:20, Printed Silicon
+appliedenergistics2:material:47, Singularity
+appliedenergistics2:material:45, Sky Stone Dust
+appliedenergistics2:material:41, Wireless Receiver
+appliedenergistics2:material:42, Wireless Booster
+appliedenergistics2:material:40, Wooden Gear
+appliedenergistics2:part:300, ME Annihilation Plane
+appliedenergistics2:part:120, Cable Anchor
+appliedenergistics2:part:20, ME Covered Cable - White
+appliedenergistics2:part:21, ME Covered Cable - Orange
+appliedenergistics2:part:22, ME Covered Cable - Magenta
+appliedenergistics2:part:23, ME Covered Cable - Light Blue
+appliedenergistics2:part:24, ME Covered Cable - Yellow
+appliedenergistics2:part:25, ME Covered Cable - Lime
+appliedenergistics2:part:26, ME Covered Cable - Pink
+appliedenergistics2:part:27, ME Covered Cable - Gray
+appliedenergistics2:part:28, ME Covered Cable - Light Gray
+appliedenergistics2:part:29, ME Covered Cable - Cyan
+appliedenergistics2:part:30, ME Covered Cable - Purple
+appliedenergistics2:part:31, ME Covered Cable - Blue
+appliedenergistics2:part:32, ME Covered Cable - Brown
+appliedenergistics2:part:33, ME Covered Cable - Green
+appliedenergistics2:part:34, ME Covered Cable - Red
+appliedenergistics2:part:35, ME Covered Cable - Black
+appliedenergistics2:part:36, ME Covered Cable - Fluix
+appliedenergistics2:part:500, ME Dense Covered Cable - White
+appliedenergistics2:part:501, ME Dense Covered Cable - Orange
+appliedenergistics2:part:502, ME Dense Covered Cable - Magenta
+appliedenergistics2:part:503, ME Dense Covered Cable - Light Blue
+appliedenergistics2:part:504, ME Dense Covered Cable - Yellow
+appliedenergistics2:part:505, ME Dense Covered Cable - Lime
+appliedenergistics2:part:506, ME Dense Covered Cable - Pink
+appliedenergistics2:part:507, ME Dense Covered Cable - Gray
+appliedenergistics2:part:508, ME Dense Covered Cable - Light Gray
+appliedenergistics2:part:509, ME Dense Covered Cable - Cyan
+appliedenergistics2:part:510, ME Dense Covered Cable - Purple
+appliedenergistics2:part:511, ME Dense Covered Cable - Blue
+appliedenergistics2:part:512, ME Dense Covered Cable - Brown
+appliedenergistics2:part:513, ME Dense Covered Cable - Green
+appliedenergistics2:part:514, ME Dense Covered Cable - Red
+appliedenergistics2:part:515, ME Dense Covered Cable - Black
+appliedenergistics2:part:516, ME Dense Covered Cable - Fluix
+appliedenergistics2:part:60, ME Dense Smart Cable - White
+appliedenergistics2:part:61, ME Dense Smart Cable - Orange
+appliedenergistics2:part:62, ME Dense Smart Cable - Magenta
+appliedenergistics2:part:63, ME Dense Smart Cable - Light Blue
+appliedenergistics2:part:64, ME Dense Smart Cable - Yellow
+appliedenergistics2:part:65, ME Dense Smart Cable - Lime
+appliedenergistics2:part:66, ME Dense Smart Cable - Pink
+appliedenergistics2:part:67, ME Dense Smart Cable - Gray
+appliedenergistics2:part:68, ME Dense Smart Cable - Light Gray
+appliedenergistics2:part:69, ME Dense Smart Cable - Cyan
+appliedenergistics2:part:70, ME Dense Smart Cable - Purple
+appliedenergistics2:part:71, ME Dense Smart Cable - Blue
+appliedenergistics2:part:72, ME Dense Smart Cable - Brown
+appliedenergistics2:part:73, ME Dense Smart Cable - Green
+appliedenergistics2:part:74, ME Dense Smart Cable - Red
+appliedenergistics2:part:75, ME Dense Smart Cable - Black
+appliedenergistics2:part:76, ME Dense Smart Cable - Fluix
+appliedenergistics2:part:0, ME Glass Cable - White
+appliedenergistics2:part:1, ME Glass Cable - Orange
+appliedenergistics2:part:2, ME Glass Cable - Magenta
+appliedenergistics2:part:3, ME Glass Cable - Light Blue
+appliedenergistics2:part:4, ME Glass Cable - Yellow
+appliedenergistics2:part:5, ME Glass Cable - Lime
+appliedenergistics2:part:6, ME Glass Cable - Pink
+appliedenergistics2:part:7, ME Glass Cable - Gray
+appliedenergistics2:part:8, ME Glass Cable - Light Gray
+appliedenergistics2:part:9, ME Glass Cable - Cyan
+appliedenergistics2:part:10, ME Glass Cable - Purple
+appliedenergistics2:part:11, ME Glass Cable - Blue
+appliedenergistics2:part:12, ME Glass Cable - Brown
+appliedenergistics2:part:13, ME Glass Cable - Green
+appliedenergistics2:part:14, ME Glass Cable - Red
+appliedenergistics2:part:15, ME Glass Cable - Black
+appliedenergistics2:part:16, ME Glass Cable - Fluix
+appliedenergistics2:part:40, ME Smart Cable - White
+appliedenergistics2:part:41, ME Smart Cable - Orange
+appliedenergistics2:part:42, ME Smart Cable - Magenta
+appliedenergistics2:part:43, ME Smart Cable - Light Blue
+appliedenergistics2:part:44, ME Smart Cable - Yellow
+appliedenergistics2:part:45, ME Smart Cable - Lime
+appliedenergistics2:part:46, ME Smart Cable - Pink
+appliedenergistics2:part:47, ME Smart Cable - Gray
+appliedenergistics2:part:48, ME Smart Cable - Light Gray
+appliedenergistics2:part:49, ME Smart Cable - Cyan
+appliedenergistics2:part:50, ME Smart Cable - Purple
+appliedenergistics2:part:51, ME Smart Cable - Blue
+appliedenergistics2:part:52, ME Smart Cable - Brown
+appliedenergistics2:part:53, ME Smart Cable - Green
+appliedenergistics2:part:54, ME Smart Cable - Red
+appliedenergistics2:part:55, ME Smart Cable - Black
+appliedenergistics2:part:56, ME Smart Cable - Fluix
+appliedenergistics2:part:420, ME Conversion Monitor
+appliedenergistics2:part:360, ME Crafting Terminal
+appliedenergistics2:part:200, Dark Illuminated Panel
+appliedenergistics2:part:260, ME Export Bus
+appliedenergistics2:part:302, ME Fluid Annihilation Plane
+appliedenergistics2:part:261, ME Fluid Export Bus
+appliedenergistics2:part:321, ME Fluid Formation Plane
+appliedenergistics2:part:241, ME Fluid Import Bus
+appliedenergistics2:part:441, ME Fluid Interface
+appliedenergistics2:part:281, ME Fluid Level Emitter
+appliedenergistics2:part:221, ME Fluid Storage Bus
+appliedenergistics2:part:520, ME Fluid Terminal
+appliedenergistics2:part:320, ME Formation Plane
+appliedenergistics2:part:301, ME Identity Annihilation Plane
+appliedenergistics2:part:240, ME Import Bus
+appliedenergistics2:part:440, ME Interface
+appliedenergistics2:part:480, ME Interface Terminal
+appliedenergistics2:part:100, ME Inverted Toggle Bus
+appliedenergistics2:part:280, ME Level Emitter
+appliedenergistics2:part:160, Bright Illuminated Panel
+appliedenergistics2:part:469, P2P Tunnel - FE
+appliedenergistics2:part:463, P2P Tunnel - Fluid
+appliedenergistics2:part:465, P2P Tunnel - EU
+appliedenergistics2:part:462, P2P Tunnel - Item
+appliedenergistics2:part:467, P2P Tunnel - Light
+appliedenergistics2:part:460, P2P Tunnel - ME
+appliedenergistics2:part:461, P2P Tunnel - Redstone
+appliedenergistics2:part:340, ME Pattern Terminal
+appliedenergistics2:part:140, Quartz Fiber
+appliedenergistics2:part:180, Illuminated Panel
+appliedenergistics2:part:220, ME Storage Bus
+appliedenergistics2:part:400, ME Storage Monitor
+appliedenergistics2:part:380, ME Terminal
+appliedenergistics2:part:80, ME Toggle Bus
+buildcraftlib:guide, BuildCraft Guide Book
+buildcraftlib:guide_note, BuildCraft Guide Book Note
+buildcraftlib:debugger, Debugger
+enderio:item_enderface, エンダーフェイス
+enderio:item_conduit_facade:0, 導管被覆材
+enderio:item_conduit_facade:1, 強化導管被覆材
+enderio:item_conduit_facade:2, 透過導管被覆材
+enderio:item_conduit_facade:3, 透過強化導管被覆材
+enderio:item_basic_capacitor:0, ベーシックコンデンサ
+enderio:item_basic_capacitor:1, 二重層コンデンサ
+enderio:item_basic_capacitor:2, 八重コンデンサ
+enderio:block_alloy:0, 電炉鋼ブロック
+enderio:block_alloy:1, エナジェティック合金ブロック
+enderio:block_alloy:2, ヴァイブラント合金ブロック
+enderio:block_alloy:3, レッドストーン合金ブロック
+enderio:block_alloy:4, 融解電導鉄ブロック
+enderio:block_alloy:5, 脈動鉄ブロック
+enderio:block_alloy:6, ダークスチールブロック
+enderio:block_alloy:7, ソウラリウムブロック
+enderio:block_alloy:8, エンドスチールブロック
+enderio:block_alloy:9, 鉄合金ブロック
+enderio:item_alloy_ingot:0, 電炉鋼インゴット
+enderio:item_alloy_ingot:1, エナジェティック合金インゴット
+enderio:item_alloy_ingot:2, ヴァイブラント合金インゴット
+enderio:item_alloy_ingot:3, レッドストーン合金インゴット
+enderio:item_alloy_ingot:4, 電導鉄インゴット
+enderio:item_alloy_ingot:5, 脈動鉄インゴット
+enderio:item_alloy_ingot:6, ダークスチールインゴット
+enderio:item_alloy_ingot:7, ソウラリウムインゴット
+enderio:item_alloy_ingot:8, エンドスチールインゴット
+enderio:item_alloy_ingot:9, 鉄合金インゴット
+enderio:item_alloy_nugget:0, 電炉鋼の塊
+enderio:item_alloy_nugget:1, エナジェティック合金の塊
+enderio:item_alloy_nugget:2, ヴァイブラント合金の塊
+enderio:item_alloy_nugget:3, レッドストーン合金の塊
+enderio:item_alloy_nugget:4, 電導鉄の塊
+enderio:item_alloy_nugget:5, 脈動鉄の塊
+enderio:item_alloy_nugget:6, ダークスチールの塊
+enderio:item_alloy_nugget:7, ソウラリウムの塊
+enderio:item_alloy_nugget:8, エンドスチールの塊
+enderio:item_alloy_nugget:9, 鉄合金の塊
+enderio:item_alloy_ball:0, 電炉鋼の粉砕用ボール
+enderio:item_alloy_ball:1, エナジェティック合金の粉砕用ボール
+enderio:item_alloy_ball:2, ヴァイブラント合金の粉砕用ボール
+enderio:item_alloy_ball:3, レッドストーン合金の粉砕用ボール
+enderio:item_alloy_ball:4, 電導鉄の粉砕用ボール
+enderio:item_alloy_ball:5, 脈動鉄の粉砕用ボール
+enderio:item_alloy_ball:6, ダークスチールの粉砕用ボール
+enderio:item_alloy_ball:7, ソウラリウムの粉砕用ボール
+enderio:item_alloy_ball:8, エンドスチールの粉砕用ボール
+enderio:item_alloy_ball:9, 鉄合金の粉砕用ボール
+enderio:item_material:0, 簡易型マシンシャーシ
+enderio:item_material:1, 工業用マシンシャーシ
+enderio:item_material:2, マシンパーツ
+enderio:item_material:3, 太陽電池の基板
+enderio:item_material:4, 導管接合材
+enderio:item_material:5, シリコン
+enderio:item_material:6, グライダーの片翼
+enderio:item_material:7, グライダーの両翼
+enderio:item_material:8, 栄養蒸留液が染みた棒
+enderio:item_material:9, 木の歯車
+enderio:item_material:10, 石の複合歯車
+enderio:item_material:11, インフィニティバイメタルの歯車
+enderio:item_material:12, 付勢バイメタルの歯車
+enderio:item_material:13, ヴァイブラントバイメタルの歯車
+enderio:item_material:14, パルセートクリスタル
+enderio:item_material:15, ヴァイブラントクリスタル
+enderio:item_material:16, エンダークリスタル
+enderio:item_material:17, エンタイスクリスタル
+enderio:item_material:18, ウェザークリスタル
+enderio:item_material:19, プレシェントクリスタル
+enderio:item_material:20, インフィニティの粒
+enderio:item_material:21, 小麦粉
+enderio:item_material:22, 導管接合剤の複合原料
+enderio:item_material:23, 石炭の粉
+enderio:item_material:24, 鉄の粉
+enderio:item_material:25, 金の粉
+enderio:item_material:26, 銅の粉
+enderio:item_material:27, 錫の粉
+enderio:item_material:28, エンダーパールの粉
+enderio:item_material:29, 黒曜石の粉
+enderio:item_material:32, ラピスラズリの粉
+enderio:item_material:33, クォーツの粉
+enderio:item_material:34, プレシェンスの粒
+enderio:item_material:35, ヴァイブランシーの粒
+enderio:item_material:36, ピエゾリティの粒
+enderio:item_material:37, エンドの粒
+enderio:item_material:38, 太陽電池の複合材料
+enderio:item_material:40, ゾンビの電極
+enderio:item_material:41, Z 回路コントローラー
+enderio:item_material:42, フランケンゾンビ
+enderio:item_material:43, エンダー共振器
+enderio:item_material:44, センテントエンダー
+enderio:item_material:45, スケルタル収縮器
+enderio:item_material:46, 剪定された植物
+enderio:item_material:47, 整枝された枝の束
+enderio:item_material:48, 緑色の有機染料
+enderio:item_material:49, 茶色の有機染料
+enderio:item_material:50, 黒色の有機染料
+enderio:item_material:51, 工業用混合粉
+enderio:item_material:52, ソウル用混合粉
+enderio:item_material:53, ソウルマシンシャーシ
+enderio:item_material:54, 強化マシンシャーシ
+enderio:item_material:55, 霊なしマシンシャーシ
+enderio:item_material:56, ガーディアンダイオード
+enderio:item_material:57, シグナルムの粉砕用ボール
+enderio:item_material:58, エンダリウムの粉砕用ボール
+enderio:item_material:59, ルミウムの粉砕用ボール
+enderio:item_material:60, レッドストーンフィルターの基板
+enderio:item_material:61, 混沌の粉
+enderio:item_material:62, エンダーの欠片
+enderio:item_material:63, 枯凋の粉
+enderio:item_material:64, 遠隔認識アップグレード
+enderio:item_material:65, 無線電力送信用パラボラアンテナ
+enderio:item_material:66, エンドスチールシャーシ
+enderio:item_material:67, 改良型混合剤
+enderio:item_material:68, 改良型マシンパーツ
+enderio:item_material:69, 簡易型マシンパーツ
+enderio:item_material:70, スポンジ生地
+enderio:item_material:71, インフィニティロッド
+enderio:item_material:72, ネザーコッタ
+enderio:item_material:73, ダークバイメタルの歯車
+enderio:item_material:74, ソウルの粉
+enderio:item_material:75, インフィニティ試薬
+enderio:item_material:76, 粘土入りグロウストーンダスト
+enderio:item_material:77, 黒紙
+enderio:item_material:78, 動物の証
+enderio:item_material:79, モンスターの証
+enderio:item_material:80, プレイヤーの証
+enderio:item_broken_spawner:0, 壊れたスポナー
+enderio:block_infinity_fog:0, インフィニティダスト
+enderio:block_infinity:0, インフィニティダストブロック
+enderio:block_infinity:1, 圧縮インフィニティダストブロック
+enderio:block_infinity:2, 重圧縮インフィニティダストブロック
+enderio:block_holy_fog, グロウストーンナノ粒子
+enderio:block_dark_steel_anvil:0, ダークスチールの金床
+enderio:block_dark_steel_anvil:1, 少し壊れたダークスチールの金床
+enderio:block_dark_steel_anvil:2, かなり壊れたダークスチールの金床
+enderio:block_dark_paper_anvil:0, 黒紙の金床
+enderio:block_dark_paper_anvil:1, 少し壊れた黒紙の金床
+enderio:block_dark_paper_anvil:2, かなり壊れた黒紙の金床
+enderio:block_dark_steel_ladder, ダークスチールのはしご
+enderio:block_dark_iron_bars, ダークスチール鉄格子
+enderio:block_dark_steel_trapdoor, ダークスチールのトラップドア
+enderio:block_dark_steel_door, ダークスチールのドア
+enderio:block_reinforced_obsidian, 強化黒曜石
+enderio:block_self_resetting_lever5, セルフリセットレバー（５秒）
+enderio:block_self_resetting_lever10, セルフリセットレバー（１０秒）
+enderio:block_self_resetting_lever30, セルフリセットレバー（３０秒）
+enderio:block_self_resetting_lever60, セルフリセットレバー（１分）
+enderio:block_self_resetting_lever300, セルフリセットレバー（５分）
+enderio:block_self_resetting_lever5i, セルフリセットレバー（５秒・反転）
+enderio:block_self_resetting_lever10i, セルフリセットレバー（１０秒・反転）
+enderio:block_self_resetting_lever30i, セルフリセットレバー（３０秒・反転）
+enderio:block_self_resetting_lever60i, セルフリセットレバー（１分・反転）
+enderio:block_self_resetting_lever300i, セルフリセットレバー（５分・反転）
+enderio:block_decoration1:0, マシンシャーシ（装飾ブロック）
+enderio:block_decoration1:1, 機械の面（装飾ブロック）
+enderio:block_decoration1:2, 機械の上面（装飾ブロック）
+enderio:block_decoration1:3, 機械の側面（装飾ブロック）
+enderio:block_decoration1:4, 機械の背面（装飾ブロック）
+enderio:block_decoration1:5, 四方側面の機械（装飾ブロック）
+enderio:block_decoration1:6, 四方背面の機械（装飾ブロック）
+enderio:block_decoration1:7, ソウル系機械の面（装飾ブロック）
+enderio:block_decoration1:8, ソウル系機械の上面（装飾ブロック）
+enderio:block_decoration1:9, ソウル系機械の側面（装飾ブロック）
+enderio:block_decoration1:10, ソウル系機械の背面（装飾ブロック）
+enderio:block_decoration1:11, 四方側面のソウル系機械（装飾ブロック）
+enderio:block_decoration1:12, 四方背面のソウル系機械（装飾ブロック）
+enderio:block_decoration1:13, 赤色の機械（装飾ブロック）
+enderio:block_decoration1:14, 壊れたスポナー（装飾ブロック）
+enderio:block_decoration1:15, 不可視ブロック（装飾ブロック）
+enderio:block_decoration2:0, 合金精錬機（装飾ブロック）
+enderio:block_decoration2:1, アイテムバッファ（装飾ブロック）
+enderio:block_decoration2:2, 電力バッファ（装飾ブロック）
+enderio:block_decoration2:3, 総合バッファ（装飾ブロック）
+enderio:block_decoration2:4, クリエイティブ専用バッファ（装飾ブロック）
+enderio:block_decoration2:5, クラフト装置（装飾ブロック）
+enderio:block_decoration2:6, 塗装機（装飾ブロック）
+enderio:block_decoration2:7, 電力モニター（装飾ブロック）
+enderio:block_decoration2:8, 準自生粉砕機（装飾ブロック）
+enderio:block_decoration2:9, スライスンスプライス（装飾ブロック）
+enderio:block_decoration2:10, スターリング発電機（装飾ブロック）
+enderio:block_decoration2:11, 液体タンク（装飾ブロック）
+enderio:block_decoration2:12, 加圧式液体タンク（装飾ブロック）
+enderio:block_decoration2:13, トラベルアンカー（装飾ブロック）
+enderio:block_decoration2:14, バキュームチェスト（装飾ブロック）
+enderio:block_decoration2:15, 無線充電装置（装飾ブロック）
+enderio:block_decoration3:0, 経験値バキューム装置（装飾ブロック）
+enderio:block_decoration3:1, 簡易型合金精錬機（装飾ブロック）
+enderio:block_decoration3:2, 簡易型スターリング発電機（装飾ブロック）
+enderio:block_decoration3:3, 有線充電装置（装飾ブロック）
+enderio:block_decoration3:4, 簡易型準自生粉砕機（装飾ブロック）
+enderio:block_industrial_insulation, 工業用断熱材
+enderio:block_end_iron_bars, エンドスチールの格子
+enderio:block_confusion_charge, 眩惑の爆薬
+enderio:block_concussion_charge, 震動の爆薬
+enderio:block_ender_charge, エンダー爆薬
+enderio:block_painted_slab, 塗装したハーフブロック
+enderio:block_painted_stone_slab, 塗装した石のハーフブロック
+enderio:block_painted_pressure_plate:1, 木の感圧板（無音）
+enderio:block_painted_pressure_plate:3, 石の感圧板（無音）
+enderio:block_painted_pressure_plate:5, 重量感圧板（重・無音）
+enderio:block_painted_pressure_plate:7, 重量感圧板（軽・無音）
+enderio:block_painted_pressure_plate:8, ダークスチールの感圧板
+enderio:block_painted_pressure_plate:9, ダークスチールの感圧板（無音）
+enderio:block_painted_pressure_plate:10, ソウラリウムの感圧板
+enderio:block_painted_pressure_plate:11, ソウラリウムの感圧板（無音）
+enderio:block_painted_pressure_plate:12, ソウラリウムの感圧板（指定済み）
+enderio:block_painted_pressure_plate:13, ソウラリウムの感圧板（指定済み・無音）
+enderio:block_painted_wooden_door, 塗装した木のドア
+enderio:block_painted_iron_door, 塗装した鉄のドア
+enderio:block_painted_dark_steel_door, 塗装したダークスチールのドア
+enderio:block_exit_rail, 脱線レール
+enderio:item_conduit_probe:0, 導管調査機
+enderio:item_yeta_wrench, イェタレンチ
+enderio:item_xp_transfer:0, エクスペリエンスロッド
+enderio:item_cold_fire_igniter, 冷炎ライター
+enderio:item_coord_selector, 座標指定機
+enderio:item_location_printout, 座標紙
+enderio:item_travel_staff:0, トラベルスタッフ
+enderio:item_travel_staff:0, トラベルスタッフ
+enderio:item_rod_of_return:0, リターンロッド
+enderio:item_rod_of_return:0, リターンロッド
+enderio:item_magnet:0, 電磁石
+enderio:item_magnet:0, 電磁石
+enderio:block_enderman_skull:0, エンダーマンの頭
+enderio:block_enderman_skull:2, 悩めるエンダーマンの頭
+enderio:item_ender_food:0, "エンデリオス"
+enderio:item_basic_item_filter:0, 基本アイテムフィルター
+enderio:item_advanced_item_filter:0, 強化アイテムフィルター
+enderio:item_limited_item_filter:0, 搬入数制限アイテムフィルター
+enderio:item_big_item_filter:0, 大容量アイテムフィルター
+enderio:item_big_advanced_item_filter:0, 強化大容量アイテムフィルター
+enderio:item_existing_item_filter:0, 既存アイテムフィルター
+enderio:item_mod_item_filter:0, Mod アイテムフィルター
+enderio:item_power_item_filter:0, 電力保有アイテムフィルター
+enderio:item_soul_filter_normal:0, ソウルアイテムフィルター
+enderio:item_soul_filter_big:0, 大容量ソウルアイテムフィルター
+enderio:item_enchantment_filter_normal:0, エンチャントアイテムフィルター
+enderio:item_enchantment_filter_big:0, 大容量エンチャントアイテムフィルター
+enderio:item_fluid_filter:0, 基本液体フィルター
+enderio:item_redstone_not_filter:0, レッドストーン NOT フィルター
+enderio:item_redstone_or_filter:0, レッドストーン OR フィルター
+enderio:item_redstone_and_filter:0, レッドストーン AND フィルター
+enderio:item_redstone_nor_filter:0, レッドストーン NOR フィルター
+enderio:item_redstone_nand_filter:0, レッドストーン NAND フィルター
+enderio:item_redstone_xor_filter:0, レッドストーン XOR フィルター
+enderio:item_redstone_xnor_filter:0, レッドストーン XNOR フィルター
+enderio:item_redstone_toggle_filter:0, レッドストーンラッチ切替フィルター
+enderio:item_redstone_counting_filter:0, レッドストーンカウントフィルター
+enderio:item_redstone_sensor_filter:0, レッドストーンセンサーフィルター
+enderio:item_redstone_timer_filter:0, レッドストーンタイマーフィルター
+enderio:block_fused_quartz:0, クォーツガラス
+enderio:block_fused_quartz:1, クォーツガラス
+enderio:block_fused_quartz:2, クォーツガラス
+enderio:block_fused_quartz:3, クォーツガラス
+enderio:block_fused_quartz:4, クォーツガラス
+enderio:block_fused_quartz:5, クォーツガラス
+enderio:block_fused_quartz:6, クォーツガラス
+enderio:block_fused_quartz:7, クォーツガラス
+enderio:block_fused_quartz:8, クォーツガラス
+enderio:block_fused_quartz:9, クォーツガラス
+enderio:block_fused_quartz:10, クォーツガラス
+enderio:block_fused_quartz:11, クォーツガラス
+enderio:block_fused_quartz:12, クォーツガラス
+enderio:block_fused_quartz:13, クォーツガラス
+enderio:block_fused_quartz:14, クォーツガラス
+enderio:block_fused_quartz:15, クォーツガラス
+enderio:block_fused_glass:0, 高透過ガラス
+enderio:block_fused_glass:1, 高透過ガラス
+enderio:block_fused_glass:2, 高透過ガラス
+enderio:block_fused_glass:3, 高透過ガラス
+enderio:block_fused_glass:4, 高透過ガラス
+enderio:block_fused_glass:5, 高透過ガラス
+enderio:block_fused_glass:6, 高透過ガラス
+enderio:block_fused_glass:7, 高透過ガラス
+enderio:block_fused_glass:8, 高透過ガラス
+enderio:block_fused_glass:9, 高透過ガラス
+enderio:block_fused_glass:10, 高透過ガラス
+enderio:block_fused_glass:11, 高透過ガラス
+enderio:block_fused_glass:12, 高透過ガラス
+enderio:block_fused_glass:13, 高透過ガラス
+enderio:block_fused_glass:14, 高透過ガラス
+enderio:block_fused_glass:15, 高透過ガラス
+enderio:block_enlightened_fused_quartz:0, 発光クォーツガラス
+enderio:block_enlightened_fused_quartz:1, 発光クォーツガラス
+enderio:block_enlightened_fused_quartz:2, 発光クォーツガラス
+enderio:block_enlightened_fused_quartz:3, 発光クォーツガラス
+enderio:block_enlightened_fused_quartz:4, 発光クォーツガラス
+enderio:block_enlightened_fused_quartz:5, 発光クォーツガラス
+enderio:block_enlightened_fused_quartz:6, 発光クォーツガラス
+enderio:block_enlightened_fused_quartz:7, 発光クォーツガラス
+enderio:block_enlightened_fused_quartz:8, 発光クォーツガラス
+enderio:block_enlightened_fused_quartz:9, 発光クォーツガラス
+enderio:block_enlightened_fused_quartz:10, 発光クォーツガラス
+enderio:block_enlightened_fused_quartz:11, 発光クォーツガラス
+enderio:block_enlightened_fused_quartz:12, 発光クォーツガラス
+enderio:block_enlightened_fused_quartz:13, 発光クォーツガラス
+enderio:block_enlightened_fused_quartz:14, 発光クォーツガラス
+enderio:block_enlightened_fused_quartz:15, 発光クォーツガラス
+enderio:block_enlightened_fused_glass:0, 発光高透過ガラス
+enderio:block_enlightened_fused_glass:1, 発光高透過ガラス
+enderio:block_enlightened_fused_glass:2, 発光高透過ガラス
+enderio:block_enlightened_fused_glass:3, 発光高透過ガラス
+enderio:block_enlightened_fused_glass:4, 発光高透過ガラス
+enderio:block_enlightened_fused_glass:5, 発光高透過ガラス
+enderio:block_enlightened_fused_glass:6, 発光高透過ガラス
+enderio:block_enlightened_fused_glass:7, 発光高透過ガラス
+enderio:block_enlightened_fused_glass:8, 発光高透過ガラス
+enderio:block_enlightened_fused_glass:9, 発光高透過ガラス
+enderio:block_enlightened_fused_glass:10, 発光高透過ガラス
+enderio:block_enlightened_fused_glass:11, 発光高透過ガラス
+enderio:block_enlightened_fused_glass:12, 発光高透過ガラス
+enderio:block_enlightened_fused_glass:13, 発光高透過ガラス
+enderio:block_enlightened_fused_glass:14, 発光高透過ガラス
+enderio:block_enlightened_fused_glass:15, 発光高透過ガラス
+enderio:block_dark_fused_quartz:0, 遮光クォーツガラス
+enderio:block_dark_fused_quartz:1, 遮光クォーツガラス
+enderio:block_dark_fused_quartz:2, 遮光クォーツガラス
+enderio:block_dark_fused_quartz:3, 遮光クォーツガラス
+enderio:block_dark_fused_quartz:4, 遮光クォーツガラス
+enderio:block_dark_fused_quartz:5, 遮光クォーツガラス
+enderio:block_dark_fused_quartz:6, 遮光クォーツガラス
+enderio:block_dark_fused_quartz:7, 遮光クォーツガラス
+enderio:block_dark_fused_quartz:8, 遮光クォーツガラス
+enderio:block_dark_fused_quartz:9, 遮光クォーツガラス
+enderio:block_dark_fused_quartz:10, 遮光クォーツガラス
+enderio:block_dark_fused_quartz:11, 遮光クォーツガラス
+enderio:block_dark_fused_quartz:12, 遮光クォーツガラス
+enderio:block_dark_fused_quartz:13, 遮光クォーツガラス
+enderio:block_dark_fused_quartz:14, 遮光クォーツガラス
+enderio:block_dark_fused_quartz:15, 遮光クォーツガラス
+enderio:block_dark_fused_glass:0, 遮光高透過ガラス
+enderio:block_dark_fused_glass:1, 遮光高透過ガラス
+enderio:block_dark_fused_glass:2, 遮光高透過ガラス
+enderio:block_dark_fused_glass:3, 遮光高透過ガラス
+enderio:block_dark_fused_glass:4, 遮光高透過ガラス
+enderio:block_dark_fused_glass:5, 遮光高透過ガラス
+enderio:block_dark_fused_glass:6, 遮光高透過ガラス
+enderio:block_dark_fused_glass:7, 遮光高透過ガラス
+enderio:block_dark_fused_glass:8, 遮光高透過ガラス
+enderio:block_dark_fused_glass:9, 遮光高透過ガラス
+enderio:block_dark_fused_glass:10, 遮光高透過ガラス
+enderio:block_dark_fused_glass:11, 遮光高透過ガラス
+enderio:block_dark_fused_glass:12, 遮光高透過ガラス
+enderio:block_dark_fused_glass:13, 遮光高透過ガラス
+enderio:block_dark_fused_glass:14, 遮光高透過ガラス
+enderio:block_dark_fused_glass:15, 遮光高透過ガラス
+enderio:block_holy_fused_quartz:0, クォーツガラス
+enderio:block_holy_fused_quartz:1, クォーツガラス
+enderio:block_holy_fused_quartz:2, クォーツガラス
+enderio:block_holy_fused_quartz:3, クォーツガラス
+enderio:block_holy_fused_quartz:4, クォーツガラス
+enderio:block_holy_fused_quartz:5, クォーツガラス
+enderio:block_holy_fused_quartz:6, クォーツガラス
+enderio:block_holy_fused_quartz:7, クォーツガラス
+enderio:block_holy_fused_quartz:8, クォーツガラス
+enderio:block_holy_fused_quartz:9, クォーツガラス
+enderio:block_holy_fused_quartz:10, クォーツガラス
+enderio:block_holy_fused_quartz:11, クォーツガラス
+enderio:block_holy_fused_quartz:12, クォーツガラス
+enderio:block_holy_fused_quartz:13, クォーツガラス
+enderio:block_holy_fused_quartz:14, クォーツガラス
+enderio:block_holy_fused_quartz:15, クォーツガラス
+enderio:block_holy_fused_glass:0, 高透過ガラス
+enderio:block_holy_fused_glass:1, 高透過ガラス
+enderio:block_holy_fused_glass:2, 高透過ガラス
+enderio:block_holy_fused_glass:3, 高透過ガラス
+enderio:block_holy_fused_glass:4, 高透過ガラス
+enderio:block_holy_fused_glass:5, 高透過ガラス
+enderio:block_holy_fused_glass:6, 高透過ガラス
+enderio:block_holy_fused_glass:7, 高透過ガラス
+enderio:block_holy_fused_glass:8, 高透過ガラス
+enderio:block_holy_fused_glass:9, 高透過ガラス
+enderio:block_holy_fused_glass:10, 高透過ガラス
+enderio:block_holy_fused_glass:11, 高透過ガラス
+enderio:block_holy_fused_glass:12, 高透過ガラス
+enderio:block_holy_fused_glass:13, 高透過ガラス
+enderio:block_holy_fused_glass:14, 高透過ガラス
+enderio:block_holy_fused_glass:15, 高透過ガラス
+enderio:block_holy_enlightened_fused_quartz:0, 発光クォーツガラス
+enderio:block_holy_enlightened_fused_quartz:1, 発光クォーツガラス
+enderio:block_holy_enlightened_fused_quartz:2, 発光クォーツガラス
+enderio:block_holy_enlightened_fused_quartz:3, 発光クォーツガラス
+enderio:block_holy_enlightened_fused_quartz:4, 発光クォーツガラス
+enderio:block_holy_enlightened_fused_quartz:5, 発光クォーツガラス
+enderio:block_holy_enlightened_fused_quartz:6, 発光クォーツガラス
+enderio:block_holy_enlightened_fused_quartz:7, 発光クォーツガラス
+enderio:block_holy_enlightened_fused_quartz:8, 発光クォーツガラス
+enderio:block_holy_enlightened_fused_quartz:9, 発光クォーツガラス
+enderio:block_holy_enlightened_fused_quartz:10, 発光クォーツガラス
+enderio:block_holy_enlightened_fused_quartz:11, 発光クォーツガラス
+enderio:block_holy_enlightened_fused_quartz:12, 発光クォーツガラス
+enderio:block_holy_enlightened_fused_quartz:13, 発光クォーツガラス
+enderio:block_holy_enlightened_fused_quartz:14, 発光クォーツガラス
+enderio:block_holy_enlightened_fused_quartz:15, 発光クォーツガラス
+enderio:block_holy_enlightened_fused_glass:0, 発光高透過ガラス
+enderio:block_holy_enlightened_fused_glass:1, 発光高透過ガラス
+enderio:block_holy_enlightened_fused_glass:2, 発光高透過ガラス
+enderio:block_holy_enlightened_fused_glass:3, 発光高透過ガラス
+enderio:block_holy_enlightened_fused_glass:4, 発光高透過ガラス
+enderio:block_holy_enlightened_fused_glass:5, 発光高透過ガラス
+enderio:block_holy_enlightened_fused_glass:6, 発光高透過ガラス
+enderio:block_holy_enlightened_fused_glass:7, 発光高透過ガラス
+enderio:block_holy_enlightened_fused_glass:8, 発光高透過ガラス
+enderio:block_holy_enlightened_fused_glass:9, 発光高透過ガラス
+enderio:block_holy_enlightened_fused_glass:10, 発光高透過ガラス
+enderio:block_holy_enlightened_fused_glass:11, 発光高透過ガラス
+enderio:block_holy_enlightened_fused_glass:12, 発光高透過ガラス
+enderio:block_holy_enlightened_fused_glass:13, 発光高透過ガラス
+enderio:block_holy_enlightened_fused_glass:14, 発光高透過ガラス
+enderio:block_holy_enlightened_fused_glass:15, 発光高透過ガラス
+enderio:block_holy_dark_fused_quartz:0, 遮光クォーツガラス
+enderio:block_holy_dark_fused_quartz:1, 遮光クォーツガラス
+enderio:block_holy_dark_fused_quartz:2, 遮光クォーツガラス
+enderio:block_holy_dark_fused_quartz:3, 遮光クォーツガラス
+enderio:block_holy_dark_fused_quartz:4, 遮光クォーツガラス
+enderio:block_holy_dark_fused_quartz:5, 遮光クォーツガラス
+enderio:block_holy_dark_fused_quartz:6, 遮光クォーツガラス
+enderio:block_holy_dark_fused_quartz:7, 遮光クォーツガラス
+enderio:block_holy_dark_fused_quartz:8, 遮光クォーツガラス
+enderio:block_holy_dark_fused_quartz:9, 遮光クォーツガラス
+enderio:block_holy_dark_fused_quartz:10, 遮光クォーツガラス
+enderio:block_holy_dark_fused_quartz:11, 遮光クォーツガラス
+enderio:block_holy_dark_fused_quartz:12, 遮光クォーツガラス
+enderio:block_holy_dark_fused_quartz:13, 遮光クォーツガラス
+enderio:block_holy_dark_fused_quartz:14, 遮光クォーツガラス
+enderio:block_holy_dark_fused_quartz:15, 遮光クォーツガラス
+enderio:block_holy_dark_fused_glass:0, 遮光高透過ガラス
+enderio:block_holy_dark_fused_glass:1, 遮光高透過ガラス
+enderio:block_holy_dark_fused_glass:2, 遮光高透過ガラス
+enderio:block_holy_dark_fused_glass:3, 遮光高透過ガラス
+enderio:block_holy_dark_fused_glass:4, 遮光高透過ガラス
+enderio:block_holy_dark_fused_glass:5, 遮光高透過ガラス
+enderio:block_holy_dark_fused_glass:6, 遮光高透過ガラス
+enderio:block_holy_dark_fused_glass:7, 遮光高透過ガラス
+enderio:block_holy_dark_fused_glass:8, 遮光高透過ガラス
+enderio:block_holy_dark_fused_glass:9, 遮光高透過ガラス
+enderio:block_holy_dark_fused_glass:10, 遮光高透過ガラス
+enderio:block_holy_dark_fused_glass:11, 遮光高透過ガラス
+enderio:block_holy_dark_fused_glass:12, 遮光高透過ガラス
+enderio:block_holy_dark_fused_glass:13, 遮光高透過ガラス
+enderio:block_holy_dark_fused_glass:14, 遮光高透過ガラス
+enderio:block_holy_dark_fused_glass:15, 遮光高透過ガラス
+enderio:block_unholy_fused_quartz:0, クォーツガラス
+enderio:block_unholy_fused_quartz:1, クォーツガラス
+enderio:block_unholy_fused_quartz:2, クォーツガラス
+enderio:block_unholy_fused_quartz:3, クォーツガラス
+enderio:block_unholy_fused_quartz:4, クォーツガラス
+enderio:block_unholy_fused_quartz:5, クォーツガラス
+enderio:block_unholy_fused_quartz:6, クォーツガラス
+enderio:block_unholy_fused_quartz:7, クォーツガラス
+enderio:block_unholy_fused_quartz:8, クォーツガラス
+enderio:block_unholy_fused_quartz:9, クォーツガラス
+enderio:block_unholy_fused_quartz:10, クォーツガラス
+enderio:block_unholy_fused_quartz:11, クォーツガラス
+enderio:block_unholy_fused_quartz:12, クォーツガラス
+enderio:block_unholy_fused_quartz:13, クォーツガラス
+enderio:block_unholy_fused_quartz:14, クォーツガラス
+enderio:block_unholy_fused_quartz:15, クォーツガラス
+enderio:block_unholy_fused_glass:0, 高透過ガラス
+enderio:block_unholy_fused_glass:1, 高透過ガラス
+enderio:block_unholy_fused_glass:2, 高透過ガラス
+enderio:block_unholy_fused_glass:3, 高透過ガラス
+enderio:block_unholy_fused_glass:4, 高透過ガラス
+enderio:block_unholy_fused_glass:5, 高透過ガラス
+enderio:block_unholy_fused_glass:6, 高透過ガラス
+enderio:block_unholy_fused_glass:7, 高透過ガラス
+enderio:block_unholy_fused_glass:8, 高透過ガラス
+enderio:block_unholy_fused_glass:9, 高透過ガラス
+enderio:block_unholy_fused_glass:10, 高透過ガラス
+enderio:block_unholy_fused_glass:11, 高透過ガラス
+enderio:block_unholy_fused_glass:12, 高透過ガラス
+enderio:block_unholy_fused_glass:13, 高透過ガラス
+enderio:block_unholy_fused_glass:14, 高透過ガラス
+enderio:block_unholy_fused_glass:15, 高透過ガラス
+enderio:block_unholy_enlightened_fused_quartz:0, 発光クォーツガラス
+enderio:block_unholy_enlightened_fused_quartz:1, 発光クォーツガラス
+enderio:block_unholy_enlightened_fused_quartz:2, 発光クォーツガラス
+enderio:block_unholy_enlightened_fused_quartz:3, 発光クォーツガラス
+enderio:block_unholy_enlightened_fused_quartz:4, 発光クォーツガラス
+enderio:block_unholy_enlightened_fused_quartz:5, 発光クォーツガラス
+enderio:block_unholy_enlightened_fused_quartz:6, 発光クォーツガラス
+enderio:block_unholy_enlightened_fused_quartz:7, 発光クォーツガラス
+enderio:block_unholy_enlightened_fused_quartz:8, 発光クォーツガラス
+enderio:block_unholy_enlightened_fused_quartz:9, 発光クォーツガラス
+enderio:block_unholy_enlightened_fused_quartz:10, 発光クォーツガラス
+enderio:block_unholy_enlightened_fused_quartz:11, 発光クォーツガラス
+enderio:block_unholy_enlightened_fused_quartz:12, 発光クォーツガラス
+enderio:block_unholy_enlightened_fused_quartz:13, 発光クォーツガラス
+enderio:block_unholy_enlightened_fused_quartz:14, 発光クォーツガラス
+enderio:block_unholy_enlightened_fused_quartz:15, 発光クォーツガラス
+enderio:block_unholy_enlightened_fused_glass:0, 発光高透過ガラス
+enderio:block_unholy_enlightened_fused_glass:1, 発光高透過ガラス
+enderio:block_unholy_enlightened_fused_glass:2, 発光高透過ガラス
+enderio:block_unholy_enlightened_fused_glass:3, 発光高透過ガラス
+enderio:block_unholy_enlightened_fused_glass:4, 発光高透過ガラス
+enderio:block_unholy_enlightened_fused_glass:5, 発光高透過ガラス
+enderio:block_unholy_enlightened_fused_glass:6, 発光高透過ガラス
+enderio:block_unholy_enlightened_fused_glass:7, 発光高透過ガラス
+enderio:block_unholy_enlightened_fused_glass:8, 発光高透過ガラス
+enderio:block_unholy_enlightened_fused_glass:9, 発光高透過ガラス
+enderio:block_unholy_enlightened_fused_glass:10, 発光高透過ガラス
+enderio:block_unholy_enlightened_fused_glass:11, 発光高透過ガラス
+enderio:block_unholy_enlightened_fused_glass:12, 発光高透過ガラス
+enderio:block_unholy_enlightened_fused_glass:13, 発光高透過ガラス
+enderio:block_unholy_enlightened_fused_glass:14, 発光高透過ガラス
+enderio:block_unholy_enlightened_fused_glass:15, 発光高透過ガラス
+enderio:block_unholy_dark_fused_quartz:0, 遮光クォーツガラス
+enderio:block_unholy_dark_fused_quartz:1, 遮光クォーツガラス
+enderio:block_unholy_dark_fused_quartz:2, 遮光クォーツガラス
+enderio:block_unholy_dark_fused_quartz:3, 遮光クォーツガラス
+enderio:block_unholy_dark_fused_quartz:4, 遮光クォーツガラス
+enderio:block_unholy_dark_fused_quartz:5, 遮光クォーツガラス
+enderio:block_unholy_dark_fused_quartz:6, 遮光クォーツガラス
+enderio:block_unholy_dark_fused_quartz:7, 遮光クォーツガラス
+enderio:block_unholy_dark_fused_quartz:8, 遮光クォーツガラス
+enderio:block_unholy_dark_fused_quartz:9, 遮光クォーツガラス
+enderio:block_unholy_dark_fused_quartz:10, 遮光クォーツガラス
+enderio:block_unholy_dark_fused_quartz:11, 遮光クォーツガラス
+enderio:block_unholy_dark_fused_quartz:12, 遮光クォーツガラス
+enderio:block_unholy_dark_fused_quartz:13, 遮光クォーツガラス
+enderio:block_unholy_dark_fused_quartz:14, 遮光クォーツガラス
+enderio:block_unholy_dark_fused_quartz:15, 遮光クォーツガラス
+enderio:block_unholy_dark_fused_glass:0, 遮光高透過ガラス
+enderio:block_unholy_dark_fused_glass:1, 遮光高透過ガラス
+enderio:block_unholy_dark_fused_glass:2, 遮光高透過ガラス
+enderio:block_unholy_dark_fused_glass:3, 遮光高透過ガラス
+enderio:block_unholy_dark_fused_glass:4, 遮光高透過ガラス
+enderio:block_unholy_dark_fused_glass:5, 遮光高透過ガラス
+enderio:block_unholy_dark_fused_glass:6, 遮光高透過ガラス
+enderio:block_unholy_dark_fused_glass:7, 遮光高透過ガラス
+enderio:block_unholy_dark_fused_glass:8, 遮光高透過ガラス
+enderio:block_unholy_dark_fused_glass:9, 遮光高透過ガラス
+enderio:block_unholy_dark_fused_glass:10, 遮光高透過ガラス
+enderio:block_unholy_dark_fused_glass:11, 遮光高透過ガラス
+enderio:block_unholy_dark_fused_glass:12, 遮光高透過ガラス
+enderio:block_unholy_dark_fused_glass:13, 遮光高透過ガラス
+enderio:block_unholy_dark_fused_glass:14, 遮光高透過ガラス
+enderio:block_unholy_dark_fused_glass:15, 遮光高透過ガラス
+enderio:block_pasture_fused_quartz:0, クォーツガラス
+enderio:block_pasture_fused_quartz:1, クォーツガラス
+enderio:block_pasture_fused_quartz:2, クォーツガラス
+enderio:block_pasture_fused_quartz:3, クォーツガラス
+enderio:block_pasture_fused_quartz:4, クォーツガラス
+enderio:block_pasture_fused_quartz:5, クォーツガラス
+enderio:block_pasture_fused_quartz:6, クォーツガラス
+enderio:block_pasture_fused_quartz:7, クォーツガラス
+enderio:block_pasture_fused_quartz:8, クォーツガラス
+enderio:block_pasture_fused_quartz:9, クォーツガラス
+enderio:block_pasture_fused_quartz:10, クォーツガラス
+enderio:block_pasture_fused_quartz:11, クォーツガラス
+enderio:block_pasture_fused_quartz:12, クォーツガラス
+enderio:block_pasture_fused_quartz:13, クォーツガラス
+enderio:block_pasture_fused_quartz:14, クォーツガラス
+enderio:block_pasture_fused_quartz:15, クォーツガラス
+enderio:block_pasture_fused_glass:0, 高透過ガラス
+enderio:block_pasture_fused_glass:1, 高透過ガラス
+enderio:block_pasture_fused_glass:2, 高透過ガラス
+enderio:block_pasture_fused_glass:3, 高透過ガラス
+enderio:block_pasture_fused_glass:4, 高透過ガラス
+enderio:block_pasture_fused_glass:5, 高透過ガラス
+enderio:block_pasture_fused_glass:6, 高透過ガラス
+enderio:block_pasture_fused_glass:7, 高透過ガラス
+enderio:block_pasture_fused_glass:8, 高透過ガラス
+enderio:block_pasture_fused_glass:9, 高透過ガラス
+enderio:block_pasture_fused_glass:10, 高透過ガラス
+enderio:block_pasture_fused_glass:11, 高透過ガラス
+enderio:block_pasture_fused_glass:12, 高透過ガラス
+enderio:block_pasture_fused_glass:13, 高透過ガラス
+enderio:block_pasture_fused_glass:14, 高透過ガラス
+enderio:block_pasture_fused_glass:15, 高透過ガラス
+enderio:block_pasture_enlightened_fused_quartz:0, 発光クォーツガラス
+enderio:block_pasture_enlightened_fused_quartz:1, 発光クォーツガラス
+enderio:block_pasture_enlightened_fused_quartz:2, 発光クォーツガラス
+enderio:block_pasture_enlightened_fused_quartz:3, 発光クォーツガラス
+enderio:block_pasture_enlightened_fused_quartz:4, 発光クォーツガラス
+enderio:block_pasture_enlightened_fused_quartz:5, 発光クォーツガラス
+enderio:block_pasture_enlightened_fused_quartz:6, 発光クォーツガラス
+enderio:block_pasture_enlightened_fused_quartz:7, 発光クォーツガラス
+enderio:block_pasture_enlightened_fused_quartz:8, 発光クォーツガラス
+enderio:block_pasture_enlightened_fused_quartz:9, 発光クォーツガラス
+enderio:block_pasture_enlightened_fused_quartz:10, 発光クォーツガラス
+enderio:block_pasture_enlightened_fused_quartz:11, 発光クォーツガラス
+enderio:block_pasture_enlightened_fused_quartz:12, 発光クォーツガラス
+enderio:block_pasture_enlightened_fused_quartz:13, 発光クォーツガラス
+enderio:block_pasture_enlightened_fused_quartz:14, 発光クォーツガラス
+enderio:block_pasture_enlightened_fused_quartz:15, 発光クォーツガラス
+enderio:block_pasture_enlightened_fused_glass:0, 発光高透過ガラス
+enderio:block_pasture_enlightened_fused_glass:1, 発光高透過ガラス
+enderio:block_pasture_enlightened_fused_glass:2, 発光高透過ガラス
+enderio:block_pasture_enlightened_fused_glass:3, 発光高透過ガラス
+enderio:block_pasture_enlightened_fused_glass:4, 発光高透過ガラス
+enderio:block_pasture_enlightened_fused_glass:5, 発光高透過ガラス
+enderio:block_pasture_enlightened_fused_glass:6, 発光高透過ガラス
+enderio:block_pasture_enlightened_fused_glass:7, 発光高透過ガラス
+enderio:block_pasture_enlightened_fused_glass:8, 発光高透過ガラス
+enderio:block_pasture_enlightened_fused_glass:9, 発光高透過ガラス
+enderio:block_pasture_enlightened_fused_glass:10, 発光高透過ガラス
+enderio:block_pasture_enlightened_fused_glass:11, 発光高透過ガラス
+enderio:block_pasture_enlightened_fused_glass:12, 発光高透過ガラス
+enderio:block_pasture_enlightened_fused_glass:13, 発光高透過ガラス
+enderio:block_pasture_enlightened_fused_glass:14, 発光高透過ガラス
+enderio:block_pasture_enlightened_fused_glass:15, 発光高透過ガラス
+enderio:block_pasture_dark_fused_quartz:0, 遮光クォーツガラス
+enderio:block_pasture_dark_fused_quartz:1, 遮光クォーツガラス
+enderio:block_pasture_dark_fused_quartz:2, 遮光クォーツガラス
+enderio:block_pasture_dark_fused_quartz:3, 遮光クォーツガラス
+enderio:block_pasture_dark_fused_quartz:4, 遮光クォーツガラス
+enderio:block_pasture_dark_fused_quartz:5, 遮光クォーツガラス
+enderio:block_pasture_dark_fused_quartz:6, 遮光クォーツガラス
+enderio:block_pasture_dark_fused_quartz:7, 遮光クォーツガラス
+enderio:block_pasture_dark_fused_quartz:8, 遮光クォーツガラス
+enderio:block_pasture_dark_fused_quartz:9, 遮光クォーツガラス
+enderio:block_pasture_dark_fused_quartz:10, 遮光クォーツガラス
+enderio:block_pasture_dark_fused_quartz:11, 遮光クォーツガラス
+enderio:block_pasture_dark_fused_quartz:12, 遮光クォーツガラス
+enderio:block_pasture_dark_fused_quartz:13, 遮光クォーツガラス
+enderio:block_pasture_dark_fused_quartz:14, 遮光クォーツガラス
+enderio:block_pasture_dark_fused_quartz:15, 遮光クォーツガラス
+enderio:block_pasture_dark_fused_glass:0, 遮光高透過ガラス
+enderio:block_pasture_dark_fused_glass:1, 遮光高透過ガラス
+enderio:block_pasture_dark_fused_glass:2, 遮光高透過ガラス
+enderio:block_pasture_dark_fused_glass:3, 遮光高透過ガラス
+enderio:block_pasture_dark_fused_glass:4, 遮光高透過ガラス
+enderio:block_pasture_dark_fused_glass:5, 遮光高透過ガラス
+enderio:block_pasture_dark_fused_glass:6, 遮光高透過ガラス
+enderio:block_pasture_dark_fused_glass:7, 遮光高透過ガラス
+enderio:block_pasture_dark_fused_glass:8, 遮光高透過ガラス
+enderio:block_pasture_dark_fused_glass:9, 遮光高透過ガラス
+enderio:block_pasture_dark_fused_glass:10, 遮光高透過ガラス
+enderio:block_pasture_dark_fused_glass:11, 遮光高透過ガラス
+enderio:block_pasture_dark_fused_glass:12, 遮光高透過ガラス
+enderio:block_pasture_dark_fused_glass:13, 遮光高透過ガラス
+enderio:block_pasture_dark_fused_glass:14, 遮光高透過ガラス
+enderio:block_pasture_dark_fused_glass:15, 遮光高透過ガラス
+enderio:block_not_holy_fused_quartz:0, クォーツガラス
+enderio:block_not_holy_fused_quartz:1, クォーツガラス
+enderio:block_not_holy_fused_quartz:2, クォーツガラス
+enderio:block_not_holy_fused_quartz:3, クォーツガラス
+enderio:block_not_holy_fused_quartz:4, クォーツガラス
+enderio:block_not_holy_fused_quartz:5, クォーツガラス
+enderio:block_not_holy_fused_quartz:6, クォーツガラス
+enderio:block_not_holy_fused_quartz:7, クォーツガラス
+enderio:block_not_holy_fused_quartz:8, クォーツガラス
+enderio:block_not_holy_fused_quartz:9, クォーツガラス
+enderio:block_not_holy_fused_quartz:10, クォーツガラス
+enderio:block_not_holy_fused_quartz:11, クォーツガラス
+enderio:block_not_holy_fused_quartz:12, クォーツガラス
+enderio:block_not_holy_fused_quartz:13, クォーツガラス
+enderio:block_not_holy_fused_quartz:14, クォーツガラス
+enderio:block_not_holy_fused_quartz:15, クォーツガラス
+enderio:block_not_holy_fused_glass:0, 高透過ガラス
+enderio:block_not_holy_fused_glass:1, 高透過ガラス
+enderio:block_not_holy_fused_glass:2, 高透過ガラス
+enderio:block_not_holy_fused_glass:3, 高透過ガラス
+enderio:block_not_holy_fused_glass:4, 高透過ガラス
+enderio:block_not_holy_fused_glass:5, 高透過ガラス
+enderio:block_not_holy_fused_glass:6, 高透過ガラス
+enderio:block_not_holy_fused_glass:7, 高透過ガラス
+enderio:block_not_holy_fused_glass:8, 高透過ガラス
+enderio:block_not_holy_fused_glass:9, 高透過ガラス
+enderio:block_not_holy_fused_glass:10, 高透過ガラス
+enderio:block_not_holy_fused_glass:11, 高透過ガラス
+enderio:block_not_holy_fused_glass:12, 高透過ガラス
+enderio:block_not_holy_fused_glass:13, 高透過ガラス
+enderio:block_not_holy_fused_glass:14, 高透過ガラス
+enderio:block_not_holy_fused_glass:15, 高透過ガラス
+enderio:block_not_holy_enlightened_fused_quartz:0, 発光クォーツガラス
+enderio:block_not_holy_enlightened_fused_quartz:1, 発光クォーツガラス
+enderio:block_not_holy_enlightened_fused_quartz:2, 発光クォーツガラス
+enderio:block_not_holy_enlightened_fused_quartz:3, 発光クォーツガラス
+enderio:block_not_holy_enlightened_fused_quartz:4, 発光クォーツガラス
+enderio:block_not_holy_enlightened_fused_quartz:5, 発光クォーツガラス
+enderio:block_not_holy_enlightened_fused_quartz:6, 発光クォーツガラス
+enderio:block_not_holy_enlightened_fused_quartz:7, 発光クォーツガラス
+enderio:block_not_holy_enlightened_fused_quartz:8, 発光クォーツガラス
+enderio:block_not_holy_enlightened_fused_quartz:9, 発光クォーツガラス
+enderio:block_not_holy_enlightened_fused_quartz:10, 発光クォーツガラス
+enderio:block_not_holy_enlightened_fused_quartz:11, 発光クォーツガラス
+enderio:block_not_holy_enlightened_fused_quartz:12, 発光クォーツガラス
+enderio:block_not_holy_enlightened_fused_quartz:13, 発光クォーツガラス
+enderio:block_not_holy_enlightened_fused_quartz:14, 発光クォーツガラス
+enderio:block_not_holy_enlightened_fused_quartz:15, 発光クォーツガラス
+enderio:block_not_holy_enlightened_fused_glass:0, 発光高透過ガラス
+enderio:block_not_holy_enlightened_fused_glass:1, 発光高透過ガラス
+enderio:block_not_holy_enlightened_fused_glass:2, 発光高透過ガラス
+enderio:block_not_holy_enlightened_fused_glass:3, 発光高透過ガラス
+enderio:block_not_holy_enlightened_fused_glass:4, 発光高透過ガラス
+enderio:block_not_holy_enlightened_fused_glass:5, 発光高透過ガラス
+enderio:block_not_holy_enlightened_fused_glass:6, 発光高透過ガラス
+enderio:block_not_holy_enlightened_fused_glass:7, 発光高透過ガラス
+enderio:block_not_holy_enlightened_fused_glass:8, 発光高透過ガラス
+enderio:block_not_holy_enlightened_fused_glass:9, 発光高透過ガラス
+enderio:block_not_holy_enlightened_fused_glass:10, 発光高透過ガラス
+enderio:block_not_holy_enlightened_fused_glass:11, 発光高透過ガラス
+enderio:block_not_holy_enlightened_fused_glass:12, 発光高透過ガラス
+enderio:block_not_holy_enlightened_fused_glass:13, 発光高透過ガラス
+enderio:block_not_holy_enlightened_fused_glass:14, 発光高透過ガラス
+enderio:block_not_holy_enlightened_fused_glass:15, 発光高透過ガラス
+enderio:block_not_holy_dark_fused_quartz:0, 遮光クォーツガラス
+enderio:block_not_holy_dark_fused_quartz:1, 遮光クォーツガラス
+enderio:block_not_holy_dark_fused_quartz:2, 遮光クォーツガラス
+enderio:block_not_holy_dark_fused_quartz:3, 遮光クォーツガラス
+enderio:block_not_holy_dark_fused_quartz:4, 遮光クォーツガラス
+enderio:block_not_holy_dark_fused_quartz:5, 遮光クォーツガラス
+enderio:block_not_holy_dark_fused_quartz:6, 遮光クォーツガラス
+enderio:block_not_holy_dark_fused_quartz:7, 遮光クォーツガラス
+enderio:block_not_holy_dark_fused_quartz:8, 遮光クォーツガラス
+enderio:block_not_holy_dark_fused_quartz:9, 遮光クォーツガラス
+enderio:block_not_holy_dark_fused_quartz:10, 遮光クォーツガラス
+enderio:block_not_holy_dark_fused_quartz:11, 遮光クォーツガラス
+enderio:block_not_holy_dark_fused_quartz:12, 遮光クォーツガラス
+enderio:block_not_holy_dark_fused_quartz:13, 遮光クォーツガラス
+enderio:block_not_holy_dark_fused_quartz:14, 遮光クォーツガラス
+enderio:block_not_holy_dark_fused_quartz:15, 遮光クォーツガラス
+enderio:block_not_holy_dark_fused_glass:0, 遮光高透過ガラス
+enderio:block_not_holy_dark_fused_glass:1, 遮光高透過ガラス
+enderio:block_not_holy_dark_fused_glass:2, 遮光高透過ガラス
+enderio:block_not_holy_dark_fused_glass:3, 遮光高透過ガラス
+enderio:block_not_holy_dark_fused_glass:4, 遮光高透過ガラス
+enderio:block_not_holy_dark_fused_glass:5, 遮光高透過ガラス
+enderio:block_not_holy_dark_fused_glass:6, 遮光高透過ガラス
+enderio:block_not_holy_dark_fused_glass:7, 遮光高透過ガラス
+enderio:block_not_holy_dark_fused_glass:8, 遮光高透過ガラス
+enderio:block_not_holy_dark_fused_glass:9, 遮光高透過ガラス
+enderio:block_not_holy_dark_fused_glass:10, 遮光高透過ガラス
+enderio:block_not_holy_dark_fused_glass:11, 遮光高透過ガラス
+enderio:block_not_holy_dark_fused_glass:12, 遮光高透過ガラス
+enderio:block_not_holy_dark_fused_glass:13, 遮光高透過ガラス
+enderio:block_not_holy_dark_fused_glass:14, 遮光高透過ガラス
+enderio:block_not_holy_dark_fused_glass:15, 遮光高透過ガラス
+enderio:block_not_unholy_fused_quartz:0, クォーツガラス
+enderio:block_not_unholy_fused_quartz:1, クォーツガラス
+enderio:block_not_unholy_fused_quartz:2, クォーツガラス
+enderio:block_not_unholy_fused_quartz:3, クォーツガラス
+enderio:block_not_unholy_fused_quartz:4, クォーツガラス
+enderio:block_not_unholy_fused_quartz:5, クォーツガラス
+enderio:block_not_unholy_fused_quartz:6, クォーツガラス
+enderio:block_not_unholy_fused_quartz:7, クォーツガラス
+enderio:block_not_unholy_fused_quartz:8, クォーツガラス
+enderio:block_not_unholy_fused_quartz:9, クォーツガラス
+enderio:block_not_unholy_fused_quartz:10, クォーツガラス
+enderio:block_not_unholy_fused_quartz:11, クォーツガラス
+enderio:block_not_unholy_fused_quartz:12, クォーツガラス
+enderio:block_not_unholy_fused_quartz:13, クォーツガラス
+enderio:block_not_unholy_fused_quartz:14, クォーツガラス
+enderio:block_not_unholy_fused_quartz:15, クォーツガラス
+enderio:block_not_unholy_fused_glass:0, 高透過ガラス
+enderio:block_not_unholy_fused_glass:1, 高透過ガラス
+enderio:block_not_unholy_fused_glass:2, 高透過ガラス
+enderio:block_not_unholy_fused_glass:3, 高透過ガラス
+enderio:block_not_unholy_fused_glass:4, 高透過ガラス
+enderio:block_not_unholy_fused_glass:5, 高透過ガラス
+enderio:block_not_unholy_fused_glass:6, 高透過ガラス
+enderio:block_not_unholy_fused_glass:7, 高透過ガラス
+enderio:block_not_unholy_fused_glass:8, 高透過ガラス
+enderio:block_not_unholy_fused_glass:9, 高透過ガラス
+enderio:block_not_unholy_fused_glass:10, 高透過ガラス
+enderio:block_not_unholy_fused_glass:11, 高透過ガラス
+enderio:block_not_unholy_fused_glass:12, 高透過ガラス
+enderio:block_not_unholy_fused_glass:13, 高透過ガラス
+enderio:block_not_unholy_fused_glass:14, 高透過ガラス
+enderio:block_not_unholy_fused_glass:15, 高透過ガラス
+enderio:block_not_unholy_enlightened_fused_quartz:0, 発光クォーツガラス
+enderio:block_not_unholy_enlightened_fused_quartz:1, 発光クォーツガラス
+enderio:block_not_unholy_enlightened_fused_quartz:2, 発光クォーツガラス
+enderio:block_not_unholy_enlightened_fused_quartz:3, 発光クォーツガラス
+enderio:block_not_unholy_enlightened_fused_quartz:4, 発光クォーツガラス
+enderio:block_not_unholy_enlightened_fused_quartz:5, 発光クォーツガラス
+enderio:block_not_unholy_enlightened_fused_quartz:6, 発光クォーツガラス
+enderio:block_not_unholy_enlightened_fused_quartz:7, 発光クォーツガラス
+enderio:block_not_unholy_enlightened_fused_quartz:8, 発光クォーツガラス
+enderio:block_not_unholy_enlightened_fused_quartz:9, 発光クォーツガラス
+enderio:block_not_unholy_enlightened_fused_quartz:10, 発光クォーツガラス
+enderio:block_not_unholy_enlightened_fused_quartz:11, 発光クォーツガラス
+enderio:block_not_unholy_enlightened_fused_quartz:12, 発光クォーツガラス
+enderio:block_not_unholy_enlightened_fused_quartz:13, 発光クォーツガラス
+enderio:block_not_unholy_enlightened_fused_quartz:14, 発光クォーツガラス
+enderio:block_not_unholy_enlightened_fused_quartz:15, 発光クォーツガラス
+enderio:block_not_unholy_enlightened_fused_glass:0, 発光高透過ガラス
+enderio:block_not_unholy_enlightened_fused_glass:1, 発光高透過ガラス
+enderio:block_not_unholy_enlightened_fused_glass:2, 発光高透過ガラス
+enderio:block_not_unholy_enlightened_fused_glass:3, 発光高透過ガラス
+enderio:block_not_unholy_enlightened_fused_glass:4, 発光高透過ガラス
+enderio:block_not_unholy_enlightened_fused_glass:5, 発光高透過ガラス
+enderio:block_not_unholy_enlightened_fused_glass:6, 発光高透過ガラス
+enderio:block_not_unholy_enlightened_fused_glass:7, 発光高透過ガラス
+enderio:block_not_unholy_enlightened_fused_glass:8, 発光高透過ガラス
+enderio:block_not_unholy_enlightened_fused_glass:9, 発光高透過ガラス
+enderio:block_not_unholy_enlightened_fused_glass:10, 発光高透過ガラス
+enderio:block_not_unholy_enlightened_fused_glass:11, 発光高透過ガラス
+enderio:block_not_unholy_enlightened_fused_glass:12, 発光高透過ガラス
+enderio:block_not_unholy_enlightened_fused_glass:13, 発光高透過ガラス
+enderio:block_not_unholy_enlightened_fused_glass:14, 発光高透過ガラス
+enderio:block_not_unholy_enlightened_fused_glass:15, 発光高透過ガラス
+enderio:block_not_unholy_dark_fused_quartz:0, 遮光クォーツガラス
+enderio:block_not_unholy_dark_fused_quartz:1, 遮光クォーツガラス
+enderio:block_not_unholy_dark_fused_quartz:2, 遮光クォーツガラス
+enderio:block_not_unholy_dark_fused_quartz:3, 遮光クォーツガラス
+enderio:block_not_unholy_dark_fused_quartz:4, 遮光クォーツガラス
+enderio:block_not_unholy_dark_fused_quartz:5, 遮光クォーツガラス
+enderio:block_not_unholy_dark_fused_quartz:6, 遮光クォーツガラス
+enderio:block_not_unholy_dark_fused_quartz:7, 遮光クォーツガラス
+enderio:block_not_unholy_dark_fused_quartz:8, 遮光クォーツガラス
+enderio:block_not_unholy_dark_fused_quartz:9, 遮光クォーツガラス
+enderio:block_not_unholy_dark_fused_quartz:10, 遮光クォーツガラス
+enderio:block_not_unholy_dark_fused_quartz:11, 遮光クォーツガラス
+enderio:block_not_unholy_dark_fused_quartz:12, 遮光クォーツガラス
+enderio:block_not_unholy_dark_fused_quartz:13, 遮光クォーツガラス
+enderio:block_not_unholy_dark_fused_quartz:14, 遮光クォーツガラス
+enderio:block_not_unholy_dark_fused_quartz:15, 遮光クォーツガラス
+enderio:block_not_unholy_dark_fused_glass:0, 遮光高透過ガラス
+enderio:block_not_unholy_dark_fused_glass:1, 遮光高透過ガラス
+enderio:block_not_unholy_dark_fused_glass:2, 遮光高透過ガラス
+enderio:block_not_unholy_dark_fused_glass:3, 遮光高透過ガラス
+enderio:block_not_unholy_dark_fused_glass:4, 遮光高透過ガラス
+enderio:block_not_unholy_dark_fused_glass:5, 遮光高透過ガラス
+enderio:block_not_unholy_dark_fused_glass:6, 遮光高透過ガラス
+enderio:block_not_unholy_dark_fused_glass:7, 遮光高透過ガラス
+enderio:block_not_unholy_dark_fused_glass:8, 遮光高透過ガラス
+enderio:block_not_unholy_dark_fused_glass:9, 遮光高透過ガラス
+enderio:block_not_unholy_dark_fused_glass:10, 遮光高透過ガラス
+enderio:block_not_unholy_dark_fused_glass:11, 遮光高透過ガラス
+enderio:block_not_unholy_dark_fused_glass:12, 遮光高透過ガラス
+enderio:block_not_unholy_dark_fused_glass:13, 遮光高透過ガラス
+enderio:block_not_unholy_dark_fused_glass:14, 遮光高透過ガラス
+enderio:block_not_unholy_dark_fused_glass:15, 遮光高透過ガラス
+enderio:block_not_pasture_fused_quartz:0, クォーツガラス
+enderio:block_not_pasture_fused_quartz:1, クォーツガラス
+enderio:block_not_pasture_fused_quartz:2, クォーツガラス
+enderio:block_not_pasture_fused_quartz:3, クォーツガラス
+enderio:block_not_pasture_fused_quartz:4, クォーツガラス
+enderio:block_not_pasture_fused_quartz:5, クォーツガラス
+enderio:block_not_pasture_fused_quartz:6, クォーツガラス
+enderio:block_not_pasture_fused_quartz:7, クォーツガラス
+enderio:block_not_pasture_fused_quartz:8, クォーツガラス
+enderio:block_not_pasture_fused_quartz:9, クォーツガラス
+enderio:block_not_pasture_fused_quartz:10, クォーツガラス
+enderio:block_not_pasture_fused_quartz:11, クォーツガラス
+enderio:block_not_pasture_fused_quartz:12, クォーツガラス
+enderio:block_not_pasture_fused_quartz:13, クォーツガラス
+enderio:block_not_pasture_fused_quartz:14, クォーツガラス
+enderio:block_not_pasture_fused_quartz:15, クォーツガラス
+enderio:block_not_pasture_fused_glass:0, 高透過ガラス
+enderio:block_not_pasture_fused_glass:1, 高透過ガラス
+enderio:block_not_pasture_fused_glass:2, 高透過ガラス
+enderio:block_not_pasture_fused_glass:3, 高透過ガラス
+enderio:block_not_pasture_fused_glass:4, 高透過ガラス
+enderio:block_not_pasture_fused_glass:5, 高透過ガラス
+enderio:block_not_pasture_fused_glass:6, 高透過ガラス
+enderio:block_not_pasture_fused_glass:7, 高透過ガラス
+enderio:block_not_pasture_fused_glass:8, 高透過ガラス
+enderio:block_not_pasture_fused_glass:9, 高透過ガラス
+enderio:block_not_pasture_fused_glass:10, 高透過ガラス
+enderio:block_not_pasture_fused_glass:11, 高透過ガラス
+enderio:block_not_pasture_fused_glass:12, 高透過ガラス
+enderio:block_not_pasture_fused_glass:13, 高透過ガラス
+enderio:block_not_pasture_fused_glass:14, 高透過ガラス
+enderio:block_not_pasture_fused_glass:15, 高透過ガラス
+enderio:block_not_pasture_enlightened_fused_quartz:0, 発光クォーツガラス
+enderio:block_not_pasture_enlightened_fused_quartz:1, 発光クォーツガラス
+enderio:block_not_pasture_enlightened_fused_quartz:2, 発光クォーツガラス
+enderio:block_not_pasture_enlightened_fused_quartz:3, 発光クォーツガラス
+enderio:block_not_pasture_enlightened_fused_quartz:4, 発光クォーツガラス
+enderio:block_not_pasture_enlightened_fused_quartz:5, 発光クォーツガラス
+enderio:block_not_pasture_enlightened_fused_quartz:6, 発光クォーツガラス
+enderio:block_not_pasture_enlightened_fused_quartz:7, 発光クォーツガラス
+enderio:block_not_pasture_enlightened_fused_quartz:8, 発光クォーツガラス
+enderio:block_not_pasture_enlightened_fused_quartz:9, 発光クォーツガラス
+enderio:block_not_pasture_enlightened_fused_quartz:10, 発光クォーツガラス
+enderio:block_not_pasture_enlightened_fused_quartz:11, 発光クォーツガラス
+enderio:block_not_pasture_enlightened_fused_quartz:12, 発光クォーツガラス
+enderio:block_not_pasture_enlightened_fused_quartz:13, 発光クォーツガラス
+enderio:block_not_pasture_enlightened_fused_quartz:14, 発光クォーツガラス
+enderio:block_not_pasture_enlightened_fused_quartz:15, 発光クォーツガラス
+enderio:block_not_pasture_enlightened_fused_glass:0, 発光高透過ガラス
+enderio:block_not_pasture_enlightened_fused_glass:1, 発光高透過ガラス
+enderio:block_not_pasture_enlightened_fused_glass:2, 発光高透過ガラス
+enderio:block_not_pasture_enlightened_fused_glass:3, 発光高透過ガラス
+enderio:block_not_pasture_enlightened_fused_glass:4, 発光高透過ガラス
+enderio:block_not_pasture_enlightened_fused_glass:5, 発光高透過ガラス
+enderio:block_not_pasture_enlightened_fused_glass:6, 発光高透過ガラス
+enderio:block_not_pasture_enlightened_fused_glass:7, 発光高透過ガラス
+enderio:block_not_pasture_enlightened_fused_glass:8, 発光高透過ガラス
+enderio:block_not_pasture_enlightened_fused_glass:9, 発光高透過ガラス
+enderio:block_not_pasture_enlightened_fused_glass:10, 発光高透過ガラス
+enderio:block_not_pasture_enlightened_fused_glass:11, 発光高透過ガラス
+enderio:block_not_pasture_enlightened_fused_glass:12, 発光高透過ガラス
+enderio:block_not_pasture_enlightened_fused_glass:13, 発光高透過ガラス
+enderio:block_not_pasture_enlightened_fused_glass:14, 発光高透過ガラス
+enderio:block_not_pasture_enlightened_fused_glass:15, 発光高透過ガラス
+enderio:block_not_pasture_dark_fused_quartz:0, 遮光クォーツガラス
+enderio:block_not_pasture_dark_fused_quartz:1, 遮光クォーツガラス
+enderio:block_not_pasture_dark_fused_quartz:2, 遮光クォーツガラス
+enderio:block_not_pasture_dark_fused_quartz:3, 遮光クォーツガラス
+enderio:block_not_pasture_dark_fused_quartz:4, 遮光クォーツガラス
+enderio:block_not_pasture_dark_fused_quartz:5, 遮光クォーツガラス
+enderio:block_not_pasture_dark_fused_quartz:6, 遮光クォーツガラス
+enderio:block_not_pasture_dark_fused_quartz:7, 遮光クォーツガラス
+enderio:block_not_pasture_dark_fused_quartz:8, 遮光クォーツガラス
+enderio:block_not_pasture_dark_fused_quartz:9, 遮光クォーツガラス
+enderio:block_not_pasture_dark_fused_quartz:10, 遮光クォーツガラス
+enderio:block_not_pasture_dark_fused_quartz:11, 遮光クォーツガラス
+enderio:block_not_pasture_dark_fused_quartz:12, 遮光クォーツガラス
+enderio:block_not_pasture_dark_fused_quartz:13, 遮光クォーツガラス
+enderio:block_not_pasture_dark_fused_quartz:14, 遮光クォーツガラス
+enderio:block_not_pasture_dark_fused_quartz:15, 遮光クォーツガラス
+enderio:block_not_pasture_dark_fused_glass:0, 遮光高透過ガラス
+enderio:block_not_pasture_dark_fused_glass:1, 遮光高透過ガラス
+enderio:block_not_pasture_dark_fused_glass:2, 遮光高透過ガラス
+enderio:block_not_pasture_dark_fused_glass:3, 遮光高透過ガラス
+enderio:block_not_pasture_dark_fused_glass:4, 遮光高透過ガラス
+enderio:block_not_pasture_dark_fused_glass:5, 遮光高透過ガラス
+enderio:block_not_pasture_dark_fused_glass:6, 遮光高透過ガラス
+enderio:block_not_pasture_dark_fused_glass:7, 遮光高透過ガラス
+enderio:block_not_pasture_dark_fused_glass:8, 遮光高透過ガラス
+enderio:block_not_pasture_dark_fused_glass:9, 遮光高透過ガラス
+enderio:block_not_pasture_dark_fused_glass:10, 遮光高透過ガラス
+enderio:block_not_pasture_dark_fused_glass:11, 遮光高透過ガラス
+enderio:block_not_pasture_dark_fused_glass:12, 遮光高透過ガラス
+enderio:block_not_pasture_dark_fused_glass:13, 遮光高透過ガラス
+enderio:block_not_pasture_dark_fused_glass:14, 遮光高透過ガラス
+enderio:block_not_pasture_dark_fused_glass:15, 遮光高透過ガラス
+enderio:item_soul_vial, 魂の小瓶
+enderio:block_detector_block:0, ブロック検出器
+enderio:block_detector_block_silent:0, ブロック検出器（無音）
+enderio:item_dark_steel_helmet, ダークスチールのヘルメット
+enderio:item_dark_steel_chestplate, ダークスチールのチェストプレート
+enderio:item_dark_steel_leggings, ダークスチールのレギンス
+enderio:item_dark_steel_boots, ダークスチールのブーツ
+enderio:item_dark_steel_shield, ダークスチールの盾
+enderio:item_dark_steel_sword, ジ・エンダー
+enderio:item_dark_steel_pickaxe, ダークスチールのツルハシ
+enderio:item_dark_steel_axe, ダークスチールの斧
+enderio:item_dark_steel_bow, ダークスチールの弓
+enderio:item_dark_steel_shears, ダークスチールのハサミ
+enderio:item_dark_steel_treetap, ダークスチールのツリータップ
+enderio:item_dark_steel_crook, ダークスチールの収穫鎌
+enderio:item_dark_steel_hand, ダークスチールのバックホー
+enderio:item_inventory_charger_simple, 簡易型アイテム充電器
+enderio:item_inventory_charger_basic, 初期型アイテム充電器
+enderio:item_inventory_charger, アイテム充電器
+enderio:item_inventory_charger_vibrant, ヴァイブラントアイテム充電器
+enderio:item_end_steel_sword, ジ・エンダー Mk2
+enderio:item_end_steel_pickaxe, エンドスチールのツルハシ
+enderio:item_end_steel_axe, エンドスチールの斧
+enderio:item_end_steel_bow, エンドスチールの弓
+enderio:item_end_steel_helmet, エンドスチールのヘルメット
+enderio:item_end_steel_chestplate, エンドスチールのチェストプレート
+enderio:item_end_steel_leggings, エンドスチールのレギンス
+enderio:item_end_steel_boots, エンドスチールのブーツ
+enderio:item_end_steel_shield, エンドスチールの盾
+enderio:item_staff_of_levity:0, レビティスタッフ
+enderio:item_staff_of_levity:0, レビティスタッフ
+enderio:item_dark_steel_upgrade:0, ダークスチールアップグレードの型
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（簡易金床）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（簡易金床）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（小型金床）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（小型金床）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（携帯金床）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（携帯金床）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（平坦化）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（平坦化）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（深化）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（深化）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（直送）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（直送）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（エリトラ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（エリトラ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（エンパワー Ⅰ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（エンパワー Ⅰ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（エンパワー Ⅱ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（エンパワー Ⅱ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（エンパワー Ⅲ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（エンパワー Ⅲ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（エンパワー Ⅳ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（エンパワー Ⅳ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（エンパワー Ⅴ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（エンパワー Ⅴ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（グライダー）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（グライダー）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（フォーク）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（フォーク）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（収納 Ⅰ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（収納 Ⅰ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（収納 Ⅱ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（収納 Ⅱ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（収納 Ⅲ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（収納 Ⅲ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（跳躍）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（跳躍）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（跳躍 Ⅱ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（跳躍 Ⅱ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（跳躍 Ⅲ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（跳躍 Ⅲ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（暗視）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（暗視）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（耳あて）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（耳あて）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（簡易ソーラー）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（簡易ソーラー）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（ソーラー）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（ソーラー）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（ソーラー Ⅱ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（ソーラー Ⅱ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（ソーラー Ⅲ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（ソーラー Ⅲ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（音響探知）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（音響探知）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（俊足）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（俊足）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（俊足 Ⅱ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（俊足 Ⅱ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（俊足 Ⅲ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（俊足 Ⅲ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（スプーン）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（スプーン）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（ステップアシスト）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（ステップアシスト）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（フィン）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（フィン）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（爆破 Ⅰ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（爆破 Ⅰ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（爆破 Ⅱ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（爆破 Ⅱ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（爆破 Ⅲ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（爆破 Ⅲ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（爆破 Ⅳ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（爆破 Ⅳ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（爆破 Ⅴ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（爆破 Ⅴ）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（トラベル）
+enderio:item_dark_steel_upgrade:1, ダークスチールアップグレード（トラベル）
+enderio:item_owl_egg, フクロウの卵
+enderio:block_alloy_endergy:0, 粗鋼ブロック
+enderio:block_alloy_endergy:1, 結晶性合金ブロック
+enderio:block_alloy_endergy:2, メロディック合金ブロック
+enderio:block_alloy_endergy:3, ステラ合金ブロック
+enderio:block_alloy_endergy:4, 結晶性ピンクスライムブロック
+enderio:block_alloy_endergy:5, エナジェティックシルバーブロック
+enderio:block_alloy_endergy:6, ビビッド合金ブロック
+enderio:item_alloy_endergy_ingot:0, 粗鋼インゴット
+enderio:item_alloy_endergy_ingot:1, 結晶性合金インゴット
+enderio:item_alloy_endergy_ingot:2, メロディック合金インゴット
+enderio:item_alloy_endergy_ingot:3, ステラ合金インゴット
+enderio:item_alloy_endergy_ingot:4, 結晶性ピンクスライムインゴット
+enderio:item_alloy_endergy_ingot:5, エナジェティックシルバーインゴット
+enderio:item_alloy_endergy_ingot:6, ビビッド合金インゴット
+enderio:item_alloy_endergy_nugget:0, 粗鋼の塊
+enderio:item_alloy_endergy_nugget:1, 結晶性合金の塊
+enderio:item_alloy_endergy_nugget:2, メロディック合金の塊
+enderio:item_alloy_endergy_nugget:3, ステラ合金の塊
+enderio:item_alloy_endergy_nugget:4, 結晶性ピンクスライムの塊
+enderio:item_alloy_endergy_nugget:5, エナジェティックシルバーの塊
+enderio:item_alloy_endergy_nugget:6, ビビッド合金の塊
+enderio:item_alloy_endergy_ball:0, 粗鋼の粉砕用ボール
+enderio:item_alloy_endergy_ball:1, 結晶性合金の粉砕用ボール
+enderio:item_alloy_endergy_ball:2, メロディック合金の粉砕用ボール
+enderio:item_alloy_endergy_ball:3, ステラ合金の粉砕用ボール
+enderio:item_alloy_endergy_ball:4, 結晶性ピンクスライムの粉砕用ボール
+enderio:item_alloy_endergy_ball:5, エナジェティックシルバーの粉砕用ボール
+enderio:item_alloy_endergy_ball:6, ビビッド合金の粉砕用ボール
+enderio:item_item_conduit:0, アイテム導管
+enderio:item_liquid_conduit:0, 液体導管
+enderio:item_liquid_conduit:1, 加圧式液体導管
+enderio:item_liquid_conduit:2, エンダー液体導管
+enderio:item_power_conduit:0, エネルギー導管
+enderio:item_power_conduit:1, 強化エネルギー導管
+enderio:item_power_conduit:2, エンダーエネルギー導管
+enderio:item_redstone_conduit:0, レッドストーン導管
+enderio:item_extract_speed_upgrade:0, 搬出速度アップグレード
+enderio:item_extract_speed_downgrade:0, 搬出速度ダウングレード
+enderio:item_me_conduit:0, ME 導管
+enderio:item_me_conduit:1, ME 高密度導管
+enderio:block_simple_furnace, 簡易型電気かまど
+enderio:block_simple_alloy_smelter, 簡易型合金精錬機
+enderio:block_alloy_smelter, 合金精錬機
+enderio:block_enhanced_alloy_smelter, 改良型合金精錬機
+enderio:block_buffer:0, アイテムバッファ
+enderio:block_buffer:1, 電力バッファ
+enderio:block_buffer:2, 総合バッファ
+enderio:block_buffer:3, クリエイティブ専用バッファ
+enderio:block_enchanter, エンチャント装置
+enderio:block_farm_station, 農業装置
+enderio:block_combustion_generator, 燃焼発電機
+enderio:block_enhanced_combustion_generator, 改良型燃焼発電機
+enderio:block_simple_stirling_generator, 簡易型スターリング発電機
+enderio:block_stirling_generator, スターリング発電機
+enderio:block_zombie_generator, ゾンビ発電機
+enderio:block_franken_zombie_generator, フランケンゾンビ発電機
+enderio:block_ender_generator, エンダー発電機
+enderio:block_lava_generator, 溶岩熱交換器
+enderio:block_killer_joe, キラージョー
+enderio:block_electric_light:0, 電気ライト
+enderio:block_electric_light:1, 電気ライト（反転）
+enderio:block_electric_light:2, ライト
+enderio:block_electric_light:3, ライト（反転）
+enderio:block_electric_light:4, 無線ライト
+enderio:block_electric_light:5, 無線ライト（反転）
+enderio:block_attractor_obelisk, 魅惑のオベリスク
+enderio:block_aversion_obelisk, 憎悪のオベリスク
+enderio:block_inhibitor_obelisk, 抑制のオベリスク
+enderio:block_relocator_obelisk, 転送のオベリスク
+enderio:block_weather_obelisk, 天候のオベリスク
+enderio:block_experience_obelisk, 経験のオベリスク
+enderio:block_painter, 塗装機
+enderio:block_reservoir, エンダーバータンク
+enderio:block_omni_reservoir, オムニバータンク
+enderio:block_simple_sag_mill, 簡易型準自生粉砕機
+enderio:block_sag_mill, 準自生粉砕機
+enderio:block_enhanced_sag_mill, 改良型準自生粉砕機
+enderio:block_slice_and_splice, スライスンスプライス
+enderio:block_solar_panel:0, 簡易型太陽電池
+enderio:block_solar_panel:1, 太陽電池
+enderio:block_solar_panel:2, 改良型太陽電池
+enderio:block_solar_panel:3, ヴァイブラント太陽電池
+enderio:block_soul_binder, ソウルバインダー
+enderio:block_powered_spawner, 電動スポナー
+enderio:block_vat, 醸造装置
+enderio:block_enhanced_vat, 改良型醸造装置
+enderio:block_simple_wired_charger, 簡易型有線充電装置
+enderio:block_wired_charger, 有線充電装置
+enderio:block_enhanced_wired_charger, 改良型有線充電装置
+enderio:block_wireless_charger, 無線充電装置
+enderio:block_normal_wireless_charger, 無線充電アンテナ
+enderio:block_enhanced_wireless_charger, 無線充電強化アンテナ
+enderio:block_wireless_charger_extension, 指向性無線充電アンテナ
+enderio:block_tank:0, 液体タンク
+enderio:block_tank:1, 加圧式液体タンク
+enderio:block_transceiver, ディメンショナルトランシーバー
+enderio:block_vacuum_chest, バキュームチェスト
+enderio:block_xp_vacuum, 経験値バキューム装置
+enderio:block_niard, 排水装置
+enderio:block_travel_anchor, トラベルアンカー
+enderio:block_tele_pad, テレパッドブロック
+enderio:block_dialing_device, ダイヤル装置
+enderio:block_impulse_hopper, インパルスホッパー
+enderio:block_simple_crafter, 簡易型クラフト装置
+enderio:block_crafter, クラフト装置
+enderio:block_creative_spawner, クリエイティブ専用スポナー
+enderio:block_cap_bank:0, クリエイティブ専用蓄電装置
+enderio:block_cap_bank:1, 簡易蓄電装置
+enderio:block_cap_bank:1, 簡易蓄電装置
+enderio:block_cap_bank:2, 蓄電装置
+enderio:block_cap_bank:2, 蓄電装置
+enderio:block_cap_bank:3, ヴァイブラント蓄電装置
+enderio:block_cap_bank:3, ヴァイブラント蓄電装置
+enderio:block_gauge, エネルギーゲージ
+enderio:block_power_monitor, 電力モニター
+enderio:block_advanced_power_monitor, グラフィカル電力モニター
+mekanism:electricbow, エレクトリックボウ
+mekanism:dust:0, 鉄の粉
+mekanism:dust:1, 金の粉
+mekanism:dust:2, オスミウムの粉
+mekanism:dust:3, 銅の粉
+mekanism:dust:4, 錫の粉
+mekanism:dust:5, 銀の粉
+mekanism:dust:6, 鉛の粉
+mekanism:ingot:0, 精製黒曜石インゴット
+mekanism:ingot:1, オスミウムインゴット
+mekanism:ingot:2, 青銅インゴット
+mekanism:ingot:3, グロウストーンインゴット
+mekanism:ingot:4, 鋼鉄インゴット
+mekanism:ingot:5, 銅インゴット
+mekanism:ingot:6, 錫インゴット
+mekanism:nugget:0, 精製黒曜石ナゲット
+mekanism:nugget:1, オスミウムナゲット
+mekanism:nugget:2, 青銅ナゲット
+mekanism:nugget:3, グロウストーンナゲット
+mekanism:nugget:4, 鋼鉄ナゲット
+mekanism:nugget:5, 銅ナゲット
+mekanism:nugget:6, 錫ナゲット
+mekanism:energytablet, エネルギータブレット
+mekanism:speedupgrade, スピードアップグレード
+mekanism:energyupgrade, エネルギーアップグレード
+mekanism:filterupgrade, フィルターアップグレード
+mekanism:mufflingupgrade, 消音アップグレード
+mekanism:gasupgrade, ガスアップグレード
+mekanism:anchorupgrade, アンカーアップグレード
+mekanism:robit, ロビット
+mekanism:atomicdisassembler, アトミックディスアセンブラー
+mekanism:enrichedalloy, 濃縮合金
+mekanism:reinforcedalloy, 強化合金
+mekanism:atomicalloy, 原子合金
+mekanism:itemproxy, item.ItemProxy.name
+mekanism:controlcircuit:0, 基本制御回路
+mekanism:controlcircuit:1, 発展制御回路
+mekanism:controlcircuit:2, 精鋭制御回路
+mekanism:controlcircuit:3, 究極制御回路
+mekanism:enrichediron, 濃縮鉄
+mekanism:compressedcarbon, 圧縮炭素
+mekanism:compressedredstone, 圧縮レッドストーン
+mekanism:compresseddiamond, 圧縮ダイヤモンド
+mekanism:compressedobsidian, 圧縮黒曜石
+mekanism:portableteleporter, ポータブルテレポーター
+mekanism:teleportationcore, テレポーテーションコア
+mekanism:clump:0, 鉄の塊
+mekanism:clump:1, 金の塊
+mekanism:clump:2, オスミウムの塊
+mekanism:clump:3, 銅の塊
+mekanism:clump:4, 錫の塊
+mekanism:clump:5, 銀の塊
+mekanism:clump:6, 鉛の塊
+mekanism:dirtydust:0, 汚れた鉄の粉
+mekanism:dirtydust:1, 汚れた金の粉
+mekanism:dirtydust:2, 汚れたオスミウムの粉
+mekanism:dirtydust:3, 汚れた銅の粉
+mekanism:dirtydust:4, 汚れた錫の粉
+mekanism:dirtydust:5, 汚れた銀の粉
+mekanism:dirtydust:6, 汚れた鉛の粉
+mekanism:configurator, コンフィギュレーター
+mekanism:networkreader, ネットワークリーダー
+mekanism:walkietalkie, トランシーバー
+mekanism:jetpack, ジェットパック
+mekanism:dictionary, 鉱石辞書
+mekanism:gasmask, ガスマスク
+mekanism:scubatank, 潜水タンク
+mekanism:balloon:0, §8黒色 風船
+mekanism:balloon:1, §c赤色 風船
+mekanism:balloon:2, §2緑色 風船
+mekanism:balloon:3, §6茶色 風船
+mekanism:balloon:4, §1青色 風船
+mekanism:balloon:5, §5紫色 風船
+mekanism:balloon:6, §3水色 風船
+mekanism:balloon:7, §7薄灰色 風船
+mekanism:balloon:8, §8灰色 風船
+mekanism:balloon:9, §d桃色 風船
+mekanism:balloon:10, §a黄緑色 風船
+mekanism:balloon:11, §e黄色 風船
+mekanism:balloon:12, §9空色 風船
+mekanism:balloon:13, §d赤紫色 風船
+mekanism:balloon:14, §6橙色 風船
+mekanism:balloon:15, §f白色 風船
+mekanism:shard:0, 鉄の欠片
+mekanism:shard:1, 金の欠片
+mekanism:shard:2, オスミウムの欠片
+mekanism:shard:3, 銅の欠片
+mekanism:shard:4, 錫の欠片
+mekanism:shard:5, 銀の欠片
+mekanism:shard:6, 鉛の欠片
+mekanism:electrolyticcore, 電解コア
+mekanism:sawdust, おがくず
+mekanism:salt, 塩
+mekanism:crystal:0, 鉄の結晶
+mekanism:crystal:1, 金の結晶
+mekanism:crystal:2, オスミウムの結晶
+mekanism:crystal:3, 銅の結晶
+mekanism:crystal:4, 錫の結晶
+mekanism:crystal:5, 銀の結晶
+mekanism:crystal:6, 鉛の結晶
+mekanism:freerunners, フリーランナー
+mekanism:armoredjetpack, アーマードジェットパック
+mekanism:configurationcard, 設定カード
+mekanism:craftingformula, クラフトレシピ
+mekanism:seismicreader, 弾性波解析器
+mekanism:substrate, 基質
+mekanism:polyethene:0, 高密度ポリエチレンのペレット
+mekanism:polyethene:1, 高密度ポリエチレンの棒
+mekanism:polyethene:2, 高密度ポリエチレンのシート
+mekanism:polyethene:3, プラスチック
+mekanism:biofuel, バイオ燃料
+mekanism:flamethrower, 火炎放射器
+mekanism:gaugedropper, 計量スポイト
+mekanism:tierinstaller:0, 基本ランクインストーラー
+mekanism:tierinstaller:1, 発展ランクインストーラー
+mekanism:tierinstaller:2, 精鋭ランクインストーラー
+mekanism:tierinstaller:3, 究極ランクインストーラー
+mekanism:otherdust:0, ダイヤモンドの粉
+mekanism:otherdust:1, 鋼鉄の粉
+mekanism:otherdust:3, 硫黄の粉
+mekanism:otherdust:4, リチウムの粉
+mekanism:otherdust:5, 精製黒曜石の粉
+mekanism:otherdust:6, 黒曜石の粉
+mekanism:basicblock:0, オスミウムブロック
+mekanism:basicblock:1, 青銅ブロック
+mekanism:basicblock:2, 精製黒曜石
+mekanism:basicblock:3, 木炭ブロック
+mekanism:basicblock:4, 精製グロウストーン
+mekanism:basicblock:5, 鋼鉄ブロック
+mekanism:basicblock:6, 基本ビン
+mekanism:basicblock:6, 発展ビン
+mekanism:basicblock:6, 精鋭ビン
+mekanism:basicblock:6, 究極ビン
+mekanism:basicblock:6, クリエイティブビン
+mekanism:basicblock:7, テレポーターフレーム
+mekanism:basicblock:8, 鋼鉄ケース
+mekanism:basicblock:9, ダイナミックタンク
+mekanism:basicblock:10, 構造用ガラス
+mekanism:basicblock:11, ダイナミックバルブ
+mekanism:basicblock:12, 銅ブロック
+mekanism:basicblock:13, 錫ブロック
+mekanism:basicblock:14, 加温蒸発濃縮コントローラー
+mekanism:basicblock:15, 加温蒸発濃縮バルブ
+mekanism:basicblock2:0, 加温蒸発濃縮ブロック
+mekanism:basicblock2:1, インダクションケース
+mekanism:basicblock2:2, インダクションポート
+mekanism:basicblock2:3, 基本インダクションセル
+mekanism:basicblock2:3, 発展インダクションセル
+mekanism:basicblock2:3, 精鋭インダクションセル
+mekanism:basicblock2:3, 究極インダクションセル
+mekanism:basicblock2:4, 基本インダクションプロバイダー
+mekanism:basicblock2:4, 発展インダクションプロバイダー
+mekanism:basicblock2:4, 精鋭インダクションプロバイダー
+mekanism:basicblock2:4, 究極インダクションプロバイダー
+mekanism:basicblock2:5, 発熱ブロック
+mekanism:basicblock2:6, 減圧ブロック
+mekanism:basicblock2:7, ボイラーケース
+mekanism:basicblock2:8, ボイラーバルブ
+mekanism:basicblock2:9, セキュリティーデスク
+mekanism:machineblock:0, 品質向上チャンバー
+mekanism:machineblock:1, オスミウム圧縮機
+mekanism:machineblock:2, 結合機
+mekanism:machineblock:3, 粉砕機
+mekanism:machineblock:4, デジタルマイナー
+mekanism:machineblock:5, 基本 製錬 ファクトリー
+mekanism:machineblock:5, 基本 品質向上 ファクトリー
+mekanism:machineblock:5, 基本 粉砕 ファクトリー
+mekanism:machineblock:5, 基本 オスミウム圧縮 ファクトリー
+mekanism:machineblock:5, 基本 結合 ファクトリー
+mekanism:machineblock:5, 基本 浄化 ファクトリー
+mekanism:machineblock:5, 基本 薬液注入 ファクトリー
+mekanism:machineblock:5, 基本 冶金注入 ファクトリー
+mekanism:machineblock:5, 基本 製材 ファクトリー
+mekanism:machineblock:6, 発展 製錬 ファクトリー
+mekanism:machineblock:6, 発展 品質向上 ファクトリー
+mekanism:machineblock:6, 発展 粉砕 ファクトリー
+mekanism:machineblock:6, 発展 オスミウム圧縮 ファクトリー
+mekanism:machineblock:6, 発展 結合 ファクトリー
+mekanism:machineblock:6, 発展 浄化 ファクトリー
+mekanism:machineblock:6, 発展 薬液注入 ファクトリー
+mekanism:machineblock:6, 発展 冶金注入 ファクトリー
+mekanism:machineblock:6, 発展 製材 ファクトリー
+mekanism:machineblock:7, 精鋭 製錬 ファクトリー
+mekanism:machineblock:7, 精鋭 品質向上 ファクトリー
+mekanism:machineblock:7, 精鋭 粉砕 ファクトリー
+mekanism:machineblock:7, 精鋭 オスミウム圧縮 ファクトリー
+mekanism:machineblock:7, 精鋭 結合 ファクトリー
+mekanism:machineblock:7, 精鋭 浄化 ファクトリー
+mekanism:machineblock:7, 精鋭 薬液注入 ファクトリー
+mekanism:machineblock:7, 精鋭 冶金注入 ファクトリー
+mekanism:machineblock:7, 精鋭 製材 ファクトリー
+mekanism:machineblock:8, 冶金注入機
+mekanism:machineblock:9, 浄化チャンバー
+mekanism:machineblock:10, 電動製錬炉
+mekanism:machineblock:11, テレポーター
+mekanism:machineblock:12, 電動ポンプ
+mekanism:machineblock:13, パーソナルチェスト
+mekanism:machineblock:14, 充電パッド
+mekanism:machineblock:15, 物流ソーター
+mekanism:machineblock2:0, 回転式流体凝縮器
+mekanism:machineblock2:1, 化学酸化機
+mekanism:machineblock2:2, 化学混成機
+mekanism:machineblock2:3, 化学注入室
+mekanism:machineblock2:4, 電解分離機
+mekanism:machineblock2:5, 精密製材機
+mekanism:machineblock2:6, 化学溶解機
+mekanism:machineblock2:7, 化学洗浄機
+mekanism:machineblock2:8, 化学結晶化装置
+mekanism:machineblock2:9, 弾性波発振装置
+mekanism:machineblock2:10, 加圧反応室
+mekanism:machineblock2:11, 基本液体タンク
+mekanism:machineblock2:11, 発展液体タンク
+mekanism:machineblock2:11, 精鋭液体タンク
+mekanism:machineblock2:11, 究極液体タンク
+mekanism:machineblock2:11, クリエイティブ液体タンク
+mekanism:machineblock2:12, 流体再供給機
+mekanism:machineblock2:13, レーザー
+mekanism:machineblock2:14, レーザー増幅器
+mekanism:machineblock2:15, レーザートラクタービーム
+mekanism:machineblock3:0, 量子もつれ転送機
+mekanism:machineblock3:1, 太陽中性子反応機
+mekanism:machineblock3:3, 鉱石統合器
+mekanism:machineblock3:4, 抵抗型発熱器
+mekanism:machineblock3:5, 組立機
+mekanism:machineblock3:6, 薪木ストーブ
+mekanism:oreblock:0, オスミウム鉱石
+mekanism:oreblock:1, 銅鉱石
+mekanism:oreblock:2, 錫鉱石
+mekanism:energycube:0, 基本エネルギーキューブ
+mekanism:energycube:0, 基本エネルギーキューブ
+mekanism:energycube:0, 発展エネルギーキューブ
+mekanism:energycube:0, 発展エネルギーキューブ
+mekanism:energycube:0, 精鋭エネルギーキューブ
+mekanism:energycube:0, 精鋭エネルギーキューブ
+mekanism:energycube:0, 究極エネルギーキューブ
+mekanism:energycube:0, 究極エネルギーキューブ
+mekanism:energycube:0, クリエイティブエネルギーキューブ
+mekanism:energycube:0, クリエイティブエネルギーキューブ
+mekanism:transmitter:0, 基本ユニバーサルケーブル
+mekanism:transmitter:0, 発展ユニバーサルケーブル
+mekanism:transmitter:0, 精鋭ユニバーサルケーブル
+mekanism:transmitter:0, 究極ユニバーサルケーブル
+mekanism:transmitter:1, 基本メカニカルパイプ
+mekanism:transmitter:1, 発展メカニカルパイプ
+mekanism:transmitter:1, 精鋭メカニカルパイプ
+mekanism:transmitter:1, 究極メカニカルパイプ
+mekanism:transmitter:2, 基本加圧チューブ
+mekanism:transmitter:2, 発展加圧チューブ
+mekanism:transmitter:2, 精鋭加圧チューブ
+mekanism:transmitter:2, 究極加圧チューブ
+mekanism:transmitter:3, 基本物流トランスポーター
+mekanism:transmitter:3, 発展物流トランスポーター
+mekanism:transmitter:3, 精鋭物流トランスポーター
+mekanism:transmitter:3, 究極物流トランスポーター
+mekanism:transmitter:4, 制限トランスポーター
+mekanism:transmitter:5, 迂回トランスポーター
+mekanism:transmitter:6, 基本熱力学的伝導体
+mekanism:transmitter:6, 発展熱力学的伝導体
+mekanism:transmitter:6, 精鋭熱力学的伝導体
+mekanism:transmitter:6, 究極熱力学的伝導体
+mekanism:obsidiantnt, 黒曜石TNT
+mekanism:boundingblock, プレースホルダー
+mekanism:gastank:0, 基本ガスタンク
+mekanism:gastank:0, 発展ガスタンク
+mekanism:gastank:0, 精鋭ガスタンク
+mekanism:gastank:0, 究極ガスタンク
+mekanism:gastank:0, クリエイティブガスタンク
+mekanism:gastank:0, クリエイティブガスタンク
+mekanism:gastank:0, クリエイティブガスタンク
+mekanism:gastank:0, クリエイティブガスタンク
+mekanism:gastank:0, クリエイティブガスタンク
+mekanism:gastank:0, クリエイティブガスタンク
+mekanism:gastank:0, クリエイティブガスタンク
+mekanism:gastank:0, クリエイティブガスタンク
+mekanism:gastank:0, クリエイティブガスタンク
+mekanism:gastank:0, クリエイティブガスタンク
+mekanism:gastank:0, クリエイティブガスタンク
+mekanism:gastank:0, クリエイティブガスタンク
+mekanism:gastank:0, クリエイティブガスタンク
+mekanism:gastank:0, クリエイティブガスタンク
+mekanism:gastank:0, クリエイティブガスタンク
+mekanism:gastank:0, クリエイティブガスタンク
+mekanism:cardboardbox, 段ボール箱
+mekanism:glowpanel:0, §8黒色 発光パネル
+mekanism:glowpanel:1, §c赤色 発光パネル
+mekanism:glowpanel:2, §2緑色 発光パネル
+mekanism:glowpanel:3, §6茶色 発光パネル
+mekanism:glowpanel:4, §1青色 発光パネル
+mekanism:glowpanel:5, §5紫色 発光パネル
+mekanism:glowpanel:6, §3水色 発光パネル
+mekanism:glowpanel:7, §7薄灰色 発光パネル
+mekanism:glowpanel:8, §8灰色 発光パネル
+mekanism:glowpanel:9, §d桃色 発光パネル
+mekanism:glowpanel:10, §a黄緑色 発光パネル
+mekanism:glowpanel:11, §e黄色 発光パネル
+mekanism:glowpanel:12, §9空色 発光パネル
+mekanism:glowpanel:13, §d赤紫色 発光パネル
+mekanism:glowpanel:14, §6橙色 発光パネル
+mekanism:glowpanel:15, §f白色 発光パネル
+mekanism:plasticblock:0, §8黒色 プラスチックブロック
+mekanism:plasticblock:1, §c赤色 プラスチックブロック
+mekanism:plasticblock:2, §2緑色 プラスチックブロック
+mekanism:plasticblock:3, §6茶色 プラスチックブロック
+mekanism:plasticblock:4, §1青色 プラスチックブロック
+mekanism:plasticblock:5, §5紫色 プラスチックブロック
+mekanism:plasticblock:6, §3水色 プラスチックブロック
+mekanism:plasticblock:7, §7薄灰色 プラスチックブロック
+mekanism:plasticblock:8, §8灰色 プラスチックブロック
+mekanism:plasticblock:9, §d桃色 プラスチックブロック
+mekanism:plasticblock:10, §a黄緑色 プラスチックブロック
+mekanism:plasticblock:11, §e黄色 プラスチックブロック
+mekanism:plasticblock:12, §9空色 プラスチックブロック
+mekanism:plasticblock:13, §d赤紫色 プラスチックブロック
+mekanism:plasticblock:14, §6橙色 プラスチックブロック
+mekanism:plasticblock:15, §f白色 プラスチックブロック
+mekanism:slickplasticblock:0, §8黒色 滑らかなプラスチックブロック
+mekanism:slickplasticblock:1, §c赤色 滑らかなプラスチックブロック
+mekanism:slickplasticblock:2, §2緑色 滑らかなプラスチックブロック
+mekanism:slickplasticblock:3, §6茶色 滑らかなプラスチックブロック
+mekanism:slickplasticblock:4, §1青色 滑らかなプラスチックブロック
+mekanism:slickplasticblock:5, §5紫色 滑らかなプラスチックブロック
+mekanism:slickplasticblock:6, §3水色 滑らかなプラスチックブロック
+mekanism:slickplasticblock:7, §7薄灰色 滑らかなプラスチックブロック
+mekanism:slickplasticblock:8, §8灰色 滑らかなプラスチックブロック
+mekanism:slickplasticblock:9, §d桃色 滑らかなプラスチックブロック
+mekanism:slickplasticblock:10, §a黄緑色 滑らかなプラスチックブロック
+mekanism:slickplasticblock:11, §e黄色 滑らかなプラスチックブロック
+mekanism:slickplasticblock:12, §9空色 滑らかなプラスチックブロック
+mekanism:slickplasticblock:13, §d赤紫色 滑らかなプラスチックブロック
+mekanism:slickplasticblock:14, §6橙色 滑らかなプラスチックブロック
+mekanism:slickplasticblock:15, §f白色 滑らかなプラスチックブロック
+mekanism:glowplasticblock:0, §8黒色 輝くプラスチックブロック
+mekanism:glowplasticblock:1, §c赤色 輝くプラスチックブロック
+mekanism:glowplasticblock:2, §2緑色 輝くプラスチックブロック
+mekanism:glowplasticblock:3, §6茶色 輝くプラスチックブロック
+mekanism:glowplasticblock:4, §1青色 輝くプラスチックブロック
+mekanism:glowplasticblock:5, §5紫色 輝くプラスチックブロック
+mekanism:glowplasticblock:6, §3水色 輝くプラスチックブロック
+mekanism:glowplasticblock:7, §7薄灰色 輝くプラスチックブロック
+mekanism:glowplasticblock:8, §8灰色 輝くプラスチックブロック
+mekanism:glowplasticblock:9, §d桃色 輝くプラスチックブロック
+mekanism:glowplasticblock:10, §a黄緑色 輝くプラスチックブロック
+mekanism:glowplasticblock:11, §e黄色 輝くプラスチックブロック
+mekanism:glowplasticblock:12, §9空色 輝くプラスチックブロック
+mekanism:glowplasticblock:13, §d赤紫色 輝くプラスチックブロック
+mekanism:glowplasticblock:14, §6橙色 輝くプラスチックブロック
+mekanism:glowplasticblock:15, §f白色 輝くプラスチックブロック
+mekanism:reinforcedplasticblock:0, §8黒色 強化プラスチックブロック
+mekanism:reinforcedplasticblock:1, §c赤色 強化プラスチックブロック
+mekanism:reinforcedplasticblock:2, §2緑色 強化プラスチックブロック
+mekanism:reinforcedplasticblock:3, §6茶色 強化プラスチックブロック
+mekanism:reinforcedplasticblock:4, §1青色 強化プラスチックブロック
+mekanism:reinforcedplasticblock:5, §5紫色 強化プラスチックブロック
+mekanism:reinforcedplasticblock:6, §3水色 強化プラスチックブロック
+mekanism:reinforcedplasticblock:7, §7薄灰色 強化プラスチックブロック
+mekanism:reinforcedplasticblock:8, §8灰色 強化プラスチックブロック
+mekanism:reinforcedplasticblock:9, §d桃色 強化プラスチックブロック
+mekanism:reinforcedplasticblock:10, §a黄緑色 強化プラスチックブロック
+mekanism:reinforcedplasticblock:11, §e黄色 強化プラスチックブロック
+mekanism:reinforcedplasticblock:12, §9空色 強化プラスチックブロック
+mekanism:reinforcedplasticblock:13, §d赤紫色 強化プラスチックブロック
+mekanism:reinforcedplasticblock:14, §6橙色 強化プラスチックブロック
+mekanism:reinforcedplasticblock:15, §f白色 強化プラスチックブロック
+mekanism:roadplasticblock:0, §8黒色 プラスチックロード
+mekanism:roadplasticblock:1, §c赤色 プラスチックロード
+mekanism:roadplasticblock:2, §2緑色 プラスチックロード
+mekanism:roadplasticblock:3, §6茶色 プラスチックロード
+mekanism:roadplasticblock:4, §1青色 プラスチックロード
+mekanism:roadplasticblock:5, §5紫色 プラスチックロード
+mekanism:roadplasticblock:6, §3水色 プラスチックロード
+mekanism:roadplasticblock:7, §7薄灰色 プラスチックロード
+mekanism:roadplasticblock:8, §8灰色 プラスチックロード
+mekanism:roadplasticblock:9, §d桃色 プラスチックロード
+mekanism:roadplasticblock:10, §a黄緑色 プラスチックロード
+mekanism:roadplasticblock:11, §e黄色 プラスチックロード
+mekanism:roadplasticblock:12, §9空色 プラスチックロード
+mekanism:roadplasticblock:13, §d赤紫色 プラスチックロード
+mekanism:roadplasticblock:14, §6橙色 プラスチックロード
+mekanism:roadplasticblock:15, §f白色 プラスチックロード
+mekanism:plasticfence:0, §8黒色 プラスチックの柵
+mekanism:plasticfence:1, §c赤色 プラスチックの柵
+mekanism:plasticfence:2, §2緑色 プラスチックの柵
+mekanism:plasticfence:3, §6茶色 プラスチックの柵
+mekanism:plasticfence:4, §1青色 プラスチックの柵
+mekanism:plasticfence:5, §5紫色 プラスチックの柵
+mekanism:plasticfence:6, §3水色 プラスチックの柵
+mekanism:plasticfence:7, §7薄灰色 プラスチックの柵
+mekanism:plasticfence:8, §8灰色 プラスチックの柵
+mekanism:plasticfence:9, §d桃色 プラスチックの柵
+mekanism:plasticfence:10, §a黄緑色 プラスチックの柵
+mekanism:plasticfence:11, §e黄色 プラスチックの柵
+mekanism:plasticfence:12, §9空色 プラスチックの柵
+mekanism:plasticfence:13, §d赤紫色 プラスチックの柵
+mekanism:plasticfence:14, §6橙色 プラスチックの柵
+mekanism:plasticfence:15, §f白色 プラスチックの柵
+mekanism:saltblock, 塩ブロック
+teslacorelib:base_addon, Base Addon
+teslacorelib:energy_tier1, Energy Upgrade I
+teslacorelib:energy_tier2, Energy Upgrade II
+teslacorelib:machine_case, Machine Case
+teslacorelib:speed_tier1, Speed Upgrade I
+teslacorelib:speed_tier2, Speed Upgrade II
+teslacorelib:wrench, Tesla Wrench
+ironchest:iron_chest:0, 鉄のチェスト
+ironchest:iron_chest:1, 金のチェスト
+ironchest:iron_chest:2, ダイヤのチェスト
+ironchest:iron_chest:3, 銅のチェスト
+ironchest:iron_chest:4, 銀のチェスト
+ironchest:iron_chest:5, クリスタルチェスト
+ironchest:iron_chest:6, 黒曜石のチェスト
+ironchest:iron_chest:7, ダートチェスト9000!
+ironchest:iron_shulker_box_white:0, 白色の鉄のシュルカーボックス
+ironchest:iron_shulker_box_white:1, 白色の金のシュルカーボックス
+ironchest:iron_shulker_box_white:2, 白色のダイヤのシュルカーボックス
+ironchest:iron_shulker_box_white:3, 白色の銅のシュルカーボックス
+ironchest:iron_shulker_box_white:4, 白色の銀のシュルカーボックス
+ironchest:iron_shulker_box_white:5, 白色のクリスタルシュルカーボックス
+ironchest:iron_shulker_box_white:6, 白色の黒曜石のシュルカーボックス
+ironchest:iron_shulker_box_orange:0, 橙色の鉄のシュルカーボックス
+ironchest:iron_shulker_box_orange:1, 橙色の金のシュルカーボックス
+ironchest:iron_shulker_box_orange:2, 橙色のダイヤのシュルカーボックス
+ironchest:iron_shulker_box_orange:3, 橙色の銅のシュルカーボックス
+ironchest:iron_shulker_box_orange:4, 橙色の銀のシュルカーボックス
+ironchest:iron_shulker_box_orange:5, 橙色のクリスタルシュルカーボックス
+ironchest:iron_shulker_box_orange:6, 橙色の黒曜石のシュルカーボックス
+ironchest:iron_shulker_box_magenta:0, 赤紫色の鉄のシュルカーボックス
+ironchest:iron_shulker_box_magenta:1, 赤紫色の金のシュルカーボックス
+ironchest:iron_shulker_box_magenta:2, 赤紫色のダイヤのシュルカーボックス
+ironchest:iron_shulker_box_magenta:3, 赤紫色の銅のシュルカーボックス
+ironchest:iron_shulker_box_magenta:4, 赤紫色の銀のシュルカーボックス
+ironchest:iron_shulker_box_magenta:5, 赤紫色のクリスタルシュルカーボックス
+ironchest:iron_shulker_box_magenta:6, 赤紫色の黒曜石のシュルカーボックス
+ironchest:iron_shulker_box_light_blue:0, 空色の鉄のシュルカーボックス
+ironchest:iron_shulker_box_light_blue:1, 空色の金のシュルカーボックス
+ironchest:iron_shulker_box_light_blue:2, 空色のダイヤのシュルカーボックス
+ironchest:iron_shulker_box_light_blue:3, 空色の銅のシュルカーボックス
+ironchest:iron_shulker_box_light_blue:4, 空色の銀のシュルカーボックス
+ironchest:iron_shulker_box_light_blue:5, 空色のクリスタルシュルカーボックス
+ironchest:iron_shulker_box_light_blue:6, 空色の黒曜石のシュルカーボックス
+ironchest:iron_shulker_box_yellow:0, 黄色の鉄のシュルカーボックス
+ironchest:iron_shulker_box_yellow:1, 黄色の金のシュルカーボックス
+ironchest:iron_shulker_box_yellow:2, 黄色のダイヤのシュルカーボックス
+ironchest:iron_shulker_box_yellow:3, 黄色の銅のシュルカーボックス
+ironchest:iron_shulker_box_yellow:4, 黄色の銀のシュルカーボックス
+ironchest:iron_shulker_box_yellow:5, 黄色のクリスタルシュルカーボックス
+ironchest:iron_shulker_box_yellow:6, 黄色の黒曜石のシュルカーボックス
+ironchest:iron_shulker_box_lime:0, 黄緑色の鉄のシュルカーボックス
+ironchest:iron_shulker_box_lime:1, 黄緑色の金のシュルカーボックス
+ironchest:iron_shulker_box_lime:2, 黄緑色のダイヤのシュルカーボックス
+ironchest:iron_shulker_box_lime:3, 黄緑色の銅のシュルカーボックス
+ironchest:iron_shulker_box_lime:4, 黄緑色の銀のシュルカーボックス
+ironchest:iron_shulker_box_lime:5, 黄緑色のクリスタルシュルカーボックス
+ironchest:iron_shulker_box_lime:6, 黄緑色の黒曜石のシュルカーボックス
+ironchest:iron_shulker_box_pink:0, 桃色の鉄のシュルカーボックス
+ironchest:iron_shulker_box_pink:1, 桃色の金のシュルカーボックス
+ironchest:iron_shulker_box_pink:2, 桃色のダイヤのシュルカーボックス
+ironchest:iron_shulker_box_pink:3, 桃色の銅のシュルカーボックス
+ironchest:iron_shulker_box_pink:4, 桃色の銀のシュルカーボックス
+ironchest:iron_shulker_box_pink:5, 桃色のクリスタルシュルカーボックス
+ironchest:iron_shulker_box_pink:6, 桃色の黒曜石のシュルカーボックス
+ironchest:iron_shulker_box_gray:0, 灰色の鉄のシュルカーボックス
+ironchest:iron_shulker_box_gray:1, 灰色の金のシュルカーボックス
+ironchest:iron_shulker_box_gray:2, 灰色のダイヤのシュルカーボックス
+ironchest:iron_shulker_box_gray:3, 灰色の銅のシュルカーボックス
+ironchest:iron_shulker_box_gray:4, 灰色の銀のシュルカーボックス
+ironchest:iron_shulker_box_gray:5, 灰色のクリスタルシュルカーボックス
+ironchest:iron_shulker_box_gray:6, 灰色の黒曜石のシュルカーボックス
+ironchest:iron_shulker_box_silver:0, 薄灰色の鉄のシュルカーボックス
+ironchest:iron_shulker_box_silver:1, 薄灰色の金のシュルカーボックス
+ironchest:iron_shulker_box_silver:2, 薄灰色のダイヤのシュルカーボックス
+ironchest:iron_shulker_box_silver:3, 薄灰色の銅のシュルカーボックス
+ironchest:iron_shulker_box_silver:4, 薄灰色の銀のシュルカーボックス
+ironchest:iron_shulker_box_silver:5, 薄灰色のクリスタルシュルカーボックス
+ironchest:iron_shulker_box_silver:6, 薄灰色の黒曜石のシュルカーボックス
+ironchest:iron_shulker_box_cyan:0, 青緑色の鉄のシュルカーボックス
+ironchest:iron_shulker_box_cyan:1, 青緑色の金のシュルカーボックス
+ironchest:iron_shulker_box_cyan:2, 青緑色のダイヤのシュルカーボックス
+ironchest:iron_shulker_box_cyan:3, 青緑色の銅のシュルカーボックス
+ironchest:iron_shulker_box_cyan:4, 青緑色の銀のシュルカーボックス
+ironchest:iron_shulker_box_cyan:5, 青緑色のクリスタルシュルカーボックス
+ironchest:iron_shulker_box_cyan:6, 青緑色の黒曜石のシュルカーボックス
+ironchest:iron_shulker_box_purple:0, 紫色の鉄のシュルカーボックス
+ironchest:iron_shulker_box_purple:1, 紫色の金のシュルカーボックス
+ironchest:iron_shulker_box_purple:2, 紫色のダイヤのシュルカーボックス
+ironchest:iron_shulker_box_purple:3, 紫色の銅のシュルカーボックス
+ironchest:iron_shulker_box_purple:4, 紫色の銀のシュルカーボックス
+ironchest:iron_shulker_box_purple:5, 紫色のクリスタルシュルカーボックス
+ironchest:iron_shulker_box_purple:6, 紫色の黒曜石のシュルカーボックス
+ironchest:iron_shulker_box_blue:0, 青色の鉄のシュルカーボックス
+ironchest:iron_shulker_box_blue:1, 青色の金のシュルカーボックス
+ironchest:iron_shulker_box_blue:2, 青色のダイヤのシュルカーボックス
+ironchest:iron_shulker_box_blue:3, 青色の銅のシュルカーボックス
+ironchest:iron_shulker_box_blue:4, 青色の銀のシュルカーボックス
+ironchest:iron_shulker_box_blue:5, 青色のクリスタルシュルカーボックス
+ironchest:iron_shulker_box_blue:6, 青色の黒曜石のシュルカーボックス
+ironchest:iron_shulker_box_brown:0, 茶色の鉄のシュルカーボックス
+ironchest:iron_shulker_box_brown:1, 茶色の金のシュルカーボックス
+ironchest:iron_shulker_box_brown:2, 茶色のダイヤのシュルカーボックス
+ironchest:iron_shulker_box_brown:3, 茶色の銅のシュルカーボックス
+ironchest:iron_shulker_box_brown:4, 茶色の銀のシュルカーボックス
+ironchest:iron_shulker_box_brown:5, 茶色のクリスタルシュルカーボックス
+ironchest:iron_shulker_box_brown:6, 茶色の黒曜石のシュルカーボックス
+ironchest:iron_shulker_box_green:0, 緑色の鉄のシュルカーボックス
+ironchest:iron_shulker_box_green:1, 緑色の金のシュルカーボックス
+ironchest:iron_shulker_box_green:2, 緑色のダイヤのシュルカーボックス
+ironchest:iron_shulker_box_green:3, 緑色の銅のシュルカーボックス
+ironchest:iron_shulker_box_green:4, 緑色の銀のシュルカーボックス
+ironchest:iron_shulker_box_green:5, 緑色のクリスタルシュルカーボックス
+ironchest:iron_shulker_box_green:6, 緑色の黒曜石のシュルカーボックス
+ironchest:iron_shulker_box_red:0, 赤色の鉄のシュルカーボックス
+ironchest:iron_shulker_box_red:1, 赤色の金のシュルカーボックス
+ironchest:iron_shulker_box_red:2, 赤色のダイヤのシュルカーボックス
+ironchest:iron_shulker_box_red:3, 赤色の銅のシュルカーボックス
+ironchest:iron_shulker_box_red:4, 赤色の銀のシュルカーボックス
+ironchest:iron_shulker_box_red:5, 赤色のクリスタルシュルカーボックス
+ironchest:iron_shulker_box_red:6, 赤色の黒曜石のシュルカーボックス
+ironchest:iron_shulker_box_black:0, 黒色の鉄のシュルカーボックス
+ironchest:iron_shulker_box_black:1, 黒色の金のシュルカーボックス
+ironchest:iron_shulker_box_black:2, 黒色のダイヤのシュルカーボックス
+ironchest:iron_shulker_box_black:3, 黒色の銅のシュルカーボックス
+ironchest:iron_shulker_box_black:4, 黒色の銀のシュルカーボックス
+ironchest:iron_shulker_box_black:5, 黒色のクリスタルシュルカーボックス
+ironchest:iron_shulker_box_black:6, 黒色の黒曜石のシュルカーボックス
+ironchest:iron_gold_chest_upgrade, 鉄から金のチェストにアップグレード
+ironchest:gold_diamond_chest_upgrade, 金からダイヤのチェストにアップグレード
+ironchest:copper_silver_chest_upgrade, 銅から銀のチェストにアップグレード
+ironchest:silver_gold_chest_upgrade, 銀から金のチェストにアップグレード
+ironchest:copper_iron_chest_upgrade, 銅から鉄のチェストにアップグレード
+ironchest:diamond_crystal_chest_upgrade, ダイヤからクリスタルチェストにアップグレード
+ironchest:wood_iron_chest_upgrade, 通常から鉄のチェストにアップグレード
+ironchest:wood_copper_chest_upgrade, 通常から銅のチェストにアップグレード
+ironchest:diamond_obsidian_chest_upgrade, ダイヤから黒曜石のチェストにアップグレード
+ironchest:iron_gold_shulker_upgrade, 鉄から金のシュルカーボックスにアップグレード
+ironchest:gold_diamond_shulker_upgrade, 金からダイヤのシュルカーボックスにアップグレード
+ironchest:copper_silver_shulker_upgrade, 銅から銀のシュルカーボックスにアップグレード
+ironchest:silver_gold_shulker_upgrade, 銀から金のシュルカーボックスにアップグレード
+ironchest:copper_iron_shulker_upgrade, 銅から鉄のシュルカーボックスにアップグレード
+ironchest:diamond_crystal_shulker_upgrade, ダイヤからクリスタルシュルカーボックスにアップグレード
+ironchest:vanilla_iron_shulker_upgrade, 通常から鉄のシュルカーボックスにアップグレード
+ironchest:vanilla_copper_shulker_upgrade, 通常から銅のシュルカーボックスにアップグレード
+ironchest:diamond_obsidian_shulker_upgrade, ダイヤから黒曜石のシュルカーボックスにアップグレード
+mekanismgenerators:solarpanel, ソーラーパネル
+mekanismgenerators:hohlraum, ホールラウム
+mekanismgenerators:turbineblade, タービンの羽
+mekanismgenerators:generator:0, 熱発電機
+mekanismgenerators:generator:1, 太陽光発電機
+mekanismgenerators:generator:3, ガス燃焼発電機
+mekanismgenerators:generator:4, バイオ発電機
+mekanismgenerators:generator:5, 発展型太陽光発電機
+mekanismgenerators:generator:6, 風力発電機
+mekanismgenerators:generator:7, タービンローター
+mekanismgenerators:generator:8, 回転機構
+mekanismgenerators:generator:9, 電磁コイル
+mekanismgenerators:generator:10, タービンケース
+mekanismgenerators:generator:11, タービンバルブ
+mekanismgenerators:generator:12, 蒸気排出口
+mekanismgenerators:generator:13, 飽和凝縮器
+mekanismgenerators:reactor:0, 核融合炉制御装置
+mekanismgenerators:reactor:1, 核融合炉フレーム
+mekanismgenerators:reactor:2, 核融合炉搬入出ポート
+mekanismgenerators:reactor:3, 核融合炉論理アダプター
+mekanismgenerators:reactorglass:0, 核融合炉窓
+mekanismgenerators:reactorglass:1, レーザーフォーカスマトリックス
+mekanismtools:woodpaxel, 木のパクセル
+mekanismtools:stonepaxel, 石のパクセル
+mekanismtools:ironpaxel, 鉄のパクセル
+mekanismtools:diamondpaxel, ダイヤのパクセル
+mekanismtools:goldpaxel, 金のパクセル
+mekanismtools:glowstonepickaxe, グロウストーンのツルハシ
+mekanismtools:glowstoneaxe, グロウストーンの斧
+mekanismtools:glowstoneshovel, グロウストーンのシャベル
+mekanismtools:glowstonehoe, グロウストーンのクワ
+mekanismtools:glowstonesword, グロウストーンの剣
+mekanismtools:glowstonepaxel, グロウストーンのパクセル
+mekanismtools:glowstonehelmet, グロウストーンのヘルメット
+mekanismtools:glowstonechestplate, グロウストーンのチェストプレート
+mekanismtools:glowstoneleggings, グロウストーンのレギンス
+mekanismtools:glowstoneboots, グロウストーンのブーツ
+mekanismtools:bronzepickaxe, 青銅のツルハシ
+mekanismtools:bronzeaxe, 青銅の斧
+mekanismtools:bronzeshovel, 青銅のシャベル
+mekanismtools:bronzehoe, 青銅のクワ
+mekanismtools:bronzesword, 青銅の剣
+mekanismtools:bronzepaxel, 青銅のパクセル
+mekanismtools:bronzehelmet, 青銅のヘルメット
+mekanismtools:bronzechestplate, 青銅のチェストプレート
+mekanismtools:bronzeleggings, 青銅のレギンス
+mekanismtools:bronzeboots, 青銅のブーツ
+mekanismtools:osmiumpickaxe, オスミウムのピッケル
+mekanismtools:osmiumaxe, オスミウムの斧
+mekanismtools:osmiumshovel, オスミウムのシャベル
+mekanismtools:osmiumhoe, オスミウムのクワ
+mekanismtools:osmiumsword, オスミウムの剣
+mekanismtools:osmiumpaxel, オスミウムのパクセル
+mekanismtools:osmiumhelmet, オスミウムのヘルメット
+mekanismtools:osmiumchestplate, オスミウムのチェストプレート
+mekanismtools:osmiumleggings, オスミウムのレギンス
+mekanismtools:osmiumboots, オスミウムのブーツ
+mekanismtools:obsidianpickaxe, 黒曜石のピッケル
+mekanismtools:obsidianaxe, 黒曜石の斧
+mekanismtools:obsidianshovel, 黒曜石のシャベル
+mekanismtools:obsidianhoe, 黒曜石のクワ
+mekanismtools:obsidiansword, 黒曜石の剣
+mekanismtools:obsidianpaxel, 黒曜石のパクセル
+mekanismtools:obsidianhelmet, 黒曜石のヘルメット
+mekanismtools:obsidianchestplate, 黒曜石のチェストプレート
+mekanismtools:obsidianleggings, 黒曜石のレギンス
+mekanismtools:obsidianboots, 黒曜石のブーツ
+mekanismtools:lapislazulipickaxe, ラピスラズリのピッケル
+mekanismtools:lapislazuliaxe, ラピスラズリの斧
+mekanismtools:lapislazulishovel, ラピスラズリのシャベル
+mekanismtools:lapislazulihoe, ラピスラズリのクワ
+mekanismtools:lapislazulisword, ラピスラズリの剣
+mekanismtools:lapislazulipaxel, ラピスラズリのパクセル
+mekanismtools:lapislazulihelmet, ラピスラズリのヘルメット
+mekanismtools:lapislazulichestplate, ラピスラズリのチェストプレート
+mekanismtools:lapislazulileggings, ラピスラズリのレギンス
+mekanismtools:lapislazuliboots, ラピスラズリのブーツ
+mekanismtools:steelpickaxe, 鋼鉄のツルハシ
+mekanismtools:steelaxe, 鋼鉄の斧
+mekanismtools:steelshovel, 鋼鉄のシャベル
+mekanismtools:steelhoe, 鋼鉄のクワ
+mekanismtools:steelsword, 鋼鉄の剣
+mekanismtools:steelpaxel, 鋼鉄のパクセル
+mekanismtools:steelhelmet, 鋼鉄のヘルメット
+mekanismtools:steelchestplate, 鋼鉄のチェストプレート
+mekanismtools:steelleggings, 鋼鉄のレギンス
+mekanismtools:steelboots, 鋼鉄のブーツ
+teslacorelib:gear_diamond, Diamond Gear
+teslacorelib:gear_gold, Gold Gear
+teslacorelib:gear_iron, Iron Gear
+teslacorelib:gear_stone, Stone Gear
+buildcraftcore:spring:0, 湧き水の源
+buildcraftcore:spring:1, 原油の源
+buildcraftcore:decorated:0, tile.decorated.destroy.name
+buildcraftcore:decorated:1, Blueprint (Decoration)
+buildcraftcore:decorated:2, Template (Decoration)
+buildcraftcore:decorated:3, tile.decorated.paper.name
+buildcraftcore:decorated:4, tile.decorated.leather.name
+buildcraftcore:decorated:5, Laser (Decoration)
+buildcraftcore:marker_volume, 範囲マーカー
+buildcraftcore:marker_path, 経路マーカー
+buildcraftcore:engine:0, レッドストーンエンジン
+buildcraftcore:engine:1, スターリングエンジン
+buildcraftcore:engine:2, 内燃エンジン
+buildcraftcore:engine:3, クリエイティブ専用エンジン
+buildcraftcore:wrench, レンチ
+buildcraftcore:gear_wood, 木の歯車
+buildcraftcore:gear_stone, 石の歯車
+buildcraftcore:gear_iron, 鉄の歯車
+buildcraftcore:gear_gold, 金の歯車
+buildcraftcore:gear_diamond, ダイヤの歯車
+buildcraftcore:paintbrush:64, Paintbrush
+buildcraftcore:paintbrush:0, §z§0§f白色§r Paintbrush
+buildcraftcore:paintbrush:0, §z§1§6橙色§r Paintbrush
+buildcraftcore:paintbrush:0, §z§2§d赤紫色§r Paintbrush
+buildcraftcore:paintbrush:0, §z§3§b空色§r Paintbrush
+buildcraftcore:paintbrush:0, §z§4§e黄色§r Paintbrush
+buildcraftcore:paintbrush:0, §z§5§a黄緑色§r Paintbrush
+buildcraftcore:paintbrush:0, §z§6§d桃色§r Paintbrush
+buildcraftcore:paintbrush:0, §z§7§7灰色§r Paintbrush
+buildcraftcore:paintbrush:0, §z§8§7薄灰色§r Paintbrush
+buildcraftcore:paintbrush:0, §z§9§3青緑色§r Paintbrush
+buildcraftcore:paintbrush:0, §z§a§d紫色§r Paintbrush
+buildcraftcore:paintbrush:0, §9§9青色§r Paintbrush
+buildcraftcore:paintbrush:0, §z§c§6茶色§r Paintbrush
+buildcraftcore:paintbrush:0, §z§d§a緑色§r Paintbrush
+buildcraftcore:paintbrush:0, §z§e§c赤色§r Paintbrush
+buildcraftcore:paintbrush:0, §0§7黒色§r Paintbrush
+buildcraftcore:list, リスト
+buildcraftcore:map_location:0, 範囲指定マップ
+buildcraftcore:marker_connector, Marker Connector
+buildcraftcore:volume_box, item.volume_box.name
+buildcraftcore:fragile_fluid_shard, Fragile %s Shard
+buildcraftbuilders:snapshot:2, ブループリント
+buildcraftbuilders:snapshot:0, テンプレート
+buildcraftbuilders:schematic_single:0, Single Block Schematic
+buildcraftbuilders:filler_planner, Filler Planner
+buildcraftbuilders:filler, 簡易建築機
+buildcraftbuilders:builder, 建築機
+buildcraftbuilders:architect, 設計台
+buildcraftbuilders:library, 青写真ライブラリ
+buildcraftbuilders:replacer, tile.replacerBlock.name
+buildcraftbuilders:frame, フレーム
+buildcraftbuilders:quarry, Quarry
+buildcrafttransport:pipe_structure:0, 丸石の構造パイプ
+buildcrafttransport:pipe_wood_item:0, 木の輸送パイプ
+buildcrafttransport:pipe_cobble_item:0, 丸石の輸送パイプ
+buildcrafttransport:pipe_stone_item:0, 石の輸送パイプ
+buildcrafttransport:pipe_quartz_item:0, 水晶の輸送パイプ
+buildcrafttransport:pipe_iron_item:0, 鉄の輸送パイプ
+buildcrafttransport:pipe_gold_item:0, 金の輸送パイプ
+buildcrafttransport:pipe_clay_item:0, 粘土の輸送パイプ
+buildcrafttransport:pipe_sandstone_item:0, 砂岩の輸送パイプ
+buildcrafttransport:pipe_void_item:0, 虚無の輸送パイプ
+buildcrafttransport:pipe_obsidian_item:0, 黒曜石の輸送パイプ
+buildcrafttransport:pipe_diamond_item:0, ダイヤの輸送パイプ
+buildcrafttransport:pipe_diamond_wood_item:0, Wooden Diamond Transport Pipe
+buildcrafttransport:pipe_lapis_item:0, ラピスラズリの輸送パイプ
+buildcrafttransport:pipe_daizuli_item:0, ダイズリの輸送パイプ
+buildcrafttransport:pipe_emzuli_item:0, エメズリの輸送パイプ
+buildcrafttransport:pipe_stripes_item:0, ストライプ輸送パイプ
+buildcrafttransport:pipe_wood_fluid:0, 木の防水パイプ
+buildcrafttransport:pipe_cobble_fluid:0, 丸石の防水パイプ
+buildcrafttransport:pipe_stone_fluid:0, 石の防水パイプ
+buildcrafttransport:pipe_quartz_fluid:0, 水晶の防水パイプ
+buildcrafttransport:pipe_gold_fluid:0, 金の防水パイプ
+buildcrafttransport:pipe_iron_fluid:0, 鉄の防水パイプ
+buildcrafttransport:pipe_clay_fluid:0, Clay Fluid Pipe
+buildcrafttransport:pipe_sandstone_fluid:0, 砂岩の防水パイプ
+buildcrafttransport:pipe_void_fluid:0, 虚無の防水パイプ
+buildcrafttransport:pipe_diamond_fluid:0, ダイヤの防水パイプ
+buildcrafttransport:pipe_diamond_wood_fluid:0, Wooden Diamond Fluid Pipe
+buildcrafttransport:pipe_wood_power:0, 木の伝導パイプ
+buildcrafttransport:pipe_cobble_power:0, 丸石の伝導パイプ
+buildcrafttransport:pipe_stone_power:0, 石の伝導パイプ
+buildcrafttransport:pipe_quartz_power:0, 水晶の伝導パイプ
+buildcrafttransport:pipe_gold_power:0, 金の伝導パイプ
+buildcrafttransport:pipe_sandstone_power:0, 砂岩の伝導パイプ
+buildcrafttransport:filtered_buffer, 選別緩衝器
+buildcrafttransport:waterproof, パイプの防水材
+buildcrafttransport:plug_blocker, パイプ栓
+buildcrafttransport:plug_power_adaptor, Power Adapter
+buildcrafttransport:wire:0, §z§0§f白色§r Pipe Wire
+buildcrafttransport:wire:1, §z§1§6橙色§r Pipe Wire
+buildcrafttransport:wire:2, §z§2§d赤紫色§r Pipe Wire
+buildcrafttransport:wire:3, §z§3§b空色§r Pipe Wire
+buildcrafttransport:wire:4, §z§4§e黄色§r Pipe Wire
+buildcrafttransport:wire:5, §z§5§a黄緑色§r Pipe Wire
+buildcrafttransport:wire:6, §z§6§d桃色§r Pipe Wire
+buildcrafttransport:wire:7, §z§7§7灰色§r Pipe Wire
+buildcrafttransport:wire:8, §z§8§7薄灰色§r Pipe Wire
+buildcrafttransport:wire:9, §z§9§3青緑色§r Pipe Wire
+buildcrafttransport:wire:10, §z§a§d紫色§r Pipe Wire
+buildcrafttransport:wire:11, §9§9青色§r Pipe Wire
+buildcrafttransport:wire:12, §z§c§6茶色§r Pipe Wire
+buildcrafttransport:wire:13, §z§d§a緑色§r Pipe Wire
+buildcrafttransport:wire:14, §z§e§c赤色§r Pipe Wire
+buildcrafttransport:wire:15, §0§7黒色§r Pipe Wire
+buildcraftsilicon:laser, レーザー
+buildcraftsilicon:assembly_table, レーザー加工台
+buildcraftsilicon:advanced_crafting_table, レーザー作業台
+buildcraftsilicon:integration_table, レーザー合成台
+buildcraftsilicon:redstone_chipset:0, 赤石チップ
+buildcraftsilicon:redstone_chipset:1, 鉄チップ
+buildcraftsilicon:redstone_chipset:2, 金チップ
+buildcraftsilicon:redstone_chipset:3, 水晶チップ
+buildcraftsilicon:redstone_chipset:4, ダイヤチップ
+buildcraftsilicon:plug_gate, item.gate.name
+buildcraftsilicon:plug_lens:0, §0§7黒色§r カラーレンズ
+buildcraftsilicon:plug_lens:1, §z§e§c赤色§r カラーレンズ
+buildcraftsilicon:plug_lens:2, §z§d§a緑色§r カラーレンズ
+buildcraftsilicon:plug_lens:3, §z§c§6茶色§r カラーレンズ
+buildcraftsilicon:plug_lens:4, §9§9青色§r カラーレンズ
+buildcraftsilicon:plug_lens:5, §z§a§d紫色§r カラーレンズ
+buildcraftsilicon:plug_lens:6, §z§9§3青緑色§r カラーレンズ
+buildcraftsilicon:plug_lens:7, §z§8§7薄灰色§r カラーレンズ
+buildcraftsilicon:plug_lens:8, §z§7§7灰色§r カラーレンズ
+buildcraftsilicon:plug_lens:9, §z§6§d桃色§r カラーレンズ
+buildcraftsilicon:plug_lens:10, §z§5§a黄緑色§r カラーレンズ
+buildcraftsilicon:plug_lens:11, §z§4§e黄色§r カラーレンズ
+buildcraftsilicon:plug_lens:12, §z§3§b空色§r カラーレンズ
+buildcraftsilicon:plug_lens:13, §z§2§d赤紫色§r カラーレンズ
+buildcraftsilicon:plug_lens:14, §z§1§6橙色§r カラーレンズ
+buildcraftsilicon:plug_lens:15, §z§0§f白色§r カラーレンズ
+buildcraftsilicon:plug_lens:16, §0§7黒色§r カラーフィルター
+buildcraftsilicon:plug_lens:17, §z§e§c赤色§r カラーフィルター
+buildcraftsilicon:plug_lens:18, §z§d§a緑色§r カラーフィルター
+buildcraftsilicon:plug_lens:19, §z§c§6茶色§r カラーフィルター
+buildcraftsilicon:plug_lens:20, §9§9青色§r カラーフィルター
+buildcraftsilicon:plug_lens:21, §z§a§d紫色§r カラーフィルター
+buildcraftsilicon:plug_lens:22, §z§9§3青緑色§r カラーフィルター
+buildcraftsilicon:plug_lens:23, §z§8§7薄灰色§r カラーフィルター
+buildcraftsilicon:plug_lens:24, §z§7§7灰色§r カラーフィルター
+buildcraftsilicon:plug_lens:25, §z§6§d桃色§r カラーフィルター
+buildcraftsilicon:plug_lens:26, §z§5§a黄緑色§r カラーフィルター
+buildcraftsilicon:plug_lens:27, §z§4§e黄色§r カラーフィルター
+buildcraftsilicon:plug_lens:28, §z§3§b空色§r カラーフィルター
+buildcraftsilicon:plug_lens:29, §z§2§d赤紫色§r カラーフィルター
+buildcraftsilicon:plug_lens:30, §z§1§6橙色§r カラーフィルター
+buildcraftsilicon:plug_lens:31, §z§0§f白色§r カラーフィルター
+buildcraftsilicon:plug_lens:32, Clear カラーレンズ
+buildcraftsilicon:plug_lens:33, Clear カラーフィルター
+buildcraftsilicon:plug_pulsar, Pipe Pulsar
+buildcraftsilicon:plug_light_sensor, Light Sensor
+buildcraftenergy:glob_of_oil, item.globOil.name
+buildcraftfactory:autoworkbench_item, 自動作業台
+buildcraftfactory:mining_well, 採掘機
+buildcraftfactory:pump, ポンプ
+buildcraftfactory:flood_gate, 水門
+buildcraftfactory:tank, タンク
+buildcraftfactory:chute, Chute
+buildcraftfactory:distiller, Distiller
+buildcraftfactory:heat_exchange, Heat Exchanger
+buildcraftfactory:water_gel_spawn, Water Gelifier
+buildcraftfactory:gel, Gelled Water
+buildcraftrobotics:zone_planner, Zone Planner
+industrialforegoing:petrified_fuel_generator, Petrified Fuel Generator
+industrialforegoing:enchantment_refiner, Enchantment Sorter
+industrialforegoing:enchantment_extractor, Enchantment Extractor
+industrialforegoing:enchantment_aplicator, Enchantment Applicator
+industrialforegoing:mob_relocator, Mob Crusher
+industrialforegoing:potion_enervator, Potion Brewer
+industrialforegoing:animal_independence_selector, Animal Baby Separator
+industrialforegoing:animal_stock_increaser, Animal Feeder
+industrialforegoing:crop_sower, Plant Sower
+industrialforegoing:crop_enrich_material_injector, Plant Fertilizer
+industrialforegoing:crop_recolector, Plant Gatherer
+industrialforegoing:black_hole_unit, Black Hole Unit
+industrialforegoing:water_condensator, Water Condensator
+industrialforegoing:water_resources_collector, Resources Fisher
+industrialforegoing:animal_resource_harvester, Animal Rancher
+industrialforegoing:mob_slaughter_factory, Mob Slaughter Factory
+industrialforegoing:mob_duplicator, Mob Duplicator
+industrialforegoing:block_destroyer, Block Breaker
+industrialforegoing:block_placer, Block Placer
+industrialforegoing:tree_fluid_extractor, Tree Fluid Extractor
+industrialforegoing:latex_processing_unit, Latex Processing Unit
+industrialforegoing:sewage_composter_solidifier, Sewage Composter
+industrialforegoing:animal_byproduct_recolector, Animal Sewer
+industrialforegoing:sludge_refiner, Sludge Refiner
+industrialforegoing:mob_detector, Mob Detector
+industrialforegoing:lava_fabricator, Lava Fabricator
+industrialforegoing:bioreactor, Bioreactor
+industrialforegoing:biofuel_generator, Biofuel Generator
+industrialforegoing:laser_base, Laser Base
+industrialforegoing:laser_drill, Laser Drill
+industrialforegoing:ore_processor, Ore Processor
+industrialforegoing:black_hole_controller, Black Hole Controller (DEPRECATED)
+industrialforegoing:black_hole_controller_reworked, Black Hole Controller v2.0
+industrialforegoing:dye_mixer, Dye Mixer
+industrialforegoing:enchantment_invoker, Enchantment Factory
+industrialforegoing:spores_recreator, Spores Recreator
+industrialforegoing:animal_growth_increaser, Animal Grower
+industrialforegoing:material_stonework_factory, Material StoneWork Factory
+industrialforegoing:black_hole_tank, Black Hole Tank
+industrialforegoing:resourceful_furnace, Resourceful Furnace
+industrialforegoing:villager_trade_exchanger, Villager Trade Exchanger
+industrialforegoing:energy_field_provider, Energy Field Provider
+industrialforegoing:oredictionary_converter, Ore Dictionary Converter
+industrialforegoing:protein_reactor, Protein Reactor
+industrialforegoing:protein_generator, Protein Generator
+industrialforegoing:hydrator, Hydrator
+industrialforegoing:wither_builder, Wither Builder
+industrialforegoing:fluid_pump, Fluid Pump
+industrialforegoing:fluid_crafter, Fluid Crafter
+industrialforegoing:plant_interactor, Plant Interactor
+industrialforegoing:item_splitter, Item Splitter
+industrialforegoing:fluiddictionary_converter, Fluid Dictionary Converter
+industrialforegoing:froster, Froster
+industrialforegoing:ore_washer, Washing Factory
+industrialforegoing:ore_fermenter, Fermentation Station
+industrialforegoing:ore_sieve, Fluid Sieving Machine
+industrialforegoing:pitiful_fuel_generator, Pitiful Fuel Generator
+industrialforegoing:tinydryrubber, Tiny Dry Rubber
+industrialforegoing:dryrubber, Dry Rubber
+industrialforegoing:plastic, Plastic
+industrialforegoing:fertilizer, Fertilizer
+industrialforegoing:meat_feeder, Meat Feeder
+industrialforegoing:mob_imprisonment_tool, Mob Imprisonment Tool
+industrialforegoing:laser_lens:0, 白色§r Laser Lens
+industrialforegoing:laser_lens:1, 橙色§r Laser Lens
+industrialforegoing:laser_lens:2, 赤紫色§r Laser Lens
+industrialforegoing:laser_lens:3, 空色§r Laser Lens
+industrialforegoing:laser_lens:4, 黄色§r Laser Lens
+industrialforegoing:laser_lens:5, 黄緑色§r Laser Lens
+industrialforegoing:laser_lens:6, 桃色§r Laser Lens
+industrialforegoing:laser_lens:7, 灰色§r Laser Lens
+industrialforegoing:laser_lens:8, 薄灰色§r Laser Lens
+industrialforegoing:laser_lens:9, 青緑色§r Laser Lens
+industrialforegoing:laser_lens:10, 紫色§r Laser Lens
+industrialforegoing:laser_lens:11, 青色§r Laser Lens
+industrialforegoing:laser_lens:12, 茶色§r Laser Lens
+industrialforegoing:laser_lens:13, 緑色§r Laser Lens
+industrialforegoing:laser_lens:14, 赤色§r Laser Lens
+industrialforegoing:laser_lens:15, 黒色§r Laser Lens
+industrialforegoing:laser_lens_inverted:0, 白色§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:1, 橙色§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:2, 赤紫色§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:3, 空色§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:4, 黄色§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:5, 黄緑色§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:6, 桃色§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:7, 灰色§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:8, 薄灰色§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:9, 青緑色§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:10, 紫色§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:11, 青色§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:12, 茶色§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:13, 緑色§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:14, 赤色§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:15, 黒色§r Laser Lens (Inverted)
+industrialforegoing:straw, Straw
+industrialforegoing:conveyor_upgrade:0, Extraction Conveyor Upgrade
+industrialforegoing:conveyor_upgrade:1, Insertion Conveyor Upgrade
+industrialforegoing:conveyor_upgrade:2, Detection Conveyor Upgrade
+industrialforegoing:conveyor_upgrade:3, Bouncing Conveyor Upgrade
+industrialforegoing:conveyor_upgrade:4, Dropping Conveyor Upgrade
+industrialforegoing:conveyor_upgrade:5, Blinking Conveyor Upgrade
+industrialforegoing:conveyor_upgrade:6, Splitting Conveyor Upgrade
+industrialforegoing:pink_slime, Pink Slime
+industrialforegoing:book_manual, Industrial Foregoing's Manual
+industrialforegoing:pink_slime_ingot, Pink Slime Ingot
+industrialforegoing:infinity_drill:0, Infinity Drill
+industrialforegoing:infinity_drill:0, Infinity Drill
+industrialforegoing:infinity_drill:0, Infinity Drill
+industrialforegoing:infinity_drill:0, Infinity Drill
+industrialforegoing:infinity_drill:0, Infinity Drill
+industrialforegoing:infinity_drill:0, Infinity Drill
+industrialforegoing:infinity_drill:0, Infinity Drill
+industrialforegoing:infinity_drill:0, Infinity Drill
+industrialforegoing:adult_filter, Adult Filter
+industrialforegoing:range_addon:0, Range Addon
+industrialforegoing:range_addon:1, Range Addon
+industrialforegoing:range_addon:2, Range Addon
+industrialforegoing:range_addon:3, Range Addon
+industrialforegoing:range_addon:4, Range Addon
+industrialforegoing:range_addon:5, Range Addon
+industrialforegoing:range_addon:6, Range Addon
+industrialforegoing:range_addon:7, Range Addon
+industrialforegoing:range_addon:8, Range Addon
+industrialforegoing:range_addon:9, Range Addon
+industrialforegoing:range_addon:10, Range Addon
+industrialforegoing:range_addon:11, Range Addon
+industrialforegoing:energy_field_addon, Energy Field Addon
+industrialforegoing:leaf_shearing, Leaf Shearing Addon
+industrialforegoing:itemstack_transfer_addon_pull:0, Itemstack Transfer Addon (Pull/Down)
+industrialforegoing:itemstack_transfer_addon_push:0, Itemstack Transfer Addon (Push/Down)
+industrialforegoing:fluid_transfer_addon_pull:0, Fluid Transfer Addon (Pull/Down)
+industrialforegoing:fluid_transfer_addon_push:0, Fluid Transfer Addon (Push/Down)
+industrialforegoing:fortune_addon, Fortune Addon
+industrialforegoing:artificial_dye:0, 白色§r Artificial Dye
+industrialforegoing:artificial_dye:1, 橙色§r Artificial Dye
+industrialforegoing:artificial_dye:2, 赤紫色§r Artificial Dye
+industrialforegoing:artificial_dye:3, 空色§r Artificial Dye
+industrialforegoing:artificial_dye:4, 黄色§r Artificial Dye
+industrialforegoing:artificial_dye:5, 黄緑色§r Artificial Dye
+industrialforegoing:artificial_dye:6, 桃色§r Artificial Dye
+industrialforegoing:artificial_dye:7, 灰色§r Artificial Dye
+industrialforegoing:artificial_dye:8, 薄灰色§r Artificial Dye
+industrialforegoing:artificial_dye:9, 青緑色§r Artificial Dye
+industrialforegoing:artificial_dye:10, 紫色§r Artificial Dye
+industrialforegoing:artificial_dye:11, 青色§r Artificial Dye
+industrialforegoing:artificial_dye:12, 茶色§r Artificial Dye
+industrialforegoing:artificial_dye:13, 緑色§r Artificial Dye
+industrialforegoing:artificial_dye:14, 赤色§r Artificial Dye
+industrialforegoing:artificial_dye:15, 黒色§r Artificial Dye
+industrialforegoing:conveyor:0, 白色§r Conveyor Belt
+industrialforegoing:conveyor:1, 橙色§r Conveyor Belt
+industrialforegoing:conveyor:2, 赤紫色§r Conveyor Belt
+industrialforegoing:conveyor:3, 空色§r Conveyor Belt
+industrialforegoing:conveyor:4, 黄色§r Conveyor Belt
+industrialforegoing:conveyor:5, 黄緑色§r Conveyor Belt
+industrialforegoing:conveyor:6, 桃色§r Conveyor Belt
+industrialforegoing:conveyor:7, 灰色§r Conveyor Belt
+industrialforegoing:conveyor:8, 薄灰色§r Conveyor Belt
+industrialforegoing:conveyor:9, 青緑色§r Conveyor Belt
+industrialforegoing:conveyor:10, 紫色§r Conveyor Belt
+industrialforegoing:conveyor:11, 青色§r Conveyor Belt
+industrialforegoing:conveyor:12, 茶色§r Conveyor Belt
+industrialforegoing:conveyor:13, 緑色§r Conveyor Belt
+industrialforegoing:conveyor:14, 赤色§r Conveyor Belt
+industrialforegoing:conveyor:15, 黒色§r Conveyor Belt
+industrialforegoing:black_hole_label, Black Hole Label
+infinitychest:infinitychest, 20億チェスト

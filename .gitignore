@@ -1,10 +1,10 @@
 *
 !.gitignore
 !/config
-!/config/*
+!/config/**/*
 /config/splash.properties
 !/mods
-!/mods/*
+!/mods/**/*
 !README.md
 
 # mac

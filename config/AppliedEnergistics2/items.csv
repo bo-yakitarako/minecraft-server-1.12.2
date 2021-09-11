@@ -645,6 +645,621 @@ minecraft:record_11, レコード
 minecraft:record_wait, レコード
 chickenchunks:chunk_loader:0, チャンクローダー
 chickenchunks:chunk_loader:1, スポットローダー
+thermalfoundation:ore:0, 銅鉱石
+thermalfoundation:ore:1, 錫鉱石
+thermalfoundation:ore:2, 銀鉱石
+thermalfoundation:ore:3, 鉛鉱石
+thermalfoundation:ore:4, アルミニウム鉱石
+thermalfoundation:ore:5, ニッケル鉱石
+thermalfoundation:ore:6, プラチナ鉱石
+thermalfoundation:ore:7, イリジウム鉱石
+thermalfoundation:ore:8, マナ含浸鉱石
+thermalfoundation:ore_fluid:0, 含油砂
+thermalfoundation:ore_fluid:1, 含油頁岩
+thermalfoundation:ore_fluid:2, 励起レッドストーン鉱石
+thermalfoundation:ore_fluid:3, 活性化ネザーラック
+thermalfoundation:ore_fluid:4, 共振エンドストーン
+thermalfoundation:ore_fluid:5, 含油砂
+thermalfoundation:storage:0, 銅ブロック
+thermalfoundation:storage:1, 錫ブロック
+thermalfoundation:storage:2, 銀ブロック
+thermalfoundation:storage:3, 鉛ブロック
+thermalfoundation:storage:4, アルミニウムブロック
+thermalfoundation:storage:5, ニッケルブロック
+thermalfoundation:storage:6, プラチナブロック
+thermalfoundation:storage:7, イリジウムブロック
+thermalfoundation:storage:8, マナ含浸金属ブロック
+thermalfoundation:storage_alloy:0, 鋼鉄ブロック
+thermalfoundation:storage_alloy:1, エレクトラムブロック
+thermalfoundation:storage_alloy:2, インバーブロック
+thermalfoundation:storage_alloy:3, 青銅ブロック
+thermalfoundation:storage_alloy:4, コンスタンタンブロック
+thermalfoundation:storage_alloy:5, シグナルムブロック
+thermalfoundation:storage_alloy:6, ルミウムブロック
+thermalfoundation:storage_alloy:7, エンダリウムブロック
+thermalfoundation:storage_resource:0, 木炭ブロック
+thermalfoundation:storage_resource:1, 石炭コークスブロック
+thermalfoundation:glass:0, 強化銅ガラス
+thermalfoundation:glass:1, 強化錫ガラス
+thermalfoundation:glass:2, 強化銀ガラス
+thermalfoundation:glass:3, 強化ガラス
+thermalfoundation:glass:4, 強化アルミニウムガラス
+thermalfoundation:glass:5, 強化ニッケルガラス
+thermalfoundation:glass:6, 強化プラチナガラス
+thermalfoundation:glass:7, 強化イリジウムガラス
+thermalfoundation:glass:8, 強化マナ含浸ガラス
+thermalfoundation:glass_alloy:0, 強化鋼鉄ガラス
+thermalfoundation:glass_alloy:1, 強化エレクトラムガラス
+thermalfoundation:glass_alloy:2, 強化インバーガラス
+thermalfoundation:glass_alloy:3, 強化青銅ガラス
+thermalfoundation:glass_alloy:4, 強化コンスタンタンガラス
+thermalfoundation:glass_alloy:5, 強化シグナルムガラス
+thermalfoundation:glass_alloy:6, 強化ルミウムガラス
+thermalfoundation:glass_alloy:7, 強化エンダリウムガラス
+thermalfoundation:rockwool:0, 黒色の岩綿
+thermalfoundation:rockwool:1, 赤色の岩綿
+thermalfoundation:rockwool:2, 緑色の岩綿
+thermalfoundation:rockwool:3, 茶色の岩綿
+thermalfoundation:rockwool:4, 青色の岩綿
+thermalfoundation:rockwool:5, 紫色の岩綿
+thermalfoundation:rockwool:6, 青緑色の岩綿
+thermalfoundation:rockwool:7, 薄灰色の岩綿
+thermalfoundation:rockwool:8, 灰色の岩綿
+thermalfoundation:rockwool:9, 桃色の岩綿
+thermalfoundation:rockwool:10, 黄緑色の岩綿
+thermalfoundation:rockwool:11, 黄色の岩綿
+thermalfoundation:rockwool:12, 空色の岩綿
+thermalfoundation:rockwool:13, 赤紫色の岩綿
+thermalfoundation:rockwool:14, 橙色の岩綿
+thermalfoundation:rockwool:15, 白色の岩綿
+thermalfoundation:wrench:0, クレセントハンマー
+thermalfoundation:meter:0, マルチメータ
+thermalfoundation:upgrade:0, ハーデンドアップグレード
+thermalfoundation:upgrade:1, レインフォースドアップグレード
+thermalfoundation:upgrade:2, シグナルムアップグレード
+thermalfoundation:upgrade:3, レゾナントアップグレード
+thermalfoundation:upgrade:33, レインフォースドランク化キット
+thermalfoundation:upgrade:34, シグナルムランク化キット
+thermalfoundation:upgrade:35, レゾナントランク化キット
+thermalfoundation:upgrade:256, クリエイティブ化キット
+thermalfoundation:security:0, シグナルム安全錠
+thermalfoundation:diagram_redprint, レッドプリント
+thermalfoundation:tome_lexicon, 鍛冶目録
+thermalfoundation:tome_experience, 知識教典
+thermalfoundation:coin:0, 鉄のコイン
+thermalfoundation:coin:1, 金のコイン
+thermalfoundation:coin:64, 銅のコイン
+thermalfoundation:coin:65, 錫のコイン
+thermalfoundation:coin:66, 銀のコイン
+thermalfoundation:coin:67, 鉛のコイン
+thermalfoundation:coin:68, アルミニウムのコイン
+thermalfoundation:coin:69, ニッケルのコイン
+thermalfoundation:coin:70, プラチナのコイン
+thermalfoundation:coin:71, イリジウムのコイン
+thermalfoundation:coin:72, マナ含浸金属のコイン
+thermalfoundation:coin:96, 鉄のコイン
+thermalfoundation:coin:97, エレクトラムのコイン
+thermalfoundation:coin:98, インバーのコイン
+thermalfoundation:coin:99, 青銅のコイン
+thermalfoundation:coin:100, コンスタンタンのコイン
+thermalfoundation:coin:101, シグナルムのコイン
+thermalfoundation:coin:102, ルミウムのコイン
+thermalfoundation:coin:103, エンダリウムのコイン
+thermalfoundation:fertilizer:0, フィト・グロー
+thermalfoundation:fertilizer:1, リッチ フィト・グロー
+thermalfoundation:fertilizer:2, フラックス フィト・グロー
+thermalfoundation:bait:0, アクア・チャウ
+thermalfoundation:bait:1, リッチ アクア・チャウ
+thermalfoundation:bait:2, フラックス アクア・チャウ
+thermalfoundation:dye:0, 黒色の顔料
+thermalfoundation:dye:1, 赤色の顔料
+thermalfoundation:dye:2, 緑色の顔料
+thermalfoundation:dye:3, 茶色の顔料
+thermalfoundation:dye:4, 青色の顔料
+thermalfoundation:dye:5, 紫色の顔料
+thermalfoundation:dye:6, 青緑色の顔料
+thermalfoundation:dye:7, 薄灰色の顔料
+thermalfoundation:dye:8, 灰色の顔料
+thermalfoundation:dye:9, 桃色の顔料
+thermalfoundation:dye:10, 黄緑色の顔料
+thermalfoundation:dye:11, 黄色の顔料
+thermalfoundation:dye:12, 空色の顔料
+thermalfoundation:dye:13, 赤紫色の顔料
+thermalfoundation:dye:14, 橙色の顔料
+thermalfoundation:dye:15, 白色の顔料
+thermalfoundation:material:0, 鉄の粉
+thermalfoundation:material:1, 金の粉
+thermalfoundation:material:16, ダイヤモンド塊
+thermalfoundation:material:17, エメラルド塊
+thermalfoundation:material:22, 木の歯車
+thermalfoundation:material:23, 石の歯車
+thermalfoundation:material:24, 鉄の歯車
+thermalfoundation:material:25, 金の歯車
+thermalfoundation:material:26, ダイヤの歯車
+thermalfoundation:material:27, エメラルドの歯車
+thermalfoundation:material:32, 鉄のプレート
+thermalfoundation:material:33, 金のプレート
+thermalfoundation:material:64, 銅の粉
+thermalfoundation:material:65, 錫の粉
+thermalfoundation:material:66, 銀の粉
+thermalfoundation:material:67, 鉛の粉
+thermalfoundation:material:68, アルミニウムの粉
+thermalfoundation:material:69, ニッケルの粉
+thermalfoundation:material:70, プラチナの粉
+thermalfoundation:material:71, イリジウムの粉
+thermalfoundation:material:72, マナ含浸金属の粉
+thermalfoundation:material:96, 鋼鉄の粉
+thermalfoundation:material:97, エレクトラムの粉
+thermalfoundation:material:98, インバーの粉
+thermalfoundation:material:99, 青銅の粉
+thermalfoundation:material:100, コンスタンタンの粉
+thermalfoundation:material:101, シグナルムの粉
+thermalfoundation:material:102, ルミウムの粉
+thermalfoundation:material:103, エンダリウムの粉
+thermalfoundation:material:128, 銅インゴット
+thermalfoundation:material:129, 錫インゴット
+thermalfoundation:material:130, 銀インゴット
+thermalfoundation:material:131, 鉛インゴット
+thermalfoundation:material:132, アルミニウムインゴット
+thermalfoundation:material:133, ニッケルインゴット
+thermalfoundation:material:134, プラチナインゴット
+thermalfoundation:material:135, イリジウムインゴット
+thermalfoundation:material:136, マナ含浸金属インゴット
+thermalfoundation:material:160, 鋼鉄インゴット
+thermalfoundation:material:161, エレクトラムインゴット
+thermalfoundation:material:162, インバーインゴット
+thermalfoundation:material:163, 青銅インゴット
+thermalfoundation:material:164, コンスタンタンインゴット
+thermalfoundation:material:165, シグナルムインゴット
+thermalfoundation:material:166, ルミウムインゴット
+thermalfoundation:material:167, エンダリウムインゴット
+thermalfoundation:material:192, 銅塊
+thermalfoundation:material:193, 錫塊
+thermalfoundation:material:194, 銀塊
+thermalfoundation:material:195, 鉛塊
+thermalfoundation:material:196, アルミニウム塊
+thermalfoundation:material:197, ニッケル塊
+thermalfoundation:material:198, プラチナ塊
+thermalfoundation:material:199, イリジウム塊
+thermalfoundation:material:200, マナ含浸金属塊
+thermalfoundation:material:224, 鋼鉄塊
+thermalfoundation:material:225, エレクトラム塊
+thermalfoundation:material:226, インバー塊
+thermalfoundation:material:227, 青銅塊
+thermalfoundation:material:228, コンスタンタン塊
+thermalfoundation:material:229, シグナルム塊
+thermalfoundation:material:230, ルミウム塊
+thermalfoundation:material:231, エンダリウム塊
+thermalfoundation:material:256, 銅の歯車
+thermalfoundation:material:257, 錫の歯車
+thermalfoundation:material:258, 銀の歯車
+thermalfoundation:material:259, 鉛の歯車
+thermalfoundation:material:260, アルミニウムの歯車
+thermalfoundation:material:261, ニッケルの歯車
+thermalfoundation:material:262, プラチナの歯車
+thermalfoundation:material:263, イリジウムの歯車
+thermalfoundation:material:264, マナ含浸金属の歯車
+thermalfoundation:material:288, 鋼鉄の歯車
+thermalfoundation:material:289, エレクトラムの歯車
+thermalfoundation:material:290, インバーの歯車
+thermalfoundation:material:291, 青銅の歯車
+thermalfoundation:material:292, コンスタンタンの歯車
+thermalfoundation:material:293, シグナルムの歯車
+thermalfoundation:material:294, ルミウムの歯車
+thermalfoundation:material:295, エンダリウムの歯車
+thermalfoundation:material:320, 銅のプレート
+thermalfoundation:material:321, 錫のプレート
+thermalfoundation:material:322, 銀のプレート
+thermalfoundation:material:323, 鉛のプレート
+thermalfoundation:material:324, アルミニウムのプレート
+thermalfoundation:material:325, ニッケルのプレート
+thermalfoundation:material:326, プラチナのプレート
+thermalfoundation:material:327, イリジウムのプレート
+thermalfoundation:material:328, マナ含浸金属のプレート
+thermalfoundation:material:352, 鋼鉄のプレート
+thermalfoundation:material:353, エレクトラムのプレート
+thermalfoundation:material:354, インバーのプレート
+thermalfoundation:material:355, 青銅のプレート
+thermalfoundation:material:356, コンスタンタンのプレート
+thermalfoundation:material:357, シグナルムのプレート
+thermalfoundation:material:358, ルミウムのプレート
+thermalfoundation:material:359, エンダリウムのプレート
+thermalfoundation:material:512, レッドストーン自律機構
+thermalfoundation:material:513, レッドストーン受信コイル
+thermalfoundation:material:514, レッドストーン送信コイル
+thermalfoundation:material:515, レッドストーン伝導コイル
+thermalfoundation:material:640, ツールケーシング
+thermalfoundation:material:656, ドリルの頭
+thermalfoundation:material:657, のこぎりの刃
+thermalfoundation:material:768, 石炭の粉
+thermalfoundation:material:769, 木炭の粉
+thermalfoundation:material:770, 黒曜石の粉
+thermalfoundation:material:771, 硫黄
+thermalfoundation:material:772, 硝石
+thermalfoundation:material:800, おがくず
+thermalfoundation:material:801, 圧縮したおがくず
+thermalfoundation:material:802, 石炭コークス
+thermalfoundation:material:816, どろどろのバイオマス
+thermalfoundation:material:817, 豊かなバイオマス
+thermalfoundation:material:818, どろどろのバイオブレンド
+thermalfoundation:material:819, 豊かなバイオブレンド
+thermalfoundation:material:832, 樹脂
+thermalfoundation:material:833, タール
+thermalfoundation:material:864, 鉱滓
+thermalfoundation:material:865, 濃い鉱滓
+thermalfoundation:material:866, 辰砂
+thermalfoundation:material:892, 瀝青
+thermalfoundation:material:893, 励起クラスレート
+thermalfoundation:material:894, 活性化クラスレート
+thermalfoundation:material:895, レゾナントクラスレート
+thermalfoundation:material:1024, パイロジウムの粉
+thermalfoundation:material:1025, クリオジウムの粉
+thermalfoundation:material:1026, エアロジウムの粉
+thermalfoundation:material:1027, ペトロジウムの粉
+thermalfoundation:material:1028, マナの粉
+thermalfoundation:material:2048, ブリーズロッド
+thermalfoundation:material:2049, ブリーズパウダー
+thermalfoundation:material:2050, ブリッツロッド
+thermalfoundation:material:2051, ブリッツパウダー
+thermalfoundation:material:2052, バザルツロッド
+thermalfoundation:material:2053, バザルツパウダー
+thermalfoundation:geode:0, 晶洞石
+thermalfoundation:armor.helmet_copper, 銅のヘルメット
+thermalfoundation:armor.plate_copper, 銅のチェストプレート
+thermalfoundation:armor.legs_copper, 銅のレギンス
+thermalfoundation:armor.boots_copper, 銅のブーツ
+thermalfoundation:armor.helmet_tin, 錫のヘルメット
+thermalfoundation:armor.plate_tin, 錫のチェストプレート
+thermalfoundation:armor.legs_tin, 錫のレギンス
+thermalfoundation:armor.boots_tin, 錫のブーツ
+thermalfoundation:armor.helmet_silver, 銀のヘルメット
+thermalfoundation:armor.plate_silver, 銀のチェストプレート
+thermalfoundation:armor.legs_silver, 銀のレギンス
+thermalfoundation:armor.boots_silver, 銀のブーツ
+thermalfoundation:armor.helmet_lead, 鉛のヘルメット
+thermalfoundation:armor.plate_lead, 鉛のチェストプレート
+thermalfoundation:armor.legs_lead, 鉛のレギンス
+thermalfoundation:armor.boots_lead, 鉛のブーツ
+thermalfoundation:armor.helmet_aluminum, アルミニウムのヘルメット
+thermalfoundation:armor.plate_aluminum, アルミニウムチェストプレート
+thermalfoundation:armor.legs_aluminum, アルミニウムのレギンス
+thermalfoundation:armor.boots_aluminum, アルミニウムのブーツ
+thermalfoundation:armor.helmet_nickel, ニッケルのヘルメット
+thermalfoundation:armor.plate_nickel, ニッケルのチェストプレート
+thermalfoundation:armor.legs_nickel, ニッケルのレギンス
+thermalfoundation:armor.boots_nickel, ニッケルのブーツ
+thermalfoundation:armor.helmet_platinum, プラチナのヘルメット
+thermalfoundation:armor.plate_platinum, プラチナのチェストプレート
+thermalfoundation:armor.legs_platinum, プラチナのレギンス
+thermalfoundation:armor.boots_platinum, プラチナのブーツ
+thermalfoundation:armor.helmet_steel, 鋼鉄のヘルメット
+thermalfoundation:armor.plate_steel, 鋼鉄のチェストプレート
+thermalfoundation:armor.legs_steel, 鋼鉄のレギンス
+thermalfoundation:armor.boots_steel, 鋼鉄のブーツ
+thermalfoundation:armor.helmet_electrum, エレクトラムのヘルメット
+thermalfoundation:armor.plate_electrum, エレクトラムのチェストプレート
+thermalfoundation:armor.legs_electrum, エレクトラムのレギンス
+thermalfoundation:armor.boots_electrum, エレクトラムのブーツ
+thermalfoundation:armor.helmet_invar, インバーのヘルメット
+thermalfoundation:armor.plate_invar, インバーのチェストプレート
+thermalfoundation:armor.legs_invar, インバーのレギンス
+thermalfoundation:armor.boots_invar, インバーのブーツ
+thermalfoundation:armor.helmet_bronze, 青銅のヘルメット
+thermalfoundation:armor.plate_bronze, 青銅のチェストプレート
+thermalfoundation:armor.legs_bronze, 青銅のレギンス
+thermalfoundation:armor.boots_bronze, 青銅のブーツ
+thermalfoundation:armor.helmet_constantan, コンスタンタンのヘルメット
+thermalfoundation:armor.plate_constantan, コンスタンタンのチェストプレート
+thermalfoundation:armor.legs_constantan, コンスタンタンのレギンス
+thermalfoundation:armor.boots_constantan, コンスタンタンのブーツ
+thermalfoundation:tool.sword_copper, 銅の剣
+thermalfoundation:tool.shovel_copper, 銅のシャベル
+thermalfoundation:tool.pickaxe_copper, 銅のツルハシ
+thermalfoundation:tool.axe_copper, 銅の斧
+thermalfoundation:tool.hoe_copper, 銅のクワ
+thermalfoundation:tool.bow_copper, 銅の増強弓
+thermalfoundation:tool.fishing_rod_copper, 銅の釣り竿
+thermalfoundation:tool.shears_copper, 銅のハサミ
+thermalfoundation:tool.sickle_copper, 銅の草刈り鎌
+thermalfoundation:tool.hammer_copper, 銅のハンマー
+thermalfoundation:tool.excavator_copper, 銅のエクスカベーター
+thermalfoundation:tool.shield_copper, 銅の盾
+thermalfoundation:tool.sword_tin, 錫の剣
+thermalfoundation:tool.shovel_tin, 錫のシャベル
+thermalfoundation:tool.pickaxe_tin, 錫のツルハシ
+thermalfoundation:tool.axe_tin, 錫の斧
+thermalfoundation:tool.hoe_tin, 錫のクワ
+thermalfoundation:tool.bow_tin, 錫の増強弓
+thermalfoundation:tool.fishing_rod_tin, 錫の釣り竿
+thermalfoundation:tool.shears_tin, 錫のハサミ
+thermalfoundation:tool.sickle_tin, 錫の草刈り鎌
+thermalfoundation:tool.hammer_tin, 錫のハンマー
+thermalfoundation:tool.excavator_tin, 錫のエクスカベーター
+thermalfoundation:tool.shield_tin, 錫の盾
+thermalfoundation:tool.sword_silver, 銀の剣
+thermalfoundation:tool.shovel_silver, 銀のシャベル
+thermalfoundation:tool.pickaxe_silver, 銀のツルハシ
+thermalfoundation:tool.axe_silver, 銀の斧
+thermalfoundation:tool.hoe_silver, 銀のクワ
+thermalfoundation:tool.bow_silver, 銀の増強弓
+thermalfoundation:tool.fishing_rod_silver, 銀の釣り竿
+thermalfoundation:tool.shears_silver, 銀のハサミ
+thermalfoundation:tool.sickle_silver, 銀の草刈り鎌
+thermalfoundation:tool.hammer_silver, 銀のハンマー
+thermalfoundation:tool.excavator_silver, 銀のエクスカベーター
+thermalfoundation:tool.shield_silver, 銀の盾
+thermalfoundation:tool.sword_lead, 鉛の剣
+thermalfoundation:tool.shovel_lead, 鉛のシャベル
+thermalfoundation:tool.pickaxe_lead, 鉛のツルハシ
+thermalfoundation:tool.axe_lead, 鉛の斧
+thermalfoundation:tool.hoe_lead, 鉛のクワ
+thermalfoundation:tool.bow_lead, 鉛の増強弓
+thermalfoundation:tool.fishing_rod_lead, 鉛の釣り竿
+thermalfoundation:tool.shears_lead, 鉛のハサミ
+thermalfoundation:tool.sickle_lead, 鉛の草刈り鎌
+thermalfoundation:tool.hammer_lead, 鉛のハンマー
+thermalfoundation:tool.excavator_lead, 鉛のエクスカベーター
+thermalfoundation:tool.shield_lead, 鉛の盾
+thermalfoundation:tool.sword_aluminum, アルミニウムの剣
+thermalfoundation:tool.shovel_aluminum, アルミニウムのシャベル
+thermalfoundation:tool.pickaxe_aluminum, アルミニウムのツルハシ
+thermalfoundation:tool.axe_aluminum, アルミニウムの斧
+thermalfoundation:tool.hoe_aluminum, アルミニウムのクワ
+thermalfoundation:tool.bow_aluminum, アルミニウムの増強弓
+thermalfoundation:tool.fishing_rod_aluminum, アルミニウムの釣り竿
+thermalfoundation:tool.shears_aluminum, アルミニウムのハサミ
+thermalfoundation:tool.sickle_aluminum, アルミニウムの草刈り鎌
+thermalfoundation:tool.hammer_aluminum, アルミニウムのハンマー
+thermalfoundation:tool.excavator_aluminum, アルミニウムのエクスカベーター
+thermalfoundation:tool.shield_aluminum, アルミニウムの盾
+thermalfoundation:tool.sword_nickel, ニッケルの剣
+thermalfoundation:tool.shovel_nickel, ニッケルのシャベル
+thermalfoundation:tool.pickaxe_nickel, ニッケルのツルハシ
+thermalfoundation:tool.axe_nickel, ニッケルの斧
+thermalfoundation:tool.hoe_nickel, ニッケルのクワ
+thermalfoundation:tool.bow_nickel, ニッケルの増強弓
+thermalfoundation:tool.fishing_rod_nickel, ニッケルの釣り竿
+thermalfoundation:tool.shears_nickel, ニッケルのハサミ
+thermalfoundation:tool.sickle_nickel, ニッケルの草刈り鎌
+thermalfoundation:tool.hammer_nickel, ニッケルのハンマー
+thermalfoundation:tool.excavator_nickel, ニッケルのエクスカベーター
+thermalfoundation:tool.shield_nickel, ニッケルの盾
+thermalfoundation:tool.sword_platinum, プラチナの剣
+thermalfoundation:tool.shovel_platinum, プラチナのシャベル
+thermalfoundation:tool.pickaxe_platinum, プラチナのツルハシ
+thermalfoundation:tool.axe_platinum, プラチナの斧
+thermalfoundation:tool.hoe_platinum, プラチナのクワ
+thermalfoundation:tool.bow_platinum, プラチナの増強弓
+thermalfoundation:tool.fishing_rod_platinum, プラチナの釣り竿
+thermalfoundation:tool.shears_platinum, プラチナのハサミ
+thermalfoundation:tool.sickle_platinum, プラチナの草刈り鎌
+thermalfoundation:tool.hammer_platinum, プラチナのハンマー
+thermalfoundation:tool.excavator_platinum, プラチナのエクスカベーター
+thermalfoundation:tool.shield_platinum, プラチナの盾
+thermalfoundation:tool.sword_steel, 鋼鉄の剣
+thermalfoundation:tool.shovel_steel, 鋼鉄のシャベル
+thermalfoundation:tool.pickaxe_steel, 鋼鉄のツルハシ
+thermalfoundation:tool.axe_steel, 鋼鉄の斧
+thermalfoundation:tool.hoe_steel, 鋼鉄のクワ
+thermalfoundation:tool.bow_steel, 鋼鉄の増強弓
+thermalfoundation:tool.fishing_rod_steel, 鋼鉄の釣り竿
+thermalfoundation:tool.shears_steel, 鋼鉄のハサミ
+thermalfoundation:tool.sickle_steel, 鋼鉄の草刈り鎌
+thermalfoundation:tool.hammer_steel, 鋼鉄のハンマー
+thermalfoundation:tool.excavator_steel, 鋼鉄のエクスカベーター
+thermalfoundation:tool.shield_steel, 鋼鉄の盾
+thermalfoundation:tool.sword_electrum, エレクトラムの剣
+thermalfoundation:tool.shovel_electrum, エレクトラムのシャベル
+thermalfoundation:tool.pickaxe_electrum, エレクトラムのツルハシ
+thermalfoundation:tool.axe_electrum, エレクトラムの斧
+thermalfoundation:tool.hoe_electrum, エレクトラムのクワ
+thermalfoundation:tool.bow_electrum, エレクトラムの増強弓
+thermalfoundation:tool.fishing_rod_electrum, エレクトラムの釣り竿
+thermalfoundation:tool.shears_electrum, エレクトラムのハサミ
+thermalfoundation:tool.sickle_electrum, エレクトラムの草刈り鎌
+thermalfoundation:tool.hammer_electrum, エレクトラムのハンマー
+thermalfoundation:tool.excavator_electrum, エレクトラムのエクスカベーター
+thermalfoundation:tool.shield_electrum, エレクトラムの盾
+thermalfoundation:tool.sword_invar, インバーの剣
+thermalfoundation:tool.shovel_invar, インバーのシャベル
+thermalfoundation:tool.pickaxe_invar, インバーのツルハシ
+thermalfoundation:tool.axe_invar, インバーの斧
+thermalfoundation:tool.hoe_invar, インバーのクワ
+thermalfoundation:tool.bow_invar, インバーの増強弓
+thermalfoundation:tool.fishing_rod_invar, インバーの釣り竿
+thermalfoundation:tool.shears_invar, インバーのハサミ
+thermalfoundation:tool.sickle_invar, インバーの草刈り鎌
+thermalfoundation:tool.hammer_invar, インバーのハンマー
+thermalfoundation:tool.excavator_invar, インバーのエクスカベーター
+thermalfoundation:tool.shield_invar, インバーの盾
+thermalfoundation:tool.sword_bronze, 青銅の剣
+thermalfoundation:tool.shovel_bronze, 青銅のシャベル
+thermalfoundation:tool.pickaxe_bronze, 青銅のツルハシ
+thermalfoundation:tool.axe_bronze, 青銅の斧
+thermalfoundation:tool.hoe_bronze, 青銅のクワ
+thermalfoundation:tool.bow_bronze, 青銅の増強弓
+thermalfoundation:tool.fishing_rod_bronze, 青銅の釣り竿
+thermalfoundation:tool.shears_bronze, 青銅のハサミ
+thermalfoundation:tool.sickle_bronze, 青銅の草刈り鎌
+thermalfoundation:tool.hammer_bronze, 青銅のハンマー
+thermalfoundation:tool.excavator_bronze, 青銅のエクスカベーター
+thermalfoundation:tool.shield_bronze, 青銅の盾
+thermalfoundation:tool.sword_constantan, コンスタンタンの剣
+thermalfoundation:tool.shovel_constantan, コンスタンタンのシャベル
+thermalfoundation:tool.pickaxe_constantan, コンスタンタンのツルハシ
+thermalfoundation:tool.axe_constantan, コンスタンタンの斧
+thermalfoundation:tool.hoe_constantan, コンスタンタンのクワ
+thermalfoundation:tool.bow_constantan, コンスタンタンの増強弓
+thermalfoundation:tool.fishing_rod_constantan, コンスタンタンの釣り竿
+thermalfoundation:tool.shears_constantan, コンスタンタンのハサミ
+thermalfoundation:tool.sickle_constantan, コンスタンタンの草刈り鎌
+thermalfoundation:tool.hammer_constantan, コンスタンタンのハンマー
+thermalfoundation:tool.excavator_constantan, コンスタンタンのエクスカベーター
+thermalfoundation:tool.shield_constantan, コンスタンタンの盾
+thermalfoundation:tool.shears_wood, 木のハサミ
+thermalfoundation:tool.sickle_wood, 木の草刈り鎌
+thermalfoundation:tool.hammer_wood, 木のハンマー
+thermalfoundation:tool.excavator_wood, 木のエクスカベーター
+thermalfoundation:tool.bow_stone, 石の増強弓
+thermalfoundation:tool.fishing_rod_stone, 石の釣り竿
+thermalfoundation:tool.shears_stone, 石のハサミ
+thermalfoundation:tool.sickle_stone, 石の草刈り鎌
+thermalfoundation:tool.hammer_stone, 石のハンマー
+thermalfoundation:tool.excavator_stone, 石のエクスカベーター
+thermalfoundation:tool.shield_stone, 石の盾
+thermalfoundation:tool.bow_iron, 鉄の増強弓
+thermalfoundation:tool.fishing_rod_iron, 鉄の釣り竿
+thermalfoundation:tool.sickle_iron, 鉄の草刈り鎌
+thermalfoundation:tool.hammer_iron, 鉄のハンマー
+thermalfoundation:tool.excavator_iron, 鉄のエクスカベーター
+thermalfoundation:tool.shield_iron, 鉄の盾
+thermalfoundation:tool.bow_diamond, ダイヤの増強弓
+thermalfoundation:tool.fishing_rod_diamond, ダイヤの釣り竿
+thermalfoundation:tool.shears_diamond, ダイヤのハサミ
+thermalfoundation:tool.sickle_diamond, ダイヤの草刈り鎌
+thermalfoundation:tool.hammer_diamond, ダイヤのハンマー
+thermalfoundation:tool.excavator_diamond, ダイヤのエクスカベーター
+thermalfoundation:tool.shield_diamond, ダイヤの盾
+thermalfoundation:tool.bow_gold, 金の増強弓
+thermalfoundation:tool.fishing_rod_gold, 金の釣り竿
+thermalfoundation:tool.shears_gold, 金のハサミ
+thermalfoundation:tool.sickle_gold, 金の草刈り鎌
+thermalfoundation:tool.hammer_gold, 金のハンマー
+thermalfoundation:tool.excavator_gold, 金のエクスカベーター
+thermalfoundation:tool.shield_gold, 金の盾
+thermalfoundation:horse_armor_copper, 銅の馬鎧
+thermalfoundation:horse_armor_tin, 錫の馬鎧
+thermalfoundation:horse_armor_silver, 銀の馬鎧
+thermalfoundation:horse_armor_lead, 鉛の馬鎧
+thermalfoundation:horse_armor_aluminum, アルミニウムの馬鎧
+thermalfoundation:horse_armor_nickel, ニッケルの馬鎧
+thermalfoundation:horse_armor_platinum, プラチナの馬鎧
+thermalfoundation:horse_armor_steel, 鋼鉄の馬鎧
+thermalfoundation:horse_armor_electrum, エレクトラムの馬鎧
+thermalfoundation:horse_armor_invar, インバーの馬鎧
+thermalfoundation:horse_armor_bronze, 青銅の馬鎧
+thermalfoundation:horse_armor_constantan, コンスタンタンの馬鎧
+thermalfoundation:fluid_crude_oil, 原油
+thermalfoundation:fluid_redstone, 励起レッドストーン
+thermalfoundation:fluid_glowstone, 活性化グローストーン
+thermalfoundation:fluid_ender, 共鳴エンダーパール
+thermalfoundation:fluid_pyrotheum, 燃え盛るパイロジウム
+thermalfoundation:fluid_cryotheum, 凍て付くクリオジウム
+thermalfoundation:fluid_aerotheum, 清風のエアロジウム
+thermalfoundation:fluid_petrotheum, 地動のペトロジウム
+thermalfoundation:fluid_mana, 原初のマナ
+thermalexpansion:machine:0, レッドストーンかまど (ベーシック)
+thermalexpansion:machine:1, 粉砕機 (ベーシック)
+thermalexpansion:machine:2, 製材機 (ベーシック)
+thermalexpansion:machine:3, 誘導加熱炉 (ベーシック)
+thermalexpansion:machine:4, 植物成長促進機 (ベーシック)
+thermalexpansion:machine:5, 圧縮機 (ベーシック)
+thermalexpansion:machine:6, 溶融るつぼ (ベーシック)
+thermalexpansion:machine:7, 液体精製機 (ベーシック)
+thermalexpansion:machine:8, 液体転移機 (ベーシック)
+thermalexpansion:machine:9, エネルギー充填機 (ベーシック)
+thermalexpansion:machine:10, 遠心分離器 (ベーシック)
+thermalexpansion:machine:11, 自動クラフト機 (ベーシック)
+thermalexpansion:machine:12, 錬金的醸造機 (ベーシック)
+thermalexpansion:machine:13, エンチャント刻印機 (ベーシック)
+thermalexpansion:machine:14, 液体氷結機 (ベーシック)
+thermalexpansion:machine:15, 火成岩生成機 (ベーシック)
+thermalexpansion:device:0, 水生成器
+thermalexpansion:device:1, 消滅器
+thermalexpansion:device:2, 吸熱器
+thermalexpansion:device:3, 樹液抽出器
+thermalexpansion:device:4, 魚類捕獲器
+thermalexpansion:device:5, アイテム分配器
+thermalexpansion:device:6, 液体分配器
+thermalexpansion:device:7, 辞書等価交換器
+thermalexpansion:device:8, 経験値収集器
+thermalexpansion:device:9, ポーション散布器
+thermalexpansion:device:10, 分割結合器
+thermalexpansion:device:11, 生物捕獲器
+thermalexpansion:device:12, アイテム吸引器
+thermalexpansion:dynamo:0, 蒸気発電機 (ベーシック)
+thermalexpansion:dynamo:1, 高温発電機 (ベーシック)
+thermalexpansion:dynamo:2, 圧縮発電機 (ベーシック)
+thermalexpansion:dynamo:3, 反応発電機 (ベーシック)
+thermalexpansion:dynamo:4, 抽出発電機 (ベーシック)
+thermalexpansion:dynamo:5, 貨幣発電機 (ベーシック)
+thermalexpansion:cell:0, エネルギーセル (ベーシック)
+thermalexpansion:tank:0, 携帯タンク (ベーシック)
+thermalexpansion:cache:0, キャッシュ (ベーシック)
+thermalexpansion:strongbox:0, 金庫 (ベーシック)
+thermalexpansion:capacitor:0, フラックスキャパシタ (ベーシック)
+thermalexpansion:capacitor:1, フラックスキャパシタ (ハーデンド)
+thermalexpansion:capacitor:2, フラックスキャパシタ (レインフォースド)
+thermalexpansion:capacitor:3, フラックスキャパシタ (シグナルム)
+thermalexpansion:capacitor:4, フラックスキャパシタ (レゾナント)
+thermalexpansion:capacitor:32000, フラックスキャパシタ (クリエイティブ)
+thermalexpansion:reservoir:0, 水筒 (ベーシック)
+thermalexpansion:reservoir:1, 水筒 (ハーデンド)
+thermalexpansion:reservoir:2, 水筒 (レインフォースド)
+thermalexpansion:reservoir:3, 水筒 (シグナルム)
+thermalexpansion:reservoir:4, 水筒 (レゾナント)
+thermalexpansion:reservoir:32000, 水筒 (クリエイティブ)
+thermalexpansion:satchel:0, サッチェル (ベーシック)
+thermalexpansion:satchel:1, サッチェル (ハーデンド)
+thermalexpansion:satchel:2, サッチェル (レインフォースド)
+thermalexpansion:satchel:3, サッチェル (シグナルム)
+thermalexpansion:satchel:4, サッチェル (レゾナント)
+thermalexpansion:satchel:100, サッチェル (ヴォイド)
+thermalexpansion:satchel:32000, サッチェル (クリエイティブ)
+thermalexpansion:frame:0, 機械フレーム
+thermalexpansion:frame:64, 装置フレーム
+thermalexpansion:frame:128, エネルギーセルフレーム
+thermalexpansion:frame:129, ハーデンドセルフレーム
+thermalexpansion:frame:130, レインフォースドセルフレーム (空)
+thermalexpansion:frame:131, シグナルムセルフレーム (空)
+thermalexpansion:frame:132, レゾナントセルフレーム (空)
+thermalexpansion:frame:146, レインフォースドセルフレーム (充填済み)
+thermalexpansion:frame:147, シグナルムセルフレーム (充填済み)
+thermalexpansion:frame:148, レゾナントセルフレーム (充填済み)
+thermalexpansion:augment:128, オーグメント: 補助受信コイル
+thermalexpansion:augment:129, オーグメント: 補助フィルター
+thermalexpansion:augment:130, オーグメント: 消滅室
+thermalexpansion:augment:256, オーグメント: トリベクション室
+thermalexpansion:augment:257, オーグメント: フラックス陽極酸化
+thermalexpansion:augment:258, オーグメント: 熱分解変換
+thermalexpansion:augment:273, オーグメント: 地動イニシエータ
+thermalexpansion:augment:288, オーグメント: 樹脂漏斗
+thermalexpansion:augment:303, オーグメント: 融剤回収
+thermalexpansion:augment:304, オーグメント: 熱濃縮
+thermalexpansion:augment:320, オーグメント: 栄養素回復
+thermalexpansion:augment:323, オーグメント: 苗木点滴
+thermalexpansion:augment:324, オーグメント: 単一栽培サイクル
+thermalexpansion:augment:336, オーグメント: 貨幣プレス
+thermalexpansion:augment:337, オーグメント: 歯車打ち抜き型
+thermalexpansion:augment:352, オーグメント: 熱伝導ループ
+thermalexpansion:augment:368, オーグメント: 還流塔
+thermalexpansion:augment:369, オーグメント: 錬金的洗練
+thermalexpansion:augment:400, オーグメント: フラックス充電濃縮化
+thermalexpansion:augment:401, オーグメント: フラックス修繕
+thermalexpansion:augment:402, オーグメント: パラボラフラックス連結
+thermalexpansion:augment:416, オーグメント: モーブ処理
+thermalexpansion:augment:432, オーグメント: パターン検証
+thermalexpansion:augment:433, オーグメント: 流体工学
+thermalexpansion:augment:448, オーグメント: 試薬回収
+thermalexpansion:augment:496, オーグメント: 火砕物侵入
+thermalexpansion:augment:497, オーグメント: 砕屑物堆積
+thermalexpansion:augment:512, オーグメント: 補助伝導コイル
+thermalexpansion:augment:513, オーグメント: 燃料触媒
+thermalexpansion:augment:514, オーグメント: コイル導管化転送
+thermalexpansion:augment:515, オーグメント: 発電リミッタ
+thermalexpansion:augment:576, オーグメント: ボイラー化
+thermalexpansion:augment:640, オーグメント: タービン化
+thermalexpansion:augment:656, オーグメント: 等エントロピー貯蔵槽
+thermalexpansion:augment:672, オーグメント: 閉回路冷却
+thermalexpansion:augment:673, オーグメント: 点火プラグ
+thermalexpansion:augment:674, オーグメント: 扇動的マニホールド
+thermalexpansion:augment:688, オーグメント: 四大元素触媒
+thermalexpansion:augment:704, オーグメント: 分離抽出
+thermalexpansion:augment:720, オーグメント: 宝石鑑定
+thermalexpansion:florb:0, フローブ (空§r)
+thermalexpansion:florb:1, 耐熱フローブ (空§r)
+thermalexpansion:morb:0, モーブ (空§r)
+thermalexpansion:morb:1, 再利用可能モーブ (空§r)
 extrautils2:snowglobe:0, Magical Snow Globe
 extrautils2:snowglobe:1, Magical Snow Globe
 extrautils2:wateringcan, Watering Can
@@ -1445,6 +2060,36 @@ ic2:fluid_cell:0, 流体容器
 ic2:fluid_cell:0, 流体容器
 ic2:fluid_cell:0, 流体容器
 ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
+ic2:fluid_cell:0, 流体容器
 ic2:cable:0, 裸銅電線
 ic2:cable:0, 被覆銅電線
 ic2:cable:1, グラスファイバー電線
@@ -1493,6 +2138,223 @@ ic2:pipe:1, Large Steel Pipe
 ic2:cover:0, Pump Attachment (LV)
 ic2:cover:1, Pump Attachment (MV)
 ic2:coke, ic2.coke.name
+openblocks:ladder, Jaded Ladder
+openblocks:guide, Building Guide
+openblocks:builder_guide, Enhanced Building Guide
+openblocks:elevator:0, Elevator
+openblocks:elevator:1, Elevator
+openblocks:elevator:2, Elevator
+openblocks:elevator:3, Elevator
+openblocks:elevator:4, Elevator
+openblocks:elevator:5, Elevator
+openblocks:elevator:6, Elevator
+openblocks:elevator:7, Elevator
+openblocks:elevator:8, Elevator
+openblocks:elevator:9, Elevator
+openblocks:elevator:10, Elevator
+openblocks:elevator:11, Elevator
+openblocks:elevator:12, Elevator
+openblocks:elevator:13, Elevator
+openblocks:elevator:14, Elevator
+openblocks:elevator:15, Elevator
+openblocks:elevator_rotating:0, Rotating Elevator
+openblocks:elevator_rotating:1, Rotating Elevator
+openblocks:elevator_rotating:2, Rotating Elevator
+openblocks:elevator_rotating:3, Rotating Elevator
+openblocks:elevator_rotating:4, Rotating Elevator
+openblocks:elevator_rotating:5, Rotating Elevator
+openblocks:elevator_rotating:6, Rotating Elevator
+openblocks:elevator_rotating:7, Rotating Elevator
+openblocks:elevator_rotating:8, Rotating Elevator
+openblocks:elevator_rotating:9, Rotating Elevator
+openblocks:elevator_rotating:10, Rotating Elevator
+openblocks:elevator_rotating:11, Rotating Elevator
+openblocks:elevator_rotating:12, Rotating Elevator
+openblocks:elevator_rotating:13, Rotating Elevator
+openblocks:elevator_rotating:14, Rotating Elevator
+openblocks:elevator_rotating:15, Rotating Elevator
+openblocks:heal, Healer
+openblocks:target, Target
+openblocks:grave, Grave
+openblocks:flag:5, Flag
+openblocks:tank, Tank
+openblocks:trophy, Trophy
+openblocks:beartrap, Bear Trap
+openblocks:sprinkler, Sprinkler
+openblocks:cannon, Item Cannon
+openblocks:vacuum_hopper, Vacuum Hopper
+openblocks:sponge, Sponge
+openblocks:big_button, Stone Big Button
+openblocks:big_button_wood, Wooden Big Button
+openblocks:imaginary:0, Magic Pencil
+openblocks:imaginary:1, Magic Crayon
+openblocks:imaginary:1, Magic Crayon
+openblocks:imaginary:1, Magic Crayon
+openblocks:imaginary:1, Magic Crayon
+openblocks:imaginary:1, Magic Crayon
+openblocks:imaginary:1, Magic Crayon
+openblocks:imaginary:1, Magic Crayon
+openblocks:imaginary:1, Magic Crayon
+openblocks:imaginary:1, Magic Crayon
+openblocks:imaginary:1, Magic Crayon
+openblocks:imaginary:1, Magic Crayon
+openblocks:imaginary:1, Magic Crayon
+openblocks:imaginary:1, Magic Crayon
+openblocks:imaginary:1, Magic Crayon
+openblocks:imaginary:1, Magic Crayon
+openblocks:imaginary:1, Magic Crayon
+openblocks:fan, Fan
+openblocks:xp_bottler, XP Bottler
+openblocks:village_highlighter, Village Highlighter
+openblocks:path, Path
+openblocks:auto_anvil, Auto Anvil
+openblocks:auto_enchantment_table, Auto Enchantment Table
+openblocks:xp_drain, XP Drain
+openblocks:block_breaker, Block Breaker
+openblocks:block_placer, Block Placer
+openblocks:item_dropper, Item Dropper
+openblocks:rope_ladder, Rope Ladder
+openblocks:donation_station, Donation Station
+openblocks:paint_mixer, Paint Mixer
+openblocks:canvas, Canvas
+openblocks:paint_can, Paint Can
+openblocks:canvas_glass, Canvas
+openblocks:projector, Height Map Projector
+openblocks:drawing_table, Drawing Table
+openblocks:sky:0, Sky Block
+openblocks:sky:1, Sky Block
+openblocks:xp_shower, XP Shower
+openblocks:golden_egg, Golden Egg
+openblocks:scaffolding, Scaffolding
+openblocks:hang_glider, Hang Glider
+openblocks:generic:0, Glider Wing
+openblocks:generic:1, Beam
+openblocks:generic:2, Crane Engine
+openblocks:generic:3, Crane Magnet
+openblocks:generic:5, Line
+openblocks:generic:6, Map Controller Module
+openblocks:generic:7, Map Memory Module
+openblocks:generic:9, Assistant's base
+openblocks:generic:10, Unprepared Stencil
+openblocks:generic:11, Sketching Pencil
+openblocks:luggage, Luggage
+openblocks:sonic_glasses, Sonic Glasses
+openblocks:pencil_glasses:0, Pencil Glasses
+openblocks:crayon_glasses:0, Crayon Glasses
+openblocks:crayon_glasses:0, Crayon Glasses
+openblocks:crayon_glasses:0, Crayon Glasses
+openblocks:crayon_glasses:0, Crayon Glasses
+openblocks:crayon_glasses:0, Crayon Glasses
+openblocks:crayon_glasses:0, Crayon Glasses
+openblocks:crayon_glasses:0, Crayon Glasses
+openblocks:crayon_glasses:0, Crayon Glasses
+openblocks:crayon_glasses:0, Crayon Glasses
+openblocks:crayon_glasses:0, Crayon Glasses
+openblocks:crayon_glasses:0, Crayon Glasses
+openblocks:crayon_glasses:0, Crayon Glasses
+openblocks:crayon_glasses:0, Crayon Glasses
+openblocks:crayon_glasses:0, Crayon Glasses
+openblocks:crayon_glasses:0, Crayon Glasses
+openblocks:crayon_glasses:0, Crayon Glasses
+openblocks:technicolor_glasses:0, Amazing Technicolor Glasses
+openblocks:serious_glasses:0, Badass Glasses
+openblocks:crane_control, Crane Control
+openblocks:crane_backpack, Crane Backpack
+openblocks:slimalyzer, Slimalyzer
+openblocks:xp_bucket, XP Bucket
+openblocks:sleeping_bag, Sleeping Bag
+openblocks:paintbrush, Paint Brush
+openblocks:stencil:0, Stencil
+openblocks:stencil:1, Stencil
+openblocks:stencil:2, Stencil
+openblocks:stencil:3, Stencil
+openblocks:stencil:4, Stencil
+openblocks:stencil:5, Stencil
+openblocks:stencil:6, Stencil
+openblocks:stencil:7, Stencil
+openblocks:stencil:8, Stencil
+openblocks:stencil:9, Stencil
+openblocks:stencil:10, Stencil
+openblocks:stencil:11, Stencil
+openblocks:stencil:12, Stencil
+openblocks:stencil:13, Stencil
+openblocks:stencil:14, Stencil
+openblocks:squeegee, Squeegee
+openblocks:empty_map, Empty Map
+openblocks:cartographer:0, Cartographer
+openblocks:tasty_clay, Tasty Clay
+openblocks:golden_eye, Golden eye
+openblocks:generic_unstackable:0, Pointer
+openblocks:cursor, Cursor
+openblocks:info_book, World Domination with OpenBlocks
+openblocks:dev_null, /dev/null
+openblocks:sponge_on_a_stick, Sponge
+openblocks:pedometer, Pedometer
+openblocks:epic_eraser, Epic Eraser
+openblocks:wrench, Big Metal Bar
+openblocks:glyph:32, ' ' Glyph
+openblocks:glyph:48, '0' Glyph
+openblocks:glyph:49, '1' Glyph
+openblocks:glyph:50, '2' Glyph
+openblocks:glyph:51, '3' Glyph
+openblocks:glyph:52, '4' Glyph
+openblocks:glyph:53, '5' Glyph
+openblocks:glyph:54, '6' Glyph
+openblocks:glyph:55, '7' Glyph
+openblocks:glyph:56, '8' Glyph
+openblocks:glyph:57, '9' Glyph
+openblocks:glyph:65, 'A' Glyph
+openblocks:glyph:66, 'B' Glyph
+openblocks:glyph:67, 'C' Glyph
+openblocks:glyph:68, 'D' Glyph
+openblocks:glyph:69, 'E' Glyph
+openblocks:glyph:70, 'F' Glyph
+openblocks:glyph:71, 'G' Glyph
+openblocks:glyph:72, 'H' Glyph
+openblocks:glyph:73, 'I' Glyph
+openblocks:glyph:74, 'J' Glyph
+openblocks:glyph:75, 'K' Glyph
+openblocks:glyph:76, 'L' Glyph
+openblocks:glyph:77, 'M' Glyph
+openblocks:glyph:78, 'N' Glyph
+openblocks:glyph:79, 'O' Glyph
+openblocks:glyph:80, 'P' Glyph
+openblocks:glyph:81, 'Q' Glyph
+openblocks:glyph:82, 'R' Glyph
+openblocks:glyph:83, 'S' Glyph
+openblocks:glyph:84, 'T' Glyph
+openblocks:glyph:85, 'U' Glyph
+openblocks:glyph:86, 'V' Glyph
+openblocks:glyph:87, 'W' Glyph
+openblocks:glyph:88, 'X' Glyph
+openblocks:glyph:89, 'Y' Glyph
+openblocks:glyph:90, 'Z' Glyph
+openblocks:glyph:97, 'a' Glyph
+openblocks:glyph:98, 'b' Glyph
+openblocks:glyph:99, 'c' Glyph
+openblocks:glyph:100, 'd' Glyph
+openblocks:glyph:101, 'e' Glyph
+openblocks:glyph:102, 'f' Glyph
+openblocks:glyph:103, 'g' Glyph
+openblocks:glyph:104, 'h' Glyph
+openblocks:glyph:105, 'i' Glyph
+openblocks:glyph:106, 'j' Glyph
+openblocks:glyph:107, 'k' Glyph
+openblocks:glyph:108, 'l' Glyph
+openblocks:glyph:109, 'm' Glyph
+openblocks:glyph:110, 'n' Glyph
+openblocks:glyph:111, 'o' Glyph
+openblocks:glyph:112, 'p' Glyph
+openblocks:glyph:113, 'q' Glyph
+openblocks:glyph:114, 'r' Glyph
+openblocks:glyph:115, 's' Glyph
+openblocks:glyph:116, 't' Glyph
+openblocks:glyph:117, 'u' Glyph
+openblocks:glyph:118, 'v' Glyph
+openblocks:glyph:119, 'w' Glyph
+openblocks:glyph:120, 'x' Glyph
+openblocks:glyph:121, 'y' Glyph
+openblocks:glyph:122, 'z' Glyph
 vrgenerator:visibleraysolar:0, 人工光ソーラー 1 EU/t
 vrgenerator:visibleraysolar:1, 人工光ソーラー 8 EU/t
 vrgenerator:visibleraysolar:2, 人工光ソーラー 64 EU/t
@@ -1819,6 +2681,56 @@ appliedenergistics2:facade:0, Cable Facade - 茶色のコンクリートパウ�
 appliedenergistics2:facade:0, Cable Facade - 緑色のコンクリートパウダー
 appliedenergistics2:facade:0, Cable Facade - 赤色のコンクリートパウダー
 appliedenergistics2:facade:0, Cable Facade - 黒色のコンクリートパウダー
+appliedenergistics2:facade:0, Cable Facade - 銅鉱石
+appliedenergistics2:facade:0, Cable Facade - 錫鉱石
+appliedenergistics2:facade:0, Cable Facade - 銀鉱石
+appliedenergistics2:facade:0, Cable Facade - 鉛鉱石
+appliedenergistics2:facade:0, Cable Facade - アルミニウム鉱石
+appliedenergistics2:facade:0, Cable Facade - ニッケル鉱石
+appliedenergistics2:facade:0, Cable Facade - プラチナ鉱石
+appliedenergistics2:facade:0, Cable Facade - イリジウム鉱石
+appliedenergistics2:facade:0, Cable Facade - マナ含浸鉱石
+appliedenergistics2:facade:0, Cable Facade - 含油砂
+appliedenergistics2:facade:0, Cable Facade - 含油頁岩
+appliedenergistics2:facade:0, Cable Facade - 励起レッドストーン鉱石
+appliedenergistics2:facade:0, Cable Facade - 活性化ネザーラック
+appliedenergistics2:facade:0, Cable Facade - 共振エンドストーン
+appliedenergistics2:facade:0, Cable Facade - 含油砂
+appliedenergistics2:facade:0, Cable Facade - 銅ブロック
+appliedenergistics2:facade:0, Cable Facade - 錫ブロック
+appliedenergistics2:facade:0, Cable Facade - 銀ブロック
+appliedenergistics2:facade:0, Cable Facade - 鉛ブロック
+appliedenergistics2:facade:0, Cable Facade - アルミニウムブロック
+appliedenergistics2:facade:0, Cable Facade - ニッケルブロック
+appliedenergistics2:facade:0, Cable Facade - プラチナブロック
+appliedenergistics2:facade:0, Cable Facade - イリジウムブロック
+appliedenergistics2:facade:0, Cable Facade - マナ含浸金属ブロック
+appliedenergistics2:facade:0, Cable Facade - 鋼鉄ブロック
+appliedenergistics2:facade:0, Cable Facade - エレクトラムブロック
+appliedenergistics2:facade:0, Cable Facade - インバーブロック
+appliedenergistics2:facade:0, Cable Facade - 青銅ブロック
+appliedenergistics2:facade:0, Cable Facade - コンスタンタンブロック
+appliedenergistics2:facade:0, Cable Facade - シグナルムブロック
+appliedenergistics2:facade:0, Cable Facade - ルミウムブロック
+appliedenergistics2:facade:0, Cable Facade - エンダリウムブロック
+appliedenergistics2:facade:0, Cable Facade - 木炭ブロック
+appliedenergistics2:facade:0, Cable Facade - 石炭コークスブロック
+appliedenergistics2:facade:0, Cable Facade - 黒色の岩綿
+appliedenergistics2:facade:0, Cable Facade - 赤色の岩綿
+appliedenergistics2:facade:0, Cable Facade - 緑色の岩綿
+appliedenergistics2:facade:0, Cable Facade - 茶色の岩綿
+appliedenergistics2:facade:0, Cable Facade - 青色の岩綿
+appliedenergistics2:facade:0, Cable Facade - 紫色の岩綿
+appliedenergistics2:facade:0, Cable Facade - 青緑色の岩綿
+appliedenergistics2:facade:0, Cable Facade - 薄灰色の岩綿
+appliedenergistics2:facade:0, Cable Facade - 灰色の岩綿
+appliedenergistics2:facade:0, Cable Facade - 桃色の岩綿
+appliedenergistics2:facade:0, Cable Facade - 黄緑色の岩綿
+appliedenergistics2:facade:0, Cable Facade - 黄色の岩綿
+appliedenergistics2:facade:0, Cable Facade - 空色の岩綿
+appliedenergistics2:facade:0, Cable Facade - 赤紫色の岩綿
+appliedenergistics2:facade:0, Cable Facade - 橙色の岩綿
+appliedenergistics2:facade:0, Cable Facade - 白色の岩綿
 appliedenergistics2:facade:0, Cable Facade - Magical Planks
 appliedenergistics2:facade:0, Cable Facade - Magical Wood
 appliedenergistics2:facade:0, Cable Facade - Diagonal Wood
@@ -1913,6 +2825,9 @@ appliedenergistics2:facade:0, Cable Facade - コンクリート壁（赤色）
 appliedenergistics2:facade:0, Cable Facade - コンクリート壁（白色）
 appliedenergistics2:facade:0, Cable Facade - コンクリート壁（黄色）
 appliedenergistics2:facade:0, Cable Facade - Refractory Bricks
+appliedenergistics2:facade:0, Cable Facade - Elevator
+appliedenergistics2:facade:0, Cable Facade - Sponge
+appliedenergistics2:facade:0, Cable Facade - Scaffolding
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Charged Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Block
@@ -2073,6 +2988,119 @@ appliedenergistics2:facade:0, Cable Facade - §d赤紫色 プラスチックロ�
 appliedenergistics2:facade:0, Cable Facade - §6橙色 プラスチックロード
 appliedenergistics2:facade:0, Cable Facade - §f白色 プラスチックロード
 appliedenergistics2:facade:0, Cable Facade - 塩ブロック
+appliedenergistics2:facade:0, Cable Facade - トワイライトオークの原木
+appliedenergistics2:facade:0, Cable Facade - 林冠木の原木
+appliedenergistics2:facade:0, Cable Facade - マングローブの原木
+appliedenergistics2:facade:0, Cable Facade - ダークウッドの原木
+appliedenergistics2:facade:0, Cable Facade - 根ブロック
+appliedenergistics2:facade:0, Cable Facade - 根ブロック(苔)
+appliedenergistics2:facade:0, Cable Facade - トワイライトオークの葉
+appliedenergistics2:facade:0, Cable Facade - 林冠木の葉
+appliedenergistics2:facade:0, Cable Facade - マングローブの葉
+appliedenergistics2:facade:0, Cable Facade - レインボーオークの葉
+appliedenergistics2:facade:0, Cable Facade - メイズストーン
+appliedenergistics2:facade:0, Cable Facade - メイズレンガ
+appliedenergistics2:facade:0, Cable Facade - メイズストーン(模様)
+appliedenergistics2:facade:0, Cable Facade - メイズレンガ(装飾)
+appliedenergistics2:facade:0, Cable Facade - メイズレンガ(ヒビ)
+appliedenergistics2:facade:0, Cable Facade - メイズレンガ(苔)
+appliedenergistics2:facade:0, Cable Facade - メイズストーン(モザイク)
+appliedenergistics2:facade:0, Cable Facade - メイズストーン(ボーダー)
+appliedenergistics2:facade:0, Cable Facade - 生垣ブロック
+appliedenergistics2:facade:0, Cable Facade - 解体作業台
+appliedenergistics2:facade:0, Cable Facade - ナーガストーン(頭)
+appliedenergistics2:facade:0, Cable Facade - ナーガストーン
+appliedenergistics2:facade:0, Cable Facade - 刻の木の原木
+appliedenergistics2:facade:0, Cable Facade - 変化の木の原木
+appliedenergistics2:facade:0, Cable Facade - 採掘の木の原木
+appliedenergistics2:facade:0, Cable Facade - 分類の木の原木
+appliedenergistics2:facade:0, Cable Facade - 刻の木の葉
+appliedenergistics2:facade:0, Cable Facade - 変化の木の葉
+appliedenergistics2:facade:0, Cable Facade - 採掘の木の葉
+appliedenergistics2:facade:0, Cable Facade - 分類の木の葉
+appliedenergistics2:facade:0, Cable Facade - 刻の時辰儀
+appliedenergistics2:facade:0, Cable Facade - 変化の心
+appliedenergistics2:facade:0, Cable Facade - 採掘コア
+appliedenergistics2:facade:0, Cable Facade - 分類エンジン
+appliedenergistics2:facade:0, Cable Facade - タワーウッド
+appliedenergistics2:facade:0, Cable Facade - タワーウッド(緑)
+appliedenergistics2:facade:0, Cable Facade - タワーウッド(ヒビ)
+appliedenergistics2:facade:0, Cable Facade - タワーウッド(苔)
+appliedenergistics2:facade:0, Cable Facade - タワーウッド(シミ)
+appliedenergistics2:facade:0, Cable Facade - タワーウッド(扉)
+appliedenergistics2:facade:0, Cable Facade - タワーウッド(消失扉)
+appliedenergistics2:facade:0, Cable Facade - タワーウッド(施錠)
+appliedenergistics2:facade:0, Cable Facade - タワーウッド(開錠)
+appliedenergistics2:facade:0, Cable Facade - カーミナイトビルダー
+appliedenergistics2:facade:0, Cable Facade - アンチビルダー
+appliedenergistics2:facade:0, Cable Facade - ガストトラップ
+appliedenergistics2:facade:0, Cable Facade - カーミナイトリアクター
+appliedenergistics2:facade:0, Cable Facade - 拠点の防壁
+appliedenergistics2:facade:0, Cable Facade - オーロラブロック
+appliedenergistics2:facade:0, Cable Facade - アンダーブリック
+appliedenergistics2:facade:0, Cable Facade - アンダーブリック(苔)
+appliedenergistics2:facade:0, Cable Facade - アンダーブリック(ヒビ)
+appliedenergistics2:facade:0, Cable Facade - アンダーフリック(床)
+appliedenergistics2:facade:0, Cable Facade - 茨の葉
+appliedenergistics2:facade:0, Cable Facade - 豆の木の葉
+appliedenergistics2:facade:0, Cable Facade - デッドロック(風化)
+appliedenergistics2:facade:0, Cable Facade - デッドロック(ヒビ)
+appliedenergistics2:facade:0, Cable Facade - デッドロック
+appliedenergistics2:facade:0, Cable Facade - ダークウッドの葉
+appliedenergistics2:facade:0, Cable Facade - オーロラの柱
+appliedenergistics2:facade:0, Cable Facade - トロール石
+appliedenergistics2:facade:0, Cable Facade - 薄雲
+appliedenergistics2:facade:0, Cable Facade - ふわふわ雲
+appliedenergistics2:facade:0, Cable Facade - 巨人の丸石
+appliedenergistics2:facade:0, Cable Facade - 巨人の原木
+appliedenergistics2:facade:0, Cable Facade - 巨人の葉
+appliedenergistics2:facade:0, Cable Facade - 巨人の黒曜石
+appliedenergistics2:facade:0, Cable Facade - 巨大な茎
+appliedenergistics2:facade:0, Cable Facade - 巨大ヒカリダケブロック
+appliedenergistics2:facade:0, Cable Facade - キャッスルレンガ
+appliedenergistics2:facade:0, Cable Facade - キャッスルレンガ(かすれ)
+appliedenergistics2:facade:0, Cable Facade - キャッスルレンガ(ヒビ)
+appliedenergistics2:facade:0, Cable Facade - キャッスルルーフ
+appliedenergistics2:facade:0, Cable Facade - キャッスルレンガ(苔)
+appliedenergistics2:facade:0, Cable Facade - 厚いキャッスルレンガ
+appliedenergistics2:facade:0, Cable Facade - キャッスルレンガの柱(斑)
+appliedenergistics2:facade:0, Cable Facade - キャッスルレンガ(斑)
+appliedenergistics2:facade:0, Cable Facade - キャッスルレンガの柱(チェック)
+appliedenergistics2:facade:0, Cable Facade - キャッスルレンガ(チェック)
+appliedenergistics2:facade:0, Cable Facade - ルーンレンガ(赤)
+appliedenergistics2:facade:0, Cable Facade - ルーンレンガ(青)
+appliedenergistics2:facade:0, Cable Facade - ルーンレンガ(黄)
+appliedenergistics2:facade:0, Cable Facade - ルーンレンガ(紫)
+appliedenergistics2:facade:0, Cable Facade - 灰のかまど [未実装]
+appliedenergistics2:facade:0, Cable Facade - 灰の原木 [未実装]
+appliedenergistics2:facade:0, Cable Facade - キャッスルドア(黄)
+appliedenergistics2:facade:0, Cable Facade - キャッスルドア(紫)
+appliedenergistics2:facade:0, Cable Facade - キャッスルドア(赤)
+appliedenergistics2:facade:0, Cable Facade - キャッスルドア(青)
+appliedenergistics2:facade:0, Cable Facade - 樹鉄ブロック
+appliedenergistics2:facade:0, Cable Facade - 焦熱ブロック
+appliedenergistics2:facade:0, Cable Facade - 葉鋼ブロック
+appliedenergistics2:facade:0, Cable Facade - 防寒毛皮ブロック
+appliedenergistics2:facade:0, Cable Facade - カーミナイトブロック
+appliedenergistics2:facade:0, Cable Facade - エッチングナーガストーン
+appliedenergistics2:facade:0, Cable Facade - ナーガストーンの柱
+appliedenergistics2:facade:0, Cable Facade - エッチングナーガストーン(苔)
+appliedenergistics2:facade:0, Cable Facade - ナーガストーンの柱(苔)
+appliedenergistics2:facade:0, Cable Facade - エッチングナーガストーン(風化)
+appliedenergistics2:facade:0, Cable Facade - ナーガストーンの柱(風化)
+appliedenergistics2:facade:0, Cable Facade - Twilight Oak Planks
+appliedenergistics2:facade:0, Cable Facade - Canopy Planks
+appliedenergistics2:facade:0, Cable Facade - Mangrove Planks
+appliedenergistics2:facade:0, Cable Facade - Darkwood Planks
+appliedenergistics2:facade:0, Cable Facade - Timewood Planks
+appliedenergistics2:facade:0, Cable Facade - Transwood Planks
+appliedenergistics2:facade:0, Cable Facade - Minewood Planks
+appliedenergistics2:facade:0, Cable Facade - Sortingwood Planks
+appliedenergistics2:facade:0, Cable Facade - Terrorcotta (Circular)
+appliedenergistics2:facade:0, Cable Facade - Terrorcotta (Diagonal)
+appliedenergistics2:facade:0, Cable Facade - tile.twilightforest.StonePillar.name
+appliedenergistics2:facade:0, Cable Facade - エンチャント移動機
+appliedenergistics2:facade:0, Cable Facade - モンスタースポナー制御装置
 appliedenergistics2:facade:0, Cable Facade - 湧き水の源
 appliedenergistics2:facade:0, Cable Facade - 原油の源
 appliedenergistics2:facade:0, Cable Facade - tile.decorated.destroy.name
@@ -2081,6 +3109,8 @@ appliedenergistics2:facade:0, Cable Facade - Template (Decoration)
 appliedenergistics2:facade:0, Cable Facade - tile.decorated.paper.name
 appliedenergistics2:facade:0, Cable Facade - tile.decorated.leather.name
 appliedenergistics2:facade:0, Cable Facade - Laser (Decoration)
+appliedenergistics2:facade:0, Cable Facade - Black Decay
+appliedenergistics2:facade:0, Cable Facade - Crystal
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
 appliedenergistics2:crystal_seed:1200, Fluix Seed
@@ -2390,6 +3420,7 @@ enderio:item_material:35, ヴァイブランシーの粒
 enderio:item_material:36, ピエゾリティの粒
 enderio:item_material:37, エンドの粒
 enderio:item_material:38, 太陽電池の複合材料
+enderio:item_material:39, エンダリウムベース
 enderio:item_material:40, ゾンビの電極
 enderio:item_material:41, Z 回路コントローラー
 enderio:item_material:42, フランケンゾンビ
@@ -3857,6 +4888,24 @@ teslacorelib:machine_case, Machine Case
 teslacorelib:speed_tier1, Speed Upgrade I
 teslacorelib:speed_tier2, Speed Upgrade II
 teslacorelib:wrench, Tesla Wrench
+ironchest:iron_gold_chest_upgrade, 鉄から金のチェストにアップグレード
+ironchest:gold_diamond_chest_upgrade, 金からダイヤのチェストにアップグレード
+ironchest:copper_silver_chest_upgrade, 銅から銀のチェストにアップグレード
+ironchest:silver_gold_chest_upgrade, 銀から金のチェストにアップグレード
+ironchest:copper_iron_chest_upgrade, 銅から鉄のチェストにアップグレード
+ironchest:diamond_crystal_chest_upgrade, ダイヤからクリスタルチェストにアップグレード
+ironchest:wood_iron_chest_upgrade, 通常から鉄のチェストにアップグレード
+ironchest:wood_copper_chest_upgrade, 通常から銅のチェストにアップグレード
+ironchest:diamond_obsidian_chest_upgrade, ダイヤから黒曜石のチェストにアップグレード
+ironchest:iron_gold_shulker_upgrade, 鉄から金のシュルカーボックスにアップグレード
+ironchest:gold_diamond_shulker_upgrade, 金からダイヤのシュルカーボックスにアップグレード
+ironchest:copper_silver_shulker_upgrade, 銅から銀のシュルカーボックスにアップグレード
+ironchest:silver_gold_shulker_upgrade, 銀から金のシュルカーボックスにアップグレード
+ironchest:copper_iron_shulker_upgrade, 銅から鉄のシュルカーボックスにアップグレード
+ironchest:diamond_crystal_shulker_upgrade, ダイヤからクリスタルシュルカーボックスにアップグレード
+ironchest:vanilla_iron_shulker_upgrade, 通常から鉄のシュルカーボックスにアップグレード
+ironchest:vanilla_copper_shulker_upgrade, 通常から銅のシュルカーボックスにアップグレード
+ironchest:diamond_obsidian_shulker_upgrade, ダイヤから黒曜石のシュルカーボックスにアップグレード
 ironchest:iron_chest:0, 鉄のチェスト
 ironchest:iron_chest:1, 金のチェスト
 ironchest:iron_chest:2, ダイヤのチェスト
@@ -3977,24 +5026,6 @@ ironchest:iron_shulker_box_black:3, 黒色の銅のシュルカーボックス
 ironchest:iron_shulker_box_black:4, 黒色の銀のシュルカーボックス
 ironchest:iron_shulker_box_black:5, 黒色のクリスタルシュルカーボックス
 ironchest:iron_shulker_box_black:6, 黒色の黒曜石のシュルカーボックス
-ironchest:iron_gold_chest_upgrade, 鉄から金のチェストにアップグレード
-ironchest:gold_diamond_chest_upgrade, 金からダイヤのチェストにアップグレード
-ironchest:copper_silver_chest_upgrade, 銅から銀のチェストにアップグレード
-ironchest:silver_gold_chest_upgrade, 銀から金のチェストにアップグレード
-ironchest:copper_iron_chest_upgrade, 銅から鉄のチェストにアップグレード
-ironchest:diamond_crystal_chest_upgrade, ダイヤからクリスタルチェストにアップグレード
-ironchest:wood_iron_chest_upgrade, 通常から鉄のチェストにアップグレード
-ironchest:wood_copper_chest_upgrade, 通常から銅のチェストにアップグレード
-ironchest:diamond_obsidian_chest_upgrade, ダイヤから黒曜石のチェストにアップグレード
-ironchest:iron_gold_shulker_upgrade, 鉄から金のシュルカーボックスにアップグレード
-ironchest:gold_diamond_shulker_upgrade, 金からダイヤのシュルカーボックスにアップグレード
-ironchest:copper_silver_shulker_upgrade, 銅から銀のシュルカーボックスにアップグレード
-ironchest:silver_gold_shulker_upgrade, 銀から金のシュルカーボックスにアップグレード
-ironchest:copper_iron_shulker_upgrade, 銅から鉄のシュルカーボックスにアップグレード
-ironchest:diamond_crystal_shulker_upgrade, ダイヤからクリスタルシュルカーボックスにアップグレード
-ironchest:vanilla_iron_shulker_upgrade, 通常から鉄のシュルカーボックスにアップグレード
-ironchest:vanilla_copper_shulker_upgrade, 通常から銅のシュルカーボックスにアップグレード
-ironchest:diamond_obsidian_shulker_upgrade, ダイヤから黒曜石のシュルカーボックスにアップグレード
 mekanismgenerators:solarpanel, ソーラーパネル
 mekanismgenerators:hohlraum, ホールラウム
 mekanismgenerators:turbineblade, タービンの羽
@@ -4082,10 +5113,458 @@ mekanismtools:steelhelmet, 鋼鉄のヘルメット
 mekanismtools:steelchestplate, 鋼鉄のチェストプレート
 mekanismtools:steelleggings, 鋼鉄のレギンス
 mekanismtools:steelboots, 鋼鉄のブーツ
-teslacorelib:gear_diamond, Diamond Gear
-teslacorelib:gear_gold, Gold Gear
-teslacorelib:gear_iron, Iron Gear
-teslacorelib:gear_stone, Stone Gear
+powersuits:powerarmor_head, Power Armor Helmet
+powersuits:powerarmor_torso, Power Armor Chestplate
+powersuits:powerarmor_legs, Power Armor Leggings
+powersuits:powerarmor_feet, Power Armor Boots
+powersuits:power_fist, Power Fist
+powersuits:powerarmorcomponent:0, Wiring
+powersuits:powerarmorcomponent:1, Solenoid
+powersuits:powerarmorcomponent:2, Servo Motor
+powersuits:powerarmorcomponent:3, Glider Wing
+powersuits:powerarmorcomponent:4, Ion Thruster
+powersuits:powerarmorcomponent:5, LV Capacitor
+powersuits:powerarmorcomponent:6, MV Capacitor
+powersuits:powerarmorcomponent:7, HV Capacitor
+powersuits:powerarmorcomponent:8, EV Capacitor
+powersuits:powerarmorcomponent:9, Parachute
+powersuits:powerarmorcomponent:10, Iron Plating
+powersuits:powerarmorcomponent:11, Diamond Plating
+powersuits:powerarmorcomponent:12, Force Field Emitter
+powersuits:powerarmorcomponent:13, Hologram Emitter
+powersuits:powerarmorcomponent:14, Carbon Myofiber
+powersuits:powerarmorcomponent:15, Control Circuit
+powersuits:powerarmorcomponent:16, Myofiber Gel
+powersuits:powerarmorcomponent:17, Artificial Muscle
+powersuits:powerarmorcomponent:18, Solar Panel
+powersuits:powerarmorcomponent:19, Magnet
+powersuits:powerarmorcomponent:20, Computer Chip
+powersuits:powerarmorcomponent:21, Insulated Rubber Hose
+powersuits:tinkertable, Power Armor Tinker Table
+powersuits:luxcapacitor, Lux Capacitor
+twilightforest:naga_scale, ナーガの鱗
+twilightforest:naga_chestplate, ナーガアーマー(胴)
+twilightforest:naga_leggings, ナーガアーマー(脚)
+twilightforest:twilight_scepter, 魔弾の杖
+twilightforest:lifedrain_scepter, 吸精の杖
+twilightforest:zombie_scepter, 召喚の杖
+twilightforest:shield_scepter, Scepter of Fortification
+twilightforest:ore_meter, 鉱石レーダー [制作中]
+twilightforest:magic_map:0, 魔法の地図(地上)
+twilightforest:maze_map:0, 魔法の地図(迷宮)
+twilightforest:ore_map:0, 魔法の地図(迷宮/鉱石)
+twilightforest:raven_feather, カラスの羽根
+twilightforest:magic_map_focus, 魔法の羽根
+twilightforest:maze_map_focus, 魔法の金貨
+twilightforest:liveroot, 生きている根
+twilightforest:ironwood_raw, 樹鉄の素
+twilightforest:ironwood_ingot, 樹鉄インゴット
+twilightforest:ironwood_helmet, 樹鉄ヘルム
+twilightforest:ironwood_chestplate, 樹鉄プレート
+twilightforest:ironwood_leggings, 樹鉄レギンス
+twilightforest:ironwood_boots, 樹鉄ブーツ
+twilightforest:ironwood_sword, 樹鉄の剣
+twilightforest:ironwood_shovel, 樹鉄のシャベル
+twilightforest:ironwood_pickaxe, 樹鉄のツルハシ
+twilightforest:ironwood_axe, 樹鉄の斧
+twilightforest:ironwood_hoe, 樹鉄のクワ
+twilightforest:torchberries, トーチベリーの実
+twilightforest:raw_venison, 生の黄昏鹿肉
+twilightforest:cooked_venison, 黄昏鹿肉ステーキ
+twilightforest:hydra_chop, ヒドラ肉
+twilightforest:fiery_blood, 焦熱の血
+twilightforest:fiery_tears, 焦熱の涙
+twilightforest:trophy:0, ナーガトロフィー
+twilightforest:trophy:1, リッチトロフィー
+twilightforest:trophy:2, ヒドラトロフィー
+twilightforest:trophy:3, ウルガストトロフィー
+twilightforest:trophy:4, ナイトファントムトロフィー
+twilightforest:trophy:5, 雪の女王トロフィー
+twilightforest:trophy:6, ミノッシュルームトロフィー
+twilightforest:trophy:8, 色食みの羊トロフィー
+twilightforest:fiery_ingot, 焦熱インゴット
+twilightforest:fiery_helmet, 焦熱ヘルム
+twilightforest:fiery_chestplate, 焦熱プレート
+twilightforest:fiery_leggings, 焦熱レギンス
+twilightforest:fiery_boots, 焦熱ブーツ
+twilightforest:fiery_sword, 焦熱の剣
+twilightforest:fiery_pickaxe, 焦熱のツルハシ
+twilightforest:steeleaf_ingot, 葉鋼
+twilightforest:steeleaf_helmet, 葉鋼ヘルム
+twilightforest:steeleaf_chestplate, 葉鋼プレート
+twilightforest:steeleaf_leggings, 葉鋼レギンス
+twilightforest:steeleaf_boots, 葉鋼ブーツ
+twilightforest:steeleaf_sword, 葉鋼の剣
+twilightforest:steeleaf_shovel, 葉鋼のシャベル
+twilightforest:steeleaf_pickaxe, 葉鋼のツルハシ
+twilightforest:steeleaf_axe, 葉鋼の斧
+twilightforest:steeleaf_hoe, 葉鋼のクワ
+twilightforest:minotaur_axe_gold, Golden Minotaur Axe
+twilightforest:minotaur_axe, ミノタウロスの斧
+twilightforest:mazebreaker_pickaxe, メイズブレイカー
+twilightforest:transformation_powder, 変化の粉
+twilightforest:raw_meef, 生のミノ肉
+twilightforest:cooked_meef, ミーフステーキ
+twilightforest:meef_stroganoff, ミーフストロガノフ
+twilightforest:maze_wafer, 迷宮ウエハース
+twilightforest:magic_map_empty, 白紙の魔法の地図(地上)
+twilightforest:maze_map_empty, 白紙の魔法の地図(迷宮)
+twilightforest:ore_map_empty, 白紙の魔法の地図(鉱石/迷宮)
+twilightforest:ore_magnet, 鉱石磁石
+twilightforest:crumble_horn, 山鳴りの角笛
+twilightforest:peacock_fan, 孔雀扇
+twilightforest:moonworm_queen, 女王月光虫
+twilightforest:charm_of_life_1, 命の護石Lv1
+twilightforest:charm_of_life_2, 命の護石Lv2
+twilightforest:charm_of_keeping_1, 鍵の護石Lv1
+twilightforest:charm_of_keeping_2, 鍵の護石Lv2
+twilightforest:charm_of_keeping_3, 鍵の護石Lv3
+twilightforest:tower_key, タワーキー
+twilightforest:borer_essence, ボーラーエッセンス
+twilightforest:carminite, カーミナイト
+twilightforest:experiment_115, エクスペリメント115
+twilightforest:armor_shard, アーマーシャード
+twilightforest:knightmetal_ingot, ナイトメタルインゴット
+twilightforest:armor_shard_cluster, アーマーシャードの塊
+twilightforest:knightmetal_helmet, ナイトヘルム
+twilightforest:knightmetal_chestplate, ナイトプレート
+twilightforest:knightmetal_leggings, ナイトグリーヴ
+twilightforest:knightmetal_boots, ナイトブーツ
+twilightforest:knightmetal_sword, ナイトソード
+twilightforest:knightmetal_pickaxe, ナイトピッケル
+twilightforest:knightmetal_axe, ナイトアックス
+twilightforest:knightmetal_shield, Knightly Shield
+twilightforest:phantom_helmet, ファントムヘルム
+twilightforest:phantom_chestplate, ファントムプレート
+twilightforest:lamp_of_cinders, 灰のランプ
+twilightforest:alpha_fur, アルファイエティの毛皮
+twilightforest:yeti_helmet, イエティの角兜
+twilightforest:yeti_chestplate, イエティジャケット
+twilightforest:yeti_leggings, イエティレギンス
+twilightforest:yeti_boots, イエティブーツ
+twilightforest:ice_bomb, アイスボム
+twilightforest:arctic_fur, 防寒毛皮
+twilightforest:arctic_helmet, 防寒フード
+twilightforest:arctic_chestplate, 防寒ジャケット
+twilightforest:arctic_leggings, 防寒レギンス
+twilightforest:arctic_boots, 防寒ブーツ
+twilightforest:magic_beans, 魔法の豆
+twilightforest:giant_pickaxe, 巨人のツルハシ
+twilightforest:giant_sword, 巨人の剣
+twilightforest:triple_bow, トライボウ
+twilightforest:seeker_bow, シーカーボウ
+twilightforest:ice_bow, アイスボウ
+twilightforest:ender_bow, エンダーボウ
+twilightforest:ice_sword, アイスソード
+twilightforest:glass_sword, ガラスの剣
+twilightforest:knightmetal_ring, ナイトメタルの輪
+twilightforest:block_and_chain, モーニングスター
+twilightforest:cube_talisman, 六面の加護
+twilightforest:cube_of_annihilation, 破滅の箱
+twilightforest:moon_dial, Moon Dial
+twilightforest:twilight_log:0, トワイライトオークの原木
+twilightforest:twilight_log:1, 林冠木の原木
+twilightforest:twilight_log:2, マングローブの原木
+twilightforest:twilight_log:3, ダークウッドの原木
+twilightforest:root:0, 根ブロック
+twilightforest:root:1, 根ブロック(苔)
+twilightforest:twilight_leaves:0, トワイライトオークの葉
+twilightforest:twilight_leaves:1, 林冠木の葉
+twilightforest:twilight_leaves:2, マングローブの葉
+twilightforest:twilight_leaves:3, レインボーオークの葉
+twilightforest:firefly, ホタル
+twilightforest:cicada, セミ
+twilightforest:maze_stone:0, メイズストーン
+twilightforest:maze_stone:1, メイズレンガ
+twilightforest:maze_stone:2, メイズストーン(模様)
+twilightforest:maze_stone:3, メイズレンガ(装飾)
+twilightforest:maze_stone:4, メイズレンガ(ヒビ)
+twilightforest:maze_stone:5, メイズレンガ(苔)
+twilightforest:maze_stone:6, メイズストーン(モザイク)
+twilightforest:maze_stone:7, メイズストーン(ボーダー)
+twilightforest:hedge:0, 生垣ブロック
+twilightforest:boss_spawner:0, ナーガスポナー
+twilightforest:boss_spawner:1, リッチスポナー
+twilightforest:boss_spawner:2, ヒドラスポナー
+twilightforest:boss_spawner:3, ウルガストスポナー
+twilightforest:boss_spawner:4, ナイトファントムスポナー
+twilightforest:boss_spawner:5, Snow Queen Spawner
+twilightforest:boss_spawner:6, Minoshroom Spawner
+twilightforest:boss_spawner:7, Alpha Yeti Spawner
+twilightforest:boss_spawner:9, tile.twilightforest.BossSpawner.9.name
+twilightforest:firefly_jar, 瓶詰めホタル
+twilightforest:twilight_plant:0, 苔
+twilightforest:twilight_plant:1, メイアップル
+twilightforest:twilight_plant:2, クローバーパッチ [制作中]
+twilightforest:twilight_plant:3, 巻きシダ
+twilightforest:twilight_plant:4, ヒカリダケ
+twilightforest:twilight_plant:5, 森の草
+twilightforest:twilight_plant:6, 乾いた低木
+twilightforest:twilight_plant:7, トーチベリー
+twilightforest:twilight_plant:8, ひげ根
+twilightforest:twilight_plant:9, Leaf Pile
+twilightforest:uncrafting_table, 解体作業台
+twilightforest:fire_jet:0, 噴煙ブロック
+twilightforest:fire_jet:3, 間欠炎ブロック
+twilightforest:fire_jet:1, 噴煙装置
+twilightforest:fire_jet:6, 間欠炎装置
+twilightforest:naga_stone:0, ナーガストーン(頭)
+twilightforest:naga_stone:1, ナーガストーン
+twilightforest:twilight_sapling:0, ひ弱なトワイライトオークの苗木
+twilightforest:twilight_sapling:1, 林冠木の苗木
+twilightforest:twilight_sapling:2, トワイライトマングローブの苗木
+twilightforest:twilight_sapling:3, ダークウッドの苗木
+twilightforest:twilight_sapling:4, 丈夫なトワイライトオークの苗木
+twilightforest:twilight_sapling:5, 刻の木の苗木
+twilightforest:twilight_sapling:6, 変化の木の苗木
+twilightforest:twilight_sapling:7, 採掘の木の苗木
+twilightforest:twilight_sapling:8, 分類の木の苗木
+twilightforest:twilight_sapling:9, レインボーオークの苗木
+twilightforest:moonworm, 月光虫
+twilightforest:magic_log:0, 刻の木の原木
+twilightforest:magic_log:1, 変化の木の原木
+twilightforest:magic_log:2, 採掘の木の原木
+twilightforest:magic_log:3, 分類の木の原木
+twilightforest:magic_leaves:0, 刻の木の葉
+twilightforest:magic_leaves:1, 変化の木の葉
+twilightforest:magic_leaves:2, 採掘の木の葉
+twilightforest:magic_leaves:3, 分類の木の葉
+twilightforest:magic_log_core:0, 刻の時辰儀
+twilightforest:magic_log_core:1, 変化の心
+twilightforest:magic_log_core:2, 採掘コア
+twilightforest:magic_log_core:3, 分類エンジン
+twilightforest:tower_wood:0, タワーウッド
+twilightforest:tower_wood:1, タワーウッド(緑)
+twilightforest:tower_wood:2, タワーウッド(ヒビ)
+twilightforest:tower_wood:3, タワーウッド(苔)
+twilightforest:tower_wood:4, タワーウッド(シミ)
+twilightforest:tower_device:0, タワーウッド(扉)
+twilightforest:tower_device:2, タワーウッド(消失扉)
+twilightforest:tower_device:4, タワーウッド(施錠)
+twilightforest:tower_device:5, タワーウッド(開錠)
+twilightforest:tower_device:6, カーミナイトビルダー
+twilightforest:tower_device:9, アンチビルダー
+twilightforest:tower_device:10, ガストトラップ
+twilightforest:tower_device:12, カーミナイトリアクター
+twilightforest:stronghold_shield, 拠点の防壁
+twilightforest:trophy_pedestal:0, トロフィーの台座
+twilightforest:aurora_block, オーロラブロック
+twilightforest:underbrick:0, アンダーブリック
+twilightforest:underbrick:1, アンダーブリック(苔)
+twilightforest:underbrick:2, アンダーブリック(ヒビ)
+twilightforest:underbrick:3, アンダーフリック(床)
+twilightforest:thorns:0, 茨
+twilightforest:thorns:1, 緑の茨
+twilightforest:burnt_thorns, 焦げた茨
+twilightforest:thorn_rose, 野バラ
+twilightforest:twilight_leaves_3:0, 茨の葉
+twilightforest:twilight_leaves_3:1, 豆の木の葉
+twilightforest:deadrock:0, デッドロック(風化)
+twilightforest:deadrock:1, デッドロック(ヒビ)
+twilightforest:deadrock:2, デッドロック
+twilightforest:dark_leaves, ダークウッドの葉
+twilightforest:aurora_pillar, オーロラの柱
+twilightforest:aurora_slab:0, オーロラのハーフブロック
+twilightforest:trollsteinn, トロール石
+twilightforest:wispy_cloud, 薄雲
+twilightforest:fluffy_cloud, ふわふわ雲
+twilightforest:giant_cobblestone, 巨人の丸石
+twilightforest:giant_log, 巨人の原木
+twilightforest:giant_leaves, 巨人の葉
+twilightforest:giant_obsidian, 巨人の黒曜石
+twilightforest:uberous_soil, 培養土
+twilightforest:huge_stalk, 巨大な茎
+twilightforest:huge_mushgloom, 巨大ヒカリダケブロック
+twilightforest:trollvidr, トロールベリーのツタ
+twilightforest:unripe_trollber, 未熟なトロールベリー
+twilightforest:trollber, トロールベリー
+twilightforest:knightmetal_block, ナイトメタルブロック
+twilightforest:huge_lilypad, 巨大なスイレンの葉
+twilightforest:huge_waterlily, 巨大なスイレン
+twilightforest:slider:0, 滑走トラップ
+twilightforest:slider:1, 滑走トラップ 1
+twilightforest:slider:2, 滑走トラップ 2
+twilightforest:slider:3, 滑走トラップ 3
+twilightforest:castle_brick:0, キャッスルレンガ
+twilightforest:castle_brick:1, キャッスルレンガ(かすれ)
+twilightforest:castle_brick:2, キャッスルレンガ(ヒビ)
+twilightforest:castle_brick:3, キャッスルルーフ
+twilightforest:castle_brick:4, キャッスルレンガ(苔)
+twilightforest:castle_brick:5, 厚いキャッスルレンガ
+twilightforest:castle_stairs_brick, Castle Brick Stairs
+twilightforest:castle_stairs_cracked, Cracked Castle Brick Stairs
+twilightforest:castle_stairs_worn, Worn Castle Brick Stairs
+twilightforest:castle_stairs_mossy, Mossy Castle Brick Stairs
+twilightforest:castle_pillar:0, キャッスルレンガの柱(斑)
+twilightforest:castle_pillar:1, キャッスルレンガ(斑)
+twilightforest:castle_pillar:2, キャッスルレンガの柱(チェック)
+twilightforest:castle_pillar:3, キャッスルレンガ(チェック)
+twilightforest:castle_stairs:0, キャッスルレンガの階段(斑)
+twilightforest:castle_stairs:8, キャッスルレンガの階段(チェック)
+twilightforest:castle_rune_brick:0, ルーンレンガ(赤)
+twilightforest:castle_rune_brick:1, ルーンレンガ(青)
+twilightforest:castle_rune_brick:2, ルーンレンガ(黄)
+twilightforest:castle_rune_brick:3, ルーンレンガ(紫)
+twilightforest:force_field:0, フォースフィールド(紫)
+twilightforest:force_field:1, フォースフィールド(赤)
+twilightforest:force_field:2, フォースフィールド(橙)
+twilightforest:force_field:3, フォースフィールド(緑)
+twilightforest:force_field:4, フォースフィールド(青)
+twilightforest:cinder_furnace, 灰のかまど [未実装]
+twilightforest:cinder_log, 灰の原木 [未実装]
+twilightforest:castle_door:0, キャッスルドア(黄)
+twilightforest:castle_door:1, キャッスルドア(紫)
+twilightforest:castle_door:2, キャッスルドア(赤)
+twilightforest:castle_door:3, キャッスルドア(青)
+twilightforest:miniature_structure:0, 黄昏のポータルのミニチュア [未実装]
+twilightforest:miniature_structure:1, 生垣迷路のミニチュア [未実装]
+twilightforest:miniature_structure:2, 亡霊鉱山のミニチュア [未実装]
+twilightforest:miniature_structure:3, 霊羊の遺跡のミニチュア [未実装]
+twilightforest:miniature_structure:4, キノコの城のミニチュア [未実装]
+twilightforest:miniature_structure:5, ナーガ神殿のミニチュア [未実装]
+twilightforest:miniature_structure:6, リッチタワーのミニチュア [未実装]
+twilightforest:miniature_structure:7, ラビリンスのミニチュア [未実装]
+twilightforest:miniature_structure:8, ヒドラの巣のミニチュア [未実装]
+twilightforest:miniature_structure:9, ゴブリン騎士の拠点のミニチュア [未実装]
+twilightforest:miniature_structure:10, ダークタワーのミニチュア [未実装]
+twilightforest:miniature_structure:11, イエティの洞窟のミニチュア [未実装]
+twilightforest:miniature_structure:12, オーロラ宮殿のミニチュア [未実装]
+twilightforest:miniature_structure:13, トロールの洞窟とクラウドコテージのミニチュア [未実装]
+twilightforest:miniature_structure:14, 最後の城のミニチュア [未実装]
+twilightforest:block_storage:0, 樹鉄ブロック
+twilightforest:block_storage:1, 焦熱ブロック
+twilightforest:block_storage:2, 葉鋼ブロック
+twilightforest:block_storage:3, 防寒毛皮ブロック
+twilightforest:block_storage:4, カーミナイトブロック
+twilightforest:spiral_bricks, 螺旋状の石レンガ [製作中]
+twilightforest:etched_nagastone, エッチングナーガストーン
+twilightforest:nagastone_pillar, ナーガストーンの柱
+twilightforest:nagastone_stairs:0, ナーガストーンの階段(左)
+twilightforest:nagastone_stairs:8, ナーガストーンの階段(右)
+twilightforest:etched_nagastone_mossy, エッチングナーガストーン(苔)
+twilightforest:nagastone_pillar_mossy, ナーガストーンの柱(苔)
+twilightforest:nagastone_stairs_mossy:0, ナーガストーンの階段(左)(苔)
+twilightforest:nagastone_stairs_mossy:8, ナーガストーンの階段(右)(苔)
+twilightforest:etched_nagastone_weathered, エッチングナーガストーン(風化)
+twilightforest:nagastone_pillar_weathered, ナーガストーンの柱(風化)
+twilightforest:nagastone_stairs_weathered:0, ナーガストーンの階段(左)(風化)
+twilightforest:nagastone_stairs_weathered:8, ナーガストーンの階段(右)(風化)
+twilightforest:auroralized_glass, Auroralized Glass
+twilightforest:iron_ladder, Iron Ladder
+twilightforest:terrorcotta_circle, Terrorcotta (Circular)
+twilightforest:terrorcotta_diagonal, Terrorcotta (Diagonal)
+twilightforest:stone_twist, tile.twilightforest.StonePillar.name
+twilightforest:stone_twist_thin, tile.twilightforest.StonePillarThin.name
+twilightforest:twilight_oak_planks, Twilight Oak Planks
+twilightforest:twilight_oak_stairs, Twilight Oak Stairs
+twilightforest:twilight_oak_slab:0, Twilight Oak Slab
+twilightforest:twilight_oak_button, Twilight Oak Button
+twilightforest:twilight_oak_door, Twilight Oak Door
+twilightforest:twilight_oak_trapdoor, Twilight Oak Trapdoor
+twilightforest:twilight_oak_fence, Twilight Oak Fence
+twilightforest:twilight_oak_gate, Twilight Oak Gate
+twilightforest:twilight_oak_plate, Twilight Oak Pressure Plate
+twilightforest:canopy_planks, Canopy Planks
+twilightforest:canopy_stairs, Canopy Stairs
+twilightforest:canopy_slab:0, Canopy Slab
+twilightforest:canopy_button, Canopy Button
+twilightforest:canopy_door, Canopy Door
+twilightforest:canopy_trapdoor, Canopy Trapdoor
+twilightforest:canopy_fence, Canopy Fence
+twilightforest:canopy_gate, Canopy Gate
+twilightforest:canopy_plate, Canopy Pressure Plate
+twilightforest:mangrove_planks, Mangrove Planks
+twilightforest:mangrove_stairs, Mangrove Stairs
+twilightforest:mangrove_slab:0, Mangrove Slab
+twilightforest:mangrove_button, Mangrove Button
+twilightforest:mangrove_door, Mangrove Door
+twilightforest:mangrove_trapdoor, Mangrove Trapdoor
+twilightforest:mangrove_fence, Mangrove Fence
+twilightforest:mangrove_gate, Mangrove Gate
+twilightforest:mangrove_plate, Mangrove Pressure Plate
+twilightforest:dark_planks, Darkwood Planks
+twilightforest:dark_stairs, Darkwood Stairs
+twilightforest:dark_slab:0, Darkwood Slab
+twilightforest:dark_button, Darkwood Button
+twilightforest:dark_door, Darkwood Door
+twilightforest:dark_trapdoor, Darkwood Trapdoor
+twilightforest:dark_fence, Darkwood Fence
+twilightforest:dark_gate, Darkwood Gate
+twilightforest:dark_plate, Darkwood Pressure Plate
+twilightforest:time_planks, Timewood Planks
+twilightforest:time_stairs, Timewood Stairs
+twilightforest:time_slab:0, Timewood Slab
+twilightforest:time_button, Timewood Button
+twilightforest:time_door, Timewood Door
+twilightforest:time_trapdoor, Timewood Trapdoor
+twilightforest:time_fence, Timewood Fence
+twilightforest:time_gate, Timewood Gate
+twilightforest:time_plate, Timewood Pressure Plate
+twilightforest:trans_planks, Transwood Planks
+twilightforest:trans_stairs, Transwood Stairs
+twilightforest:trans_slab:0, Transwood Slab
+twilightforest:trans_button, Transwood Button
+twilightforest:trans_door, Transwood Door
+twilightforest:trans_trapdoor, Transwood Trapdoor
+twilightforest:trans_fence, Transwood Fence
+twilightforest:trans_gate, Transwood Gate
+twilightforest:trans_plate, Transwood Pressure Plate
+twilightforest:mine_planks, Minewood Planks
+twilightforest:mine_stairs, Minewood Stairs
+twilightforest:mine_slab:0, Minewood Slab
+twilightforest:mine_button, Minewood Button
+twilightforest:mine_door, Minewood Door
+twilightforest:mine_trapdoor, Minewood Trapdoor
+twilightforest:mine_fence, Minewood Fence
+twilightforest:mine_gate, Minewood Gate
+twilightforest:mine_plate, Minewood Pressure Plate
+twilightforest:sort_planks, Sortingwood Planks
+twilightforest:sort_stairs, Sortingwood Stairs
+twilightforest:sort_slab:0, Sortingwood Slab
+twilightforest:sort_button, Sortingwood Button
+twilightforest:sort_door, Sortingwood Door
+twilightforest:sort_trapdoor, Sortingwood Trapdoor
+twilightforest:sort_fence, Sortingwood Fence
+twilightforest:sort_gate, Sortingwood Gate
+twilightforest:sort_plate, Sortingwood Pressure Plate
+quarryplus:quarryplus, 改良型露天採掘機(旧版)
+quarryplus:pumpplus, 改良型ポンプ
+quarryplus:markerplus, 改良型ランドマーク
+quarryplus:enchantmover, エンチャント移動機
+quarryplus:miningwellplus, 改良型採掘機
+quarryplus:placerplus, 改良型設置装置
+quarryplus:breakerplus, 改良型破壊装置
+quarryplus:plainpipe, 改良型採掘機採掘棒
+quarryplus:quarryframe, 改良型露天採掘機型枠
+quarryplus:workbenchplus, 改良型作業台
+quarryplus:spawnercontroller, モンスタースポナー制御装置
+quarryplus:laserplus, 改良型レーザー
+quarryplus:refineryplus, 改良型精製機
+quarryplus:chunkdestroyer, Chunk Destroyer
+quarryplus:standalonepump, 自立改良型ポンプ
+quarryplus:enchantmoverfrombook, エンチャント移動機2
+quarryplus:exppump, 採掘機用経験値ポンプ
+quarryplus:solidquarry, 固体燃料採掘機
+quarryplus:dummyblock, Dummy Block
+quarryplus:quarryreplacer, 採掘機用置き換え機
+quarryplus:quarry, 改良型露天採掘機
+quarryplus:filler, フィラー
+quarryplus:tool:0, 状態確認用具
+quarryplus:tool:1, 一覧編集用具
+quarryplus:tool:2, 液体選択用具
+quarryplus:tool:3, 採掘機レベル設定用具
+quarryplus:quarry_pickaxe, item.quarry_pickaxe.name
+quarryplus:magicmirror:0, 魔法の鏡
+quarryplus:magicmirror:1, 世界の鏡
+quarryplus:magicmirror:2, 地上の鏡
+quarryplus:quarrydebug, 改良型状態確認用具(デバッグ用)
+quarryplus:template, 一括更新テンプレート
+quarryplus:pump_module, 液体回収モジュール
+quarryplus:exppump_module, 経験値回収モジュール
+quarryplus:replacer_module, 置き換えモジュール
+quarryplus:torch_module, 松明モジュール
+quarryplus:fuel_module_normal, 燃料モジュール
+quarryplus:fuel_module_creative, 無限エネルギーモジュール
 buildcraftcore:spring:0, 湧き水の源
 buildcraftcore:spring:1, 原油の源
 buildcraftcore:decorated:0, tile.decorated.destroy.name
@@ -4419,3 +5898,320 @@ industrialforegoing:conveyor:14, 赤色§r Conveyor Belt
 industrialforegoing:conveyor:15, 黒色§r Conveyor Belt
 industrialforegoing:black_hole_label, Black Hole Label
 infinitychest:infinitychest, 20億チェスト
+mystcraft:page:0, Link Panel Page
+mystcraft:page:0, Link Panel Page
+mystcraft:page:0, Link Panel Page
+mystcraft:page:0, Link Panel Page
+mystcraft:page:0, Link Panel Page
+mystcraft:page:0, Link Panel Page
+mystcraft:page:0, Page (Accelerated)
+mystcraft:page:0, Page (Amplified Normal World)
+mystcraft:page:0, Page (Anti-PvP)
+mystcraft:page:0, Page (Beach Biome)
+mystcraft:page:0, Page (Biofuel Block)
+mystcraft:page:0, Page (Birch Forest Biome)
+mystcraft:page:0, Page (Birch Forest Hills Biome)
+mystcraft:page:0, Page (Birch Forest Hills M Biome)
+mystcraft:page:0, Page (Birch Forest M Biome)
+mystcraft:page:0, Page (Black Color)
+mystcraft:page:0, Page (Black Ink Block)
+mystcraft:page:0, Page (Blue Color)
+mystcraft:page:0, Page (Boundless Sky)
+mystcraft:page:0, Page (Bright Lighting)
+mystcraft:page:0, Page (Cave World)
+mystcraft:page:0, Page (Caves)
+mystcraft:page:0, Page (Clear Modifiers)
+mystcraft:page:0, Page (Cloud Color)
+mystcraft:page:0, Page (Cold Beach Biome)
+mystcraft:page:0, Page (Cold Taiga Biome)
+mystcraft:page:0, Page (Cold Taiga Hills Biome)
+mystcraft:page:0, Page (Cold Taiga M Biome)
+mystcraft:page:0, Page (Crystal Block)
+mystcraft:page:0, Page (Crystalline Formations)
+mystcraft:page:0, Page (Cyan Color)
+mystcraft:page:0, Page (Dark Forest Biome)
+mystcraft:page:0, Page (Dark Forest Center Biome)
+mystcraft:page:0, Page (Dark Green Color)
+mystcraft:page:0, Page (Dark Lighting)
+mystcraft:page:0, Page (Dark Moon)
+mystcraft:page:0, Page (Dark Stars)
+mystcraft:page:0, Page (Dark Sun)
+mystcraft:page:0, Page (Deep Lakes)
+mystcraft:page:0, Page (Deep Mushroom Forest Biome)
+mystcraft:page:0, Page (Deep Ocean Biome)
+mystcraft:page:0, Page (Dense Ores)
+mystcraft:page:0, Page (Dense Twilight Forest Biome)
+mystcraft:page:0, Page (Desert Biome)
+mystcraft:page:0, Page (Desert Hills Biome)
+mystcraft:page:0, Page (Desert M Biome)
+mystcraft:page:0, Page (Desert Oil Field Biome)
+mystcraft:page:0, Page (Double Length)
+mystcraft:page:0, Page (Dungeons)
+mystcraft:page:0, Page (East Direction)
+mystcraft:page:0, Page (Enchanted Forest Biome)
+mystcraft:page:0, Page (Ender Starfield)
+mystcraft:page:0, Page (Essence Block)
+mystcraft:page:0, Page (Eternal Rain)
+mystcraft:page:0, Page (Eternal Snow)
+mystcraft:page:0, Page (Eternal Storm)
+mystcraft:page:0, Page (Eternal Weather)
+mystcraft:page:0, Page (Extreme Hills + Biome)
+mystcraft:page:0, Page (Extreme Hills + M Biome)
+mystcraft:page:0, Page (Extreme Hills Biome)
+mystcraft:page:0, Page (Extreme Hills Edge Biome)
+mystcraft:page:0, Page (Extreme Hills M Biome)
+mystcraft:page:0, Page (Fast Weather)
+mystcraft:page:0, Page (Final Plateau Biome)
+mystcraft:page:0, Page (Fire Swamp Biome)
+mystcraft:page:0, Page (Firefly Forest Biome)
+mystcraft:page:0, Page (Flat World)
+mystcraft:page:0, Page (Floating Islands)
+mystcraft:page:0, Page (Flower Forest Biome)
+mystcraft:page:0, Page (Fog Color)
+mystcraft:page:0, Page (Foliage Color)
+mystcraft:page:0, Page (Forest Biome)
+mystcraft:page:0, Page (Forest Hills Biome)
+mystcraft:page:0, Page (Frozen Ocean Biome)
+mystcraft:page:0, Page (Frozen River Biome)
+mystcraft:page:0, Page (Full Length)
+mystcraft:page:0, Page (Gradient)
+mystcraft:page:0, Page (Grass Color)
+mystcraft:page:0, Page (Green Color)
+mystcraft:page:0, Page (Grey Color)
+mystcraft:page:0, Page (Grid-form Biome Distribution)
+mystcraft:page:0, Page (Half Length)
+mystcraft:page:0, Page (Hell Biome)
+mystcraft:page:0, Page (Huge Biome Distribution)
+mystcraft:page:0, Page (Huge Trees)
+mystcraft:page:0, Page (Ice Mountains Biome)
+mystcraft:page:0, Page (Ice Plains Biome)
+mystcraft:page:0, Page (Ice Plains Spikes Biome)
+mystcraft:page:0, Page (Island World)
+mystcraft:page:0, Page (Jungle Biome)
+mystcraft:page:0, Page (Jungle Edge Biome)
+mystcraft:page:0, Page (Jungle Edge M Biome)
+mystcraft:page:0, Page (Jungle Hills Biome)
+mystcraft:page:0, Page (Jungle M Biome)
+mystcraft:page:0, Page (Lacking Large Features)
+mystcraft:page:0, Page (Lacking Medium Features)
+mystcraft:page:0, Page (Lacking Small Features)
+mystcraft:page:0, Page (Large Biome Distribution)
+mystcraft:page:0, Page (Latex Block)
+mystcraft:page:0, Page (Lightning)
+mystcraft:page:0, Page (Liquid Meat Block)
+mystcraft:page:0, Page (Magenta Color)
+mystcraft:page:0, Page (Maroon Color)
+mystcraft:page:0, Page (Medium Biome Distribution)
+mystcraft:page:0, Page (Mega Spruce Taiga Biome)
+mystcraft:page:0, Page (Mega Taiga Biome)
+mystcraft:page:0, Page (Mega Taiga Hills Biome)
+mystcraft:page:0, Page (Mesa (Bryce ) Biome)
+mystcraft:page:0, Page (Mesa Biome)
+mystcraft:page:0, Page (Mesa Plateau Biome)
+mystcraft:page:0, Page (Mesa Plateau F Biome)
+mystcraft:page:0, Page (Mesa Plateau F M Biome)
+mystcraft:page:0, Page (Mesa Plateau M Biome)
+mystcraft:page:0, Page (Meteors)
+mystcraft:page:0, Page (Milk Block)
+mystcraft:page:0, Page (Mineshafts)
+mystcraft:page:0, Page (Mushroom Forest Biome)
+mystcraft:page:0, Page (Mushroom Island Biome)
+mystcraft:page:0, Page (Mushroom Island Shore Biome)
+mystcraft:page:0, Page (Nadir Phase)
+mystcraft:page:0, Page (Native Biome Distribution)
+mystcraft:page:0, Page (Natural Cloud Color)
+mystcraft:page:0, Page (Natural Fog Color)
+mystcraft:page:0, Page (Natural Foliage Color)
+mystcraft:page:0, Page (Natural Grass Color)
+mystcraft:page:0, Page (Natural Sky Color)
+mystcraft:page:0, Page (Natural Water Color)
+mystcraft:page:0, Page (Navy Color)
+mystcraft:page:0, Page (Nether Fortress)
+mystcraft:page:0, Page (Night Sky Color)
+mystcraft:page:0, Page (No Seas)
+mystcraft:page:0, Page (No Weather)
+mystcraft:page:0, Page (Normal Lighting)
+mystcraft:page:0, Page (Normal Moon)
+mystcraft:page:0, Page (Normal Stars)
+mystcraft:page:0, Page (Normal Sun)
+mystcraft:page:0, Page (Normal Weather)
+mystcraft:page:0, Page (North Direction)
+mystcraft:page:0, Page (Oak Savanna Biome)
+mystcraft:page:0, Page (Obelisks)
+mystcraft:page:0, Page (Ocean Biome)
+mystcraft:page:0, Page (Ocean Oil Field Biome)
+mystcraft:page:0, Page (Olive Color)
+mystcraft:page:0, Page (Overcast)
+mystcraft:page:0, Page (Pink Slime Block)
+mystcraft:page:0, Page (Plains Biome)
+mystcraft:page:0, Page (Protein Block)
+mystcraft:page:0, Page (Purple Color)
+mystcraft:page:0, Page (Rainbow)
+mystcraft:page:0, Page (Ravines)
+mystcraft:page:0, Page (Red Color)
+mystcraft:page:0, Page (Redwood Taiga Hills M Biome)
+mystcraft:page:0, Page (Rising Phase)
+mystcraft:page:0, Page (River Biome)
+mystcraft:page:0, Page (Roofed Forest Biome)
+mystcraft:page:0, Page (Roofed Forest M Biome)
+mystcraft:page:0, Page (Savanna Biome)
+mystcraft:page:0, Page (Savanna M Biome)
+mystcraft:page:0, Page (Savanna Plateau Biome)
+mystcraft:page:0, Page (Savanna Plateau M Biome)
+mystcraft:page:0, Page (Scorched Surface)
+mystcraft:page:0, Page (Setting Phase)
+mystcraft:page:0, Page (Sewage Block)
+mystcraft:page:0, Page (Silver Color)
+mystcraft:page:0, Page (Single Biome Distribution)
+mystcraft:page:0, Page (Sky Color)
+mystcraft:page:0, Page (Skylands)
+mystcraft:page:0, Page (Slow Weather)
+mystcraft:page:0, Page (Sludge Block)
+mystcraft:page:0, Page (Small Biome Distribution)
+mystcraft:page:0, Page (Snowy Forest Biome)
+mystcraft:page:0, Page (South Direction)
+mystcraft:page:0, Page (Spheres)
+mystcraft:page:0, Page (Spikes)
+mystcraft:page:0, Page (Spontaneous Explosions)
+mystcraft:page:0, Page (Spooky Forest Biome)
+mystcraft:page:0, Page (Standard World)
+mystcraft:page:0, Page (Star Fissure)
+mystcraft:page:0, Page (Stone Beach Biome)
+mystcraft:page:0, Page (Storage Cell Biome)
+mystcraft:page:0, Page (Strongholds)
+mystcraft:page:0, Page (Sunflower Plains Biome)
+mystcraft:page:0, Page (Sunset Color)
+mystcraft:page:0, Page (Surface Lakes)
+mystcraft:page:0, Page (Swampland Biome)
+mystcraft:page:0, Page (Swampland M Biome)
+mystcraft:page:0, Page (Taiga Biome)
+mystcraft:page:0, Page (Taiga Hills Biome)
+mystcraft:page:0, Page (Taiga M Biome)
+mystcraft:page:0, Page (Teal Color)
+mystcraft:page:0, Page (Tendrils)
+mystcraft:page:0, Page (The End Biome)
+mystcraft:page:0, Page (The Void Biome)
+mystcraft:page:0, Page (Thornlands Biome)
+mystcraft:page:0, Page (Tiled Biome Distribution)
+mystcraft:page:0, Page (Tiny Biome Distribution)
+mystcraft:page:0, Page (Twilight Clearing Biome)
+mystcraft:page:0, Page (Twilight Forest Biome)
+mystcraft:page:0, Page (Twilight Glacier Biome)
+mystcraft:page:0, Page (Twilight Highlands Biome)
+mystcraft:page:0, Page (Twilight Lake Biome)
+mystcraft:page:0, Page (Twilight Stream Biome)
+mystcraft:page:0, Page (Twilight Swamp Biome)
+mystcraft:page:0, Page (Twinkling Stars)
+mystcraft:page:0, Page (Villages)
+mystcraft:page:0, Page (Void World)
+mystcraft:page:0, Page (Water Color)
+mystcraft:page:0, Page (West Direction)
+mystcraft:page:0, Page (White Color)
+mystcraft:page:0, Page (Yellow Color)
+mystcraft:page:0, Page (Zenith Phase)
+mystcraft:page:0, Page (Zero Length)
+mystcraft:page:0, Page (ic2.biomass.name Block)
+mystcraft:page:0, Page (ic2.construction_foam.name Block)
+mystcraft:page:0, Page (ic2.coolant.name Block)
+mystcraft:page:0, Page (ic2.creosote.name Block)
+mystcraft:page:0, Page (ic2.distilled_water.name Block)
+mystcraft:page:0, Page (ic2.heavy_water.name Block)
+mystcraft:page:0, Page (ic2.hot_coolant.name Block)
+mystcraft:page:0, Page (ic2.hot_water.name Block)
+mystcraft:page:0, Page (ic2.milk.name Block)
+mystcraft:page:0, Page (ic2.pahoehoe_lava.name Block)
+mystcraft:page:0, Page (ic2.uu_matter.name Block)
+mystcraft:page:0, Page (ic2.weed_ex.name Block)
+mystcraft:page:0, Page (tile.blockFluid_fuel_dense_heat_0.name Block)
+mystcraft:page:0, Page (tile.blockFluid_fuel_dense_heat_1.name Block)
+mystcraft:page:0, Page (tile.blockFluid_fuel_light_heat_0.name Block)
+mystcraft:page:0, Page (tile.blockFluid_fuel_mixed_heavy_heat_0.name Block)
+mystcraft:page:0, Page (tile.blockFluid_fuel_mixed_heavy_heat_1.name Block)
+mystcraft:page:0, Page (tile.blockFluid_fuel_mixed_light_heat_0.name Block)
+mystcraft:page:0, Page (tile.blockFluid_oil_dense_heat_0.name Block)
+mystcraft:page:0, Page (tile.blockFluid_oil_dense_heat_1.name Block)
+mystcraft:page:0, Page (tile.blockFluid_oil_dense_heat_2.name Block)
+mystcraft:page:0, Page (tile.blockFluid_oil_distilled_heat_0.name Block)
+mystcraft:page:0, Page (tile.blockFluid_oil_distilled_heat_1.name Block)
+mystcraft:page:0, Page (tile.blockFluid_oil_heat_0.name Block)
+mystcraft:page:0, Page (tile.blockFluid_oil_heat_1.name Block)
+mystcraft:page:0, Page (tile.blockFluid_oil_heat_2.name Block)
+mystcraft:page:0, Page (tile.blockFluid_oil_heavy_heat_0.name Block)
+mystcraft:page:0, Page (tile.blockFluid_oil_heavy_heat_1.name Block)
+mystcraft:page:0, Page (tile.blockFluid_oil_heavy_heat_2.name Block)
+mystcraft:page:0, Page (tile.blockFluid_oil_residue_heat_0.name Block)
+mystcraft:page:0, Page (tile.blockFluid_oil_residue_heat_1.name Block)
+mystcraft:page:0, Page (tile.blockFluid_oil_residue_heat_2.name Block)
+mystcraft:page:0, Page (tile.powersuits.liquid_nitrogen.name Block)
+mystcraft:page:0, Page (tile.twilightforest.fiery_essence.name Block)
+mystcraft:page:0, Page (tile.twilightforest.fierymetal.name Block)
+mystcraft:page:0, Page (tile.twilightforest.knightmetal.name Block)
+mystcraft:page:0, Page (アカシアの原木 Block)
+mystcraft:page:0, Page (ウイスキー Block)
+mystcraft:page:0, Page (エメラルド鉱石 Block)
+mystcraft:page:0, Page (エンドストーン Block)
+mystcraft:page:0, Page (オークの原木 Block)
+mystcraft:page:0, Page (ガラス Block)
+mystcraft:page:0, Page (グロウストーン Block)
+mystcraft:page:0, Page (シラカバの原木 Block)
+mystcraft:page:0, Page (ジャングルの原木 Block)
+mystcraft:page:0, Page (ダイヤモンド鉱石 Block)
+mystcraft:page:0, Page (ダークオークの原木 Block)
+mystcraft:page:0, Page (ネザークォーツ鉱石 Block)
+mystcraft:page:0, Page (ネザーラック Block)
+mystcraft:page:0, Page (ネザーレンガ Block)
+mystcraft:page:0, Page (マツの原木 Block)
+mystcraft:page:0, Page (ラピスラズリ鉱石 Block)
+mystcraft:page:0, Page (レッドストーン鉱石 Block)
+mystcraft:page:0, Page (ロケット燃料 Block)
+mystcraft:page:0, Page (人工雨 Block)
+mystcraft:page:0, Page (共鳴エンダーパール Block)
+mystcraft:page:0, Page (凍て付くクリオジウム Block)
+mystcraft:page:0, Page (励起レッドストーン Block)
+mystcraft:page:0, Page (原初のマナ Block)
+mystcraft:page:0, Page (原油 Block)
+mystcraft:page:0, Page (土 Block)
+mystcraft:page:0, Page (地動のペトロジウム Block)
+mystcraft:page:0, Page (天道の恵み Block)
+mystcraft:page:0, Page (安山岩 Block)
+mystcraft:page:0, Page (栄養蒸留液 Block)
+mystcraft:page:0, Page (水 Block)
+mystcraft:page:0, Page (氷 Block)
+mystcraft:page:0, Page (氷塊 Block)
+mystcraft:page:0, Page (溶岩 Block)
+mystcraft:page:0, Page (濃縮人工雨 Block)
+mystcraft:page:0, Page (火酒 Block)
+mystcraft:page:0, Page (無のしずく Block)
+mystcraft:page:0, Page (燃え盛るパイロジウム Block)
+mystcraft:page:0, Page (石 Block)
+mystcraft:page:0, Page (石炭鉱石 Block)
+mystcraft:page:0, Page (砂岩 Block)
+mystcraft:page:0, Page (磨かれた安山岩 Block)
+mystcraft:page:0, Page (磨かれた花崗岩 Block)
+mystcraft:page:0, Page (磨かれた閃緑岩 Block)
+mystcraft:page:0, Page (花崗岩 Block)
+mystcraft:page:0, Page (金鉱石 Block)
+mystcraft:page:0, Page (鉄鉱石 Block)
+mystcraft:page:0, Page (閃緑岩 Block)
+mystcraft:page:0, Page (雪 Block)
+mystcraft:page:0, Page (黒曜石 Block)
+mystcraft:agebook, Descriptive Book
+mystcraft:linkbook, Linking Book
+mystcraft:unlinkedbook, Unlinked Link Book
+mystcraft:booster, Sealed Notebook
+mystcraft:folder, Collation Folder
+mystcraft:portfolio, Symbol Portfolio
+mystcraft:writingdesk:0, Writing Desk
+mystcraft:writingdesk:1, Writing Desk Backboard
+mystcraft:vial, Ink Vial
+mystcraft:glasses, XComp's Glasses
+mystcraft:blockinkmixer, Ink Mixer
+mystcraft:blockbookbinder, Book Binder
+mystcraft:blockbookreceptacle, Book Receptacle
+mystcraft:blockbookstand, Bookstand
+mystcraft:blocklectern, Lectern
+mystcraft:blockdecay:0, Black Decay
+mystcraft:blocklinkmodifier, Link Modifier
+mystcraft:blockcrystal, Crystal
+mystcraft:linkportal, Link Portal
+mystcraft:blockstarfissure, Star Fissure

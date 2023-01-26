@@ -4,6 +4,8 @@
 !/config/*allsmp.cfg
 !/mods
 !/mods/**/*
+!/shaderpacks
+!/shaderpacks/**/*
 !README.md
 
 # mac
